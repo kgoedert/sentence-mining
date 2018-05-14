@@ -10,15 +10,15 @@
             "request": "launch",
             "pythonPath": "${config:python.pythonPath}",
             "program": "${file}",
-            "module": "main",
+            "module": "audio_track",
             "env": {
                 "VAR1": "1",
                 "VAR2": "2"
             },
             "envFile": "${workspaceFolder}/.env",
             "args": [
-                "french.txt",
-                "fr"
+                "spanish.txt",
+                "es"
             ],
             "debugOptions": [
                 "RedirectOutput"
