@@ -231,3 +231,106 @@ A melon, please.
 
 Me encanta el melón.
 I love melon.
+
+El señor Alfonso es mi jefe.
+Mr Alfonso is my boss.
+
+La señora Gómez es muy amable.
+Ms Goméz is very friendly.
+
+La doctora Blanco trabaja en este hospital.
+Dr blanco works at this hospital.
+
+Buenos días, señor Alfonso.
+Good morning, mr Alfonso.
+
+Una llamada para usted, doctora Blanco.
+A call for you, doctor Blanco.
+
+Julián es mi primo.
+Julián is my cousin.
+
+Doña Rosa es maestra.
+Doña Rosa is a teacher.
+
+Marga vive en la Avenida de América.
+Marga lives at Avenida de América.
+
+Hay un cine nuevo en la calle Bolívar.
+There is a new cinema at Bolívar street.
+
+El domingo voy a una fiesta.
+Sunday I am going to a party.
+
+El sábado estuve con Luisa.
+Saturday I was with Luisa.
+
+¿Qué horas es?
+What time is it?
+
+Las tres y cinco.
+Five past three.
+
+El domingo es mi cumpleaños.
+Sunday is my birthday.
+
+¿Qué día es hoy?
+What day is today?
+
+Lunes. Ayer fue domingo.
+Monday. Yesterday was sunday.
+
+Los miércoles tengo clases de español.
+On wendnesdays I have spanish classes.
+
+Mariano trabaja los domingos.
+Mariano works on sundays.
+
+¿Qué día es hoy?
+What day is today?
+
+Cinco de marzo. Ayer fue cuatro de marzo.
+March fifth. Yesterday was march fourth.
+
+¿Cuándo es tu cumpleaños?
+When is your birthday?
+
+El seis de enero.
+January sixth.
+
+El examen es el jueves.
+The test is on thursday.
+
+El examen es el veinte de junio.
+The test is no june twentieth.
+
+El examen es el jueves, veinte de junio.
+The test is on thursday, june twenty.
+
+Mi cumpleaños es en octubre.
+My birthday is on october.
+
+Voy a casa a mediodía.
+I go home at noon.
+
+Trabajo por la noche.
+I work at night.
+
+Trabajo por la mañana y estudio por la tarde.
+I work in the morning and study in the afternoon.
+
+El camión de basura pasa de madrugada.
+The garbage trucks passes at night.
+
+Ando una hora al día.
+I walk one hour a day.
+
+Vamos al cine dos veces al mes.
+We go to the movies two times a month.
+
+El aceite de oliva a subido veinte céntimos el litro.
+The olive oil has gone up twenty cents per liter.
+
+Los plátanos cuestan dos euros el kilo.
+The bananas cost two euros per kilo.
+
