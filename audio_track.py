@@ -17,7 +17,7 @@ def main():
     args = parser.parse_args()
     dictionary = parse_sentences(args.source_file)
 
-    # create_audio(dictionary, args.tl, int(args.start_number))
+    create_audio(dictionary, args.tl, int(args.start_number))
 
     combine_audio_files()
 
@@ -58,7 +58,7 @@ def combine_audio_files():
         elif index % 2 == 0:
             output = output + two_seconds_silence + AudioSegment.from_file(file)
     
-    output.export('output/output.mp3', format='mp3')
+    output.export('output/output1.mp3', format='mp3')
     print('file created')
 
 def create_audio(dictionary, tl, start_number=0):

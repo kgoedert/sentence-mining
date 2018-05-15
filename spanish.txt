@@ -295,41 +295,41 @@
 # ¿Cuándo es tu cumpleaños?
 # When is your birthday?
 # 
-El seis de enero.
-January sixth.
-
-El examen es el jueves.
-The test is on thursday.
-
-El examen es el veinte de junio.
-The test is no june twentieth.
-
-El examen es el jueves, veinte de junio.
-The test is on thursday, june twenty.
-
-Mi cumpleaños es en octubre.
-My birthday is on october.
-
-Voy a casa a mediodía.
-I go home at noon.
-
-Trabajo por la noche.
-I work at night.
-
-Trabajo por la mañana y estudio por la tarde.
-I work in the morning and study in the afternoon.
-
-El camión de basura pasa de madrugada.
-The garbage trucks passes at night.
-
-Ando una hora al día.
-I walk one hour a day.
-
-Vamos al cine dos veces al mes.
-We go to the movies two times a month.
-
-El aceite de oliva a subido veinte céntimos el litro.
-The olive oil has gone up twenty cents per liter.
-
-Los plátanos cuestan dos euros el kilo.
-The bananas cost two euros per kilo.
+# El seis de enero.
+# January sixth.
+# 
+# El examen es el jueves.
+# The test is on thursday.
+# 
+# El examen es el veinte de junio.
+# The test is no june twentieth.
+# 
+# El examen es el jueves, veinte de junio.
+# The test is on thursday, june twenty.
+# 
+# Mi cumpleaños es en octubre.
+# My birthday is on october.
+# 
+# Voy a casa a mediodía.
+# I go home at noon.
+# 
+# Trabajo por la noche.
+# I work at night.
+# 
+# Trabajo por la mañana y estudio por la tarde.
+# I work in the morning and study in the afternoon.
+#
+# El camión de basura pasa de madrugada.
+# The garbage trucks passes at night.
+# 
+# Ando una hora al día.
+# I walk one hour a day.
+# 
+# Vamos al cine dos veces al mes.
+# We go to the movies two times a month.
+# 
+# El aceite de oliva a subido veinte céntimos el litro.
+# The olive oil has gone up twenty cents per liter.
+# 
+# Los plátanos cuestan dos euros el kilo.
+# The bananas cost two euros per kilo.

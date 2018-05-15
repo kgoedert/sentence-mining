@@ -14,12 +14,13 @@ def main():
     parser = argparse.ArgumentParser("Sentence Mining")
     parser.add_argument("source_file", help="File containing the phrases.")
     parser.add_argument("tl", help="Target Language")
+    parser.add_argument("deck", help="Anki deck name")
 
     args = parser.parse_args()
 
     dictionary = parse_sentences(args.source_file)
     
-    create_anki_cards(dictionary, args.tl)
+    create_anki_cards(dictionary, args.tl, args.deck)
 
 def parse_sentences(file) -> 'dict':
     lines = open(file).read().splitlines()
@@ -72,7 +73,7 @@ def chose_voice(language) -> str:
 
     
     
-def create_anki_cards(dictionary, tl):
+def create_anki_cards(dictionary, tl, deck):
     for key in dictionary:
         name_without_spaces = key.replace(' ', '_')
         output_file = 'output/' + name_without_spaces + '.mp3'
@@ -82,7 +83,7 @@ def create_anki_cards(dictionary, tl):
         base64 = mp3_to_base64(output_file)
         anki_file_name = upload_mp3_to_anki(name_without_spaces, base64)
 
-        card = create_card(dictionary[key], key, anki_file_name)
+        card = create_card(dictionary[key], key, anki_file_name, deck)
 
         response = requests.post(ANKI_URL, json=card)
 
@@ -92,14 +93,14 @@ def create_anki_cards(dictionary, tl):
             print("Card successfully added to anki")
 
 
-def create_card(phrase_en, phrase_tl, sound_file):
+def create_card(phrase_en, phrase_tl, sound_file, deck):
     card = {}
 
     card['action'] = "addNote"
     card['version'] = 5
     card['params'] = {}
     card['params']['note'] = {}
-    card['params']['note']['deckName'] = "French Mining"
+    card['params']['note']['deckName'] = deck
     card['params']['note']['modelName'] = "3. All-Purpose Card"
     card['params']['note']['fields'] = {}
     card['params']['note']['fields']['Front (Example with word blanked out or missing)'] = phrase_en + '[sound:' + sound_file + ']'
