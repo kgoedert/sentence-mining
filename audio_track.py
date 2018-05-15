@@ -12,11 +12,12 @@ def main():
     parser = argparse.ArgumentParser("Sentence Mining")
     parser.add_argument("source_file", help="File containing the phrases.")
     parser.add_argument("tl", help="Target Language")
+    parser.add_argument("start_number", help="Start position")
 
     args = parser.parse_args()
     dictionary = parse_sentences(args.source_file)
 
-    create_audio(dictionary, args.tl)
+    # create_audio(dictionary, args.tl, int(args.start_number))
 
     combine_audio_files()
 
@@ -47,9 +48,6 @@ def combine_audio_files():
 
     findFilesInFolder('/home/kelly/repositories/sentence mining/output', files_path, '.mp3', True) 
     files_path = natsorted(files_path)
-
-    print(files_path)
-
     output =  AudioSegment.empty()
 
     for index, file in enumerate(files_path):
@@ -63,8 +61,8 @@ def combine_audio_files():
     output.export('output/output.mp3', format='mp3')
     print('file created')
 
-def create_audio(dictionary, tl):
-    i = 0
+def create_audio(dictionary, tl, start_number=0):
+    i = start_number
     for key in dictionary:
         get_audio(key, 'en', 'output/' + str(i) + '.mp3')
         i += 1
@@ -118,9 +116,11 @@ def get_audio(input_text='',language='en', output='output.mp3'):
             urllib.request.urlretrieve(file_location_res['location'], output)
             print("Text downloaded: %s" % (input_text))
         else:
-            print("Cant get sound file for: %s " % (input_text))    
+            print("Cant get sound file for: %s. Status of the download: %s. File id: %s" % (input_text, file_location_res['status'], output)) 
+            return   
     else:
-        print("Cant get sound file for: %s " % (input_text))
+        print("Cant get sound file for: %s. Status of the download: %s. File id: %s" % (input_text, file_location_res['status'], output))
+        return
 
 
 if __name__ == '__main__':
