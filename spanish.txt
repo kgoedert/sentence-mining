@@ -333,3 +333,36 @@
 # 
 # Los plátanos cuestan dos euros el kilo.
 # The bananas cost two euros per kilo.
+
+Juan toca el piano muy bien, pero necesita un piano nuevo.
+Juan plays the piano very well, but he needs a new one.
+
+Ana está aprendiendo a tocar el piano.
+Ana is learning to play the guitar.
+
+Tengo una guitarra española.
+I have a spanish guitar.
+
+¿Sabes jugar el ajedrez?
+Do you know how to play chess?
+
+Jugamos al fútbol todos los domingos.
+We play football evert sunday.
+
+Hago gimnasia todas las mañanas.
+I do gymnastics every morning.
+
+Mi asignatura preferida son las matemáticas.
+My favorite subject is mathematics.
+
+El griego es una lengua muy sonora.
+Greek is a very plesant language.
+
+Claudia estudia Filosofia.
+Claudia studies Philosophy.
+
+¿Usted habla chino?
+Do you speak chinese?
+
+El tío de Andrés es capitán del ejército.
+Andrés' uncle is an army captain.
