@@ -21,7 +21,7 @@ def main():
 
     combine_audio_files()
 
-def findFilesInFolder(path, pathList, extension, subFolders = True):
+def files_in_folder(path, pathList, extension, subFolders = True):
     """  Recursive function to find all files of an extension type in a folder (and optionally in all subfolders too)
 
     path:        Base directory to find files
@@ -35,7 +35,7 @@ def findFilesInFolder(path, pathList, extension, subFolders = True):
             if entry.is_file() and entry.path.endswith(extension):
                 pathList.append(entry.path)
             elif entry.is_dir() and subFolders:   # if its a directory, then repeat process as a nested function
-                pathList = findFilesInFolder(entry.path, pathList, extension, subFolders)
+                pathList = files_in_folder(entry.path, pathList, extension, subFolders)
     except OSError:
         print('Cannot access ' + path +'. Probably a permissions error')
 
@@ -46,7 +46,7 @@ def combine_audio_files():
     two_seconds_silence = AudioSegment.silent(duration=2000)
     files_path = []
 
-    findFilesInFolder('/home/kelly/repositories/sentence mining/output', files_path, '.mp3', True) 
+    files_in_folder('/home/kelly/repositories/sentence mining/output', files_path, '.mp3', True) 
     files_path = natsorted(files_path)
     output =  AudioSegment.empty()
 
@@ -56,7 +56,7 @@ def combine_audio_files():
         elif index % 2 != 0:
             output = output + half_second_silence + AudioSegment.from_file(file)
         elif index % 2 == 0:
-            output = output + two_seconds_silence + AudioSegment.from_file(file)
+            output = output + AudioSegment.from_file(file) + two_seconds_silence + AudioSegment.from_file(file)
     
     output.export('output/output1.mp3', format='mp3')
     print('file created')
