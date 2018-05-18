@@ -18,7 +18,9 @@
             "envFile": "${workspaceFolder}/.env",
             "args": [
                 "spanish.txt",
-                "es"
+                "es",
+                "0",
+                "spanish1"
             ],
             "debugOptions": [
                 "RedirectOutput"

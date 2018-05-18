@@ -13,13 +13,14 @@ def main():
     parser.add_argument("source_file", help="File containing the phrases.")
     parser.add_argument("tl", help="Target Language")
     parser.add_argument("start_number", help="Start position")
+    parser.add_argument("output_file", help="Output file name. Without extension.")
 
     args = parser.parse_args()
     dictionary = parse_sentences(args.source_file)
 
-    create_audio(dictionary, args.tl, int(args.start_number))
+    # create_audio(dictionary, args.tl, int(args.start_number))
 
-    combine_audio_files()
+    combine_audio_files(args.output_file)
 
 def files_in_folder(path, pathList, extension, subFolders = True):
     """  Recursive function to find all files of an extension type in a folder (and optionally in all subfolders too)
@@ -41,12 +42,12 @@ def files_in_folder(path, pathList, extension, subFolders = True):
 
     return pathList
 
-def combine_audio_files():
+def combine_audio_files(output_file_name):
     half_second_silence = AudioSegment.silent(duration=500)
     two_seconds_silence = AudioSegment.silent(duration=2000)
     files_path = []
 
-    files_in_folder('/home/kelly/repositories/sentence mining/output', files_path, '.mp3', True) 
+    files_in_folder('/home/kelly/repositories/sentence mining/output/', files_path, '.mp3', True) 
     files_path = natsorted(files_path)
     output =  AudioSegment.empty()
 
@@ -56,9 +57,12 @@ def combine_audio_files():
         elif index % 2 != 0:
             output = output + half_second_silence + AudioSegment.from_file(file)
         elif index % 2 == 0:
-            output = output + AudioSegment.from_file(file) + two_seconds_silence + AudioSegment.from_file(file)
+            current_audio_length = len(AudioSegment.from_file(file))
+            current_audio_silence = AudioSegment.silent(duration=current_audio_length)
+            output = output + current_audio_silence + two_seconds_silence + AudioSegment.from_file(file)
     
-    output.export('output/output1.mp3', format='mp3')
+    out_file_name = 'output/' + output_file_name + '.mp3'
+    output.export(out_file_name, format='mp3')
     print('file created')
 
 def create_audio(dictionary, tl, start_number=0):
