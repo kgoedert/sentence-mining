@@ -1339,4 +1339,81 @@ A girl is wearing a baseball cap.
 ¿Qué ves?
 What do you see?
 
+¿Cuántos años tienes?
+How old are you?
+
+Treinta y uno.
+Thirty one.
+
+¿Cuántas chicas hay en tu clase?
+How many girls are in your class?
+
+Veintiuna.
+Twenty one.
+
+En mi oficina hay veintiún hombres.
+In my office there are twenty one men.
+
+En esa montaña vive un águila.
+In this mountain lives an eagle.
+
+Tengo treinta y una libras.
+I have thirty one pounds.
+
+En mi clase hay catorce alumnos.
+In my class there are fourteen students.
+
+Solo tengo quince pesos.
+I have only fifteen pounds.
+
+Peso setenta y cinco kilos.
+I weight seventy one kilos.
+
+Hoy es cuatro de febrero.
+Today is february fourth.
+
+La boda es día trece.
+The wedding is on the thirteenth.
+
+Las tres y veinte.
+At three twenty.
+
+La una en punto.
+At one o'clock.
+
+Hago gimnasia todas las mañanas.
+I exercise every morning.
+
+Te conozco. Tú eres Berta.
+I know you. You are Berta.
+
+Tomás no oye nada.
+Tomás doesn't hear anything.
+
+¿Adónde vas?
+Where are you going?
+
+Voy a casa.
+I am going home.
+
+Los domingos doy una vuelta por el parque.
+On sundays I go for a walk in the park.
+
+Las cigüeñas hacen nidos en las torres.
+The storks make nests in the towers.
+
+No sé conducir.
+I can't drive.
+
+¿Qué dices?
+What did you say?
+
+No oigo.
+I can't hear.
+
+Jorge gana ciento veinticinco mil pesos al mes.
+Jorge earns one hundred twenty five thousand a month.
+
+El hombre más viejo del mundo tiene ciento doce años.
+The oldest man in the world has one hundred and twelve years.
 

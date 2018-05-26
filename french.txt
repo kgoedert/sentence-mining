@@ -1,159 +1,159 @@
-J'ai vais à l'école
-I'm going to school
-
-J'étude le français
-I study french
-
-La voiture est rouge
-The car is red
-
-Bonjour, je suis Kenji Takashi.
-Good morning, I am Kenji Takashi.
-
-Bonjour, monsieur Takashi. Je suis Jean Borel.
-Good morning, mr Takashi. I am Jean Borel.
-
-Je suis Kenji Takashi.
-I am Kenji Takashi.
-
-Je m'appelle Kenji Takashi.
-I am Kenji Takashi.
-
-Vous êtes japonais?
-Are you japanese?
-
-Oui, je suis japonais.
-Yes, I am japanese.
-
-Vous êtes médecin?
-Are you a doctor?
-
-Non, je suis chimiste.
-No, I am a chemist.
-
-Je suis médecin.
-I am a doctor.
-
-Je suis chimiste.
-I am a chemist.
-
-Max est étudiant.
-Max is a student.
-
-Il est anglais.
-He is english.
-
-Il est grand.
-He is tall.
-
-Il est blond.
-He is blond.
-
-Il est jeune.
-He is young.
-
-Léa est étudiante.
-Léa is a student.
-
-Elle est anglaise.
-She is english.
-
-Elle est grande.
-She is tall.
-
-Elle est blonde.
-She is blond.
-
-Elle est jeune.
-She is young.
-
-Il est marié.
-He is maried.
-
-Elle est mariée.
-She is maried.
-
-Il est italian.
-He is italian.
-
-Il est lycéen.
-He is a high school student.
-
-Elle est italienne.
-She is italian.
-
-Elle est lycéene.
-She is a high school student.
-
-Il est amusant et intelligent.
-He is funny and intelligent.
-
-Il est bon.
-He is good.
-
-Il est mignon.
-He is cute.
-
-Elle est bonne.
-She is good.
-
-Elle est mignone.
-She is cute.
-
-Il est étranger.
-He is a foreigner.
-
-Il est boulanger.
-He is a baker.
-
-Il est infirmier.
-He is a nurse.
-
-Elle est étrangère.
-She is a foreigner.
-
-Elle est boulangère.
-She is a baker.
-
-Elle est infirmière.
-She is a nurse.
-
-Il est serveur.
-He is a waiter.
-
-Il est menteur.
-He is a liar.
-
-Il est heureux.
-He is happy.
-
-Elle est serveuse.
-She is a waiter.
-
-Elle est menteuse.
-She is a liar.
-
-Elle est heureuse.
-She is happy.
-
-Il est acteur.
-He is an actor.
-
-Il est éditeur.
-He is an editor.
-
-Il est agriculteur.
-He is a farmer.
-
-Elle est actrice.
-She is an actrice.
-
-Elle est menteuse.
-She is a liar.
-
-Elle est heureuse.
-She is happy.
-
+# J'ai vais à l'école
+# I'm going to school
+# 
+# J'étude le français
+# I study french
+# 
+# La voiture est rouge
+# The car is red
+# 
+# Bonjour, je suis Kenji Takashi.
+# Good morning, I am Kenji Takashi.
+# 
+# Bonjour, monsieur Takashi. Je suis Jean Borel.
+# Good morning, mr Takashi. I am Jean Borel.
+# 
+# Je suis Kenji Takashi.
+# I am Kenji Takashi.
+# 
+# Je m'appelle Kenji Takashi.
+# I am Kenji Takashi.
+# 
+# Vous êtes japonais?
+# Are you japanese?
+# 
+# Oui, je suis japonais.
+# Yes, I am japanese.
+# 
+# Vous êtes médecin?
+# Are you a doctor?
+# 
+# Non, je suis chimiste.
+# No, I am a chemist.
+# 
+# Je suis médecin.
+# I am a doctor.
+# 
+# Je suis chimiste.
+# I am a chemist.
+# 
+# Max est étudiant.
+# Max is a student.
+# 
+# Il est anglais.
+# He is english.
+# 
+# Il est grand.
+# He is tall.
+# 
+# Il est blond.
+# He is blond.
+# 
+# Il est jeune.
+# He is young.
+# 
+# Léa est étudiante.
+# Léa is a student.
+# 
+# Elle est anglaise.
+# She is english.
+# 
+# Elle est grande.
+# She is tall.
+# 
+# Elle est blonde.
+# She is blond.
+# 
+# Elle est jeune.
+# She is young.
+# 
+# Il est marié.
+# He is maried.
+# 
+# Elle est mariée.
+# She is maried.
+# 
+# Il est italian.
+# He is italian.
+# 
+# Il est lycéen.
+# He is a high school student.
+# 
+# Elle est italienne.
+# She is italian.
+# 
+# Elle est lycéene.
+# She is a high school student.
+# 
+# Il est amusant et intelligent.
+# He is funny and intelligent.
+# 
+# Il est bon.
+# He is good.
+# 
+# Il est mignon.
+# He is cute.
+# 
+# Elle est bonne.
+# She is good.
+# 
+# Elle est mignone.
+# She is cute.
+# 
+# Il est étranger.
+# He is a foreigner.
+# 
+# Il est boulanger.
+# He is a baker.
+# 
+# Il est infirmier.
+# He is a nurse.
+# 
+# Elle est étrangère.
+# She is a foreigner.
+# 
+# Elle est boulangère.
+# She is a baker.
+# 
+# Elle est infirmière.
+# She is a nurse.
+# 
+# Il est serveur.
+# He is a waiter.
+# 
+# Il est menteur.
+# He is a liar.
+# 
+# Il est heureux.
+# He is happy.
+# 
+# Elle est serveuse.
+# She is a waiter.
+# 
+# Elle est menteuse.
+# She is a liar.
+# 
+# Elle est heureuse.
+# She is happy.
+# 
+# Il est acteur.
+# He is an actor.
+# 
+# Il est éditeur.
+# He is an editor.
+# 
+# Il est agriculteur.
+# He is a farmer.
+# 
+# Elle est actrice.
+# She is an actrice.
+# 
+# Elle est menteuse.
+# She is a liar.
+# 
+# Elle est heureuse.
+# She is happy.
+# 
 Elle est agricultrice.
 She is a farmer.
 
