@@ -1525,3 +1525,62 @@ Pass me the water, please?
 ¿Me presta cincuenta euros?
 Can you lend me fifty euros?
 
+¿Has visto el paquete que ha llegado?
+Have you seen the package that arrived?
+
+El chico con el que sale Nieves es bombero.
+The boy Nieves goes out with is a fireman.
+
+Tengo un loro. El loro habla.
+I have a parrot. The parrot speaks.
+
+Tengo un loro que habla.
+I have a parrot that speaks.
+
+He recibido una revista. Clara escribe en esta revista.
+I received a magazine. Clara writes to this magazine.
+
+He recibido una revista en la que escribe Clara.
+I received a magazine that Clara writes to.
+
+¿Quién es Begoña? Es la chica que está bailando com Pedro.
+Who is Begoña? Is the girl that is dancing with Pedro.
+
+El coche que está delante del banco es el mío.
+The car in front of the bank is mine.
+
+Un carnicero es una persona que vende carne.
+A butcher is someone that sells meat.
+
+Las chicas que conocimos ayer son de Córdoba.
+The girls we met yesterday are from Córdoba.
+
+El cóndor es un ave que procede de América del Sur.
+The condor is a bird that comes from south America.
+
+No me gusta el libro que estoy leyendo.
+I don't like the book that I'm reading.
+
+Ese es el perro del que te hablé.
+This is the dog I talked to you about.
+
+Las chicas con las que estaba jugando son mis sobrinas.
+The girls I was playing with are my nieces.
+
+El chico con quien sale Nieve es bombero.
+The guy with whom Nieves goes out with is a fireman.
+
+Las chicas con quien estaba jugando son mis sobrinas.
+The girls with whom I was playing with are my nieces.
+
+¿Cuál es tu maleta? La que tiene ruedas.
+Which one is your bag? The one with wheels.
+
+Me gusta más este libro que el que me recomendó Luis.
+I like prefer this book than the one Luis recommeded me.
+
+Lo que has dicho es una tontería.
+What you said is nonsense.
+
+Lo que tú necesitas es mucho cariño.
+What you need is a lot of love.
