@@ -1,41 +1,42 @@
-Der Mann ist hier.
-The man is here.
-
-Der Lehrer ist hier.
-The teacher is here.
-
-Der Stuhl ist hier.
-The chair is here.
-
-Der Wagen ist hier.
-The car is here.
-
-Der Schauspiler is hier.
-The actor is here.
-
-Die Frau ist da.
-The woman is there.
-
-Die Lehrerin is da.
-The teacher is there.
-
-Die Landkarte is da.
-The map is there.
-
-Die Blume ist da.
-The flower is there.
-
-Die Schauspielerin ist da.
-The actress is there.
-
-Das Haus ist klein.
-The house is little.
-
-Das Auto ist klein.
-The car is little.
-
-Das Mädchen ist klein.
-The girl is little.
-
-Das kind ist klein.
-The child is little.
+# Der Mann ist hier.
+# The man is here.
+# 
+# Der Lehrer ist hier.
+# The teacher is here.
+# 
+# Der Stuhl ist hier.
+# The chair is here.
+# 
+# Der Wagen ist hier.
+# The car is here.
+# 
+# Der Schauspiler is hier.
+# The actor is here.
+# 
+# Die Frau ist da.
+# The woman is there.
+# 
+# Die Lehrerin is da.
+# The teacher is there.
+# 
+# Die Landkarte is da.
+# The map is there.
+# 
+# Die Blume ist da.
+# The flower is there.
+# 
+# Die Schauspielerin ist da.
+# The actress is there.
+# 
+# Das Haus ist klein.
+# The house is little.
+# 
+# Das Auto ist klein.
+# The car is little.
+# 
+# Das Mädchen ist klein.
+# The girl is little.
+# 
+# Das kind ist klein.
+# The child is little.
+# 

@@ -87,22 +87,22 @@
 # 
 # Il est amusant et intelligent.
 # He is funny and intelligent.
-# 
-# Il est bon.
-# He is good.
-# 
-# Il est mignon.
-# He is cute.
-# 
-# Elle est bonne.
-# She is good.
-# 
-# Elle est mignone.
-# She is cute.
-# 
-# Il est étranger.
-# He is a foreigner.
-# 
+# # 
+# # Il est bon.
+# # He is good.
+# # 
+# # Il est mignon.
+# # He is cute.
+# # 
+# # Elle est bonne.
+# # She is good.
+# # 
+# # Elle est mignone.
+# # She is cute.
+# # 
+# # Il est étranger.
+# # He is a foreigner.
+# # 
 # Il est boulanger.
 # He is a baker.
 # 
@@ -154,314 +154,314 @@
 # Elle est heureuse.
 # She is happy.
 # 
-Elle est agricultrice.
-She is a farmer.
-
-Max est grand.
-Max is tall.
-
-Max et Léo sont grands.
-Max and Léo are tall.
-
-Ils sont blonds.
-They are blond.
-
-Léa et Ada sont grandes.
-Léa and Ada are tall.
-
-Elle sont blondes.
-They are blond.
-
-Max, Ada et Léa sont blonds.
-Max, Ada and Léa are blond.
-
-Elles sont blondes.
-They are blond.
-
-Ils sont blonds.
-They are blond.
-
-Il est français.
-He is french.
-
-Il est vieux.
-He is old.
-
-Ils sont français.
-They are french.
-
-Ils sont vieux.
-They are old.
-
-Il est beau.
-He is handsome.
-
-Ils sont beaux.
-They are handsome.
-
-Vous êtes prêt, monsieur Meyer?
-Are you ready, mr Meyer?
-
-Vous êtes prête, madame Meyer?
-Are you ready, ms Meyer?
-
-Tu es prêt, papa?
-Are you ready, daddy?
-
-Tu es prête, maman?
-Are you ready, mommy?
-
-Vous êtes prêts?
-Are you ready?
-
-Vous êtes prêtes?
-Are you ready?
-
-Jean et moi, on est enrhumés?
-Me and Jean have a cold.
-
-On est fatigués.
-We are tired.
-
-Quand on est enrhumé, on est fatigué.
-When we have a cold, we are tired.
-
-Est-ce que vous êtes japonais?
-Are you japanese?
-
-Non, je ne suis pas japonais.
-No, I am not japanese.
-
-Est-ce que vous êtes monsieur Takashi?
-Are you mr Takashi?
-
-Non, je ne suis pas monsieur Takashi.
-No, I am not mr Takashi.
-
-Vous êtes japonais.
-You are japanese.
-
-Jean est français.
-Jean is french.
-
-Vous êtes japonais?
-Are you japanese?
-
-Jean est français?
-Is Jean french?
-
-Est-ce que Jean est français?
-Is Jean french?
-
-Je regarde la télé.
-I watch tv.
-
-Je mange un gâteau.
-I eat a cake.
-
-J'aime les gâteaux.
-I love cakes.
-
-J'aime Marta.
-I love Marta.
-
-J'écoute la radio.
-I listen to the radio.
-
-Je téléphone à Marta.
-I call Marta.
-
-J'aime Jean.
-I love Jean.
-
-J'aime mon mari.
-I love my husband.
-
-J'aime mon chien.
-I love my dog.
-
-J'aime Paris.
-I love Paris.
-
-J'aime les carottes.
-I love carrots.
-
-J'aime la musique.
-I love music.
-
-Je parle français.
-I speak french.
-
-Tu parles anglais.
-You speak english.
-
-Igor et moi, on parle russe.
-Igor and I, we speak russian.
-
-En Russie, on parle russe.
-In Russia, we speak russian.
-
-Vous parlez anglais?
-Do you speak english?
-
-Non, je ne parle pas anglais.
-No, I don't speak english.
-
-Vous habitez en France?
-Do you live in France?
-
-Non, je n'habite pas en France.
-No, I don't live in France.
-
-Est-ce que Marie travaille?
-Does Marie work?
-
-Non, elle ne travaille pas.
-No, she doesn't work.
-
-Est-ce que Paul et Max étudient?
-Do Paul and Max study?
-
-Non, ils n'étudient pas.
-No, they don't study.
-
-Vous préférez les noires ou les blanches?
-Do you prefer the black or the white ones?
-
-Je préfère les blanches.
-I prefer the white ones.
-
-Je lave ma voiture.
-I wash my car.
-
-Je me lave.
-I wash myself.
-
-Je me regarde.
-I look at myself.
-
-Je lave la voiture.
-I wash the car.
-
-Un homme marche.
-A man walks.
-
-Je vais au Louvre.
-I go to the Louvre.
-
-Ja vais à la Bastille.
-I go to the Bastille.
-
-Je vais à l'Opéra.
-I go to the Opera.
-
-Regarde cette fourmi.
-Look at this ant.
-
-Regarde cette étoile.
-Look at that star.
-
-J'ai une maison.
-I have a house.
-
-J'ai une voiture.
-I have a car.
-
-J'ai un chien.
-I have a dog.
-
-Vous avez une belle maison.
-You have a beautiful house.
-
-Vous avez une belle voiture.
-You have a beautiful car.
-
-Vous avez un beau chien.
-You have a beautiful dog.
-
-J'ai un appartement.
-I have an apartment.
-
-J'ai deux chiens.
-I have two dogs.
-
-J'ai un travail fatigant.
-I have a tiring job.
-
-J'ai des amis français.
-I have french friends.
-
-Vous avez une maison.
-You have a house.
-
-Vous avez trois chats.
-You have three cats.
-
-Vous avez un travail intéressant.
-You have an interesting job.
-
-Vous avez des amis anglais.
-You have english friends.
-
-J'ai une voiture verte.
-I have a green car.
-
-J'ai une voiture française.
-I have a french car.
-
-J'ai une voiture économique.
-I have an economical car.
-
-J'ai une petite voiture.
-I have a small car.
-
-J'ai une jolie voiture.
-I have a nice car.
-
-J'ai une bonne voiture.
-I have a good car.
-
-Ma fille a les yeux noirs.
-My daughter has black eyes.
-
-Elle a les cheveux blonds.
-She has blond hair.
-
-Elle a le visage rond.
-She has a round face.
-
-Il a trois mois.
-He is three month old.
-
-Il a cent ans.
-He is a hundred years old.
-
-Il est petit.
-He is small.
-
-Il est vieux.
-He is old.
-
-Il a mal au bras.
-He has pain in his arm.
-
-Il a mal au pied.
-He has pain on his foot.
-
-Il a mal à la tête.
-He has headache.
-
-Il a mal à la main.
-He has pain on his hand.
-
-J'ai mal aux pieds.
-My feet hurt.
-
-Ils ont chaud.
-They are hot.
-
-Ils ont froid.
-They are cold.
-
-Vous avez chaud?
-Are you hot?
+# Elle est agricultrice.
+# She is a farmer.
+# 
+# Max est grand.
+# Max is tall.
+# 
+# Max et Léo sont grands.
+# Max and Léo are tall.
+# 
+# Ils sont blonds.
+# They are blond.
+# 
+# Léa et Ada sont grandes.
+# Léa and Ada are tall.
+# 
+# Elle sont blondes.
+# They are blond.
+# 
+# Max, Ada et Léa sont blonds.
+# Max, Ada and Léa are blond.
+# 
+# Elles sont blondes.
+# They are blond.
+# 
+# Ils sont blonds.
+# They are blond.
+# 
+# Il est français.
+# He is french.
+# 
+# Il est vieux.
+# He is old.
+# 
+# Ils sont français.
+# They are french.
+# 
+# Ils sont vieux.
+# They are old.
+# 
+# Il est beau.
+# He is handsome.
+# 
+# Ils sont beaux.
+# They are handsome.
+# 
+# Vous êtes prêt, monsieur Meyer?
+# Are you ready, mr Meyer?
+# 
+# Vous êtes prête, madame Meyer?
+# Are you ready, ms Meyer?
+# 
+# Tu es prêt, papa?
+# Are you ready, daddy?
+# 
+# Tu es prête, maman?
+# Are you ready, mommy?
+# 
+# Vous êtes prêts?
+# Are you ready?
+# 
+# Vous êtes prêtes?
+# Are you ready?
+# 
+# Jean et moi, on est enrhumés?
+# Me and Jean have a cold.
+# 
+# On est fatigués.
+# We are tired.
+# 
+# Quand on est enrhumé, on est fatigué.
+# When we have a cold, we are tired.
+# 
+# Est-ce que vous êtes japonais?
+# Are you japanese?
+# 
+# Non, je ne suis pas japonais.
+# No, I am not japanese.
+# 
+# Est-ce que vous êtes monsieur Takashi?
+# Are you mr Takashi?
+# 
+# Non, je ne suis pas monsieur Takashi.
+# No, I am not mr Takashi.
+# 
+# Vous êtes japonais.
+# You are japanese.
+# 
+# Jean est français.
+# Jean is french.
+# 
+# Vous êtes japonais?
+# Are you japanese?
+# 
+# Jean est français?
+# Is Jean french?
+# 
+# Est-ce que Jean est français?
+# Is Jean french?
+# 
+# Je regarde la télé.
+# I watch tv.
+# 
+# Je mange un gâteau.
+# I eat a cake.
+# 
+# J'aime les gâteaux.
+# I love cakes.
+# 
+# J'aime Marta.
+# I love Marta.
+# 
+# J'écoute la radio.
+# I listen to the radio.
+# 
+# Je téléphone à Marta.
+# I call Marta.
+# 
+# J'aime Jean.
+# I love Jean.
+# 
+# J'aime mon mari.
+# I love my husband.
+# 
+# J'aime mon chien.
+# I love my dog.
+# 
+# J'aime Paris.
+# I love Paris.
+# 
+# J'aime les carottes.
+# I love carrots.
+# 
+# J'aime la musique.
+# I love music.
+# 
+# Je parle français.
+# I speak french.
+# 
+# Tu parles anglais.
+# You speak english.
+# 
+# Igor et moi, on parle russe.
+# Igor and I, we speak russian.
+# 
+# En Russie, on parle russe.
+# In Russia, we speak russian.
+# 
+# Vous parlez anglais?
+# Do you speak english?
+# 
+# Non, je ne parle pas anglais.
+# No, I don't speak english.
+# 
+# Vous habitez en France?
+# Do you live in France?
+# 
+# Non, je n'habite pas en France.
+# No, I don't live in France.
+# 
+# Est-ce que Marie travaille?
+# Does Marie work?
+# 
+# Non, elle ne travaille pas.
+# No, she doesn't work.
+# 
+# Est-ce que Paul et Max étudient?
+# Do Paul and Max study?
+# 
+# Non, ils n'étudient pas.
+# No, they don't study.
+# 
+# Vous préférez les noires ou les blanches?
+# Do you prefer the black or the white ones?
+# 
+# Je préfère les blanches.
+# I prefer the white ones.
+# 
+# Je lave ma voiture.
+# I wash my car.
+# 
+# Je me lave.
+# I wash myself.
+# 
+# Je me regarde.
+# I look at myself.
+# 
+# Je lave la voiture.
+# I wash the car.
+# 
+# Un homme marche.
+# A man walks.
+# 
+# Je vais au Louvre.
+# I go to the Louvre.
+# 
+# Ja vais à la Bastille.
+# I go to the Bastille.
+# 
+# Je vais à l'Opéra.
+# I go to the Opera.
+# 
+# Regarde cette fourmi.
+# Look at this ant.
+# 
+# Regarde cette étoile.
+# Look at that star.
+# 
+# J'ai une maison.
+# I have a house.
+# 
+# J'ai une voiture.
+# I have a car.
+# 
+# J'ai un chien.
+# I have a dog.
+# 
+# Vous avez une belle maison.
+# You have a beautiful house.
+# 
+# Vous avez une belle voiture.
+# You have a beautiful car.
+# 
+# Vous avez un beau chien.
+# You have a beautiful dog.
+# 
+# J'ai un appartement.
+# I have an apartment.
+# 
+# J'ai deux chiens.
+# I have two dogs.
+# 
+# J'ai un travail fatigant.
+# I have a tiring job.
+# 
+# J'ai des amis français.
+# I have french friends.
+# 
+# Vous avez une maison.
+# You have a house.
+# 
+# Vous avez trois chats.
+# You have three cats.
+# 
+# Vous avez un travail intéressant.
+# You have an interesting job.
+# 
+# Vous avez des amis anglais.
+# You have english friends.
+# 
+# J'ai une voiture verte.
+# I have a green car.
+# 
+# J'ai une voiture française.
+# I have a french car.
+# 
+# J'ai une voiture économique.
+# I have an economical car.
+# 
+# J'ai une petite voiture.
+# I have a small car.
+# 
+# J'ai une jolie voiture.
+# I have a nice car.
+# 
+# J'ai une bonne voiture.
+# I have a good car.
+# 
+# Ma fille a les yeux noirs.
+# My daughter has black eyes.
+# 
+# Elle a les cheveux blonds.
+# She has blond hair.
+# 
+# Elle a le visage rond.
+# She has a round face.
+# 
+# dIl a trois mois.
+# He is three month old.
+# 
+# Il a cent ans.
+# He is a hundred years old.
+# 
+# Il est petit.
+# He is small.
+# 
+# Il est vieux.
+# He is old.
+# 
+# Il a mal au bras.
+# He has pain in his arm.
+# 
+# Il a mal au pied.
+# He has pain on his foot.
+# 
+# Il a mal à la tête.
+# He has headache.
+# 
+# Il a mal à la main.
+# He has pain on his hand.
+# 
+# J'ai mal aux pieds.
+# My feet hurt.
+# 
+# Ils ont chaud.
+# They are hot.
+# 
+# Ils ont froid.
+# They are cold.
+# 
+# Vous avez chaud?
+# Are you hot?

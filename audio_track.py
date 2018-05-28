@@ -18,7 +18,7 @@ def main():
     args = parser.parse_args()
     dictionary = parse_sentences(args.source_file)
 
-    # create_audio(dictionary, args.tl, int(args.start_number))
+    create_audio(dictionary, args.tl, int(args.start_number))
 
     combine_audio_files(args.output_file)
 
