@@ -1584,3 +1584,294 @@ What you said is nonsense.
 
 Lo que tú necesitas es mucho cariño.
 What you need is a lot of love.
+
+Tengo un amigo. Su padre es fotógrafo.
+I have a friend. His father is a photographer.
+
+Tengo un amigo cuyo padre es fotógrafo.
+I have a friend whose father is a photographer.
+
+Los alumnos cuyos nombres diga pueden salir.
+The students whose names I say can leave.
+
+Ese señor es un escritor. Te he hablado de sus libros.
+That gentleman is a writer. I told you about his books.
+
+Ese es el escritor de cuyos libros te he hablado.
+That is the writer whose books I told you about.
+
+Conozco a una chica. Su hermana ha escalado el Aconcagua.
+I know a girl. Her sister has climbed the Aconcagua.
+
+Conozco a una chica cuya hermana a escalado el Aconcagua.
+I know a girl whose sister has climbed the Aconcagua.
+
+Conozco a un señor. Sus hijos han estudiado Físicas.
+I know a gentleman. His sons have studied Physics.
+
+Esta es la curva donde tuve el accidente.
+This is the curve where I had the accident.
+
+Esta es la casa donde nació Cervantes.
+This is the house where Cervantes was born.
+
+Me gustó mucho el restaurante donde comimos ayer.
+I loved the restaurant where we ate yesterday.
+
+Esta es la piscina adonde van los niños en verano.
+This is the pool where the kids go on summer.
+
+El verano cuando nos conocimos fue muy especial.
+The summer when we met was very special.
+
+Elsa llegó a México en 1998.
+Elsa arrived in Mexico in 1998.
+
+Elsa sigue viviendo en México.
+Elsa continues to live in Mexico.
+
+Vivo en México desde 1998.
+I live in Mexico since 1998.
+
+Julio conoció a Elsa.
+Julio met Elsa.
+
+Julio siegue viendo Elsa.
+Julio continues to see Elsa.
+
+Conozco a Elsa desde 2002.
+I know Elsa since 2002.
+
+Trabajo en un banco desde el año pasado.
+I work in a bank since last year.
+
+No voy al teatro desde Navidad.
+I haven't been to the movies since Christmas.
+
+Vivimos en este piso desde enero.
+We live in that floor since january.
+
+¿Desde cuándo conoces a Charo?
+Since when do you know Charo?
+
+Keiko empezó a estudiar español.
+Keiko started to study spanish.
+
+Keiko sigue estudiando español.
+Keiko continues to study spanish.
+
+Keiko estudia español desde hace tres meses.
+Keiko studies spanish since three months ago.
+
+Rosana y Alberto viven en Argentina desde hace dos años.
+Rosana and Alberto live in Argentina since three months ago.
+
+No veo a Pili desde hace mucho tiempo.
+I haven't seen Pili in a long time.
+
+Hace dos días que no miro el correo electrónico.
+For two days I haven't checked my e-mail.
+
+Hace un año que estudio español.
+For one year I have been studying spanish.
+
+¿Cuánto tiempo hace que trabajas aquí?
+For how long have you been working here?
+
+Hace mucho tiempo qeu no veo a Luis.
+I haven't seen Luis in a long time.
+
+¿Quién vive en esa casa?
+Who lives in that house?
+
+Un actor famoso.
+A famous actor.
+
+¿Qué va a tomar?
+What are you going to drink?
+
+Un café, por favor.
+A coffee, please.
+
+¿Quién a llamado por teléfono?
+Who called on the phone?
+
+¿Qué vende esa señora?
+What does that lady sells?
+
+¿Para quién es esta carta?
+To whom is this letter?
+
+¿Quiénes son los ganadores?
+Who are the winners?
+
+¿Qué queso prefieres?
+Which cheese do you prefer?
+
+¿Con qué has echo el caldo?
+With what did you do the broth?
+
+¿Quién ha vendido el ordenador?
+Who sold the computer?
+
+¿Qué pasa?
+What happened?
+
+¿A quién ha vendido Alejo el ordenador?
+To whom Alejo sold the computer to?
+
+¿Qué ha vendido Alejo?
+What did Alejo sell?
+
+¿Quién es esa señora?
+Who is that lady?
+
+Es mi profesora de piano.
+She is my piano teacher.
+
+¿Quiénes son los hermanos de Mercedes?
+Who are Mercedes brothers?
+
+Los que están en la mesa del centro.
+The ones at the center table.
+
+¿Con quién está hablando Pablo?
+To whom is Pablo talking to?
+
+Con un vecino.
+With a neighbor.
+
+¿Qué tienes en la mano?
+What do you have in your hand?
+
+Unas monedas.
+Some coins.
+
+¿Qué hacéis?
+What are you doing?
+
+Estamos estudiando un poco.
+We are studying a little bit.
+
+¿De qué están hablando?
+What are you talking about?
+
+De fútbol, como siempre.
+Football, of course.
+
+¿Qué queso habéis comprado?
+Which cheese did you buy?
+
+¿Qué animales viven en la tierra y en el agua?
+Which animals live in the earth and the water?
+
+Los anfibios.
+The amphibians.
+
+¿Cuál es tu coche?
+Which one is your car?
+
+El que tiene muchas pegatinas.
+The one with a lot of stickers.
+
+¿Cuáles de estos países no tienen costa: Uruguay, Paraguay, Bolivia?
+Which of these countries doesn't have a coast: Uruguay, Paraguay, Bolvia?
+
+¿Cuál es tu color preferido?
+Which is you favorite color?
+
+¿Cuál de tus hermanos vive en La Habana?
+Which of your brothers lives in Havana?
+
+¿Cuál de estas ciudades está en Argentina: Tucumán, Guayaquil o Arequipa?
+Which of these cities belongs to Argentina: Tucumán, Guayaquil or Arequipa?
+
+¿Cuáles son tus deportes preferidos?
+Which are your favorite sports?
+
+¿Cuál de vosostros habla russo?
+Which of you speaks russian?
+
+¿Tienes un boli?
+Do you have a pen?
+
+Sí, tengo uno azul y otro negro. ¿Cuál prefieres? El negro.
+Yes, I have a blue and a black one. Which one do you prefer? The black.
+
+¿Cuál de esas chicas es la hermana de Toni? La del pelo largo.
+¿Which of these girls is Toni's sister? The one with long hair.
+
+¿Cuál es el río más largo del mundo? El Nilo.
+Which is the longest river in the world? The Nile.
+
+¿Por cuál de estas ciudades pasa el Ebro: Barcelona, Zaragoza o Valencia? Por Zaragoza.
+Through which of these cities passes the Ebro: Barcelona, Zaragoza or Valencia? Through Zaragoza.
+
+¿Qué libro prefieres: el de Borges o el de Cotázar?
+Which book do you prefer: Borges' or Cotázar?
+
+¿Qué médico te ha visto?
+Which doctor has seen you?
+
+La doctora Martín.
+Dr Martín.
+
+¿En qué ciudad española está la Puerta de Alcalá?
+In which spanish city is the Puerta de Alcalá?
+
+¿Qué quieres?
+What do you want?
+
+¿Qué es un OVNI?
+What is an OVNI?
+
+¿Quién inventó el teléfono?
+Who invented the telephone?
+
+¿Quiénes han venido?
+Who has come?
+
+¿Qué libro quieres?
+Which book do you want?
+
+¿Qué poeta famoso nació en Chile?
+Which famous poet was born in Chile?
+
+¿Cuál de estos libros quieres?
+Which ones of these books do you want?
+
+¿Cuál es tu apellido?
+Which is you last name?
+
+¿Cuáles de estas cajas son nuestras?
+Which of these boxes are ours?
+
+¿Qué prefieren, carne o pescado?
+What do you prefer, meat or fish?
+
+¿Quién es más alta, Rosana o Leila?
+Who is taller, Rosana or Leila?
+
+Ana se levanta a las siete.
+Ana gets up at seven.
+
+¿Te atreves a venir al lago?
+Do you dare to come to the lake?
+
+En verano no nos aburrimos nunca.
+We never get bored in the summer.
+
+Luis se lava, se afeita y luego se viste.
+Luis washes himself, shaves and then dresses.
+
+Siempre me lavo la cara con agua fría.
+I always wash my face with cold water.
+
+Los niños se manchan mucho la ropa.
+The kids stain the clothes a lot.
+
+Laura pinta las uñas.
+Laura paints her fingernails.
+
+Luis se plancha sus camisas.
+Luis irons his shirts.
