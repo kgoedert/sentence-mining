@@ -47,7 +47,7 @@ def combine_audio_files(output_file_name):
     two_seconds_silence = AudioSegment.silent(duration=2000)
     files_path = []
 
-    files_in_folder('/home/kelly/repositories/sentence mining/output/', files_path, '.mp3', True) 
+    files_in_folder('/app/output', files_path, '.mp3', True) 
     files_path = natsorted(files_path)
     output =  AudioSegment.empty()
 
@@ -61,7 +61,7 @@ def combine_audio_files(output_file_name):
             current_audio_silence = AudioSegment.silent(duration=current_audio_length)
             output = output + current_audio_silence + two_seconds_silence + AudioSegment.from_file(file)
     
-    out_file_name = 'output/' + output_file_name + '.mp3'
+    out_file_name = '/app/output/' + output_file_name + '.mp3'
     output.export(out_file_name, format='mp3')
     print('file created')
 
