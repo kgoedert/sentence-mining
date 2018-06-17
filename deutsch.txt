@@ -40,30 +40,30 @@
 # Das kind ist klein.
 # The child is little.
 # 
-Der Koch schneidet die Zwiebeln. 
-The cook cuts the onions. 
-
-Der Ritter schneidet den Arm des anderen Ritters ab. 
-The knight is cutting the arm off of the other knight.
-
-Ich komme heute zu Besuch.
-I am coming to visit today. 
-
-Der Zug kommt fast immer pünktlich an. 
-The train almost always arrives on time. 
-
-Der Junge hört gern Rockmusik. 
-The boy likes to listen to rock.
-
-Er hört auf zu rauchen.
-He is quitting smoking. 
-
-Meine Mutter gibt mir ein Geschenk zum Geburtstag
-My mother is giving me a gift for my birthday. 
-
-Du gibst zu viel Geld aus. 
-You are spending too much money. 
-
-Er fällt zu Boden.
-He is falling to the floor. 
+# Der Koch schneidet die Zwiebeln. 
+# The cook cuts the onions. 
+# 
+# Der Ritter schneidet den Arm des anderen Ritters ab. 
+# The knight is cutting the arm off of the other knight.
+# 
+# Ich komme heute zu Besuch.
+# I am coming to visit today. 
+# 
+# Der Zug kommt fast immer pünktlich an. 
+# The train almost always arrives on time. 
+# 
+# Der Junge hört gern Rockmusik. 
+# The boy likes to listen to rock.
+# 
+# Er hört auf zu rauchen.
+# He is quitting smoking. 
+# 
+# Meine Mutter gibt mir ein Geschenk zum Geburtstag
+# My mother is giving me a gift for my birthday. 
+# 
+# Du gibst zu viel Geld aus. 
+# You are spending too much money. 
+# 
+# Er fällt zu Boden.
+# He is falling to the floor. 
 

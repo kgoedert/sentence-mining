@@ -648,3 +648,171 @@ The garden is in front of the house.
 
 La cour est derrière la maison.
 The yard is behind the house.
+
+Au bord de l'eau, il y a un éléphant.
+At the edge of water, there is an elephant.
+
+Dans l'eau il y a un crocodile.
+In the water there is a crocodile.
+
+En Afrique, il y a des éléphants.
+In Africa, there are elephants.
+
+En Afrique, il y a des crocodiles.
+In Africa, there are crocodiles.
+
+Sous un arbre, il y a un éléphant.
+Under a tree, there is an elephant.
+
+Sur la rive, il y a un élephant.
+On the shore, there is an elephant.
+
+Qu'est-ce qu'il y a dans la pièce?
+What is there inside the room?
+
+Il y a une table.
+There is a table.
+
+Qu'est-ce qu'il y a sur la table?
+What is there over the table?
+
+Il y a des livres.
+There are books.
+
+Est-ce qu'il y a un lit?
+Is there a bed?
+
+Non, il n'y a pas de lit.
+No, there is no bed.
+
+Est-ce qu'il y a des fleurs?
+Are there flowers?
+
+Non, il n'y a pas de fleurs.
+No, there are no flowers.
+
+Qui est-ce?
+Who is it?
+
+C'est Stella. C'est une amie.
+It's Stella. She is a friend.
+
+Qu'est-ce que c'est?
+What is this?
+
+C'est un cadeau. C'est un vase.
+It is a gift. It is a vase.
+
+Qui est-ce?
+Who are they?
+
+Ce sont des amis.
+They are friends.
+
+Ce sont des roses.
+They are flowers.
+
+C'est n'est pas Marie.
+It is not Marie.
+
+Ce n'est pas un livre.
+It is not a book.
+
+Ce ne sont pas des tulipes.
+These are not tulipes.
+
+C'est un homme.
+It is a man.
+
+Il est grand.
+He is tall.
+
+C'est un sac.
+It is a bag.
+
+C'est une femme.
+It is a woman.
+
+Ce sont des hommes.
+These are men.
+
+Ce sont des femmes.
+These are women.
+
+Ils sont grands.
+They are tall.
+
+Elles sont grandes.
+They are tall.
+
+C'est une valise.
+It is a suitcase.
+
+Ce sont des sacs.
+These are bags.
+
+Ce sont des valises.
+These are suitcases.
+
+C'est beau.
+It is beautiful.
+
+C'est horrible.
+It is horrible.
+
+C'est cher.
+It is expensive.
+
+C'est original.
+It is original.
+
+Tu aimes la mer?
+Do you like the sea?
+
+Oui, c'est beau.
+Yes, it is beautiful.
+
+Tu aimes les glaces?
+Do you like icecream?
+
+Oui, c'est bon.
+Yes, it is good.
+
+C'est beau, c'est parfumé, une rose.
+It is beautiful, it is fragrant, a rose.
+
+La mer, c'est beau.
+The sea, it is beautiful.
+
+Une rose, c'est beau.
+A rose, it is beautiful.
+
+C'est beau, un enfant.
+It is beautiful, a child.
+
+C'est beau, les roses.
+They are beautiful, the roses.
+
+Nous sommes le mardi trois mai.
+It is tuesday, may 3rd.
+
+Nous sommes le premier mai?
+Is it may first?
+
+Aujourd'hui, c'est mardi.
+Today, it is tuesday.
+
+Aujourd'hui, on est mardi.
+Today it is tuesday.
+
+Lundi, je commence à 7 heures.
+Monday, I start at seven.
+
+Le lundi je suis fatigué.
+On monday I am tired.
+
+Quelle heure est-il?
+What time is it?
+
+Je termine à six heures.
+I finish at six.

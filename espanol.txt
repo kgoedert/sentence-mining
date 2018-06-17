@@ -1,0 +1,332 @@
+El tío de Andrés es capitán del ejército.
+Andrés' uncle is an army captain.
+
+Luis quiere ingresar en la policía.
+Luis wants to join the police.
+
+Me gusta escuchar música en la radio.
+I like to listen to music on the radio.
+
+Siempre escuchamos las noticias de las nueve.
+We always listen to the nine o'clock news.
+
+¿Has leído el periódico hoy?
+Did you read the newspaper today?
+
+Tengo una radio nueva.
+I have a new radio.
+
+Tengo una buena noticia.
+I have some good news.
+
+Es muy sano bañarse en el mar.
+It's very healthy to bathe in the sea.
+
+Vamos al campo todos los fines de semana.
+We go to the countryside every weekend.
+
+Hay que proteger la naturaleza.
+You have to protect the nature.
+
+¿Puedo ir al servicio, por favor?
+Can I go to the bathroom, please?
+
+La madre de Rosa está en el hospital.
+Rosa's mother is at the hospital.
+
+Mis padres van hoy al teatro.
+Today my parents are going to the theater.
+
+Mi hermana está en la universidad.
+My sister is at the university.
+
+Los domingos voy a la iglesia.
+I go to the church on sundays.
+
+Voy a correos a enviar un paquete.
+I am going to the post office to send a packet.
+
+Vengo del dentista.
+I am coming from the dentist.
+
+Edgar está en casa desde las doce.
+Edgar is at home since noon.
+
+¿Qué sombrero prefieres?
+Which hat do you prefer?
+
+El grande.
+The large one.
+
+¿Qué tipo de bolígrafo quiere?
+Which kind of pen do you want?
+
+Quiero uno barato.
+I want a cheap one.
+
+Me gusta más el de la izquierda.
+I prefer the one on the left.
+
+¿Qué camisa te gusta más?
+Which shirt do you prefer?
+
+La verde.
+The green one.
+
+¿Qué tipo de zapatos quiere?
+Which kind of shoes do you want?
+
+Quiero unos comódos.
+I want some comfortable ones.
+
+¿Quién es don Tomás?
+Who is don Tomás?
+
+El delgado.
+The thin one.
+
+¿Quén es Susi?
+Who is Susi?
+
+La alta.
+The tall one.
+
+¿Qué tipo de coche busca?
+Which kind of car are you looking for?
+
+Uno pequeño.
+A small one.
+
+¿Qué zapatillas te gustan más?
+Which shoes do you prefer?
+
+Las rojas.
+The red ones.
+
+Mi coche es peor que el de mi hermano.
+My car is worse than my brother's.
+
+¿Quién es Alicia?
+Who is Alicia?
+
+La del vestido blanco.
+The one in a white dress.
+
+Esas gafas no me gustan. Prefiro las de la derecha.
+I don't like these glasses. I prefer the ones on the right.
+
+¿Qué pendientes te vas a poner?
+Which earrings are you going to use?
+
+Lo bueno del verano son las vacaciones.
+The good thing about summer is the holidays.
+
+Lo mejor de Perú es la gente.
+The best thing about Peru is the people.
+
+Me gusta lo salado.
+I like savory.
+
+Lo más bonito de la vida son los amigos.
+The most beautiful thing of life are friends.
+
+¿Cuál es la hermana de Andrés?
+Which one is Andrés' sister?
+
+La del pelo largo.
+The one with long hair.
+
+Lo difícil del español son los verbos.
+The difficult thing about spanish are the verbs.
+
+Quiero este libro.
+I want this book.
+
+Quiero ese libro.
+I want that book.
+
+Quiero aquel libro.
+I want that book.
+
+¿Cuánto cuesta esta casa?
+How much costs this house?
+
+¿Cuánto cuesta esta revista?
+How much costs this magazine?
+
+¿Quiénes son aquellas chicas?
+Who are those girls?
+
+Me gusta esa casa.
+I like that house.
+
+Esa chica es amiga de Ana.
+That girl is Ana's friend.
+
+Estos zapatos son muy caros.
+These shoes are very expensive.
+
+¿Cuál es tu maleta, esta, esa o aquella?
+Which one is your bag, this, that or that?
+
+Este es Juan, mi novio.
+This is Juan, my boyfriend.
+
+Este año ha sido muy frío.
+This year was very cold.
+
+Estuve en Perú en 1999. Ese año hubo elecciones.
+I was in Peru in 1999. That there were elections.
+
+Los españoles llegaran a América en 1492. En aquella época, el imperio inca iba de Chile a Ecuador.
+The spanish arrived in America in 1492. In that time, the inca empire went from Chile to Equator.
+
+¿Qué es esto?
+What is this?
+
+No sé. Parece una lámpara.
+I don't know. It looks like a lamp.
+
+¿De quién es eso?
+Whose is that?
+
+Rosi es alta.
+Rosi is tall.
+
+Estamos cansados.
+We are tired.
+
+Susana y Elena son muy trabajadoras.
+Susana and Elena are hard workers.
+
+Me he comprado unos zapatos negros.
+I bought myself some black shoes.
+
+En Guatemala hay ruinas muy antigas.
+In Guatemala there are very ancient ruines.
+
+Antonio y Marta son altos y morenos.
+Antonio and Marta are tall and brown.
+
+Gabi lleva una camisa y un pantalón negros.
+Gabi is wearing black shirt and pants.
+
+Roberto es simpático.
+Roberto is nice.
+
+María teine los ojos azules.
+María has blue eyes.
+
+Juan está muy delgado.
+Juan is very thin.
+
+Julio es un buen escritor.
+Julio is a good writer.
+
+Luisa es una buena profesora.
+Luisa is a good teacher.
+
+Felipe es un mal ejemplo para sus hijos.
+Felipe is a bad example for his children.
+
+Tengo una mala noticia.
+I have bad news.
+
+Esta es Elsa, una amiga chilena.
+This is Elsa, a chiliean friend.
+
+¿De dónde sois?
+Where are you from?
+
+¿Somos cubanos, y tú?
+We are cubans, and you?
+
+Yo soy español.
+I am spanish.
+
+Donoso es un escritor chileno.
+Donoso is a chilean writer.
+
+Isabel Allende es una escritora chilena.
+Isabel Allende is a spanish writer.
+
+La capital Belga es Bruselas.
+The belgian capital is Brussels.
+
+La bandera canadiense es roja y blanca.
+The canadian flag is red and white.
+
+La capital marroquí es Rabat.
+The moroccan capital is Rabat.
+
+Me encantan los bombones belgas.
+I love belgian chocolates.
+
+Bild es una revista alemana.
+Bild is a german magazine.
+
+A Carla le gusta mucho la comida española.
+Carla loves spanish cusine.
+
+Faro y Porto son cuidades portuguesas.
+Faro and Porto are portuguese cities.
+
+Iván es cubano.
+Iván is cuban.
+
+Haydée es cubana.
+Haydée is cuban.
+
+Iván y Haydée son cubanos.
+Iván and Haydée are cubans.
+
+Tenho unos sellos y monedas rusos.
+I have some russian stamps and coins.
+
+Gabriel García Marquez es colombiano.
+Gabriel García Marquez is colombian.
+
+La bandera argentina es azul y blanca.
+The argentinian flag is blue and white.
+
+El Regina es más caro que el Relomatic.
+The Regina is more expensive than the Relomatic.
+
+Una jiraja es más alta que un oso.
+A girafe is taller than a bear.
+
+Marta es menos trabajadora que Laura.
+Marta is less hardworking than Laura.
+
+Felipe es más alto que su hermana. Y más fuerte.
+Felipe is taller than his sister. And stronger.
+
+Necesito un piso más grande.
+I need a bigger apartment.
+
+Eva es mayor que Javi.
+Eva is older than Javi.
+
+Javi es menor que Eva.
+Javi is younger than Eva.
+
+El coche de Ana es mejor que el de Álvaro.
+Ana's car is better than Álvaro's.
+
+El coche de Álvaro es peor qeu el de Ana.
+Álvaro's car is worse than Ana's.
+
+Mis hermanos son más altos que yo.
+My brothers are taller than me.
+
+Marta es menos trabajadora que Raúl.
+Marta is less hardworking than Raúl.
+
+Estas camisas son más caras.
+These shirts are more expensive.
+
+Eva es mayor que Javi, pero Javi es mayor que su hermano.
+Eva is older than Javi, but Javi is older than his brother.
+
+Estas camisas son más baratas, pero son peores.
+These shirts are cheaper, but they are worse.
