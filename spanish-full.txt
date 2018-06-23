@@ -2775,3 +2775,273 @@ Everybody knows how to swim but me.
 
 Según tú, ¿quién es el culpable?
 Who do you think is to blame?
+
+¿De onde eres?
+Where are you from?
+
+Soy peruana.
+I am peruvian.
+
+¿Qué es eso?
+What is that?
+
+Es un sombrero.
+It is a hat.
+
+¿Quién es Alberto?
+Who is Alberto?
+
+Soy yo.
+It is me.
+
+¿Qué horas ess, por favor?
+What time is it, please?
+
+Son las cinco.
+Five o'clock.
+
+Mira, ese es Andrés.
+Look, that is Andrés.
+
+¿Qué es eso?
+What is that?
+
+Es una camara digital.
+It is a digital camera.
+
+Soy estudiante.
+I am a student.
+
+Chelo es peruana.
+Chelo is peruvian.
+
+El hermano de Ana es médico.
+Ana's brother is a doctor.
+
+Laika y yo somos mulsumanes.
+Me and Laika are muslims.
+
+Luis y María son amigos.
+Luis and María are friends.
+
+Pedro y yo somos primos.
+Me and Pedro are cousins.
+
+Diana es muy inteligente.
+Diana is very intelligent.
+
+Estos libros no son muy interesantes.
+These books are not very interesting.
+
+El coche de Eduardo es rojo.
+Eduardo's car is red.
+
+¿Qué día es hoy?
+What day is today?
+
+Es martes.
+It is tuesday.
+
+En mi clase somos veintidós.
+We are twenty two in my class.
+
+¿Cuánto es esto?
+How much is this?
+
+Son sesenta euros.
+Sixty euros.
+
+Es la una.
+It's one o'clock.
+
+Son las dos.
+It's two o'clock.
+
+¿Dónde es la fiesta?
+Where is the party?
+
+El partido es a las diez.
+The match is at ten.
+
+¿De dónde son ustedes?
+Where are you from?
+
+Somos de Santander.
+We are from Santander.
+
+Esta silla es de plástico.
+This chair is made of plastic.
+
+Ese coche es de Eduardo.
+That is Eduardo's car.
+
+Estoy en Sevilla.
+I am in Seville.
+
+¿Dónde están mis llaves?
+Where are my keys?
+
+Están encima de la televisión.
+They are on top of the tv.
+
+Luis está en la cama. Está enfermo.
+Luis is in bed. He's sick.
+
+Mis padres están en Caracas.
+My parents are in Caracas.
+
+¿Dónde está Monterrey?
+Where is Monterrey?
+
+Está en el norte de México.
+It is in nothern Mexico.
+
+¿Está Miguel?
+Is Miguel at home?
+
+Estamos aburridos.
+We are bored.
+
+¿Cómo está hoy, Monica?
+How are you today, Monica?
+
+Estoy un poco cansada.
+I am a little bit tired.
+
+La casa está sucia.
+The house is dirty.
+
+La sopa está caliente.
+The soup is hot.
+
+El jefe está de mal humor hoy.
+The boss is in a bad mood today.
+
+Las tiendas están abiertas.
+The shops are open.
+
+Las tiendas están cerradas.
+The shops are closed.
+
+¿Saliste anoche?
+Did you go out last night?
+
+No, me quedé en casa. Vi un poco la tele.
+No, I stayed at home. I watched some tv.
+
+Cervantes nació en Alcatá de Henares en 1547.
+Cervantes was born in Alcatá de Henares in 1547.
+
+Anoche no salimos. Nos quedamos en casa a descansar.
+Last night we did not go out. We stayed at home resting.
+
+Mis padres viveron en Quito desde 1990 hasta 2001.
+My parents lived in Quito from 1990 to 2001.
+
+La Primera Guerra Mundial empezó en 1914 y acabó en 1918.
+The First World War started in 1914 and ended in 1918.
+
+De joven, viví cuatro años en México.
+When I was young, I lived four years in Mexico.
+
+Cuando acabó la película, encendieran las luces.
+When the movie ended, they turned on the lights.
+
+El profesor entró en el aula, abrió el libro y empezó a explicar.
+The teacher came in the room, opened up the book and started explaining.
+
+María es muy activa.
+María is very active.
+
+Julián es alegre.
+Julián is happy.
+
+El hielo es frío.
+The ice is cold.
+
+Hoy está cansada.
+Today she is tired.
+
+Hoy no está alegre.
+Today he is not happy.
+
+Este café está frío.
+This coffee is cold.
+
+Esta planta está muerta.
+This plant is dead.
+
+Sofia es delgada.
+Sofia is thin.
+
+Ana es muy elegante.
+Ana is very elegant.
+
+La boda es en la iglesia de Santa Marta, a las cinco.
+The wedding is at Santa Marta's church at five.
+
+Estás muy elegante con ese vestido.
+You are very elegant with that dress.
+
+La iglesia de Santa Marta está en la Plaza de Córdoba.
+Santa Marta's church is at Córdoda square.
+
+Este perro es muy malo.
+This dog is very bad.
+
+Pepe está malo.
+Pepe is sick.
+
+¿Tienes dinero?
+Do you have money?
+
+Es tarde. Tengo sueño.
+It is late. I am sleepy.
+
+Adela y Jorge no tienen hijos.
+Adela and Jorge don't have children.
+
+Tengo un ordenador nuevo.
+I have a new computer.
+
+Luis no tiene coche.
+Luis doesn't have a car.
+
+¿Tienes un lápiz?
+Do you have a pencil?
+
+Sí, pero lo necesito.
+Yes, but I need it.
+
+Cristina tiene siete hermanos.
+Cristina has seven siblings.
+
+¿Cuántos hijos tenéis?
+How many children do you have?
+
+No tenemos hijos.
+We don't have children.
+
+¿Cuántos años tienes?
+How old are you?
+
+Mis abuelos tienen noventa años.
+My grandparents are ninety years old.
+
+Enrique tiene los ojos verdes.
+Enrique has green eyes.
+
+Mi casa no tiene jardín.
+My house does not have a garden.
+
+Tienes mala cara.
+You look bad.
+
+¿Tienes fiebre?
+Do you have a fever?
+
+¿Tenéis frío?
+Are you cold?
+
+No, tenemos miedo.
+No, we are afraid.
