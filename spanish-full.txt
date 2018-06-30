@@ -697,306 +697,306 @@
 # Estas camisas son más baratas, pero son peores.
 # These shirts are cheaper, but they are worse.
 # 
-Eres más fuerte que yo.
-You are stronger than me.
-
-Somos menos altos que vosotros.
-We are shorter than you.
-
-Este piso es pequeño. Yo quiero uno más grande.
-This apartment is small. I want a bigger one. 
-
-Martín es tan alto como Carlos.
-Martín is as tall as Carlos.
-
-Martín es igual de alto que Carlos.
-Martín is as tall as Carlos.
-
-Martín y Carlos son igual de altos.
-Martín and Carlos are equally tall.
-
-Un caballo no es tan grande como un elefante.
-A horse is not as big as an elephant.
-
-Un caballo no es igual de grande que un elefante.
-A horse is not as big as an elephant.
-
-Un elefante y un caballo no son igual de grandes.
-An elephant and a horse are not equally tall.
-
-Sonia es igual de guapa que su madre.
-Sonia is as beautiful as her mother.
-
-El tren no es tan rápido como el avión.
-The train is not as fast as the plane.
-
-Soy tan alto como tú, pero no soy tan fuerte.
-I am as tall as you, but I am not as strong.
-
-Un toro no es tan rápido como un caballo.
-A bull is not as fast as a horse.
-
-Soy igual de alto que mi hermano.
-I am as tall as my brother.
-
-Mi hermano y yo somos igual de altos.
-My brother and I are equally tall.
-
-Mi piso es igual de pequeño que el tuyo.
-My apartment is as small as yours.
-
-Sonia y su madre son igual de guapas.
-Sonia and her mother are equally beautiful.
-
-Mi hermana es tan alta como yo.
-My sister is as tall as I am.
-
-Estos dos televisores son igual de caros.
-Both of these TVs are equally expensive.
-
-Los hijos de Andrés no son tan guapos como él.
-Andrés' sons are not as handsome as he is.
-
-Yo soy igual de trabajadora que vosostros.
-I am as hardworking as you.
-
-Juani es simpática.
-Juani is nice.
-
-Pues Loli es tan simpática como ella.
-Well, Loli is as nice as her.
-
-Pues Loli es igual de simpática.
-Well, Loli is as nice as her.
-
-Felipe es muy trabajador.
-Felipe is very hardworking.
-
-Pues sus hermanos no son tan trabajadores.
-Well, his brothers are not as hardworking.
-
-Pues sus hermanos no son tan trabajadores como él.
-Well, his brothers are not as hardworking as him.
-
-Pues sus hermanos no son igual de trabajadores.
-Well, his brothers are not as hardworking as him.
-
-Adolfo es más feo que Jorge.
-Adolfo is uglier than Jorge.
-
-Adolfo no es tan guapo que Jorge.
-Adolfo is not as handsome as Jorge.
-
-Luisa es menos fuerte que Ana.
-Luisa is less strong than Ana.
-
-Luisa no es tan fuerte como Ana.
-Luisa is not as strong as Ana.
-
-Carla es la más alta de sus hermanos.
-Carla is the taller of her siblings.
-
-Zapatos Loto, los más cómodos.
-Loto shoes, the most comfortable.
-
-David es el menos trabajador de sus amigos.
-David is the less hardworking of his friends.
-
-El Teide es la montaña más alta de España.
-Teide is the highest mountain of Spain.
-
-Soraya es la más cariñosa de su familia.
-Soraya is the most affectionate of her family.
-
-Alberto es el más trabajador de su familia.
-Alberto is the most hardworking of his family.
-
-El Everest es la montaña más alta del mundo.
-The Evertest is the highest mountain in the world.
-
-Hugo es el menos hablador de mis amigos.
-Hugo is the less talkative of my friends.
-
-Paraguay es el país menos poblado de América del Sur.
-Paraguay is the less populated country in South America.
-
-Eva es la mayor de sus hermanos.
-Eva is the oldest of her siblings.
-
-Estas naranjas son las mejores de España.
-These oranges are the best in Spain.
-
-Julián es el mejor alumno de la clase.
-Julián is the best student in class.
-
-Hoy es el día más feliz de mi vida.
-Today is the happiest day of my life.
-
-Elena es la chica más alegre que he conocido.
-Elena is the happiest girl I have ever met.
-
-Raúl es el más cariñoso de sus hermanos.
-Raúl is the most affectionate of his brothers.
-
-Carola y Elena son las más simpáticas del grupo.
-Carola and Elena are the nicest in the group.
-
-Este televisor es el más caro.
-This TV is the most expensive.
-
-Laura es la más alta.
-Laura is the tallest.
-
-¿Cuál es tu coche?
-Which one is your car?
-
-Ese pequeño.
-That small one.
-
-Te presento a mi hermana.
-This is my sister.
-
-Mira, ese es nuestro profesor.
-Look, that is our teacher.
-
-Mi madre trabaja en un laboratorio.
-My mother works in a laboratory.
-
-¿Dónde es la fiesta?
-Where's the party?
-
-En mi casa.
-At my house.
-
-Jimena tiene un pequeño chalé en su pueblo.
-Jimena has a small house in her village.
-
-¿Cuál es tu color preferido?
-Which is your favorite color?
-
-El blanco.
-White.
-
-¿Quién es tu profesor?
-Who is your teacher?
-
-Ayer vi a Ignacio con sus primos.
-Yesterday I saw Ignacio with his cousins.
-
-¿Dónde están vuestras cosas?
-Where are your things?
-
-Jorge y sus hijas.
-Jorge and his daughters.
-
-Alicia en su coche.
-Alicia in her car.
-
-Los señores Puebla en su casa.
-The Pueblas in their house.
-
-Abel, es su mujer.
-Abel, it is your wife.
-
-Me duele la cabeza.
-I have a headache.
-
-Quítate el abrigo.
-Take off your coat.
-
-Tengo que lavar el coche.
-I have to wash the car.
-
-¿De quién es esta maleta?
-Whose suitcase is this?
-
-Es mía.
-It is mine.
-
-¿De quién es esto?
-Whose is this?
-
-Es nuestro.
-It is ours.
-
-¿Es tuyo este diccionario?
-Is this dictionary yours?
-
-No, el mío es más pequeño.
-No, mine is smaller.
-
-Mi madre trabaja en un banco. ¿Y la tuya?
-My mother works at a bank. And yours?
-
-La mía trabaja en una agencia de viajes.
-Mine works at a travel agency.
-
-Mi pueblo es muy bonito y moderno.
-My village is very beautiful and modern.
-
-El nuestro es muy antiguo.
-Ours is very old.
-
-Esta bolsa no es mía.
-This bag is not mine.
-
-¿Es tuya, Amparo?
-Is it yours, Amparo?
-
-¿Es esto nuestro?
-Is this ours?
-
-No, es suyo.
-No, it is his.
-
-¿Es tuya esa bolsa?
-Is that bag yours?
-
-No, la mía es más pequeña.
-No, mine is smaller.
-
-Como se estropeó el coche de Jaime, fuimos en el nuestro.
-Since Jaime's car broke, we went with ours.
-
-¿Conoces a Julián?
-Do you know Julián?
-
-Sí, hombre. Es amigo mío.
-Yes, man. He is my friend.
-
-Una tía nuestra vive en Panamá.
-One of ours aunts lives in Panamá.
-
-¿Son estas las maletas de Felisa?
-Are those Felisa's bags?
-
-No, las suyas son azules.
-No, hers are blue.
-
-¿Son estas mis maletas?
-Are these my bags?
-
-No, las suyas son más pequeñas.
-No, yours are smaller.
-
-Todos los niños están llorando.
-All the children are crying.
-
-Algunos niños están llorando.
-Some kids are crying.
-
-Uno niño está llorando.
-A kid is crying.
-
-Ningún niño está llorando.
-No kid is crying.
-
-Dame todo el pan.
-Give me all the bread.
-
-Toda tu familia es muy alegra.
-All your family is very happy.
-
+# Eres más fuerte que yo.
+# You are stronger than me.
+# 
+# Somos menos altos que vosotros.
+# We are shorter than you.
+# 
+# Este piso es pequeño. Yo quiero uno más grande.
+# This apartment is small. I want a bigger one. 
+# 
+# Martín es tan alto como Carlos.
+# Martín is as tall as Carlos.
+# 
+# Martín es igual de alto que Carlos.
+# Martín is as tall as Carlos.
+# 
+# Martín y Carlos son igual de altos.
+# Martín and Carlos are equally tall.
+# 
+# Un caballo no es tan grande como un elefante.
+# A horse is not as big as an elephant.
+# 
+# Un caballo no es igual de grande que un elefante.
+# A horse is not as big as an elephant.
+# 
+# Un elefante y un caballo no son igual de grandes.
+# An elephant and a horse are not equally tall.
+# 
+# Sonia es igual de guapa que su madre.
+# Sonia is as beautiful as her mother.
+# 
+# El tren no es tan rápido como el avión.
+# The train is not as fast as the plane.
+# 
+# Soy tan alto como tú, pero no soy tan fuerte.
+# I am as tall as you, but I am not as strong.
+# 
+# Un toro no es tan rápido como un caballo.
+# A bull is not as fast as a horse.
+# 
+# Soy igual de alto que mi hermano.
+# I am as tall as my brother.
+# 
+# Mi hermano y yo somos igual de altos.
+# My brother and I are equally tall.
+# 
+# Mi piso es igual de pequeño que el tuyo.
+# My apartment is as small as yours.
+# 
+# Sonia y su madre son igual de guapas.
+# Sonia and her mother are equally beautiful.
+# 
+# Mi hermana es tan alta como yo.
+# My sister is as tall as I am.
+# 
+# Estos dos televisores son igual de caros.
+# Both of these TVs are equally expensive.
+# 
+# Los hijos de Andrés no son tan guapos como él.
+# Andrés' sons are not as handsome as he is.
+# 
+# Yo soy igual de trabajadora que vosostros.
+# I am as hardworking as you.
+# 
+# Juani es simpática.
+# Juani is nice.
+# 
+# Pues Loli es tan simpática como ella.
+# Well, Loli is as nice as her.
+# 
+# Pues Loli es igual de simpática.
+# Well, Loli is as nice as her.
+# 
+# Felipe es muy trabajador.
+# Felipe is very hardworking.
+# 
+# Pues sus hermanos no son tan trabajadores.
+# Well, his brothers are not as hardworking.
+# 
+# Pues sus hermanos no son tan trabajadores como él.
+# Well, his brothers are not as hardworking as him.
+# 
+# Pues sus hermanos no son igual de trabajadores.
+# Well, his brothers are not as hardworking as him.
+# 
+# Adolfo es más feo que Jorge.
+# Adolfo is uglier than Jorge.
+# 
+# Adolfo no es tan guapo que Jorge.
+# Adolfo is not as handsome as Jorge.
+# 
+# Luisa es menos fuerte que Ana.
+# Luisa is less strong than Ana.
+# 
+# Luisa no es tan fuerte como Ana.
+# Luisa is not as strong as Ana.
+# 
+# Carla es la más alta de sus hermanos.
+# Carla is the taller of her siblings.
+# 
+# Zapatos Loto, los más cómodos.
+# Loto shoes, the most comfortable.
+# 
+# David es el menos trabajador de sus amigos.
+# David is the less hardworking of his friends.
+# 
+# El Teide es la montaña más alta de España.
+# Teide is the highest mountain of Spain.
+# 
+# Soraya es la más cariñosa de su familia.
+# Soraya is the most affectionate of her family.
+# 
+# Alberto es el más trabajador de su familia.
+# Alberto is the most hardworking of his family.
+# 
+# El Everest es la montaña más alta del mundo.
+# The Evertest is the highest mountain in the world.
+# 
+# Hugo es el menos hablador de mis amigos.
+# Hugo is the less talkative of my friends.
+# 
+# Paraguay es el país menos poblado de América del Sur.
+# Paraguay is the less populated country in South America.
+# 
+# Eva es la mayor de sus hermanos.
+# Eva is the oldest of her siblings.
+# 
+# Estas naranjas son las mejores de España.
+# These oranges are the best in Spain.
+# 
+# Julián es el mejor alumno de la clase.
+# Julián is the best student in class.
+# 
+# Hoy es el día más feliz de mi vida.
+# Today is the happiest day of my life.
+# 
+# Elena es la chica más alegre que he conocido.
+# Elena is the happiest girl I have ever met.
+# 
+# Raúl es el más cariñoso de sus hermanos.
+# Raúl is the most affectionate of his brothers.
+# 
+# Carola y Elena son las más simpáticas del grupo.
+# Carola and Elena are the nicest in the group.
+# 
+# Este televisor es el más caro.
+# This TV is the most expensive.
+# 
+# Laura es la más alta.
+# Laura is the tallest.
+# 
+# ¿Cuál es tu coche?
+# Which one is your car?
+# 
+# Ese pequeño.
+# That small one.
+# 
+# Te presento a mi hermana.
+# This is my sister.
+# 
+# Mira, ese es nuestro profesor.
+# Look, that is our teacher.
+# 
+# Mi madre trabaja en un laboratorio.
+# My mother works in a laboratory.
+# 
+# ¿Dónde es la fiesta?
+# Where's the party?
+# 
+# En mi casa.
+# At my house.
+# 
+# Jimena tiene un pequeño chalé en su pueblo.
+# Jimena has a small house in her village.
+# 
+# ¿Cuál es tu color preferido?
+# Which is your favorite color?
+# 
+# El blanco.
+# White.
+# 
+# ¿Quién es tu profesor?
+# Who is your teacher?
+# 
+# Ayer vi a Ignacio con sus primos.
+# Yesterday I saw Ignacio with his cousins.
+# 
+# ¿Dónde están vuestras cosas?
+# Where are your things?
+# 
+# Jorge y sus hijas.
+# Jorge and his daughters.
+# 
+# Alicia en su coche.
+# Alicia in her car.
+# 
+# Los señores Puebla en su casa.
+# The Pueblas in their house.
+# 
+# Abel, es su mujer.
+# Abel, it is your wife.
+# 
+# Me duele la cabeza.
+# I have a headache.
+# 
+# Quítate el abrigo.
+# Take off your coat.
+# 
+# Tengo que lavar el coche.
+# I have to wash the car.
+# 
+# ¿De quién es esta maleta?
+# Whose suitcase is this?
+# 
+# Es mía.
+# It is mine.
+# 
+# ¿De quién es esto?
+# Whose is this?
+# 
+# Es nuestro.
+# It is ours.
+# 
+# ¿Es tuyo este diccionario?
+# Is this dictionary yours?
+# 
+# No, el mío es más pequeño.
+# No, mine is smaller.
+# 
+# Mi madre trabaja en un banco. ¿Y la tuya?
+# My mother works at a bank. And yours?
+# 
+# La mía trabaja en una agencia de viajes.
+# Mine works at a travel agency.
+# 
+# Mi pueblo es muy bonito y moderno.
+# My village is very beautiful and modern.
+# 
+# El nuestro es muy antiguo.
+# Ours is very old.
+# 
+# Esta bolsa no es mía.
+# This bag is not mine.
+# 
+# ¿Es tuya, Amparo?
+# Is it yours, Amparo?
+# 
+# ¿Es esto nuestro?
+# Is this ours?
+# 
+# No, es suyo.
+# No, it is his.
+# 
+# ¿Es tuya esa bolsa?
+# Is that bag yours?
+# 
+# No, la mía es más pequeña.
+# No, mine is smaller.
+# 
+# Como se estropeó el coche de Jaime, fuimos en el nuestro.
+# Since Jaime's car broke, we went with ours.
+# 
+# ¿Conoces a Julián?
+# Do you know Julián?
+# 
+# Sí, hombre. Es amigo mío.
+# Yes, man. He is my friend.
+# 
+# Una tía nuestra vive en Panamá.
+# One of ours aunts lives in Panamá.
+# 
+# ¿Son estas las maletas de Felisa?
+# Are those Felisa's bags?
+# 
+# No, las suyas son azules.
+# No, hers are blue.
+# 
+# ¿Son estas mis maletas?
+# Are these my bags?
+# 
+# No, las suyas son más pequeñas.
+# No, yours are smaller.
+# 
+# Todos los niños están llorando.
+# All the children are crying.
+# 
+# Algunos niños están llorando.
+# Some kids are crying.
+# 
+# Uno niño está llorando.
+# A kid is crying.
+# 
+# Ningún niño está llorando.
+# No kid is crying.
+# 
+# Dame todo el pan.
+# Give me all the bread.
+# 
+# Toda tu familia es muy alegra.
+# All your family is very happy.
+# 
 Tira toda esa basura al contenedor.
 Throw all that trash in the container.
 
@@ -3045,3 +3045,174 @@ Are you cold?
 
 No, tenemos miedo.
 No, we are afraid.
+
+Hay un vaso en la mesa.
+There is a vasa on the table.
+
+Hay cinco alumnos en clase.
+There are five students in class.
+
+No hay leche.
+There is no milk.
+
+Hay un pájaro en el balcón.
+There is a bird on the balcony.
+
+¿Hay un hotel por aquí?
+Is there a hotel around here?
+
+Hay uno en la calle Arenal.
+There is one in Arenal street.
+
+Hay naranjas en la nevera.
+There are oranges in the fridge.
+
+En mi calle hay muchos árboles.
+In my street there are a lot of trees.
+
+¿Hay muchos cines en tu barrio?
+Are there a lot of cinemas in your neighborhood?
+
+Hay tres.
+There are three.
+
+¿Cuántos chicos hay en tu clase?
+How many boys there are in your class?
+
+No hay ningún hotel en esta calle.
+There are no hotels in this street.
+
+En Santa Marta no hay aeropuerto.
+In Santa Marta there are no airports.
+
+En mi calle no hay árboles.
+In my street there are no trees.
+
+En mi barrio no hay muchos bares.
+In my neighborhood there are not many bars.
+
+Hay agua en el suelo.
+There is water on the floor.
+
+No hay mucha mantequilla.
+There is not much butter.
+
+¿Hay pan? No hay mucho.
+Is there bread? There is not much.
+
+¿Cuánta leche hay en la nevera?
+How much milk is there on the fridge?
+
+¿Hay una frutería por aqui?
+Is there a grocerie around here?
+
+Perdone, ¿dónde hay un buzón?
+Excuse, where is there a mailbox?
+
+Hay un señor que quiere hablar con usted.
+There is a gentleman that wants to talk to you.
+
+Hay un restaurante nuevo en el barrio.
+There is a new restaurant in the neighborhood.
+
+Hay un cine el la calle Monterrey.
+There is a movie theater in Monterrey street.
+
+En Madrid hay muchos museos.
+In Madrid there are a lot of museums.
+
+Perdone, ¿dónde hay una farmacia?
+Excuse me, where there is a pharmacy?
+
+¿Dónde hay un restaurante?
+Where there is a restaurant?
+
+Está en la recepción.
+He is at the reception.
+
+Está en la calle Apodaca.
+It is in Apodaca street.
+
+El cine América está en la calle Monterrey.
+The América movie theater is at Monterrey street.
+
+¿Marta, dónde está la farmacia de tu tía?
+Marta, where is your aunt's pharmacy?
+
+¿Dónde está casa Pepe?
+Where is casa Pepe?
+
+¿Dónde está la parada de autobús más próxima?
+Where is the closest bus stop?
+
+¿Dónde están mis herramientas?
+Where are my tools?
+
+El supermercado está en la plaza.
+The supermarket is at the square.
+
+Los bares están en el centro.
+The bars are at the center.
+
+¿Y dónde vives ahora?
+And where do you live now?
+
+Vivo en la calle Luna. Muy cerca de aquí.
+I live in Luna street. Very close to here.
+
+Perdone, ¿trabaja usted aquí?
+Excuse me, do you work here?
+
+La semana pasada le pedí dinero a Nuria.
+Last week I asked Nuria for money.
+
+Pepi y Lolo se divirtieron mucho en mi fiesta.
+Pepi and Lolo had a great time at my party.
+
+Los niños durmieron diez horas anoche.
+The kids slept ten hours last night.
+
+La madre de Clara murió hace dos meses.
+Clara's mother died two months ago.
+
+El verano pasado un tormenta destruyó la iglesia del pueblo.
+Last summer a storm destroyed the church of the village.
+
+Los gatos huyeron cuando vieron al perro.
+The cats ran away when they saw the dog.
+
+¿Qué hiciste el domingo?
+What did you do on sunday?
+
+Estuve en casa con amigos.
+I stayed home with friends.
+
+El año pasado hice varios viajes a América del Sur.
+Last year I did a lot of trips to South America.
+
+El domingo hubo una fiesta en casa de Emilia.
+Sunday there was a party at Emilia's house.
+
+Pato no quiso venir.
+Pato didn't want to come.
+
+Los abuelos de Beatriz tuvieron diez hijos.
+Beatriz's grandparents had ten kids.
+
+Hace unos años traduje un libro sobre Goya.
+Some years ago I translated a book about Goya.
+
+Alicia fue directora de un banco durante cuatro años.
+Alicia was a director at a bank for four years.
+
+Antonio fue a Puerto Rico en 2001.
+Antonio went to Puerto Rico in 2001.
+
+La civilización maya fue muy pacífica.
+The mayan civilization was very peaceful.
+
+¿Adónde fuisteis el verano pasado?
+Where did you go last summer?
+
+A Cuba. Fueron unas vacaciones fantásticas.
+To Cuba. The vacations where great.
