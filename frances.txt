@@ -1,0 +1,302 @@
+Vous avez froid?
+Are you cold?
+
+Vous avez faim?
+Are you hungry?
+
+Vous avez sommeil?
+Are you sleepy?
+
+Non, je n'ai pas froid.
+No, I am not cold.
+
+Non, je n'ai pas faim.
+No, I am not hungry.
+
+Non, je n'ai pas sommeil.
+No, I am not sleepy.
+
+Est-ce qu'il a soif?
+Is he thirsty?
+
+No, il n'a pas soif.
+No, he is not thirsty.
+
+Est-ce qu'elles ont sommeil?
+Are they sleepy?
+
+Non, elles n'ont pas sommeil?
+No, they are not sleepy.
+
+Est-ce qu'ils ont faim?
+Are they hungry?
+
+Non, ils n'ont pas faim.
+No, they are not hungry.
+
+Il a la télévision.
+He has a TV.
+
+Il a l'électricité.
+He has electricity.
+
+Il a le téléphone.
+He has a phone.
+
+Il n'a pas la télévision.
+He doesn't have a tv.
+
+Il n'a pas l'électricité.
+He doesn't have electricity.
+
+Il n'a pas le téléphone.
+He doesn't have a phone.
+
+J'ai la photo de Léo.
+I have Léo's photo.
+
+J'ai le numéro de Léo.
+I have Léo's phone.
+
+J'ai l'adresse de Léo.
+I have Léo's address.
+
+J'ai les clés de Léo.
+I have Léo's keys.
+
+Je n'ai pas la photo de Léa.
+I don't have Léa's photo.
+
+Je n'ai pas le número de Léa.
+I don't have Léa's number.
+
+Je n'ai pas l'adresse de Léa.
+I don't have Léa's address.
+
+Je n'ai pas les clés de Léa.
+I don't have Léa's keys.
+
+Il a un chapeau.
+He has a hat.
+
+Il a une cravate.
+He has a tie.
+
+Il a des lunettes.
+He has glasses.
+
+Il n'a ps de chapeau.
+He doesn't have a hat.
+
+Il n'a pas de cravate.
+He doesn't have a tie.
+
+Il n'a pas de lunettes.
+He doesn't have glasses.
+
+J'ai un chien.
+I have a dog.
+
+J'ai une voiture.
+I have a car.
+
+J'ai des enfants.
+I have kids.
+
+Je n'ai pas de chien.
+I don't have a dog.
+
+Je n'ai pas de voiture.
+I don't have a car.
+
+Je n'ai pas d'enfants.
+I don't have kids.
+
+Dino est à Paris.
+Dino is in Paris.
+
+Paris est près de Versailles.
+Paris is near Versailles.
+
+Dino est de Rome.
+Dino is from Rome.
+
+Paris est loin de Nice.
+Paris is far from Nice.
+
+Je suis à Paris.
+I am in Paris.
+
+Je suis de Moscou.
+I am from Moscow.
+
+Je suis chez Pierre.
+I am at Pierre's.
+
+Je connais la Colombie.
+I know Colombia.
+
+J'habite au Brésil.
+I live in Brazil.
+
+La valise est sur la voiture.
+The suitcase is on the car.
+
+Le chien est devant la voiture.
+The dog is in front of the car.
+
+Le ballon est sous la voiture.
+The ball in under the car.
+
+Le bateau est derrière la voiture.
+The boat is behind the car.
+
+Le garçon est dans la voiture.
+The boy in inside the car.
+
+Les fleurs sont dans le vase.
+The flowers are in the vase.
+
+La lettre est dans l'enveloppe.
+The letter is in the envelope.
+
+Je suis dans le bus.
+I am in the bus.
+
+Le vase est sur la table.
+The vase is on the table.
+
+Le timbre est sur l'enveloppe.
+The stamp is on the envelope.
+
+Le bateau passe sous le pont.
+The boat passes under the bridge.
+
+Les gens marchent sur le pont.
+People walk on the bridge.
+
+Le jardin est devant la maison.
+The garden is in front of the house.
+
+La cour est derrière la maison.
+The yard is behind the house.
+
+Au bord de l'eau, il y a un éléphant.
+At the edge of water, there is an elephant.
+
+Dans l'eau il y a un crocodile.
+In the water there is a crocodile.
+
+En Afrique, il y a des éléphants.
+In Africa, there are elephants.
+
+En Afrique, il y a des crocodiles.
+In Africa, there are crocodiles.
+
+Sous un arbre, il y a un éléphant.
+Under a tree, there is an elephant.
+
+Sur la rive, il y a un élephant.
+On the shore, there is an elephant.
+
+Qu'est-ce qu'il y a dans la pièce?
+What is there inside the room?
+
+Il y a une table.
+There is a table.
+
+Qu'est-ce qu'il y a sur la table?
+What is there over the table?
+
+Il y a des livres.
+There are books.
+
+Est-ce qu'il y a un lit?
+Is there a bed?
+
+Non, il n'y a pas de lit.
+No, there is no bed.
+
+Est-ce qu'il y a des fleurs?
+Are there flowers?
+
+Non, il n'y a pas de fleurs.
+No, there are no flowers.
+
+Qui est-ce?
+Who is it?
+
+C'est Stella. C'est une amie.
+It's Stella. She is a friend.
+
+Qu'est-ce que c'est?
+What is this?
+
+C'est un cadeau. C'est un vase.
+It is a gift. It is a vase.
+
+Qui est-ce?
+Who are they?
+
+Ce sont des amis.
+They are friends.
+
+Ce sont des roses.
+They are flowers.
+
+C'est n'est pas Marie.
+It is not Marie.
+
+Ce n'est pas un livre.
+It is not a book.
+
+Ce ne sont pas des tulipes.
+These are not tulipes.
+
+C'est un homme.
+It is a man.
+
+Il est grand.
+He is tall.
+
+C'est un sac.
+It is a bag.
+
+C'est une femme.
+It is a woman.
+
+Ce sont des hommes.
+These are men.
+
+Ce sont des femmes.
+These are women.
+
+Ils sont grands.
+They are tall.
+
+Elles sont grandes.
+They are tall.
+
+C'est une valise.
+It is a suitcase.
+
+Ce sont des sacs.
+These are bags.
+
+Ce sont des valises.
+These are suitcases.
+
+C'est beau.
+It is beautiful.
+
+C'est horrible.
+It is horrible.
+
+C'est cher.
+It is expensive.
+
+C'est original.
+It is original.
+
+Tu aimes la mer?
+Do you like the sea?
