@@ -769,50 +769,50 @@
 # Tu aimes la mer?
 # Do you like the sea?
 # 
-Oui, c'est beau.
-Yes, it is beautiful.
-
-Tu aimes les glaces?
-Do you like icecream?
-
-Oui, c'est bon.
-Yes, it is good.
-
-C'est beau, c'est parfumé, une rose.
-It is beautiful, it is fragrant, a rose.
-
-La mer, c'est beau.
-The sea, it is beautiful.
-
-Une rose, c'est beau.
-A rose, it is beautiful.
-
-C'est beau, un enfant.
-It is beautiful, a child.
-
-C'est beau, les roses.
-They are beautiful, the roses.
-
-Nous sommes le mardi trois mai.
-It is tuesday, may 3rd.
-
-Nous sommes le premier mai?
-Is it may first?
-
-Aujourd'hui, c'est mardi.
-Today, it is tuesday.
-
-Aujourd'hui, on est mardi.
-Today it is tuesday.
-
-Lundi, je commence à 7 heures.
-Monday, I start at seven.
-
-Le lundi je suis fatigué.
-On monday I am tired.
-
-Quelle heure est-il?
-What time is it?
-
-Je termine à six heures.
-I finish at six.
+# Oui, c'est beau.
+# Yes, it is beautiful.
+# 
+# Tu aimes les glaces?
+# Do you like icecream?
+# 
+# Oui, c'est bon.
+# Yes, it is good.
+# 
+# C'est beau, c'est parfumé, une rose.
+# It is beautiful, it is fragrant, a rose.
+# 
+# La mer, c'est beau.
+# The sea, it is beautiful.
+# 
+# Une rose, c'est beau.
+# A rose, it is beautiful.
+# 
+# C'est beau, un enfant.
+# It is beautiful, a child.
+# 
+# C'est beau, les roses.
+# They are beautiful, the roses.
+# 
+# Nous sommes le mardi trois mai.
+# It is tuesday, may 3rd.
+# 
+# Nous sommes le premier mai?
+# Is it may first?
+# 
+# Aujourd'hui, c'est mardi.
+# Today, it is tuesday.
+# 
+# Aujourd'hui, on est mardi.
+# Today it is tuesday.
+# 
+# Lundi, je commence à 7 heures.
+# Monday, I start at seven.
+# 
+# Le lundi je suis fatigué.
+# On monday I am tired.
+# 
+# Quelle heure est-il?
+# What time is it?
+# 
+# Je termine à six heures.
+# I finish at six.
