@@ -816,3 +816,60 @@
 # 
 # Je termine à six heures.
 # I finish at six.
+# 
+# Il fail chaud.
+# It is hot.
+# 
+# Il fait froid.
+# It is cold.
+# 
+# Il pleut.
+# It rains.
+# 
+# Il neige.
+# It snows.
+# 
+# Quel temps fait-il?
+# How is the weather?
+
+J'aime la viande.
+I love meat.
+
+J'aime l'eau.
+I love water.
+
+J'aime le poisson.
+I love fish.
+
+J'aime les fruits.
+I love fruits.
+
+J'achète de la viande.
+I buy meat.
+
+J'achète de l'eau.
+I buy some water.
+
+J'achète du poisson.
+I buy fish.
+
+J'achète des fruits.
+I buy fruits.
+
+Je mange du riz.
+I eat rice.
+
+Vous avez du feu?
+Do you have fire?
+
+Elle a de la patience et du courage.
+She has patience and courage.
+
+Il a du soleil et du vent.
+There is sun and wind.
+
+Je mange de la viande.
+I eat meat.
+
+Je mange des pâtes.
+I eat pasta.
