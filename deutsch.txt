@@ -67,3 +67,16 @@
 # Er fällt zu Boden.
 # He is falling to the floor. 
 
+Frohe Weihnachten!
+Happy Christmas!
+
+Sie hat uns letzte Ostern besucht.
+She visited us last Easter.
+
+Wir haben ein stilles Weihnachten verbracht
+We spent a quiet Christmas.
+
+Hast du ein schönes Ostern gehabt?
+Did you have a nice Easter?
+
+

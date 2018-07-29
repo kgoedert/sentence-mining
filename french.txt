@@ -831,45 +831,111 @@
 # 
 # Quel temps fait-il?
 # How is the weather?
-
-J'aime la viande.
-I love meat.
-
-J'aime l'eau.
-I love water.
-
-J'aime le poisson.
-I love fish.
-
-J'aime les fruits.
-I love fruits.
-
-J'achète de la viande.
-I buy meat.
-
-J'achète de l'eau.
-I buy some water.
-
-J'achète du poisson.
-I buy fish.
-
-J'achète des fruits.
-I buy fruits.
-
-Je mange du riz.
-I eat rice.
-
-Vous avez du feu?
-Do you have fire?
-
-Elle a de la patience et du courage.
-She has patience and courage.
-
-Il a du soleil et du vent.
-There is sun and wind.
-
-Je mange de la viande.
-I eat meat.
-
-Je mange des pâtes.
-I eat pasta.
+# 
+# J'aime la viande.
+# I love meat.
+# 
+# J'aime l'eau.
+# I love water.
+# 
+# J'aime le poisson.
+# I love fish.
+# 
+# J'aime les fruits.
+# I love fruits.
+# 
+# J'achète de la viande.
+# I buy meat.
+# 
+# J'achète de l'eau.
+# I buy some water.
+# 
+# J'achète du poisson.
+# I buy fish.
+# 
+# J'achète des fruits.
+# I buy fruits.
+# 
+# Je mange du riz.
+# I eat rice.
+# 
+# Vous avez du feu?
+# Do you have fire?
+# 
+# Elle a de la patience et du courage.
+# She has patience and courage.
+# 
+# Il a du soleil et du vent.
+# There is sun and wind.
+# 
+# Je mange de la viande.
+# I eat meat.
+# 
+# Je mange des pâtes.
+# I eat pasta.
+#
+# Un kilo de sucre.
+# A kilo of sugar.
+# 
+# Cent grammes de sucre.
+# Hundred grams of sugar.
+# 
+# Trois morceaux de sucre.
+# Three pieces of sugar.
+# 
+# Beaucoup de sucre.
+# A lot of sugar.
+# 
+# Un peau de sucre.
+# A bit of sugar.
+# 
+# Assez de sucre.
+# Enough of sugar.
+# 
+# Pas de sucre.
+# No sugar.
+# 
+# Plus de sucre.
+# More sugar.
+# 
+# Jamais de sucre.
+# Never sugar.
+# 
+# Beaucoup de livres.
+# A lot of books.
+# 
+# Pas de sel.
+# No salt.
+# 
+# Jim est plus sympathique que Joe.
+# Jim is nicer than Joe.
+# 
+# Jim est moins sympathique que Joe.
+# Jim is not as nice as Joe.
+# 
+# Jim est aussi sympathique que Joe.
+# Jim is as nice as Joe.
+# 
+# Jim bouge plus vite que Joe.
+# Jim moves faster than Joe.
+# 
+# Jim bouge moins vite que Joe.
+# Jim moves slower than Joe.
+# 
+# Jim bouge aussi vite que Joe.
+# Jim moves as fast as Joe.
+# 
+# Le café français est bon.
+# The french coffee is good.
+# 
+# Le café brasilien est meilleur.
+# The brazilian coffee is better.
+# 
+# Woody danse bien.
+# Woody dances well.
+# 
+# Fred danse mieux.
+# Fred dances better.
+# 
+# Je travaille plus qu'avant.
+# I work more than before.
