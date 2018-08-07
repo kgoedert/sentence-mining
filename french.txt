@@ -939,3 +939,39 @@
 # 
 # Je travaille plus qu'avant.
 # I work more than before.
+
+Max travaille plus que Jean.
+Max works more than Jean.
+
+Max travaille moins que Jean.
+Max works less than Jean.
+
+Max travaille autant que Jean.
+Max works as much as Jean.
+
+Max a plus de travaille.
+Max has a lot of work.
+
+Max a autant de vacances que Jean.
+Max has as much vacations as Jean.
+
+Max a moins d'argent.
+Max has less money.
+
+C'est le restaurant le plus confortable.
+It is the most comfortable restaurant.
+
+C'est le restaurant le moins cher.
+It is the cheapest restaurant.
+
+C'est le restaurant le meilleur.
+It is the best restaurant.
+
+C'est le meilleur restaurant de la ville.
+It is the best restaurant in town.
+
+Le plus beau du monde.
+The most beautiful in the world.
+
+Le garçon le plus beau.
+The most beautiful boy.
