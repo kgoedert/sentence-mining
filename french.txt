@@ -975,3 +975,33 @@
 # 
 # Le garçon le plus beau.
 # The most beautiful boy.
+
+Elle sait écrire.
+She knows how to write.
+
+Elle connaît l'alphabet.
+She knows the alphabet.
+
+Vous savez dessiner.
+You can draw.
+
+Vous conaissez la perspective.
+You know perspective.
+
+Elle sait lire.
+She can read.
+
+Il sait conduire.
+He can drive.
+
+Je peux lire sans lunettes.
+I can read without glasses.
+
+Je bois du café.
+I drink some coffee.
+
+Ils boivent de la bière.
+They drink some bier.
+
+Vous bouvez de l'eau.
+You drink some water.
