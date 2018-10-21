@@ -3729,3 +3729,856 @@ Don't forget the umbrella. It may rain.
 
 Papá, ¿puedo coger el coche? No, no lo cojas. Lo necesito yo.
 Dad, can I take the car? No, don't take it. I need it.
+
+Tira toda esa basura al contenedor.
+Throw all that trash in the container.
+
+Sois muy amables todos vosotros.
+You are all very kind.
+
+Voy a México todos los veranos.
+I go to Mexico every summer.
+
+Todos mis hermanos hablan francés.
+All my brothers speak french.
+
+Deme todas esas manzanas, por favor.
+Give me all those apples, please.
+
+He conocido a un compañero tuyo.
+I met one of your friends.
+
+¿Ha venido algún alumno?
+Has any student come?
+
+Alicia no sale ningún domingo.
+Alicia does not go out on any sunday.
+
+Conozco a unos chicos que estudian quechua.
+I know some kids who study quechua.
+
+He recorrido algumas zonas de Perú.
+I have traveled to some areas of Peru.
+
+¿Alguno de vosotros conduce?
+Does any of you drive?
+
+No veo a ninguno de los niños.
+I don't see any of the kids.
+
+Uno de mis tíos vive en Caracas.
+One of my uncles lives in Caracas.
+
+Alguno de estos es mío, seguro.
+One of these is mine, for sure.
+
+¿Alguno de vosotros habla árable?
+Does any of you speak arabic?
+
+No, ninguno.
+None.
+
+Todos quieren venir a la fiesta.
+Everybody wants to come to the party.
+
+¿Has visto a alguno de mis compañeros?
+Have you seen any of my friends?
+
+No, no he visto ninguno.
+No, I have seen none.
+
+Ninguno de mis amigos ha salido.
+None of my friends has gone out.
+
+No ha salido ninguno de mis amigos.
+None of my friends has gone out.
+
+Necesito un móvil nuevo.
+I need a new mobile.
+
+Ana está con unas compañeras.
+Ana is with some friends.
+
+Otro zumo, por favor.
+Another juice, please.
+
+Toma otra galleta.
+Take another cookie.
+
+Otros dos bocadillos, por favor.
+Another two sandwiches, please.
+
+Déjame otro libro. Este no me gusta.
+Leave me another book. I don't like this one.
+
+Tráiganos otra cuchara, por favor.
+Bring us another spoon, please.
+
+Enséñeme otros zapatos. Estos no me gustan.
+Show me other shoes. I don't like these.
+
+Pásame otro de los pasteles de chocolate.
+Pass me another of the chocolate cakes.
+
+He perdido otra de mis plumas.
+I lost another of my pens.
+
+Dame otra de esas ciruelas.
+Give another of those plums.
+
+¿Cuál le gusta?
+Which one would you like?
+
+Deme una cualquiera.
+Give me anyone.
+
+Cualquier día voy a verte.
+I will see you any of these days.
+
+Dame un libro cualquiera.
+Give me any book.
+
+Cualquiera de ustedes puede hacerlo.
+Any of you can do it.
+
+Pásame cualquiera de los bolígrafos.
+Pass me any of the pens.
+
+Ponte cualquiera de mis trajes.
+Put any of my suits.
+
+Cualquiera de esos chicos es más amable que tú.
+Any of these kids is kinder than you.
+
+Es igual. Dame uno cualquiera.
+Doesn't matter. Give me anyone.
+
+Necesitamos sillas nuevas.
+We need new chairs.
+
+He visto unas preciosas.
+I have see some beautiful ones.
+
+Hay muchos bocadillos. Toma otro.
+There are a lot of sandwiches. Take another one.
+
+No tengo mucha hambre.
+I am not very hungry.
+
+Martín tiene poco tiempo para estudiar.
+Martín has few time to study.
+
+Rodri come demasiado chocolate.
+Rodri eats to much chocolate.
+
+No tengo suficiente dinero para el avíon.
+I don't have enough money for the plane.
+
+Mis hijos duermen muchas horas.
+My sons sleep a lot of hours.
+
+Marcela tiene pocas amigas.
+Marcela has few girlfriends.
+
+Alejo come demasiado pasteles.
+Alejo eats a lot of cakes.
+
+Tenemos suficientes potatos para hoy.
+We have enough potatoes for today.
+
+Hay suficiente agua.
+There is enough water.
+
+Hay agua suficiente.
+There is enough water.
+
+¿Crees que hay bastante comida?
+Do you think there is enough water?
+
+Sí, solo somos tres.
+Yes, we are just three.
+
+No podemos ir de vacaciones.
+We cannot go on vacations.
+
+No tenemos bastate dinero.
+We don't have enough money.
+
+¿Cuántos huevos hay?
+How many eggs there are?
+
+Tres. Son suficientes para una tortilla.
+Three. They are enough for a tortilla.
+
+¿Tienes tiempo?
+Do you have time?
+
+No tengo mucho. Me voy en diez minutos.
+Not much. I leave in ten minutes.
+
+Hay alguien detrás de la puerta.
+There is someone behind the door.
+
+No hay nadie detrás de la puerta.
+There is no one behind the door.
+
+Hay algo detrás de la puerta.
+There is something behind the door.
+
+No hay nada detrásde la puerta.
+There is nothing behind the door.
+
+Alguien ha roto la silla.
+Someone has broken the chair.
+
+¿Hay alguien ahí dentro?
+Is there anyone inside?
+
+Hay algo en la sopa.
+There is something in the soup.
+
+¿Has dicho algo?
+Did you say something?
+
+No ha venido nadie.
+No one has come.
+
+Hoy no he vendido nada.
+I sold nothing today.
+
+Nadie me ha visto.
+Nobody has seen me.
+
+Nada le importa.
+He cares about nothing.
+
+No me ha visto nadie.
+Nobody has seen me.
+
+No le importa nada.
+He doesn't care about anything.
+
+Hay algo de queso en la nevera.
+There is some cheese in the fridge.
+
+No hay nada de queso.
+There is no cheese.
+
+¿Tienes dinero?
+Do you have money?
+
+Tengo algo.
+I have some.
+
+Pues yo no tengo nada.
+I don't have anything.
+
+Belén tiene más libros que yo.
+Belén has more books than me.
+
+Ahora tengo menos pelo que cuando era joven.
+I have less hair now than when I was young.
+
+Hoy no tengo tanto trabajo como ayer.
+Today I don't have as much work as yesterday.
+
+Ernesto tiene más alumnos que Guadalupe.
+Ernesto has more students than Guadalupe.
+
+Pedro tiene más amigos que Antonio.
+Pedro has more friends than Antonio.
+
+Antes había menos coches que ahora.
+Before there were less cars than now.
+
+Ahora tengo menos sueño.
+Now I feel less sleepy.
+
+Hoy no hay tanta gente como ayer.
+Today there is less people than yesterday.
+
+No tengo tantos amigos como mi hermana.
+I don't have as many friends as my sister.
+
+Rodolfo tiene más vacaciones que tú, pero tú haces más viajes que él.
+Rodolfo has more vacation days than you, but you travel more than him.
+
+¿Tienes tanto hambre como yo?
+Are you as hungry as me?
+
+Ahora tengo menos hambre.
+Now I am less hungry.
+
+Hoy no hay tanta gente.
+There is fewer people today.
+
+Sonia tiene cerca de cien CD.
+Sonia has about a hundred CDs.
+
+Yo tengo más.
+I have more.
+
+Pues yo no tengo tantos.
+Well, I don't have that many.
+
+Elisa tiene una gran colección de CD.
+Elisa has a huge CDs collection.
+
+Yo tengo tantos como ella.
+I have as many as her.
+
+¿Y dónde vives ahora?
+And where do you live now?
+
+Pide lo que quieras. Yo invito.
+Ask whatever you want. I am inviting.
+
+Sonreíd. Os voy a hacer una foto.
+Smile. I will take a picture of you.
+
+No frías toda la carne. No tengo hambre.
+Don't fry all the meat. I am not hungry.
+
+Riega las plantas todos los días.
+Water the plants everyday.
+
+No despiertes a Sonia. Está cansada.
+Don't wake Sonia up. She is tired.
+
+Cuenta hasta diez.
+Count up to ten.
+
+No muevan la mesa.
+Don't move the table.
+
+Di algo. No estés callado.
+Say something. Don't stay quiet/
+
+Haz la comida. Es tarde.
+Make the food. It is late.
+
+No hagas ruido.
+Don't make noise.
+
+Enrique, Sofia, poned la mesa.
+Enrique, Sofia, set the table.
+
+¡Sal de aquí ahora mismo!
+Get out of here right now!
+
+No salgan. Hace mucho frío.
+Don't go out. It is very cold.
+
+No tengáis miedo. No pasa nada.
+Don't be afraid. Nothing is happening.
+
+Tenga cuidado. Este cruce es peligroso.
+Be careful. This crossing is dangerous.
+
+Venid aquí.
+Come here.
+
+No vengas ahora. Estoy ocupado.
+Don't come now. I am busy.
+
+Sé amable, Lola.
+Be nice, Lola.
+
+No seáis impacientes.
+Don't be impacient.
+
+Susana, ve a comprar pan.
+Susana, go buy bread.
+
+No vayáis a casa de Martín. No está.
+Don't go to Martín's. He is not home.
+
+Traiga la cuenta, por favor.
+Bring the check, please.
+
+No traigáis nada para la fiesta.
+Don't bring anything to the party.
+
+Conduzca con cuidado, por favor.
+Drive carefully, please.
+
+¡Lávate ahora mismo!
+Go wash yourself right now!
+
+Quítase la camisa, por favor!
+Take off your shirt, please!
+
+Son las ocho. Levántate.
+It is eight o'clock. Get up.
+
+No te atrevas a ir solo.
+Don't dare to go by yourself.
+
+No se suban a la estatua, por favor.
+Don't go up the statue, please.
+
+Lávate las manos.
+Wash your hands.
+
+Mira esta lámpara. Cómprala. Es muy bonita.
+Look at this lamp. Buy it. It is very beautiful.
+
+No la compres. A mí no me gusta.
+Don't buy it. I don't like it.
+
+Préstame tu diccionario.
+Lend me your dictionary.
+
+No le prestes el tuyo, yo tengo dos.
+Don't lend him yours, I have two.
+
+Deme ese libro, por favor.
+Give me that book please.
+
+Enseñadles el mapa.
+Show them the map.
+
+Dinos la verdad.
+Tell us the truth.
+
+A Jorge le gusta tu dibujo. Regálaselo.
+Jorge likes your drawing. Give it to him.
+
+Tienes las manos sucias. Lávatelas.
+Your hands are dirty. Wash them.
+
+Este es tu despacho. Espero que trabajes a gusto.
+This is your office. I hope you work comfortably.
+
+¿Dónde está Pepe?
+Where is Pepe?
+
+No sé. Puede que esté en su habitación.
+I don't know. Maybe he is in his room.
+
+No me gusta que comáis nada antes de las comidas.
+I don't like you eating anything before meals.
+
+Puede qeu Sonia esté ahora en casa.
+Maybe Sonia is at home now.
+
+Mi padre quiere que le ayude mañana.
+My father wants me to help him tomorrow.
+
+¿Puedes venir, Sonia? Quiero qeu me ayudes.
+Can you come, Sonia? I want you to help me.
+
+Juan ha tenido un accidente. ¡Ojalá no sea grave!
+Juan had an accident. Hopefully it is not serious.
+
+Es probable que el Boca Juniors gane la copa este año.
+It is likely that Boca Juniors wins the tournament this year.
+
+¿Te ha llamado Adela? No. Quizás me llame esta noche.
+Did Adela call you? No, perhaps she calls me tonight.
+
+Me gusta que seáis educados, niños.
+I would like to be polite, boys.
+
+Tengo miedo que me echen del trabajo.
+I am afraid of being fired.
+
+Espero que podáis venir a mi fiesta.
+I hope you can come to my party.
+
+Buenas noches. ¡Que durmáis bien!
+Good night. Sleep well!
+
+Esta noche puede que llegue tarde. Tengo una reunión.
+Tonight I may arrive late. I have a metting.
+
+Quizás te sientas mejor después de comer algo.
+Perhaps you feel better after eating something.
+
+No me gusta que Arturo vuelva tarde.
+I don't like Arturo coming back late.
+
+A Víctor le asombra que durmamos tanto.
+Victor is astonished that we sleep so much.
+
+Es lógico qeu Silvia no quiera ir a la fiesta. No conoce a nadie.
+It is natural that Silvia does not want to go to the party. She doesn't know anyone.
+
+Me parece bien que prefieras comer ahora. A mí también me gusta comer temprano.
+I think it's good that you prefer to eat now. I like to eat early, too.
+
+Ven, quiero que conozcas a Teresa.
+Come, I want you to meet Teresa.
+
+Es imposible que te oigan. Están muy lejos.
+It is impossible that they hear you. They are too far away.
+
+¡Ojalá no haya más guerras!
+Hopefully there will be no more wars!
+
+¿Estás esperando a Manuel?
+Are you waiting for Manuel?
+
+Sí, pero puede que no venga hoy. Tenía mucho trabajo.
+Yes, but maybe he won't come today. He had a lot of work.
+
+Siento que Alberto no vaya a tu concierto, pero no se encuentra bien.
+I am sorry that Alberto will not go to your concert, but he is not well.
+
+Luis sabe que te vas a ir a Argentina.
+Luis knows that you are going to Argentina.
+
+Es igual. No me importa que lo sepa.
+It's the same. I don't care if he knows.
+
+Es lógico que construyan más carreteras. Cada día hay más coches.
+It is natural that they build more roads. Everyday there are more cars.
+
+Me parece una vergüenza que no sepas freír un huevo.
+It is a shame that you don't know how to fry an egg.
+
+¿Estás libre este domingo?
+Are you free this sunday?
+
+Me gustaría que comiéramos juntos.
+I would like us to eat together.
+
+!Qué bien pintas!
+You paint very well!
+
+!Quién pintara como tú!
+I wish I painted like you.
+
+Ayer te llamé a casa. Quería que me ayudades a preprar el examen.
+Yesterday I called you at home. I would like to help me prepare the test.
+
+¿Estás ocupada? Me gustaría que vieras algo.
+Are you busy? I would like you to see something.
+
+¿Hacéis algo el sábado? Me gustaría qeu vinieras a casa.
+Are you doing something on saturday? I would like to come home.
+
+!Quién viviera cien años!
+I wish I lived one hundred years.
+
+¡Quén conocera el futuro!
+I wish I knew the future!
+
+El jefe prohibió que usáramos los móviles.
+The boss forbade us of using the mobiles.
+
+Mis padres querían que estudiara Derecho.
+My parents wanted me to study law.
+
+No me gustó que no me invitaran.
+I didn't like that they did not invite me.
+
+Era lógico qeu Goyo protestase por la película.
+It was natural that Goyo was going to protest for the movie.
+
+Sería mejor que llamaras a Chus. Siempre me pregunta por ti.
+You would better call Chus. He always asks me about you.
+
+Era imposible que Pedro encontrase empleo. No lo buscaba.
+It was impossible that Pedro would find a job. He was not looking.
+
+¡Quién tuviera treinta años menos!
+I wish I had thirty years less!
+
+¡Quién pudiera nadar como tú!
+I wish I swimmed like you!
+
+¡Quén fuera Spielberg!
+I wish I was Spielgerg!
+
+Cuando era pequeña, mis padres querían que fuera pianista.
+When I was little, my parents wanted me to be a pianist.
+
+Me extraño que no vinieseis a mi fiesta.
+I thought it was weird that you didn't come to my party.
+
+A mí encantaría que Salva e Marisa fueran a nuestra clase.
+I would love Salva and Marisa to come to our class.
+
+Me extrañaría que Alfonso estuviera en casa. Está siempre fuera.
+I would think it strange for Alfonso to be home. He is always out.
+
+Era lógico que estuviera triste. Se había ido Hugo.
+It was natural that she as sad. Hugo had gone.
+
+Puede que Juan supiera que había examen, pero no dijo nada.
+It was possible that Juan knew about the test, but didn't say anything.
+
+Quiero que me ayudes, Jorge.
+I want you to help me, Jorge.
+
+Hoy no deseo ver a nadie. Estoy triste.
+Today I don't want to see anyone. I am sad.
+
+Tengo ganas de que trabajen mis hijos.
+I wish my sons to work.
+
+Espero ganar.
+I hope I win.
+
+Yo también espero que ganes.
+I hope you win too.
+
+De pequeña, Elisa soñaba con ser escritora.
+Since she was little, Elisa dreamed of been I writer.
+
+¿Te gustaría ganar algo de dinero?
+Would you like to win some money?
+
+Matías, prefiro que me lo digas ahora.
+Matías, I prefer you tell it me now.
+
+Espero que haga buen tiempo el domingo.
+I hope the weather is good on sunday.
+
+Mis padres querían que fuera piloto.
+My parents wished me to be a pilot.
+
+Me gustaría que me hicieras un favor, Mario.
+I would like you to do me a favor, Mario.
+
+¡Que tengáis buen viaje!
+I wish you have a nice trip!
+
+¡Que Ángel apruebe!
+I hope Ángel approves!
+
+¡Ojalá haga buen tiempo mañana! Estou harto de lluvia.
+I hope the weather is good tomorrow! I am tired of rain.
+
+¡Ojalá fuera más joven!
+I wish I was younger!
+
+Es imposible que ganemos. Jugamos muy mal.
+It is impossible that we win. We played very badly.
+
+Era poco probable que encontrara trabajo.
+It was unlikely that he would find work.
+
+Posiblemente llueva. Hay muchas nubes.
+Probably it will rain. There are a lot of clouds.
+
+Probablemente cambie hoy el tiempo.
+Probably the weather will change today.
+
+Puede que no salga esta noche. Estoy cansado.
+Maybe I won't go out tonight. I am tired.
+
+Llama a Ángel. Quizá esté en casa.
+Call Ángel. Perhaps he is at home.
+
+Talvez haya elecciones pronto.
+Maybe there will be elections immediately.
+
+Roberto no quiere salir. 
+Roberto does not want to go out.
+
+Puede que esté cansado. Trabaja mucho.
+Maybe he is tired. He works a lot.
+
+¿Sabe dónde está el Sr. Pavon? No está en su oficina.
+Do you know where Mr Pavon is? He is not in his office.
+
+No sé, quizá en la cafetería.
+I don't know, maybe in the coffee shop.
+
+Es posible que tengan ustedes razón, pero prefiro asegurarme.
+It is possible that you are right, but I need to be sure.
+
+No me ha llamado Martina. Posiblemente me llame esta noche.
+Martina did not call me. Maybe she will call me tonight.
+
+Era poco probable que aprobara. Había estudiado muy poco.
+It was unlikely that he would pass. He had not studied a lot.
+
+¿Sabes si Pedro ha hablado con Ricardo?
+Do you know if Pedro has spoken to Ricardo?
+
+Puede que lo hiciera anoche. Regresó tarde.
+Maybe he did it last night. He came back late.
+
+Están cansados. Quizá se acostaron tarde anoche.
+They are tired. Pehaps they went to bed late last night.
+
+Es imposible dormir en esta casa. Hay demasiado ruido.
+It is impossible to sleep in this house. There is too much noise.
+
+Era imposible engañar a Tomas. Era muy listo.
+It was impossible to deceive Tomas. He was very smart.
+
+¿Sabes dónde está Martín? Seguramente está en casa. No sale mucho.
+Do you know where Martín is? Probably at home. He doesn't go out much.
+
+¿Cuándo vas a enviarle un correo electrónico a Clara? Seguramente lo haré esta noche.
+When are you going to e-mail Clara? Possibly I will do it tonight.
+
+Santi no contesta el teléfono. Seguramente ha salido.
+Santi doesn't answer the phone. Probably he went out.
+
+Nos alegramos de estar con vosotros.
+We are happy to be with you.
+
+Me gusta que me quieran.
+I appreciate that you like me.
+
+Estoy harto que no colabores.
+I am fed up that you don't colaborate.
+
+Me gusta ser puntual. Me desagrada llegar tarde.
+I like being punctual. I don't like to arrive late.
+
+Me alegro de que tengas un buen trabajo. Te lo mereces.
+I am happy that you have a good job. You deserve it.
+
+Me extraña que no vaya Isa al concierto.
+It is odd that Isa is not going to the concert.
+
+Me extrañó que me llamaran tan tarde.
+It was strange that they called me so late.
+
+A mis padres les encantaba que fuéramos a la finca de los abuelos.
+My parents loved to go to the grandparents farm.
+
+Nos encataría que Lidia estudiara Medicina.
+We would love Lidia to study medicine.
+
+Es bueno que no estéis enfadados.
+It is good that you are not upset.
+
+Me parece bien que salgas.
+I think it is good that you go out.
+
+Me parece lógico que Ana esté enfadada.
+It seems natural that Ana is upset.
+
+Es una vergüenza que sean tan maleducados.
+It is a shame that they are so rude.
+
+Es importante que lleguéis pronto.
+It is important that you arrive soon.
+
+Me parece una locura que hagas eso.
+It seems crazy that you do that.
+
+Alba pensaba que era mejor que llamáramos a casa.
+Alba thouhght it was best that we called home.
+
+Sería una lástima que perdieras la beca.
+It would be a shama for you to lose the scholarship.
+
+Es importante decir la verdad.
+It is important to tell the truth.
+
+Me parece una locura levantarse a las cinco.
+It is crazy to get up at five.
+
+Doctor, ¿cree que estoy enfermo?
+Doctor, do you think I am sick?
+
+Me parece que va a nevar.
+It seems to me that it is going to rain.
+
+Recuero que el año pasado visitamos al desierto de Atacama.
+I remember that last year we visited the Atacama desert.
+
+¿No piensas que es un poco tarde?
+Don't you think it is a little bit late?
+
+Pues yo no creo que esté enfermo.
+Well, I don't think you are sick.
+
+A mí no me parece que vaya a nevar.
+It doesn't seem to me that it is going to rain.
+
+No recuerdo que el año pasado visitáramos el desierto de Atacama.
+I don't recall that we visited the Atacama desert last year.
+
+No, no pienso que sea tan tarde.
+No, I don't think it is too late.
+
+¿Es verdad que Ángel es actor?
+Is it true that Ángel is an actor?
+
+Estaba claro que Julián mentia.
+It was obvious that Julián was lying.
+
+Es evidente que Felipe no quiere ayudarmos.
+It is obvious that Felipe doesn't want to help us.
+
+No es verdad que sea actor.
+It is not true that he is an actor.
+
+Para mí no estaba claro que mentiera.
+To me it was not obvious that he was lying.
+
+Es mentira que Felipe no quiera ayudarnos.
+It is a lie that Felipe doesn't want to help us.
+
+Blanca es la persona que cuida a los niños.
+Blanca is the person that takes care of the children.
+
+Costa Rica es el único país de América que no tiene ejército.
+Costa Rica is the only country in America that doesn't hava an army.
+
+Conozco a un chico que toca el oboe.
+I know a boy that plays the oboe.
+
+Necesito una persona que cuide de los niños.
+I need someone that takes care of the children.
+
+¿Hay algún país que no tenga ejército?
+Is there a country that does not have an army?
+
+No conozco a nadie que toque el oboe.
+I don't know anyone that plays the oboe.
+
+Conocía un lugar que era perfecto para acampar.
+I knew a place that was perfect for camping.
+
+Tenemos un nuevo editor que sabe árabe.
+We have a new editor that knows arabic.
+
+No conocía ningún lugar que fuera perfecto para acampar.
+I didn't know any place that was perfect for camping.
+
+Necesitaríamos un editor que supiera árabe.
+We would need an editor that knew arabic.
+
+Soy Martín. No puedo ir. Tengo un poco de fiebre.
+It is Martín. I can't go. I have a little bit of fiever.
+
+Es Martín. Dice que no puede venir, que tiene un poco de fiebre.
+It is Martín. He says he can't come, that he has a little bit of fever.
+
+¿Dónde está Martín?
+Where is Martín?
+
+Llamó esta mañana y dijo que no podía venir, que tenía un poco de fiebre.
+He called this morning and said that he could not come, that he had a little bit of fever.
+
+Soy el pintor. No puedo ir este mes. Dígale a su madre que la llamaré cuando pueda.
+I am the paintor. I can't go this month. Tell your mother that I will call her when I can.
+
+Mamá, es el pintor. Dice que no puede venir este mes, que te llamará cuando pueda.
+Mom, it is the paintor. He said he can't come this month, that he will call you when he can.
+
+El otro día Juan me comentó que había suspendido porque no había podido estudiar.
+The other day Juan said that he had cancelled because he couldn't study.
+
+Estoy muy contenta. Felipe me ha prometido que iremos a Cuba el verano que viene.
+I am very happy. Felipe promised that we will go to Cuba next summer.
+
+Dice que vive en Guadalajara.
+He said he lives in Guadalara.
+
+Ha dicho que está estudiando mucho.
+He said he is studying a lot.
+
+Dijo que vivía en Guadalajara.
+He said he lived in Guadalajara.
+
