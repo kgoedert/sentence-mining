@@ -1005,3 +1005,15 @@ They drink some bier.
 
 Vous bouvez de l'eau.
 You drink some water.
+
+Il veut attraper le bus.
+He wants to catch the bus.
+
+Il doit courir.
+He must run.
+
+Il peut arriver à temps.
+He can arrive on time.
+
+Il faut manger pour vivre.
+It is necessary to eat to live.
