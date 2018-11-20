@@ -1017,3 +1017,40 @@ He can arrive on time.
 
 Il faut manger pour vivre.
 It is necessary to eat to live.
+
+Un peu de sucre.
+A bit of sugar.
+
+Il est petit.
+He is small.
+
+Il est professeur.
+He is a teacher.
+
+C'est mon voisin.
+This is my neighbour.
+
+C'est le prof.
+It is the teacher.
+
+Il est idiot.
+He is stupid.
+
+C'est un idiot.
+He is an idiot.
+
+Elle est étudiante.
+She is a student.
+
+C'est une étudiante.
+She is a student.
+
+C'est Paul.
+This is Paul.
+
+C'est une amie anglaise.
+She is an english friend.
+
+C'est elle que j'aime.
+It is her that I love.
+

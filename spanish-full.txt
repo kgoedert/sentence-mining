@@ -5163,3 +5163,459 @@ Put it in there.
 
 Juan, ven aquí arriba.
 Juan, come upstairs.
+
+¿Has visto a Rosa?
+Have you seen Rosa?
+
+Sí, ayer estuve con ella.
+Yes, I was with her yesterday.
+
+¿Cuándo me vas a devolver el libro que te dejé?
+When are you going to give back the book I lent you?
+
+Mañana te devuelvo.
+Tomorrow I give it back.
+
+¿Me ayudas?
+Help me?
+
+Ahora no puedo. Estoy ocupada.
+I can't now. I am busy.
+
+Le pregunté por Paula y entonces me contó todo.
+I asked him about Paula and then he told me everything.
+
+Ahora tengo clase. Nos vemos luego.
+I have class now. See you soon.
+
+Me voy. Después te llamo.
+I have to go. I call you later.
+
+Primero hablé con Carmen y después con Olivia.
+First I talked to Carmen and after that with Olivia.
+
+Hemos corrido y hemos llegado pronto.
+We ran and we got here early.
+
+Lo sabréis pronto.
+You will know very soon.
+
+Es pronto. La clase no empieza hasta las ocho.
+It's early. The class does not start until eight.
+
+Abel se levanta temprano, a las seis.
+Abel wakes up early, at six.
+
+Hoy quiero comer temprano. He quedado con Gonzalo a las tres.
+I want to eat early today. I'm meeting Gonzalo at three.
+
+Ayer cenamos muy tarde, a las doce.
+Yesterday, we ate very late, at midnight.
+
+Habéis llegado tarde. El concierto ya ha empezado.
+You have arrived late. The concert has already started.
+
+¿Se ha ido María? 
+Has María gone?
+
+Sí, pero vuelve pronto.
+Yes, but she comes back soon.
+
+Mamá, nos vamos.
+Mom, we are going.
+
+Volved temprano.
+Come back early.
+
+Anoche no pude dormir.
+Last night I couldn't sleep.
+
+No pude dormir anoche.
+I could not sleep last night.
+
+Ayer estuve con Antón.
+Yesterday I was with Antón.
+
+Estuve con Antón ayer.
+I was with Antón yesterday.
+
+Estuve ayer con Antón.
+I was yesterday with Antón.
+
+Ayer llegó Pablo.
+Pablo arrived yesterday.
+
+En el desierto de Atacama no llueve nunca.
+In the Atacama desert it never rains.
+
+Javier hace footing todos los días.
+Javier goes jogging every day.
+
+Todavía trabajo en el estudio de Monica.
+I'm still working at Monica's studio.
+
+¿Aún estás aquí? Creía que habías ido.
+Are you still here? I thought you had already gone.
+
+¡Es increíble! Son las doce y todavía está durmiendo.
+It's incredible! It's noon and he is still sleeping.
+
+Antes íbamos mucho a esquiar, pero ya no vamos casi nada.
+We used to go skiing a lot, but we almost don't go anymore.
+
+Ya no trabajo en la academia. Ahora trabajo en la universidad.
+I don't work at the academy anymore. Now I work at the university.
+
+No salgas. Todavía llueve.
+Don't go out. It is still raining.
+
+Puedes salir ahora. Ya no llueve.
+You can go out now. It's not raining anymore.
+
+Ya he terminado. Podemos marcharnos.
+I'm done. We can leave.
+
+Cuando llegué a casa de Damián, se había ido ya.
+When I arrived at Damián's, he had already gone.
+
+¿Has hablado ya con Pedro? Sí, hablé ayer.
+Have you talked to Pedro? Yes, I talked to him yesterday.
+
+Aún no he acabado. Esperadme un momento.
+I am not done yet. Wait a moment.
+
+¿Todavía no te has vestido? Vamos a llegar tarde.
+Are you not dressed yet? We are going to arrive late.
+
+Mar no ha encontrado trabajo todavía.
+Mar has not found a job yet.
+
+Todavía no han comido.
+They have not eaten yet.
+
+Ya han comido.
+They already ate.
+
+No te preocupes. Ya se arreglará todo.
+Don't worry. Everything will be alright.
+
+¡Ya me acuerdo! Tú eres Armando.
+I remember now. You are Armando.
+
+Ya no llueve. Ya podemos salir.
+It's not raining anymore. We can go out now.
+
+En mi casa comemos pescado de vez en cuando.
+At home we eat seafood once in a while.
+
+Luis siempre estudia por la noche.
+Luis always studies at night.
+
+Trabajo a veces por la tarde.
+Sometimes I work in the afternoon.
+
+Silvia me envía un correo electrónico de vez en cuando.
+Silvia sends me an e-mail every once in a while.
+
+Normalmente, los sábados salgo con mis amigos.
+Usually, on saturdays I go out with my friends.
+
+Nunca voy a la ópera.
+I never go to the opera.
+
+No voy nunca a la ópera.
+I never go to the opera.
+
+Me levanto temprano todos los días.
+I wake up early everyday.
+
+Todas las noches antes de acostarme leo un rato.
+Every night before going to bed I read a bit.
+
+Voy a clase de guitarra los martes.
+I go to guitar classes on tuesdays.
+
+Nos reunimos una vez al mes.
+We get together once a month.
+
+Limpiamos la casa dos veces a la semana.
+We clean the house twice a week.
+
+Como en casa de mis padres un día a la semana.
+I eat at my parent's one day a week.
+
+Una vez a la semana nos reunimos todos los amigos.
+Once a week we all get together as friends.
+
+Nos reunimos todos los amigos una vez a la semana.
+We get together as friends once a week.
+
+¿Viaja mucho a México? Dos o tres veces al año.
+You travel to Mexico a lot? Two or three times a year.
+
+Nuria trabaja mucho.
+Nuria works a lot.
+
+Julia y su hermano son bastante diferentes.
+Julia and her brother are very different.
+
+Es demasiado tarde. El avión ya ha despegado.
+It's too late. The plane has already taken off.
+
+Fidel cocina muy bien.
+Fidel cooks very well.
+
+Es algo tarde.
+It's a bit late.
+
+Este ejercicio es un poco difícil.
+This exercise is a little bit difficult.
+
+Susana es poco cariñosa.
+Susana is not very affectionate.
+
+Este hotel es demasiado caro.
+This hotel is too expensive.
+
+Gema no es nada egoísta.
+Gema is not selfish at all.
+
+Soy algo tímida.
+I am a little bit shy.
+
+Soy un poco tímida.
+I am a little bit shy.
+
+Soy poco tímida.
+I am not very shy.
+
+Beatriz trabaja mucho.
+Beatriz works a lot.
+
+Ernesto piensa bastante.
+Ernesto thinks a lot.
+
+Nati estudia algo, pero poco.
+Nati studies a bit, but not much.
+
+Este tren corre poco.
+This train doesn't run much.
+
+Felipe duerme demasiado.
+Felipe sleeps a lot.
+
+Juan no come nada.
+Juan doesn't eat anything.
+
+Luisa es muy inteligente.
+Luisa is very intelligent.
+
+Alberto cocina bastante bien.
+Alberto cooks very well.
+
+Jorge es poco estudioso.
+Jorge's doesn't study much.
+
+Habéis llegado demasiado tarde.
+You arrived very late.
+
+Consuelo sale bastante.
+Consuelo goes out a lot.
+
+Ignacio come poco.
+Ignacio doesn't eat much.
+
+Rodri habla demasiado.
+Rodri speaks too much.
+
+Clara trabaja muchas horas.
+Clara works a lot of hours.
+
+Tiene bastantes amigos.
+He has a lot of friends.
+
+Ignacio come poca carne.
+Ignacio doesn't eat a lot of meat.
+
+Bebes demasiada leche.
+You drink a lot of milk.
+
+Juan es muy trabajador.
+Juan is very hardworking.
+
+¡Este examen es facilísimo!
+This test is very easy!
+
+Estas chicas son listísimas.
+These girls are very smart.
+
+El examen fue dificilísimo.
+The test was very hard.
+
+Dunia tiene muchísimos amigos.
+Dunia has a lot of friends.
+
+Es tardísimo.
+It's very late.
+
+Sebastián trabaja muchísimo.
+Sebastián works a lot.
+
+Samuel conduce lentísimamente.
+Samuel drives very slowly.
+
+Esta ventana se abre facilísimamente.
+This window opens very easily.
+
+Gema conduce prudentemente.
+Gema drives prudently.
+
+Serafín toca el piano muy bien.
+Serafín plays the piano very well.
+
+Hans habla español perfectamente.
+Hans speaks spanish perfectly.
+
+Habla alto, por favor.
+Speak loudly, please.
+
+Mis profesores explican claro.
+My teachers explain clearly.
+
+Julia conduce muy rápido.
+Julia drives very fast.
+
+!Venga, empuja fuerte!
+Come, push hard!
+
+Se veía claramente la torre de la iglesia.
+The church tower was seen clearly.
+
+Hazlo así; es más fácil.
+Do it like this; it is easier.
+
+Alba vive alegremente.
+Alba lives happily.
+
+No vayas deprisa.
+Don't go fast.
+
+Lo hizo rápida e eficazmente.
+I did it fast and efficiently.
+
+No hay duda. Camila es la que mejor canta.
+There is no doubt. Camila is the one that sings the best.
+
+No te oigo. Habla más alto, por favor.
+I can't hear you. Speak louder please.
+
+Susana dibuja mejor que yo.
+Susana draws better than me.
+
+El agua avanza más rápido que el fuego.
+The water advances faster than the fire.
+
+Hoy hemos llegado menos tarde que ayer.
+Today we arrived earlier than yesterday.
+
+Hans habla español mejor que yo.
+Hans speaks spanish better than me.
+
+José Luis está trabajando más que nunca.
+José Luis is working more than ever.
+
+Hablas mucho en clase. No hables tanto.
+You talk to much in class. Don't speak so much.
+
+Esteban corre menos que yo.
+Estaban runs less than me.
+
+Ustedes hablan más que yo.
+You speak more than me.
+
+Anita es la que se porta menos mal.
+Anita is the one that behaves less badly.
+
+Nacho es el que peor baila en el grupo.
+Nacho is the one that dances the worst in the group.
+
+Gabriel es el que más estudia de toda la clase.
+Gabriel is the one that studies the most in the class.
+
+Manuel y Alfonso son los que menos corren del equipo.
+Manuel y Alfonso are the ones that run the less in the team.
+
+Rodolfo es el menos estudia.
+Rodolfo is the one that studies the less.
+
+¿Quién ha sido el que ha llegado más tarde?
+Who is the one that arrived the latest?
+
+No, gracias. No tomo café.
+No, thanks. I don't drink coffee.
+
+Josefina nunca tiene tiempo para nada.
+Josefina never has time for anything.
+
+Jamás he montado a caballo.
+I never have ridden a horse.
+
+¿Vas a venir mañana?
+Are you coming tomorrow?
+
+No, no puedo. Lo siento.
+No, I can't. I'm sorry.
+
+¿Estás cansado? No.
+Are you tired? No.
+
+No tengo hambre.
+I am not hungry.
+
+A Felipe no le gustaría verte así.
+Felipe wouldn't like to see you like that.
+
+Todavía no he leído el periódico.
+I haven't read the newspaper yet.
+
+Preferiría no hacerlo.
+I would rather not do it.
+
+Ayer no hice nada.
+I haven't done anything yesterday.
+
+¿Has visto mis gafas? 
+Have you seen my glasses?
+
+No las encuentro por ninguna parte.
+I can't find them anywhere.
+
+Nadie me quiere.
+No one wants me.
+
+En ninguna parte hay tranquilidad en esta ciudad.
+There is no peace anywhere in this city.
+
+Nada es imposible.
+Nothing is impossible.
+
+Nadie quiere hacerlo.
+No one wants to do it.
+
+No quiere hacerlo nadie.
+Nobody wants to do it.
+
+Jamás como carne.
+I never eat meat.
+
+Nunca se levantan antes de las nueve.
+They never wake up before nine.
+
+No he visitado nunca el museo de América.
+I have never visited the America museum.
+
+Alberto no quiere ir a la playa y tampoco quiere ir a la piscina.
+Alberto does not want to go to the beach and he doesn't want to go to the pool also.
+
+No ha venido Carlos y no ha vendio Lidia tampoco.
+Carlos has not come and much less Lidia.
