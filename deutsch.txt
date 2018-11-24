@@ -102,3 +102,141 @@ The situation was critical for doctor and patient alike.
 
 Ich schrieb an Christian Schulze, Präsident des Gesangvereins.
 I wrote to Christian Schulze, the president of the choral society.
+
+Der Mann ist dort.
+The man is there.
+
+Die Frau ist dort.
+The woman is there.
+
+Das Haus ist dort.
+The house is there.
+
+Der Stuhl ist dort.
+The chair is there.
+
+Die Straße ist dort.
+The street is there.
+
+Das Kind ist lieb.
+The child is nice.
+
+Das Pferd ist lieb.
+The horse is nice.
+
+Die Katze ist lieb.
+The cat is nice.
+
+Der Hund ist lieb.
+The dog is nice.
+
+Die Frau ist lieb.
+The woman is nice.
+
+Die U-Bahn ist schnell.
+The subway is fast.
+
+Die S-Bahn ist schnell.
+The tram is fast.
+
+Der Zug ist schnell.
+The train is fast.
+
+Das Auto ist schnell.
+The car is fast.
+
+Das Pferd ist schnell.
+The horse is fast
+
+Das Kind versteht.
+The child understands.
+
+Der Hund versteht.
+The dog understands.
+
+Die Katze versteht.
+The cat understands.
+
+Herr Wagner versteht.
+Mr. Wagner understands.
+
+Frau Wagner versteht.
+Mrs. Wagner understands.
+
+Das Essen schmeckt gut.
+The food tastes good.
+
+Der Käse schmeckt gut.
+The cheese tastes good.
+
+Der Wein schmeckt gut.
+The wine tastes good.
+
+Die Milch schmeckt gut.
+The milk tastes good.
+
+Das Wasser schmeckt gut.
+The water tastes good.
+
+Die Frau spricht.
+The woman is speaking.
+
+Herr Wagner spricht.
+Mr. Wagner is speaking.
+
+Das Kind spricht.
+The child is speaking.
+
+Frau Wagner spricht.
+Mrs. Wagner is speaking.
+
+Der Mann spricht.
+The man is speaking.
+
+Herr Wagner ist nicht da.
+Mr. Wagner is not there.
+
+Frau Wagner ist nicht da.
+Mrs. Wagner is not there.
+
+Das Auto ist nicht da.
+The car is not there.
+
+Das Hotel ist nicht da.
+The hotel is not there.
+
+Der Wein ist nicht da.
+The wine is not there
+
+Die Autobahn ist lang.
+The highway is long.
+
+Das Auto ist lang.
+The car is long.
+
+Die Straße ist lang.
+The street is long.
+
+Der Mann ist lang.
+The man is tall.
+
+Der Zug ist lang.
+The train is long.
+
+Er ist hier.
+He is here.
+
+Sie ist hier.
+She is here.
+
+Es ist hier.
+It is here.
+
+Der ist hier.
+It is here.
+
+Die ist hier.
+It is here.
+
+Das ist hier.
+It is here.
