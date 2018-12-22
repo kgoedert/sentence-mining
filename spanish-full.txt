@@ -6261,3 +6261,366 @@ Even though you don't like the soup, you have to eat it.
 
 A pesar de estar agotados, tuvimos que levantarmos temprano.
 Even though we were tired, we had to get up early.
+
+Luis hace mucho ejercicio, por eso está en forma.
+Luis does a lot of exercises, that is why he is in good shape.
+
+Había tanta gente que no pudimos entrar en el museo.
+There were so many people that we could not get in the museum.
+
+La semana pasada estuve muy ocupado, por eso no te llamé.
+Last week I was very busy, that's why I did not call you.
+
+No vi a nadie conocido en el club, así que me volví a casa.
+I didn't see anyone I knew at the club, so I went home.
+
+Empecé a trabajar en junio, por tanto no he tenido vacaciones este año.
+I started to work in june, so I didn't have vacations this year.
+
+No había plazas en el vuelo, de modo que tuvimos que ir en tren.
+There were no seats in the flight, so we had to go by train.
+
+Hay mucha gente, de manera que será mejor que te des prisa.
+There is a lot of people, so you better hurry.
+
+Corre tanto que gana todas las carreras.
+He runs so much that he wins all the races.
+
+Maite tiene tantos amigos que nunca está en casa.
+Maite has so many friends that she is never home.
+
+Come tan poco que va a enfermar.
+He eats so little that he is going to get sick.
+
+El río tenía tan poca agua que no pudimos bañarnos.
+The river had so little water that we could not bathe.
+
+Lourdes es tan culta que entiende de todo.
+Lourdes is so educated that she knows about everything.
+
+Me siento tan mal que me voy a acostar.
+I am feeling so bad, that I am going to lay down.
+
+Hay tanta gente en la fiesta que prefiro irme.
+There is so many people at the party, that I'd rather go.
+
+Había tan pocos espectadores que suspedieron la función.
+There were so few spectators that they called off the show.
+
+Aquí se trabaja mucho.
+We work a lot here.
+
+Es importante saber idiomas.
+It is important to know languages.
+
+Aquí se vive muy bien.
+We live very well here.
+
+Aquí la gente se acuesta muy tarde.
+People go to bed very late here.
+
+Aquí se acuesta uno muy tarde.
+People go to bed very late here.
+
+En España se suele cenar muy tarde.
+In Spanish they usually dine very late.
+
+Desde mi casa se puede ver el mar.
+From my house you can see the sea.
+
+No se debe hablar con la boca llena.
+One should not speak with their mouth full.
+
+Se dice que Arlindo está enfermo.
+It is said that Arlindo is ill.
+
+Se espera que ganen sin problemas.
+It is hoped that they win without any problems.
+
+Se sospecha que el ladrón estaba escondido allí.
+It is suspected that the thief was hidden there.
+
+Se supone que el Presidente lo sabe.
+The president's supposed to know.
+
+Se esperaba que llegasen todos juntos.
+They were all expected to arrive together.
+
+Era inútil explicárselo. No lo entendían.
+It was useless to explain it to them. They didn't understand.
+
+Sería injusto castigar a todos.
+It would be unfair to punish everyone.
+
+Hoy hay niebla.
+There's fog today.
+
+Ayer había mucha gente.
+There was a lot of people yesterday.
+
+Hay que preparar la comida.
+The food has to be prepared.
+
+Ayer hizo mucho frío.
+Yesterday it was very cold.
+
+Hace dos semanas que no veo a Pili.
+It has been two weeks seen I've seen Pili.
+
+Es tarde. Vámonos a casa.
+It is late. Let's go home.
+
+En verano amanece pronto.
+In summer it dawns early.
+
+El hermano de Ángel es médico.
+Ángel's brother is a doctor.
+
+Hans y Uta son alemanes. Él es de Hamburgo.
+Hans and Uta are german. He's from Hamburg.
+
+El coche de Andrés está mal aparcado.
+Andrés' car is not well parked.
+
+Sí, quiero.
+Yes, I want.
+
+Si quieres, cómpratelo.
+If you want it, buy it.
+
+¿Es para mí?
+Is it for me?
+
+Es mi padre.
+It's my father.
+
+Y tú, ¿dónde vives?
+And you, where do you live?
+
+¿Quién es tu profesor?
+Who is your teacher?
+
+Dile que te dé las llaves.
+Tell him to give you the keys.
+
+Es el padre de mi novia.
+It's my girlfriend's father.
+
+Sé hablar español.
+I can speak spanish.
+
+Se levanta muy temprano.
+He wakes up very early.
+
+No me gusta el té.
+I don't like tea.
+
+¿Te gusta el café?
+Do you like coffee?
+
+¿Dónde vives?
+Where do you live?
+
+¿Qué quieres?
+What do you want?
+
+Esta es la casa donde nací.
+This is the house where I was born.
+
+Ese es el coche que quiero.
+That is the car that I want.
+
+El secretario del Presidente es abogado.
+The President's secretary is a lawyer.
+
+¿Habéis reservado ya el hotel?
+Have already reserved the hotel?
+
+Me encanta la miel.
+I love honey.
+
+La naranja es el fruto del naranjo.
+The orange is the fruit of the orange tree.
+
+Pásame un leño, por favor?
+Pass me a log, please?
+
+¿Dónde guardáis la leña?
+Where do you keep the fire wood?
+
+El fruto del nogal es la nuez.
+The walnut fruit is the walnut.
+
+Este año hay poca fruta.
+There's few fruit this year.
+
+Me encanta la música, pero no tengo dotes para ser músico.
+I love music, but a don't have the skills to be a musician.
+
+¿Qué estudia Jaime? Física. Quiere ser físico nuclear.
+What does Jaime studies? Physics. He wants to be a nuclear physicist.
+
+El capital de esta empresa es de 20 millones.
+This company's capital is of 20 millions.
+
+Lima es la capital de Perú.
+Lima is Peru's capital.
+
+Tenho mis libros en orden alfabético.
+I have my books in alphabetical order.
+
+La policía entró en el piso con una orden de registro.
+The police went into the appartment with a search warrant.
+
+Fredi es el batería de nuesto grupo.
+Fredi is our group's drummer.
+
+Toca la batería desde muy joven.
+He plays the drums since he was very young.
+
+El cura de mi barrio es un hombre muy joven.
+My neighborhood's priest is very young.
+
+La cura de esa herida será muy dolorosa.
+The healing of that wound will be very painful.
+
+¿Has leído el editorial de hoy de El Sol?
+Have you read today's editorial of El Sol?
+
+Ana trabaja en una editorial china.
+Ana works in a chinese publishing house.
+
+¿Crees que Julia saldrá del coma?
+Do you think Julia is going to come out of the coma?
+
+No se entiende bien tu redacción, Valentín. Le faltan algunas comas.
+Your essay is not well understood, Valentin. It's missing some commas.
+
+El guía no explicó los cuadros.
+The tourist guide explained the paintings to us.
+
+He comprado una guía de Praga. Me la recomendó la guía de la agencia, Paula.
+I bought a guide to Prague. It was recommended by the agency's guide, Paula.
+
+El disco duro de este ordenador tiene mucha capacidad.
+The hard drive of this computer has a lot of capacity.
+
+¿Te vienes a la disco esta noche?
+Are you coming to the club tonight?
+
+Ese es el policía que me puso la multa.
+That is the cop that gave me the ticket.
+
+Carlos quiere ingresar el la policía.
+Carlos wants to join the police.
+
+¿Te ha visto ya el médico?
+Have you already seen the doctor?
+
+He visto a varios médicos y todos dicen que no tengo nada.
+I have seen several doctors and they all say I have nothing.
+
+Cuando estuvimos en Kenia vimos un león de cerca.
+When we were in Kenia we saw a lion up close.
+
+Si no tienen hambre, los leones no son peligrosos.
+If they are not hungry, lions are not dangerous.
+
+¿A qué hora llega el autobús?
+What time does the bus arrives?
+
+Rafa vive muy lejos. Para ir a su casa hay que coger dos autobuses.
+Rafa lives very far. To go to his house you have to take two buses.
+
+La calle Serrano está llena de boutiques.
+Serrano street is full of boutique stores.
+
+Yo me como dos kiwis todos los días.
+I eat two kiwis every day.
+
+A los niños les encantan los espaguetis.
+The kids love spaguetti.
+
+Hay que dejar los carnés en la recepción.
+You have to leave the cards at the reception.
+
+Ronaldo es muy bueno lanzando penaltis.
+Ronaldo is very good at taking penalties.
+
+Los siete samuráis es una película extraordinaria.
+The seven samurais is a great movie.
+
+Mis padres fueron hippies de jóvenes.
+My parents were hippies when they were young.
+
+Pónganos dos whiskies, por favor.
+Give us two whiskies, please.
+
+Necesito jerséis para este invierno.
+I need sweaters for this winter.
+
+Hay muchos tipos de espráis para rizar el pelo.
+There are many types of sprays to curl hair.
+
+He recebido varios faxes de clientes descontentos.
+I have received several faxes of unhappy clients.
+
+La mayoría de televisiones y videos suelen tener interfaces para programarlos.
+Most televisions and videos usually have interfaces to program them.
+
+Fuimos a dos mítines de cierre campaña.
+We went to two campaign closing rallies.
+
+Hay demasiados eslogans publicitarios.
+There are too many advertising slogans.
+
+Los líderes de los países europeos se reúnen mucho.
+The leaders of the European countries get together a lot.
+
+Los estándares de calidad de Japón son muy altos.
+Japanese quality standards are very high.
+
+Solo se sacaran tres córners en el partido.
+Only three corners were be taken out in the game.
+
+Ángel necesita dos chándals para el colegio.
+Angel needs two tracksuits for school.
+
+Ágata colecciona pósters de Julio Iglesias.
+Agate collects posters of Julio Iglesias.
+
+Julio tiene dos másters, uno en Derecho y otro en Economía.
+Julio has two masters degrees, one in Law and another in Economy.
+
+En el aeropuerto nos hicieron pasar las maletas por dos escáners.
+At the airport, they made us run our bags through two scanners.
+
+Gabriel García Márquez ha escrito varios best-sellers.
+Gabriel García Márquez has written several best sellers.
+
+Los diversos hábitats de China posibilitan la vida de una enorme variedad de fauna.
+China's diverse habitats make life possible for an enormous variety of wildlife.
+
+Tengo más de 100 cómics en mi collección.
+I have more than 100 comics in my collection.
+
+Ayer se celebraron varios referéndums en Europa.
+Yesterday several referendums were held in Europe.
+
+A Alfredo le tiembla la boca debido a sus tics nerviosos.
+Alfredo's mouth trembles because of his nervous tics.
+
+No hay muchos campings alrededor de Madrid.
+There are not many campsites around Madrid.
+
+Necesitamos al menos 50 sándwiches para la fiesta.
+We need at least 50 sandwiches for the party.
+
+En esta ciudad hay dos clubs de tenis.
+In this city there are two tennis clubs.
+
+He hecho varios test de inteligencia.
+I have taken several intelligence tests.
+
+Tengo una foto de mis bisabuelos en uno de mis álbums.
+I have a picture of my great-grandparents in one of my albums.

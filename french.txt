@@ -1191,3 +1191,513 @@ We just saw his new film.
 
 Nous venons de le voir.
 We have just seen it.
+
+Le journaliste a pris les photos.
+The journalist took the pictures.
+
+Le journaliste les a pris.
+The journaliste took them.
+
+Le comptable avait trié tout ces papier.
+The accountant had sorted all these papers.
+
+Le comptable les avait tous triés.
+The accountant had sorted them all out.
+
+Le pompier a éteint les flammes.
+The fireman extinguished the flames.
+
+Le pompier les a éteintes.
+The fireman extinguished them.
+
+Le guitariste a joué ses morceaux favoris.
+The guitarist played his favorite pieces.
+
+Le guitariste les a joués.
+The guitariste played them.
+
+Appelez Jacques!
+Call Jacques!
+
+Appelez-le!
+Call him!
+
+Rendez les clés à Antoine!
+Give the keys back to Antoine!
+
+Rendez-les à Antoine!
+Give them back to Antoine!
+
+Achetez ces fleurs!
+Buy these flowers!
+
+Achetez-les!
+Buy them!
+
+N'éteint pas la lumière!
+Do not turn off the light!
+
+Ne l'éteins pas!
+Do not turn it off!
+
+N'appele pas Caroline si tard!
+Do not call Caroline so late!
+
+Ne l'appelle pas si tard!
+Do not call her so late!
+
+Invitez-moi à la soirée, s'il vous plaît.
+Please invite me to the party.
+
+Tu parle au journaliste.
+You are talking to the journaliste.
+
+Tu lui parle.
+You are talking to him.
+
+Tu réponds à Andrée.
+You answer Andrée.
+
+Tu lui réponds.
+You answer her.
+
+Vous écrivez à l'agent.
+You write to the agent.
+
+Vous lui écrivez.
+You write to him.
+
+Vous expliquez la situation aux clients.
+You explain the situation to the customers.
+
+Vous leur expliquez la situation.
+You explain the situation to them.
+
+Elle nous enverra une confirmation.
+She'll send us a confirmation.
+
+Je vous donnerai un jour de congé.
+I'll give you a day off.
+
+Il me rendra le livre demain.
+He'll return the book to me tomorrow.
+
+Ils t'apporteront des fleurs.
+They will bring you some flowers.
+
+Lui as-tu parlé de ce livre?
+Did you talk to him about his book?
+
+M'avez-vous envoyé un courriel?
+Did you send me an e-mail?
+
+Vous fournit-il de bons produits?
+Does he provide you with good products?
+
+Leur avez-vous envoyé les révisions?
+Did you send them the revisions?
+
+Elle ne nous envoie jamais rien.
+She never sends us anything.
+
+Tu m'apportes que des mauvaises nouvelles.
+You only bring me bad news.
+
+Vous ne lui avez pas dit la vérité.
+You did not tell him the truth.
+
+Ils te prêteront leur voiture.
+They'll lend you their car.
+
+Téléphone-moi demain matin!
+Call me tomorrow morning!
+
+Prêtez-lui votre dictionnaire!
+Lend him your dictionnary!
+
+Apportez-nous de nouveaux accessoires!
+Bring us new props!
+
+Envoyez-leur le script!
+Send them the script!
+
+Ne lui donnez rien!
+Don't give him anything!
+
+Ne nous téléphonez pas si tard!
+Don't call us so late!
+
+Elle répond à l'annonce.
+She answers the ad.
+
+Elle y répond.
+She answers it.
+
+Ils s'habituent à cette ville.
+They are getting used to this city.
+
+Ils s'y habituent.
+They are getting used to it.
+
+Nous pensons à la situation.
+We are thinking about the situation.
+
+Nous y pensons.
+We are thinking about it.
+
+Tu t'intéresses à cette pièce?
+Are you interested in this play?
+
+Tu t'y intéresses?
+Are you interested in it?
+
+Ils on réfléchi à cette question.
+They thought about this issue.
+
+Ils y ont réfléchi.
+They thought about it.
+
+Nous avons répondu à vos questions.
+We answered your questions.
+
+Nous y avons répondu.
+We answered to them.
+
+Il a renoncé à sa carrière.
+He gave up his carreer.
+
+Il y a renoncé.
+He gave it up.
+
+Je n'ai pas goûté à cette sauce.
+I did not taste this sauce.
+
+Je n'y ai pas goûte.
+I did not taste it.
+
+Nous nous occuperons de tous les détails.
+We'll take care of all the details.
+
+Nous nous en occuperons.
+We'll take care of them.
+
+Elle ne se souvient pas de cette histoire.
+She does not remember this story.
+
+Elle ne s'en souvient pas.
+She does not remember it.
+
+Avez-vous peur de sa réaction?
+Are you afraid of his reaction?
+
+En avez-vous peur?
+Are you afraid of it?
+
+Il a parlé de sa nouvelle idée à Théo.
+He talked about his new idea to Théo.
+
+Il en a parlé à Théo.
+He talked about it to Théo.
+
+Elle s'est chargée de cette affaire difficile.
+She took care of this difficult affaire.
+
+Elle s'en est chargée.
+She took care of it.
+
+Je me suis approché des remparts.
+I came closer to the ramparts.
+
+Je m'en suis approché.
+I came closer to them.
+
+Tu t'es débarassé de tout ces choses inutiles.
+You got rid of all these useless things.
+
+Tu t'en es débarassé.
+You got rid of them.
+
+Elle te donne le rôle.
+She gives you the part.
+
+Elle te le donne.
+She gives it to you.
+
+Nous vous envoyons le contrat.
+We are sending you the contract.
+
+Nous vous l'envoyons.
+We are sending it to you.
+
+Vous nous montrez les costumes.
+You show us the costumes.
+
+Vous nous les montrez.
+You show them to us.
+
+Il m'offre la bague de sa mère.
+He gives me his mother's ring.
+
+Il me l'offre.
+He gives it to me.
+
+J'envoie la lettre au rédacteur.
+I send the letter to the editor.
+
+Je la lui envoie.
+I send it to him.
+
+Elle tend le document au médecin.
+She hands the document to the doctor.
+
+Elle lui tend.
+She hands it to him.
+
+Nous offrons ce livre aux participants.
+We give this book to the participants.
+
+Nous le leur offrons.
+We give it to them.
+
+Nous montrons la route aux touristes.
+We show the road to the tourists.
+
+Nous la leur montrons.
+We show it to them.
+
+Il a écrit ces articles.
+He wrote these articles.
+
+Ils les a écrits.
+He wrote them.
+
+Elle a fait ces tartes délicieuses.
+She made these delicious pies.
+
+Elles les a faites.
+She made them.
+
+J'ai envoyé les letrres.
+I sent the letters.
+
+Je les ai envoyés.
+I sent them.
+
+Tu a mis ta nouvelle chemise.
+You put on your new shirt.
+
+Tu l'as mise.
+You put it on.
+
+Elle lui offert des fleurs.
+She gave her some flowers.
+
+Elle lui en a offert.
+She gave her some.
+
+Il leur a donné des explications.
+He gave them some explanations.
+
+Il leur en a donné.
+He gave them some.
+
+Nous lui avons prêté de la farine.
+We lent him some flour.
+
+Nous lui en avons prêté.
+We lent him some.
+
+Tu nous enverras des photos.
+You'll send us some pictures.
+
+Tu nous en enverras.
+You'll send us some.
+
+Lui, c'est un grand musicien!
+He is a great musician!
+
+Moi, je déteste les lentilles!
+I hate lentils!
+
+Lui, il est toujours contre tout!
+He is always against everything!
+
+Elle, c'est vraiment ma meilleure amie!
+She's really my best friend!
+
+C'est moi qui ai trouvé la solution.
+I found the solution.
+
+C'est lui qui a raison.
+He is right.
+
+C'est toi qui dois aller les chercher.
+You have to go pick them up.
+
+Ce ne sont pas eux qui pourront le faire!
+They won't be able to do it!
+
+Bruno et moi, nous allons à Tokyo.
+Bruno and I are going to Tokyo.
+
+Lui et sa mère, ils sont toujours d'accord sur tout.
+He and his mother always agree on everything.
+
+Toi et ta collègue, vous avez gâché la soirée!
+You and your collegue spoiled the party!
+
+Elle et Michel, ce sont les meilleurs voisins.
+She and Michel are the best neighbours.
+
+Qui était absent hier? Moi.
+Who was absent yesterday? Me.
+
+Qui ne veut pas travailler le dimanche? Nous.
+Who does not want to work on Sundays? We don't.
+
+Elle aime le chocolat. Moi aussi.
+She likes chocolate. So do I.
+
+Elle n'aime pas le bruit. Moi non plus.
+She does not like noise. Neither do I.
+
+Lui, il est pharmacien. Et elle, qu'est-ce qu'elle fait?
+He is a pharmacist. And what does she do?
+
+Moi, je pense que cette décision est absurde. Et toi, quelle est ton opinion?
+I think, this decision is absurd. And what is your opinion?
+
+Eux, ils ne dépense jamais un centime! Et lui, est-ce qu'il est moins radin?
+They never spend a cent! Is he less cheap?
+
+Elle, elle a toujours de la chance. Et lui, a-t-il la même veine?
+She's always lucky. Does he have the same luck?
+
+Qu'est-ce qu'il a contre eux?
+What does he have against them?
+
+Cet employé traivaille pour nous.
+This employee works for us.
+
+Vous allez chez eux ce soir?
+Are you going to their place tonight?
+
+Il n'achète rien sans elle.
+He never buys anything without her.
+
+À qui est cette écharpe? C'est à moi!
+Whose scarf is this? It's mine!
+
+À qui sont ces gants? Ce sont à lui!
+Whose glove are these?  They are mine!
+
+C'est à toi? Non, ce n'est pas à moi!
+Is it yours? No, it is not mine!
+
+Caroline est plus intelligente que lui.
+Caroline is brighter than he is.
+
+Il court plus vite que toi.
+He runs faster than you do.
+
+Ils sont aussi riches qu'elle.
+They are as rich as she is.
+
+Elle n'est pas aussi douée que vous.
+She is not as gifted as you are.
+
+Elle rédige tous ses discours elle-même.
+She writes all her speeches herself.
+
+Écrivez-le vous-même!
+Write it yourself!
+
+C'est lui-même qui l'a dit.
+He said it himself.
+
+On est soi-Même conscient de ses propres erreurs.
+One is aware of one's own mistakes.
+
+Je parle de ce film.
+I am talking about this film.
+
+J'en parle.
+I am talking about it.
+
+Je parle de ce metteur en scène.
+I am talking about this film director.
+
+Je parle de lui.
+I am talking about him.
+
+Je pense à ce livre.
+I am thinking about his book.
+
+J'y pense.
+I am thinking about it.
+
+Je pense à cette photographe.
+I am thinking about this photographer.
+
+Je pense à elle.
+I am thinking about her.
+
+Tu as besoin de cet avocat.
+You need this lawyer.
+
+Tu as besoin de lui.
+You need him.
+
+Nous parlons de nos enfants.
+We are talking about our children.
+
+Nous parlons d'eux.
+We are talking about them.
+
+Fais attention à cet homme!
+Watch out for this man!
+
+Fais attention à lui!
+Watch out for him!
+
+Il a peur de son professeur de chimie.
+He is afraid of his chemistry teacher.
+
+Il a peur de lui.
+He is afraid of him.
+
+Nous tenons à nos amis.
+We are attached to our friends.
+
+Nous tenos à eux.
+We are attached to them.
+
+Elle songe à son fils.
+She is thinking about her son.
+
+Elle songe à lui.
+She is thinking about him.
+
+Nous nous intéressons à cette candidate.
+We are interested in this candidate.
+
+Nous nous intéressons à elle.
+We are interested in her.
+
+Elle s'est débarrasée de cet employé incompétent.
+She got rid of this incompetent employee.
+
+Elle s'est débarrasée de lui.
+She got rid of him.
+
+Il ne veut pas s'occuper de vos enfants.
+He does not want to take care of your children.
+
+Il ne veut pas s'occuper d'eux.
+He does not want to take care of them.
+
+Nous nous méfions de ce consultant.
+We do not trust this consultant.
+
+Nous nous méfions de lui.
+We do not trust him.
