@@ -1,0 +1,717 @@
+Das Gras ist grün. 
+The grass is green.
+
+Die Blume ist rosa. 
+The flower is pink.
+
+Der Baum ist groß. 
+The tree is tall.
+
+Das Auto ist schnell. 
+The car is fast.
+
+Das Gold ist schwer. 
+The gold is heavy.
+
+Die Flasche ist groß. 
+The bottle is big.
+
+Das Hotel ist teuer. 
+The hotel is expensive.
+
+Das Café ist gut. 
+The café is good.
+
+Der Flughafen ist groß. 
+The airport is big.
+
+Die Milch ist groß. 
+The glass of milk is big.
+
+Das grüne Gras 
+The green grass
+
+Die rosa Blume 
+The pink flower
+
+Der große Baum 
+The tall tree
+
+Das schnelle Auto 
+The fast car
+
+Das schwere Gold 
+The heavy gold
+
+Das teure Hotel 
+The expensive hotel
+
+Das gute Café 
+The good café
+
+Die kalte Milch 
+The cold milk
+
+Die warme Milch 
+The warm milk
+
+grünes Gras 
+green grass
+
+eine rosa Blume 
+a pink flower
+
+ein großer Baum 
+a tall tree
+
+ein schnelles Auto 
+a fast car
+
+schweres Gold 
+heavy gold
+
+ein teures Hotel 
+an expensive hotel
+
+ein gutes Café 
+a good café
+
+Der große Mann ist hier. 
+The tall man is here.
+
+Die schöne Frau ist hier. 
+The beautiful woman is here.
+
+Das schöne Mädchen ist hier. 
+The beautiful girl is here.
+
+Die schwarze Katze ist hier. 
+The black cat is here.
+
+Das große Kind ist hier. 
+The tall child is here
+
+Das gute Brot ist dort. 
+The good bread is there.
+
+Die große Haltestelle ist dort. 
+The large station is there.
+
+Das teure Auto ist dort. 
+The expensive car is there.
+
+Der gute Wein ist dort. 
+The good wine is there.
+
+Der gute Käse ist dort. 
+The good cheese is there.
+
+Das schöne Haus ist dort. 
+The beautiful house is there.
+
+Der große Flughafen ist dort. 
+The big airport is there.
+
+Der Käse schmeckt lecker. 
+The cheese tastes good.
+
+Das Brot schmeckt lecker. 
+The bread tastes good.
+
+Der Wein schmeckt lecker. 
+The wine tastes good.
+
+Die Milch schmeckt lecker. 
+The milk tastes good.
+
+Das Wasser schmeckt lecker. 
+The water tastes good.
+
+Ich mag grün. 
+I like green.
+
+Er mag rot. 
+He likes red.
+
+Sie mag gelb. 
+She likes yellow.
+
+Sie mag blau. 
+She likes blue.
+
+Wir mögen orange. 
+We like orange.
+
+Wir mögen braun. 
+We like brown.
+
+Er mag schwarz. 
+He likes black.
+
+Ich mag weiß. 
+I like white.
+
+Ich mag rosa. 
+I like pink.
+
+Er mag weiß. 
+He likes white.
+
+Das Auto ist blau. 
+The car is blue.
+
+Das blaue Auto ist da.
+The blue car is there.
+
+Das Auto ist grün.
+The car is green.
+ 
+Das grüne Auto ist da.
+The green car is there.
+
+Das Auto ist schwarz. 
+The car is black.
+
+Das schwarze Auto ist da.
+The black car is there.
+
+Das Auto ist orange. 
+The car is orange.
+
+Das orangene Auto ist da.
+The orange car is there.
+
+Das Auto ist rot. 
+The car is red.
+
+Das rote Auto ist da.
+The red car is there.
+
+Das Auto ist blau. 
+The car is blue.
+
+Das blaue Auto ist da.
+The blue car is there.
+
+Ein Auto ist grün. 
+A car is green.
+
+Hier ist kein grünes Auto.
+There is no green car here.
+
+Ein Auto ist blau. 
+A car is blue.
+
+Hier ist kein blaues Auto.
+There is no blue car here.
+
+Ein Auto ist gelb. 
+A car is yellow.
+
+Hier ist kein gelbes Auto.
+There is no yellow car here.
+
+Ein Auto ist weiß.
+A car is white.
+
+Hier ist kein weißes Auto.
+There is no white car here.
+
+Ein Auto ist braun. 
+A car is brown.
+
+Hier ist kein braunes Auto.
+There is no brown car here.
+
+Ein Auto ist grün. 
+A car is green.
+
+Hier ist kein grünes Auto.
+There is no green car here.
+
+Der Ball ist gelb.
+The ball is yellow.
+
+Der gelbe Ball ist hier.
+The yellow ball is here.
+
+Der Ball ist orange.
+The ball is orange. 
+
+Der orangene Ball ist hier.
+The orange ball is here.
+
+Der Ball ist schwarz. 
+The ball is black.
+
+Der schwarze Ball ist hier.
+The black ball is here.
+
+Der Ball ist blau.
+The ball is blue. 
+
+Der blaue Ball ist hier.
+The blue ball is here.
+
+Der Ball ist rot.
+The ball is red. 
+
+Der rote Ball ist hier.
+The red ball is here.
+
+Ein Ball ist braun. 
+There is a is brown ball.
+
+Hier ist kein brauner Ball.
+There is no brown ball here.
+
+Ein Ball ist gelb.
+There is a is yellow ball. 
+
+Hier ist kein gelber Ball.
+There is no yellow ball here.
+
+Ein Ball ist orange.
+There is a is orange ball. 
+
+Hier ist kein orangener Ball.
+There is no orange ball here.
+
+Ein Ball ist weiß.
+There is a is white ball. 
+
+Hier ist kein weißer Ball.
+There is no white ball here.
+
+Ein Ball ist rot.
+There is a is red ball. 
+
+Hier ist kein roter Ball.
+There is no red ball here.
+
+Die Blume ist rosa. 
+The flower is pink.
+
+Die schöne rosa Blume ist da.
+The beautiful pink flower is there.
+
+Die Blume ist gelb.
+The flower is yellow. 
+
+Die schöne gelbe Blume ist da.
+The beautiful yellow flower is there.
+
+Die Blume ist orange.
+The flower is orange. 
+
+Die schöne orangene Blume ist da.
+The beautiful orange flower is there.
+
+Die Blume ist rot. 
+The flower is red.
+
+Die schöne rote Blume ist da.
+The beautiful red flower is there.
+
+Die Blume ist weiß.
+The flower is white. 
+
+Die schöne weiße Blume ist da.
+The beautiful white flower is there.
+
+Eine Blume ist gelb. 
+There is a yellow flower.
+
+Eine schöne gelbe Blume ist da.
+There is a beautiful yellow flower there.
+
+Eine Blume ist rosa. 
+There is a pink flower.
+
+Eine schöne rosa Blume ist da.
+There is a beautiful pink flower there.
+
+Eine Blume ist weiß. 
+There is a white flower.
+
+Eine schöne weiße Blume ist da.
+There is a beautiful white flower there.
+
+Eine Blume ist orange. 
+There is a orange flower.
+
+Eine schöne orangene Blume ist da.
+There is a beautiful orange flower there.
+
+Eine Blume ist rot. 
+There is a red flower.
+
+Eine schöne rote Blume ist da.
+There is a beautiful red flower there.
+
+Das Auto ist lang. 
+The car is long
+
+Das lange Auto ist dort.
+The long car is there.
+
+Der Zug ist lang.
+The train is long 
+
+Der lange Zug ist dort.
+The long train is there.
+
+Die Straße ist lang. 
+The street is long
+
+Die lange Straße ist dort.
+The long street is there.
+
+Die Autobahn ist lang. 
+The highway is long
+
+Die lange Autobahn ist dort.
+The long highway is there.
+
+Der Mann ist lang. 
+The man is tall
+
+Der lange Mann ist dort.
+The tall main is there.
+
+das schöne Mädchen
+the beautiful girl
+
+der schöne Mann
+the beautiful man
+
+das schöne Kind
+the beautiful child
+
+die schöne Frau
+the beautiful woman
+
+der schöne Hund
+the beautiful dog
+
+die schöne Katze
+the beautiful cat
+
+das schöne Haus
+the beautiful house
+
+der schöne Baum
+the beautiful tree
+
+das große Kind
+the tall child
+
+die große Frau
+the tall woman
+
+der große Mann
+the tall man
+
+das große Hotel
+the big hotel
+
+der große Flughafen
+the big airport
+
+das große Auto
+the big car
+
+der große Bahnhof
+the big station
+
+die große Katze
+the big cat
+
+die große Milch
+the big milk
+
+ein schöner Baum 
+a beautiful tree 
+
+ein schönes Kind 
+a beautiful child 
+
+ein schöner Hund
+a beautiful dog 
+
+eine schöne Frau
+a beautiful woman 
+
+ein schöner Mann
+a beautiful man 
+
+ein schönes Haus
+a beautiful house
+
+eine schöne Katze
+a beautiful cat
+
+ein schönes Mädchen
+a beautiful child
+ 
+eine schöne Straße
+a beautiful street
+
+ein großer Mann
+a tall man
+
+ein großes Kind 
+a tall child
+
+ein großer Flughafen 
+a big airport
+
+ein großes Auto 
+a big car
+
+eine große Frau 
+a tall woman
+
+ein großes Hotel 
+a big hotel
+
+eine große Milch. 
+a big milk
+
+eine große Katze 
+a big cat
+
+ein großer Bahnhof 
+a big station
+
+eine große Straße 
+a big street
+
+ein schnelles Auto
+a fast car
+
+ein schneller Zug
+a fast train
+
+ein schnelles Restaurant
+a fast Restaurant
+
+ein schneller Hund
+a fast dog
+
+ein schnelles Pferd
+a fast horse
+
+eine schnelle Katze
+a fast cat
+
+ein schnelles Taxi
+a fast taxi
+
+ein schneller Computer
+a fast computer
+
+ein leckeres Brot
+a tasty bread
+
+ein leckerer Wein
+a tasty wine
+
+ein leckeres Wasser
+a tasty water
+
+ein leckerer Käse
+a tasty cheese
+
+eine leckere Milch
+a tasty milk
+
+ein teures Haus
+an expensive house
+
+ein teurer Wein
+an expensive wine
+
+ein teures Hotel
+an expensive hotel
+
+ein teurer Käse
+an expensive cheese
+
+ein teures Brot
+an expensive bread
+
+eine teure Katze
+an expensive car
+
+ein teures Auto
+an expensive car
+
+eine teure Blume
+an expensive flower
+
+ein teures Restaurant
+an expensive restaurant
+
+eine liebe Katze
+a lovely cat
+
+die liebe Katze
+the lovely cat
+
+das liebe Pferd
+the lovely horse
+
+ein liebes Pferd
+a lovely horse
+
+ein lieber Mann
+a lovely man
+
+der liebe Mann
+the lovely man
+
+das liebe Kind
+the lovely cat
+
+ein liebes Kind
+a lovely child
+
+eine liebe Frau
+a lovely woman
+
+die liebe Frau
+the lovely woman
+
+der liebe Hund
+the lovely dog
+
+ein lieber Hund
+a lovely dog
+
+der große Zug
+the big train
+
+ein großer Zug
+a big train
+
+ein großes Messer
+a big knife
+
+das große Messer
+the big knife
+
+die große Flasche
+the big bottle
+
+eine große Flasche
+a big bottle
+
+ein großer Ball
+a big ball
+
+der große Ball
+the big ball
+
+der kleine Baum
+the short tree
+
+das kleine Kind
+the small child
+
+das schnelle Kind
+the fast child
+
+die schnelle Katze
+the fast cat
+
+das kleine Hotel
+the small hotel
+
+das kleine Brot
+the small bread
+
+das leckere Brot
+the tasty bread
+
+der leckere Wein
+the tasty wine
+
+der schöne Wein
+the beautiful wine
+
+die schöne Flasche
+the beautiful bottle
+
+die teure Flasche
+the expensive bottle
+
+der teure Käse
+the expensive cheese
+
+der kleine Käse
+the small cheese
+
+das kleine Auto
+das kleine Mädchen
+der teure Baum
+das teure Pferd
+das schnelle Pferd
+ein kleiner Baum
+ein kleines Kind
+ein kleines Brot
+ein schöner Wein
+eine schöne Flasche
+eine teure Flasche
+ein kleiner Käse
+ein kleines Hotel
+ein kleines Auto
+ein kleines Mädchen
+ein teurer Baum
+ein teures Pferd
+Der große Mann ist dort.
+Der große Baum ist hier.
+Der schöne Baum ist hier.
+Der schöne Baum ist da.
+Die schöne Frau ist da.
+Die kleine Frau ist da.
+Die kleine Frau ist dort.
+Das kleine Mädchen ist dort.
+Das große Mädchen ist dort.
+Das große Mädchen ist drüben.
+Die große Milch ist drüben.
+Der große Mann spricht.
+Der große Mann steht.
+Das große Pferd steht.
+Das schwarze Pferd steht.
+Das schwarze Pferd kommt.
+Die schwarze Katze kommt.
+Die schnelle Katze kommt.
+Ein großer Mann ist dort.
+Ein großer Mann ist hier.
+Eine große Frau ist hier.
+Eine schöne Frau ist hier.
+Eine schöne Frau ist da.
+Ein schönes Kind ist da.
+Ein schnelles Kind ist da.
+Ein schnelles Kind ist dort.
+Eine schnelle Katze ist dort.
+Ein großer Mann spricht.
+Ein großer Mann steht.
+Ein großes Pferd steht.
+Ein schwarzes Pferd steht.
+Ein schwarzes Pferd kommt.
+Eine schwarze Katze kommt.
+Eine schnelle Katze kommt.
+eine liebe Katze die liebe Katze
+der schnelle Hund ein schneller Hund
+ein kaltes Wasser das kalte Wasser
+das weiße Haus ein weißes Haus
+ein langes Auto das lange Auto
+der rote Ball ein roter Ball
+eine rote Blume die rote Blume
+das leckere Brot ein leckeres Brot
+ein großer Mann der große Mann
+die große Station eine große Station
+ein schönes Mädchen das schöne Mädchen
+der große Flughafen ein großer Flughafen
