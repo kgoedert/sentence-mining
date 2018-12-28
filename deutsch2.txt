@@ -653,65 +653,285 @@ der kleine Käse
 the small cheese
 
 das kleine Auto
+the small car
+
 das kleine Mädchen
+the little girl
+
 der teure Baum
+the expensive tree
+
 das teure Pferd
+the expensive horse
+
 das schnelle Pferd
+the fast horse
+
 ein kleiner Baum
+a small tree
+
 ein kleines Kind
+a young child
+
 ein kleines Brot
+a small bread
+
 ein schöner Wein
+a fine wine
+
 eine schöne Flasche
+a nice bottle
+
 eine teure Flasche
+an expensive bottle
+
 ein kleiner Käse
+a small cheese
+
 ein kleines Hotel
+a small hotel
+
 ein kleines Auto
+a small car
+
 ein kleines Mädchen
+a little girl
+
 ein teurer Baum
+an expensive tree
+
 ein teures Pferd
+an expensive horse
+
 Der große Mann ist dort.
+The tall man's there.
+
 Der große Baum ist hier.
+The big tree is here.
+
 Der schöne Baum ist hier.
+The beautiful tree is here.
+
 Der schöne Baum ist da.
+The beautiful tree is there.
+
 Die schöne Frau ist da.
+The beautiful woman is there.
+
 Die kleine Frau ist da.
+The little woman is there.
+
 Die kleine Frau ist dort.
+The little woman is there.
+
 Das kleine Mädchen ist dort.
+The little girl is there.
+
 Das große Mädchen ist dort.
+The tall girl is there.
+
 Das große Mädchen ist drüben.
+The tall girl is over there.
+
 Die große Milch ist drüben.
+The big milk is over there.
+
 Der große Mann spricht.
+The tall man is talking.
+
 Der große Mann steht.
+The tall man is standing.
+
 Das große Pferd steht.
+The big horse is standing.
+
 Das schwarze Pferd steht.
+The black horse is standing.
+
 Das schwarze Pferd kommt.
+The black horse is coming.
+
 Die schwarze Katze kommt.
+The black cat is coming.
+
 Die schnelle Katze kommt.
+The fast cat is coming.
+
 Ein großer Mann ist dort.
+A tall man is there.
+
 Ein großer Mann ist hier.
+A tall man is here.
+
 Eine große Frau ist hier.
+A tall woman is here.
+
 Eine schöne Frau ist hier.
+A beautiful woman is here.
+
 Eine schöne Frau ist da.
+A beautiful woman is there.
+
 Ein schönes Kind ist da.
+A beautiful child is there.
+
 Ein schnelles Kind ist da.
+A fast child is there.
+
 Ein schnelles Kind ist dort.
+A fast child is there.
+
 Eine schnelle Katze ist dort.
+A fast cat is there.
+
 Ein großer Mann spricht.
+A tall man speaks.
+
 Ein großer Mann steht.
+A tall man is standing.
+
 Ein großes Pferd steht.
+A big horse is standing.
+
 Ein schwarzes Pferd steht.
+A black horse is standing.
+
 Ein schwarzes Pferd kommt.
+A black horse is coming.
+
 Eine schwarze Katze kommt.
+A black cat is coming.
+
 Eine schnelle Katze kommt.
-eine liebe Katze die liebe Katze
-der schnelle Hund ein schneller Hund
-ein kaltes Wasser das kalte Wasser
-das weiße Haus ein weißes Haus
-ein langes Auto das lange Auto
-der rote Ball ein roter Ball
-eine rote Blume die rote Blume
-das leckere Brot ein leckeres Brot
-ein großer Mann der große Mann
-die große Station eine große Station
-ein schönes Mädchen das schöne Mädchen
-der große Flughafen ein großer Flughafen
+A fast cat comes.
+
+eine liebe Katze 
+a lovely cat
+
+der schnelle Hund
+the fast dog
+
+ein kaltes Wasser 
+a cold water
+
+das kalte Wasser
+the cold water
+
+das weiße Haus
+the white house 
+
+ein weißes Haus
+a white house
+
+ein langes Auto 
+a big car
+
+eine rote Blume 
+a red flower
+
+die rote Blume 
+the red flower
+
+die große Station 
+the big station
+
+eine große Station  
+a big station
+
+Guten Tag, Herr Wagner. 
+Good day, Mr. Wagner.
+
+Guten Abend, Frau Wagner. 
+Good evening, Mrs. Wagner.
+
+Hallo, Thomas. 
+Hello, Thomas.
+
+Auf Wiedersehen, Christine. 
+Good-bye, Christine.
+
+Bis dann, Georg. 
+See you later, George
+
+Tschüss, Frau Müller. 
+Bye, Mrs. Müller.
+
+Gute Nacht, Kinder. 
+Good night, children.
+
+Wie geht es Ihnen? 
+How are you doing?
+
+Wie geht es? 
+How are you doing?
+
+Wie geht's? 
+How are you doing?
+
+Mir geht es gut. 
+I am doing fine.
+
+Ihm geht's gut. 
+He is doing fine.
+
+Ihr geht es gut. 
+She is doing fine.
+
+Mir geht's gut. 
+I am doing fine.
+
+Wie geht es Frau Wagner?  Es geht ihr gut.
+
+Wie geht es Ihnen? Es geht mir gut.
+
+Wie geht es Herrn Wagner? Es geht ihm gut.
+
+Wie geht es ihr? Es geht ihr gut.
+
+Wie heißen Sie? 
+What is your name?
+
+Wie heißt sie? 
+What is her name?
+
+Wie heißt er? How
+What is his name?
+
+Wie heißt das Kind? 
+What is the child's name?
+
+Wie ist Ihr Name? 
+What is your name?
+
+Wie heißt Ihr Kind? 
+What is your child's name?
+
+Wie heißt Ihr Ehemann? 
+What is your husband's name?
+
+Wie heißt Ihre Ehefrau? 
+What is your wife's name?
+
+Wie ist sein Name? 
+What is his name?
+
+Wie ist ihr Name? 
+How is her name? 
+
+Ich heiße Thomas. 
+My name is Thomas.
+
+Ich heiße Christine. 
+My name is Christine.
+
+Er heißt Herr Wagner. 
+His name is Mr. Wagner.
+
+Sie heißt Frau Dr. Wagner. 
+Her name is Dr. Wagner.
+
+Ich bin Susanne. 
+I am Susanne.
+
+Ich bin Johannes. 
+I am Johannes.
