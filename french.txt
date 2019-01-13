@@ -817,9 +817,6 @@
 # Je termine à six heures.
 # I finish at six.
 # 
-# Il fail chaud.
-# It is hot.
-# 
 # Il fait froid.
 # It is cold.
 # 
@@ -1701,3 +1698,72 @@ We do not trust this consultant.
 
 Nous nous méfions de lui.
 We do not trust him.
+
+Il n'a pas de chapeau.
+He doesn't have a hat.
+
+Il fait chaud.
+It is hot.
+
+J'apporte mes notes et tu apporte les tiennes.
+I bring my notes and you bring yours.
+
+Tu fais tes devoirs et elle fait les siens.
+You do your homework and she does hers.
+
+Nous aimons votre chien et vous aimez le nôtre.
+We like your dog and you like yours.
+
+Les leurs sont de grande valeur.
+They are quite valuable.
+
+Vous prenez vos billets et nous prenons les nôtres.
+You take your tickets and we take ours.
+
+Il a téléphoné à son avocat et elle a téléphoné au sien.
+He called his lawyer and she called hers.
+
+Elle a besoin de ton aide et tu as besoin de la sienne.
+She needs your help and you need hers.
+
+Cette valise est à moi.
+This suitcase is mine.
+
+Ce blouson en cuir est à lui.
+This leather jacket is his.
+
+Ces vélos sont à eux.
+These bikes are theirs.
+
+Ces journaux sont à elles.
+These newspapers are theirs.
+
+C'est le sien? Non, c'est le mien!
+Is it his? No, it's mine!
+
+C'est ton avis et c'est aussi le sien.
+It's your opinion and it's also his.
+
+C'est un de vos associé?
+Is he a business partner of yours.
+
+C'est un des mes collègues.
+He's a collegue of mine.
+
+À la tienne!
+Cheers! 
+
+À la votre!
+Cheers!
+
+Après de mois de cauchemar, elle est de nouveau parmi les siens.
+After some nightmarish months, she is back with her family again.
+
+Leur benjamin a encore fait des siennes!
+Their youngest son has been acting up again!
+
+Il faut y mettre du tien!
+You have to make an effort!
+
+Si elle n'y met pas du sien, elle ne réussira jamais.
+If she does not make an effort, she'll never succeed.

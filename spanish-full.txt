@@ -580,9 +580,6 @@
 # Roberto es simpático.
 # Roberto is nice.
 # 
-# María teine los ojos azules.
-# María has blue eyes.
-# 
 # Juan está muy delgado.
 # Juan is very thin.
 # 
@@ -6717,3 +6714,232 @@ Tomorrow there's a rally at the university.
 
 Me he dejado la cartera en el colegio.
 I left my wallet at the school.
+
+Luis no trabaja mucho.
+Luis does not work much.
+
+¿Quién es tu profesora? Lucía Moreno.
+Who's your teacher? Lucía Moreno.
+
+Hace mucho que no veo a Sarasola.
+I haven't seen Sarasola for a long time.
+
+El agente Serrano está enfermo. No va a venir hoy.
+Agent Serrano is sick. He is not coming today.
+
+Agente Serrano, tengo un trabajo para usted. Diga, teniente.
+Agent Serrano, I have a job for you. Say it, lieutenant.
+
+El Julián que llamó el otro día no es mi primo. Es un compañero de Ana.
+The Julian who called the other day is not my cousin. He is Ana's companion.
+
+La Aguirre que tú dices no es mi doctora.
+The Aguirre you are talking about is not my doctor.
+
+Los Javieres suelen ser muy pesados.
+The Javiers are usually very heavy.
+
+Los Garcías son muy numerosos en España.
+The Garcías are very numerous in Spain.
+
+Solo hay un Leonardo da Vinci. Es inimitable.
+There's only one Leonardo da Vinci. He's inimitable.
+
+En la entrevista se vio a un Felipe Alonso emocionado.
+In the interview, an emotional Felipe Alonso was seen.
+
+Te busca un tal Armando Guerra.
+A Armando Guerra is looking for you.
+
+Ha preguntado por ti una tal Celia.
+A Celia has asked about you.
+
+La Callas fue una cantante mítica.
+Callas was a mitical singer.
+
+En mi pueblo me llaman el Francés porque viví muchos años en Francia.
+In my village they call me the french because I lived many years in France.
+
+El Roto es un excelente humorista.
+Roto is an excellent comedian.
+
+Los Borbones reinan en España desde 1700.
+The Bourbons reign in Spain since 1700.
+
+Los Borgia fueran grandes mecenas.
+The Borgias were great patrons.
+
+Mañana vienen los Moreno a cenar.
+Tomorrow the Morenos are coming for dinner.
+
+Las Bronte fueron grandes escritoras.
+The Brontes were great writers.
+
+Tengo un Picasso en el salón.
+I have a Picasso in the living room.
+
+Los Picasso que me enseñaste son falsos.
+The Picassos you showed me are fake.
+
+Me gustaría tener un Mercedes.
+I would like to have a Mercedes.
+
+Ese es el Mercedes que me gusta.
+That is the Mercedes I like.
+
+Mercedes es una buena marca.
+Mercedes is a good brand.
+
+Picasso fue un pintor excepcional.
+Picasso was an exceptional paintor.
+
+Europa es un continente pequeño.
+Europe is a small continent.
+
+Madrid es la capital de España.
+Madrid is Spain's capital.
+
+La Europa del primer tercio del siglo XX fue muy violenta.
+Europe in the first third of the 20th century was very violent.
+
+Lo que se necesita es una Europa unida.
+What is needed is a united Europe.
+
+Trabajamos por un Madrid más limpio.
+We work for a cleaner Madrid.
+
+María tiene los ojos azules.
+María has blue eyes.
+
+Aurora es una santa. Cómo se sacrifica por su familia.
+Aurora is a saint. How she sacrifices herself for her family.
+
+¡Tengo un hambre!
+I'm very hungry!
+
+Miguel y Mario ya tienen 20 años. Están hechos unos hombres.
+Miguel and Mario are 20 years old. They are grown ass men.
+
+Ese tío es un chalado. Está siempre haciendo cosas raras.
+That guy is a nutcase. He's always doing strange things.
+
+Está hecho todo un hombre.
+He's a grown ass man.
+
+Lucía es una señora abogada.
+Lucía is a great lawyer.
+
+Gabriel vive en una señora casa.
+Gabriel lives in a great house.
+
+Los Gómez tienen un señor problema con la hipoteca.
+The Gomezes have a big mortgage problem.
+
+Hemos traído de La Mancha unos señores melones.
+We have brought some great melons from La Mancha.
+
+Jesús es todo un caballero.
+Jesus is a complete gentleman.
+
+Lucía es toda una señora abogada.
+Lucía is a great lawyer.
+
+¡Excelente! Es todo un señor cuadro.
+Excellent! It's a great painting.
+
+¿Has visto 'Las golondrinas'? Sí. Es un desastre de película.
+Have you seen 'Las golondrinas'? Yes. It's a terrible movie.
+
+Juan es un encanto de persona. ¡Qué amable es!
+Juan is a charming person. How kind he is!
+
+No te perdiste nada. Fue un aburrimiento de fiesta.
+You didn't miss a thing. It was a very boring party.
+
+Las Cicladas son una maravilla de islas.
+Las Cicladas are wonderful islands.
+
+¡Hace un viento!
+It's very windy!
+
+¡Tienen una suerte!
+You're very lucky!
+
+¡Tengo un sueño terrible!
+I'm very sleepy!
+
+¡Pasamos un hambre!
+We're starving!
+
+¡Tengo una de trabajo!
+I have a lot of work!
+
+Sonia está mal. Dice unas tonterías.
+Sonia is not well. She's talking nonsense.
+
+¡Tengo una de libros!
+I have a lot of books!
+
+¡La sed que tengo!
+What a thirst I have!
+
+!El frío que hacía ayer en la sierra!
+It was cold yesterday in the mountains!
+
+!Las calamidades que pasamos en la guerra!
+The calamities we went through in the war!
+
+!El grito que dio tu madre cuando vio la rata!
+The scream your mother gave when she saw the rat!
+
+No te imaginas los dolores que tengo.
+You can't imagine the pains I have.
+
+¿Te acuerdas del hambre que pasamos en la guerra?
+Do you remember the hunger we went through in the war?
+
+!La de libros que tiene Jaime en su casa!
+The amount of books that Jaime has at home!
+
+!La de chistes que contó Álvaro ayer!
+The jokes Alvaro told yesterday!
+
+La tontería que dice Carlos.
+The nonsense Carlos says.
+
+¿Te imaginas la de hambre que habrá pasado esa gente?
+Can you imagine how hungry those people must have been?
+
+Ten cuidado. No sabes lo mal que conduce Pedro.
+Be careful. You don't know how badly Pedro drives.
+
+!Lo lista que es esta niña!
+How smart this girl is!
+
+¡Lo bien que he comido hoy!
+How well I ate today!
+
+¿Has visto lo mal que canta Alfonso?
+Have you seen how badly Alfonso sings?
+
+No te imaginas lo bien que hemos comido en se restaurante.
+You can't imagine how well we've eaten in this restaurant.
+
+¡Lo contenta que se puso Aurora cuando nos vio!
+How happy Aurora was when she saw us!
+
+!Lo traviesos que son tus hijos, Carmen!
+How naughty your children are, Carmen!
+
+¡Lo que te quiere Luis!
+How Luis loves you!
+
+!Lo que comió Andrés ayer!
+The amount Andrés has eaten yesterday!
+
+¿Visteis lo que comió Andrés ayer?
+Did you see what Andres ate yesterday?
+
+¡Lo que habla tu prima!
+How your cousin talks!
+

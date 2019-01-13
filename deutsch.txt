@@ -1583,3 +1583,6 @@ I am Susanne.
 
 Ich bin Johannes. 
 I am Johannes.
+
+# Diese hier sind gerade das Richtige. Geben Sie mir bitte drei Stück!
+# These here are the best. Please, give me three pieces.
