@@ -206,217 +206,217 @@
 # The hotel is not there.
 # 
 # Der Wein ist nicht da.
-# The wine is not there
+# # The wine is not there
+# # 
+# # Die Autobahn ist lang.
+# # The highway is long.
+# # 
+# # Das Auto ist lang.
+# # The car is long.
+# # 
+# # Die Straße ist lang.
+# # The street is long.
+# # 
+# Der Mann ist lang.
+# The man is tall.
 # 
-# Die Autobahn ist lang.
-# The highway is long.
+# Der Zug ist lang.
+# The train is long.
 # 
-# Das Auto ist lang.
-# The car is long.
+# Er ist hier.
+# He is here.
 # 
-# Die Straße ist lang.
-# The street is long.
+# Sie ist hier.
+# She is here.
 # 
-Der Mann ist lang.
-The man is tall.
-
-Der Zug ist lang.
-The train is long.
-
-Er ist hier.
-He is here.
-
-Sie ist hier.
-She is here.
-
-Es ist hier.
-It is here.
-
-Der ist hier.
-It is here.
-
-Die ist hier.
-It is here.
-
-Das ist hier.
-It is here.
-
-Die Katze ist dort.
-The cat is there.
-
-Sie ist dort.
-She is there.
-
-Der Computer ist dort.
-The computer is there.
-
-Er ist dort.
-He is there.
-
-Frau Wagner ist dort.
-Frau Wagner is there.
-
-Herr Wagner ist dort.
-Herr Wagner is there.
-
-Die Haltestelle ist dort.
-The bus stop is there.
-
-Der Zug ist dort.
-The train is there.
-
-Das Haus ist dort.
-The house is there.
-
-Es ist dort.
-It is there.
-
-Der Laden ist dort.
-The shop is there.
-
-Das Essen ist dort.
-The food is there.
-
-Die Autobahn ist dort. 
-The highway is there.
-
-Die Katze ist hier.
-The cat is hier.
-
-Der Hund ist hier.
-The dog is here.
-
-Die Frau ist hier.
-The woman is here.
-
-Das Wasser ist hier.
-The water is here.
-
-Der Wein ist hier.
-The wine is here.
-
-Die Milch ist hier.
-The milk is here.
-
-Der Ball ist hier.
-The ball is here.
-
-Das Pferd ist hier.
-The horse is here.
-
-Herr Wagner ist hier.
-Herr Wagner is here.
-
-Frau Wagner ist hier.
-Frau Wagner is here.
-
-Eine Frau ist dort. 
-A woman is over there.
-
-Ein Ball ist dort. 
-A ball is over there.
-
-Eine Flasche ist dort. 
-A bottle is over there.
-
-Ein Hotel ist dort. 
-A hotel is over there.
-
-Eine Haltestelle ist dort. 
-A station is over there.
-
-Eine Maus läuft herum. 
-A mouse is running around.
-
-Eine Katze läuft herum. 
-A cat is running around.
-
-Ein Kind läuft herum. 
-A child is running around.
-
-Ein Pferd läuft herum. 
-A horse is running around.
-
-Ein Hund läuft herum. 
-A dog is running around.
-
-Dort ist ein Wein. 
-There is a glass of wine.
-
-Dort ist ein Brot. 
-There is a piece of bread.
-
-Dort ist ein Computer. 
-There is a computer.
-
-Dort ist eine Milch. 
-There is a glass of milk.
-
-Dort ist ein Laden. 
-There is a store.
-
-Dort ist eine Gabel. 
-There is a fork.
-
-Ein Zug fährt weg. 
-A train is pulling out.
-
-Ein Auto fährt weg. 
-A car is driving away.
-
-Eine Frau fährt weg. 
-A woman is driving away.
-
-Ein Taxi fährt weg. 
-A taxi is driving away.
-
-Ein Mann fährt weg. 
-A man is driving away.
-
-Ein Brot wäre gut. 
-A piece of bread would be nice.
-
-Ein Wein wäre gut. 
-A glass of wine would be nice.
-
-Ein Käse wäre gut. 
-A piece of cheese would be nice.
-
-Ein Wasser wäre gut. 
-A glass of water would be nice.
-
-Ein Stuhl wäre gut. 
-A chair would be nice.
-
-Eine Milch wäre gut. 
-A glass of milk would be nice.
-
-Der Mann kommt. 
-The man is coming.
-
-Eine Frau kommt. 
-A woman is coming.
-
-Das Auto kommt. 
-The car is coming.
-
-Ein Zug kommt. 
-A train is coming.
-
-Das Kind kommt. 
-The child is coming.
-
-Ein Ball kommt. 
-A ball is coming.
-
-Die Milch kommt. 
-The milk is coming.
-
-Ein Hund sitzt. 
-A dog is sitting.
-
-Die Katze sitzt. 
-The cat is sitting.
+# Es ist hier.
+# It is here.
+# 
+# Der ist hier.
+# It is here.
+# 
+# Die ist hier.
+# It is here.
+# 
+# Das ist hier.
+# It is here.
+# 
+# Die Katze ist dort.
+# The cat is there.
+# 
+# Sie ist dort.
+# She is there.
+# 
+# Der Computer ist dort.
+# The computer is there.
+# 
+# Er ist dort.
+# He is there.
+# 
+# Frau Wagner ist dort.
+# Frau Wagner is there.
+# 
+# Herr Wagner ist dort.
+# Herr Wagner is there.
+# 
+# Die Haltestelle ist dort.
+# The bus stop is there.
+# 
+# Der Zug ist dort.
+# The train is there.
+# 
+# Das Haus ist dort.
+# The house is there.
+# 
+# Es ist dort.
+# It is there.
+# 
+# Der Laden ist dort.
+# The shop is there.
+# 
+# Das Essen ist dort.
+# The food is there.
+# 
+# Die Autobahn ist dort. 
+# The highway is there.
+# 
+# Die Katze ist hier.
+# The cat is hier.
+# 
+# Der Hund ist hier.
+# The dog is here.
+# 
+# Die Frau ist hier.
+# The woman is here.
+# 
+# Das Wasser ist hier.
+# The water is here.
+# 
+# Der Wein ist hier.
+# The wine is here.
+# 
+# Die Milch ist hier.
+# The milk is here.
+# 
+# Der Ball ist hier.
+# The ball is here.
+# 
+# Das Pferd ist hier.
+# The horse is here.
+# 
+# Herr Wagner ist hier.
+# Herr Wagner is here.
+# 
+# Frau Wagner ist hier.
+# Frau Wagner is here.
+# 
+# Eine Frau ist dort. 
+# A woman is over there.
+# 
+# Ein Ball ist dort. 
+# A ball is over there.
+# 
+# Eine Flasche ist dort. 
+# A bottle is over there.
+# 
+# Ein Hotel ist dort. 
+# A hotel is over there.
+# 
+# Eine Haltestelle ist dort. 
+# A station is over there.
+# 
+# Eine Maus läuft herum. 
+# A mouse is running around.
+# 
+# Eine Katze läuft herum. 
+# A cat is running around.
+# 
+# Ein Kind läuft herum. 
+# A child is running around.
+# 
+# Ein Pferd läuft herum. 
+# A horse is running around.
+# 
+# Ein Hund läuft herum. 
+# A dog is running around.
+# 
+# Dort ist ein Wein. 
+# There is a glass of wine.
+# 
+# Dort ist ein Brot. 
+# There is a piece of bread.
+# 
+# Dort ist ein Computer. 
+# There is a computer.
+# 
+# Dort ist eine Milch. 
+# There is a glass of milk.
+# 
+# Dort ist ein Laden. 
+# There is a store.
+# 
+# Dort ist eine Gabel. 
+# There is a fork.
+# 
+# Ein Zug fährt weg. 
+# A train is pulling out.
+# 
+# Ein Auto fährt weg. 
+# A car is driving away.
+# 
+# Eine Frau fährt weg. 
+# A woman is driving away.
+# 
+# Ein Taxi fährt weg. 
+# A taxi is driving away.
+# 
+# Ein Mann fährt weg. 
+# A man is driving away.
+# 
+# Ein Brot wäre gut. 
+# A piece of bread would be nice.
+# 
+# Ein Wein wäre gut. 
+# A glass of wine would be nice.
+# 
+# Ein Käse wäre gut. 
+# A piece of cheese would be nice.
+# 
+# Ein Wasser wäre gut. 
+# A glass of water would be nice.
+# 
+# Ein Stuhl wäre gut. 
+# A chair would be nice.
+# 
+# Eine Milch wäre gut. 
+# A glass of milk would be nice.
+# 
+# Der Mann kommt. 
+# The man is coming.
+# 
+# Eine Frau kommt. 
+# A woman is coming.
+# 
+# Das Auto kommt. 
+# The car is coming.
+# 
+# Ein Zug kommt. 
+# A train is coming.
+# 
+# Das Kind kommt. 
+# The child is coming.
+# 
+# Ein Ball kommt. 
+# A ball is coming.
+# 
+# Die Milch kommt. 
+# The milk is coming.
+# 
+# Ein Hund sitzt. 
+# A dog is sitting.
+# 
+# Die Katze sitzt. 
+# The cat is sitting.
 
 Ein Kind sitzt. 
 A child is sitting.

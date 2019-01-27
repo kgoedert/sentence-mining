@@ -970,213 +970,213 @@
 # Le plus beau du monde.
 # The most beautiful in the world.
 # 
-# Le garçon le plus beau.
-# The most beautiful boy.
-
-Elle sait écrire.
-She knows how to write.
-
-Elle connaît l'alphabet.
-She knows the alphabet.
-
-Vous savez dessiner.
-You can draw.
-
-Vous conaissez la perspective.
-You know perspective.
-
-Elle sait lire.
-She can read.
-
-Il sait conduire.
-He can drive.
-
-Je peux lire sans lunettes.
-I can read without glasses.
-
-Je bois du café.
-I drink some coffee.
-
-Ils boivent de la bière.
-They drink some bier.
-
-Vous bouvez de l'eau.
-You drink some water.
-
-Il veut attraper le bus.
-He wants to catch the bus.
-
-Il doit courir.
-He must run.
-
-Il peut arriver à temps.
-He can arrive on time.
-
-Il faut manger pour vivre.
-It is necessary to eat to live.
-
-Un peu de sucre.
-A bit of sugar.
-
-Il est petit.
-He is small.
-
-Il est professeur.
-He is a teacher.
-
-C'est mon voisin.
-This is my neighbour.
-
-C'est le prof.
-It is the teacher.
-
-Il est idiot.
-He is stupid.
-
-C'est un idiot.
-He is an idiot.
-
-Elle est étudiante.
-She is a student.
-
-C'est une étudiante.
-She is a student.
-
-C'est Paul.
-This is Paul.
-
-C'est une amie anglaise.
-She is an english friend.
-
-C'est elle que j'aime.
-It is her that I love.
-
-Le café brésilien est meilleur.
-Brazilian coffee is better.
-
-Non, il n'y a pas soif.
-No, he is not thirsty.
-
-Il est chirurgien.
-He is a surgeon.
-
-Elles jouent dans le salon.
-They are playing on the living room.
-
-Il est assis sur la chaise.
-He is sitting on the chair.
-
-Elle est très polluée.
-It is very polluted.
-
-On voudrait tout réussir.
-One would like to succeed in everything.
-
-On ne peut pas penser à tout.
-One cannot think of everything.
-
-En France, on boit du vin.
-In France, one drinks wine.
-
-Au Japon, on boit du sake.
-In Japan, one drinks saké.
-
-On va au cinéma cet après-midi?
-Shall we go to the movies this afternoon?
-
-Julien et moi, on passe toujours nos vacances en Corse.
-Julien and I, we always spend our vacation in Corsica.
-
-Ah, on s'amuse ici!
-Ah, we are having fun here!
-
-Alors, on se promène au lieu de faire ses devoirs!
-So, we are taking a walk instead of doing our homework!
-
-Ici, on parle anglais.
-Here, we speak english.
-
-On n'a pas encore trouvé de solution.
-A solution has not yet been found.
-
-L'artiste la chante.
-The artist sings it.
-
-Quentin l'appelle.
-Quentin calls him.
-
-Il la prend.
-He makes it.
-
-L'infirmier les soigne.
-The nurse takes care of them.
-
-Il m'appelle.
-He is calling me.
-
-Nous vous remercions.
-We thank you.
-
-Elle t'invite.
-She invites you.
-
-Ils nous accueillent.
-They greet us.
-
-Nous n'acceptons pas l'offre.
-We do not accept the offer.
-
-Nous ne l'acceptons pas.
-We do not accept it.
-
-Ils ne comprennent pas la question.
-They don't understand the question.
-
-Ils ne la comprennent pas.
-They don't understand it.
-
-Elle ne suit pas les directives.
-She doesn't follow the directions.
-
-Elle ne les suit pas.
-She does not follow them.
-
-Connaissez-vous ce dentiste?
-Do you know this dentist?
-
-Le connaissez-vous?
-Do you know him?
-
-Approuvez-vous sa décision?
-Do you approve of his decision?
-
-L'approuvez-vous?
-Do you approve of it?
-
-Aimez-vous les chansons de Brel?
-Do you like Brel's songs?
-
-Les aimez-vous?
-Do you like them?
-
-Emmenez-vous les enfants au cirque?
-Are you taking the children to the circus?
-
-Les emmenez-vous au cirque?
-Are you taking them to the circus?
-
-Pouvez-vous contacter le journaliste?
-Can you contact the journalist?
-
-Pouvez-vous le contacter?
-Can you contact him?
-
-Il doit finir son article.
-He must finish his article.
-
-Il doit le finir.
-He must finish it.
-
+# # Le garçon le plus beau.
+# # The most beautiful boy.
+# 
+# Elle sait écrire.
+# She knows how to write.
+# 
+# Elle connaît l'alphabet.
+# She knows the alphabet.
+# 
+# Vous savez dessiner.
+# You can draw.
+# 
+# Vous conaissez la perspective.
+# You know perspective.
+# 
+# Elle sait lire.
+# She can read.
+# 
+# Il sait conduire.
+# He can drive.
+# 
+# Je peux lire sans lunettes.
+# I can read without glasses.
+# 
+# Je bois du café.
+# I drink some coffee.
+# 
+# Ils boivent de la bière.
+# They drink some bier.
+# 
+# Vous bouvez de l'eau.
+# You drink some water.
+# 
+# Il veut attraper le bus.
+# He wants to catch the bus.
+# 
+# Il doit courir.
+# He must run.
+# 
+# Il peut arriver à temps.
+# He can arrive on time.
+# 
+# Il faut manger pour vivre.
+# It is necessary to eat to live.
+# 
+# Un peu de sucre.
+# A bit of sugar.
+# 
+# Il est petit.
+# He is small.
+# 
+# Il est professeur.
+# He is a teacher.
+# 
+# C'est mon voisin.
+# This is my neighbour.
+# 
+# C'est le prof.
+# It is the teacher.
+# 
+# Il est idiot.
+# He is stupid.
+# 
+# C'est un idiot.
+# He is an idiot.
+# 
+# Elle est étudiante.
+# She is a student.
+# 
+# C'est une étudiante.
+# She is a student.
+# 
+# C'est Paul.
+# This is Paul.
+# 
+# C'est une amie anglaise.
+# She is an english friend.
+# 
+# C'est elle que j'aime.
+# It is her that I love.
+# 
+# Le café brésilien est meilleur.
+# Brazilian coffee is better.
+# 
+# Non, il n'y a pas soif.
+# No, he is not thirsty.
+# 
+# Il est chirurgien.
+# He is a surgeon.
+# 
+# Elles jouent dans le salon.
+# They are playing on the living room.
+# 
+# Il est assis sur la chaise.
+# He is sitting on the chair.
+# 
+# Elle est très polluée.
+# It is very polluted.
+# 
+# On voudrait tout réussir.
+# One would like to succeed in everything.
+# 
+# On ne peut pas penser à tout.
+# One cannot think of everything.
+# 
+# En France, on boit du vin.
+# In France, one drinks wine.
+# 
+# Au Japon, on boit du sake.
+# In Japan, one drinks saké.
+# 
+# On va au cinéma cet après-midi?
+# Shall we go to the movies this afternoon?
+# 
+# Julien et moi, on passe toujours nos vacances en Corse.
+# Julien and I, we always spend our vacation in Corsica.
+# 
+# Ah, on s'amuse ici!
+# Ah, we are having fun here!
+# 
+# Alors, on se promène au lieu de faire ses devoirs!
+# So, we are taking a walk instead of doing our homework!
+# 
+# Ici, on parle anglais.
+# Here, we speak english.
+# 
+# On n'a pas encore trouvé de solution.
+# A solution has not yet been found.
+# 
+# L'artiste la chante.
+# The artist sings it.
+# 
+# Quentin l'appelle.
+# Quentin calls him.
+# 
+# Il la prend.
+# He makes it.
+# 
+# L'infirmier les soigne.
+# The nurse takes care of them.
+# 
+# Il m'appelle.
+# He is calling me.
+# 
+# Nous vous remercions.
+# We thank you.
+# 
+# Elle t'invite.
+# She invites you.
+# 
+# Ils nous accueillent.
+# They greet us.
+# 
+# Nous n'acceptons pas l'offre.
+# We do not accept the offer.
+# 
+# Nous ne l'acceptons pas.
+# We do not accept it.
+# 
+# Ils ne comprennent pas la question.
+# They don't understand the question.
+# 
+# Ils ne la comprennent pas.
+# They don't understand it.
+# 
+# Elle ne suit pas les directives.
+# She doesn't follow the directions.
+# 
+# Elle ne les suit pas.
+# She does not follow them.
+# 
+# Connaissez-vous ce dentiste?
+# Do you know this dentist?
+# 
+# Le connaissez-vous?
+# Do you know him?
+# 
+# Approuvez-vous sa décision?
+# Do you approve of his decision?
+# 
+# L'approuvez-vous?
+# Do you approve of it?
+# 
+# Aimez-vous les chansons de Brel?
+# Do you like Brel's songs?
+# 
+# Les aimez-vous?
+# Do you like them?
+# 
+# Emmenez-vous les enfants au cirque?
+# Are you taking the children to the circus?
+# 
+# Les emmenez-vous au cirque?
+# Are you taking them to the circus?
+# 
+# Pouvez-vous contacter le journaliste?
+# Can you contact the journalist?
+# 
+# Pouvez-vous le contacter?
+# Can you contact him?
+# 
+# Il doit finir son article.
+# He must finish his article.
+# 
+# Il doit le finir.
+# He must finish it.
+# 
 Je vais lire tous les documents.
 I am going to read all the documents.
 
@@ -1767,3 +1767,495 @@ You have to make an effort!
 
 Si elle n'y met pas du sien, elle ne réussira jamais.
 If she does not make an effort, she'll never succeed.
+
+Son appartement coûtait cher. Le mien aussi.
+His apartment was expensive. So was mine.
+
+Nos meubles sont très modernes. Les miens aussi.
+Our furniture is very modern. So is mine.
+
+Vos réponses ne sont pas correctes. Les siennes non plus.
+Your answers are not right. His either.
+
+Son appartement n'est pas bruyant. Le tien non plus.
+His apartment is not noisy. Yours either.
+
+Cette dame est celle qui habitait autrefois à côté.
+That woman is the one who used to live next door.
+
+Il a adopté la méthode de Gérard. Non, c'est celle de Francine.
+He adopted Gerard's method. No, it's Francine's.
+
+À qui est ce téléphone? C'est celui de Juliette?
+Whose phone is this? Is it Juliette's?
+
+Où se trouve le pont Alexander III?
+Where is the Alexander III bridge?
+
+La ville principal est à cent kilomètres d'ici.
+The main town is a hundred kilometers away.
+
+Prenez le chemin sur la droite.
+Take the path on the right.
+
+Le réchauffement de la planète est le sujet de sa conférence.
+Global warming is the topic of this lecture.
+
+Les enfants jouent dans le jardins.
+The children are playing on the garden.
+
+L'ami de Sonia est japonais.
+Sonia's friend is japanese.
+
+Est-ce qu'il y a une piscine?
+Is there a swimming pool?
+
+Elle a acheté un vélo.
+She bought a bike.
+
+Nous avons vu des lapins dans le jardin.
+We saw rabbits in the garden.
+
+Il a acheté des rideaux pour le salon.
+He bought curtains for the living room.
+
+Il a un nouveau chien.
+He has a new dog.
+
+Tu veux emprunter un de mes livres?
+Do you want to borrow one of my books?
+
+voilà Mademoiselle Courtois 
+Oh, there's Miss Courtois
+
+bonjour, Janine 
+Hello, Janine
+
+bonjour, Madame 
+Hello Madam
+
+très bien, merci 
+very well, thank you
+
+de vous présenter 
+to present to you
+
+je suis heureux de faire votre connaissance 
+I am happy to make your acquaintance
+
+bonjour, Monsieur 
+Hello Sir
+
+oui, merci 
+yes, thank you
+
+est-ce que 
+introduction to a question
+
+ils sont toujours ici? 
+are they still here?
+
+et ma sœur est 
+and my sister is
+
+dites-leur le bonjour 
+tell them hello
+
+je suis pressé 
+I am in a hurry
+
+à bientôt 
+see you soon
+
+quelle heure est-il? 
+what time is it?
+
+il est une heure
+it is one o'clock
+
+aller au Café de Paris 
+to go to the Café de Paris
+
+c'est un très bon restaurant 
+it is a very good restaurant
+
+il est près d'ici
+it is near here
+
+Tiens, voilà Mademoiselle Courtois. 
+Oh, there's Miss Courtois.
+
+Bonjour, Madame. Comment allez-vous? 
+Hello, Mrs. Durand. How are you?
+
+Très bien, merci. 
+Very well, thank you.
+
+Permettez-moi de vous présenter Monsieur Lelong. 
+May I introduce Mr. Lelong to you.
+
+Je suis heureux de faire votre connaissance, Mademoiselle. 
+I'm happy to meet you, Miss (Courtois).
+
+Est-ce que vous avez des nouvelles de votre frère? 
+Do you have news from your brother?
+
+Oui, merci. Il est à Lyon maintenant. 
+Yes, thank you. He's in Lyon now.
+
+Est-ce que vos parents sont toujours en vacances? 
+Are your parents still on vacation?
+
+Oui, et ma sœur est avec eux. 
+Yes, and my sister is with them.
+
+Dites-leur le bonjour de ma part. 
+Send them my best regards.
+
+Je n'y manquerai pas. 
+I certainly will.
+
+Excusez-moi, je suis pressée. 
+Excuse me, I'm in a hurry
+
+A bientôt, j'espère. 
+See you soon, I hope.
+
+Où est-ce que nous allons déjeuner? 
+Where are we going to have lunch?
+
+Est-ce que vous voulez aller au Café de Paris? 
+Do you want to go to the Café de Paris?
+
+Mon frère va bien. 
+My brother is doing well.
+
+Mon père va bien. 
+My father is doing well.
+
+Mon fils va bien. 
+My son is doing well.
+
+Mon mari va bien. 
+My husband is doing well.
+
+Ma femme va bien. 
+My wife is doing well.
+
+Mon enfant va bien. 
+My child is doing well.
+
+Mon ami va bien 
+My friend is doing well.
+
+Il va bien. 
+He is doing well.
+
+Ma sœur va bien aujourd'hui. 
+My sister is doing well today.
+
+Ma mère va bien aujourd'hui. 
+My mother is doing well today.
+
+Ma fille va bien aujourd'hui. 
+My daughter is doing well today.
+
+Ma femme va bien aujourd'hui. 
+My wife is doing well today.
+
+Mon amie va bien aujourd'hui. 
+My friend is doing well today.
+
+Elle va bien aujourd'hui. 
+She is doing well today.
+
+Est-ce qu'elle va au café? 
+Is she going to the café?
+
+Est-ce qu'elle va à Paris? 
+Is she going to Paris?
+
+Est-ce qu'elle va au restaurant? 
+Is she going to the restaurant?
+
+Est-ce qu'elle va à Lyon? 
+Is she going to Lyon?
+
+Est-ce qu'elle va en classe? 
+Is she going to the class?
+
+Est-ce qu'elle va au café? 
+Is she going to the café?
+
+Est-ce qu'elle va en vacances? 
+Is she going on vacation?
+
+Est-ce qu'elle va au restaurant? 
+Is she going to the restaurant?
+
+Où est-ce que vous allez? 
+Where are you going?
+
+Où est-ce nous allons? 
+Where are we going?
+
+Où est-ce qu'il va? 
+Where is he going?
+
+Où est-ce qu'elle va? 
+Where is she going?
+
+Quand est-ce que vous allez à Paris? 
+When are you going to Paris?
+
+Quand est-ce que nous allons à Lyon? 
+When are we going to Lyon?
+
+Quand est-ce que vous allez au café? 
+When are you going to the café?
+
+Quand est-ce que nous allons au restaurant? 
+When are we going to the restaurant?
+
+Pourquoi est-ce qu'elle va à Lyon? 
+Why is she going to Lyon?
+
+Quand est-ce qu'elle va à Lyon? 
+When is she going to Lyon?
+
+Avec qui est-ce qu'elle va à Lyon? 
+With whom is she going to Lyon?
+
+A quelle heure est-ce qu'elle va à Lyon? 
+At what time is she going to Lyon?
+
+Je sais qu'il est une heure. 
+I know it's one o'clock.
+
+Je sais qu'elle est ici. 
+I know she's here.
+
+Je sais qu'elle va bien. 
+I know she's doing well.
+
+Je sais qu'ils sont pressés. 
+I know they're in a hurry.(men)
+
+Je sais qu'elles sont pressées. 
+I know they're in a hurry.
+
+J'espère que c'est ici. 
+I hope it's here.
+
+J'espère que c'est bon. 
+I hope it's good.
+
+J'espère que vous avez des nouvelles. 
+I hope you have (some) news.
+
+J'espère que nous allons déjeuner. 
+I hope we're going to lunch.
+
+J'espère que vous allez bien. 
+I hope you're doing well.
+
+Il est heureux de faire votre connaissance.
+He's happy to meet you.
+
+Elle est heureuse de faire votre connaissance.
+She's happy to meet you.
+
+Mon père est heureux de faire votre connaissance.
+My father is happy to meet you.
+
+Ma mère est heureuse de faire votre connaissance.
+My mother is happy to meet you.
+
+Mon ami est heureux de faire votre connaissance.
+My friend is happy to meet you. (M)
+
+Mon amie est heureuse de faire votre connaissance.
+My friend is happy to meet you. (F)
+
+Ils sont heureux de faire votre connaissance.
+They are happy to meet you. (M)
+
+Elles sont heureuses de faire votre connaissance.
+They are happy to meet you. (F)
+
+Elle est heureuse de parler français.
+She's happy to speak french.
+
+Elle est heureuse de déjeuner avec vous.
+She's happy to have lunch with you.
+
+Elle est heureuse de parler anglais.
+She's happy to speak english.
+
+Elle est heureuse de vous transmettre les nouvelles.
+She is happy to share the news with you.
+
+Elle est heureuse de vous présenter son amie.
+She is happy to introduce you to her friend.
+
+Elle est heureuse de déjeuner au restaurant.
+She is happy to have lunch at the restaurant.
+
+Il est heureux d'être à Bordeaux.
+He is happy to be in Bordeaux.
+
+Il est heureux d'aller au café.
+He's happy to go to the café.
+
+Il est heureux d'être ici.
+He is happy to be here.
+
+Il est heureux d'entendre les nouvelles.
+He is happy to hear the news.
+
+Il est heureux d'être avec eux.
+He is happy to be with them.
+
+Il est heureux d'aller à Paris.
+He is happy to go to Paris.
+
+Il est heureux d'être à l'heure.
+He's happy to be on time.
+
+Il est heureux d'être en France.
+He is happy to be in France.
+
+Il est heureux d'avoir un enfant.
+He is happy to have a child.
+
+Il est heureux d'être avec vous.
+He is happy to be with you.
+
+Il est heureux d'aller au restaurant.
+He's happy to go to the restaurant.
+
+Il est heureux d'être au café.
+He's happy to be at the café.
+
+Il est heureux d'être à Toulouse.
+He is happy to be in Toulouse.
+
+Il est à Lyon.
+He's in Lyon.
+
+Vos parents sont à Lyon.
+Your parents are in Lyon.
+
+Ils sont à Lyon.
+They are in Lyon.
+
+Vos sœurs sont à Lyon.
+Your sisters are in Lyon.
+
+Elles sont à Lyon.
+They are in Lyon.
+
+Mon père est à Lyon.
+My father is in Lyon.
+
+Ma sœur est à Lyon.
+My sister is in Lyon.
+
+Elle est à Lyon.
+She's in Lyon.
+
+Il est à Lyon.
+He's in Lyon.
+
+Sophie est à Lyon.
+Sophie is in Lyon.
+
+Les parents sont à Lyon.
+The parents are in Lyon.
+
+Les enfants sont à Lyon.
+The children are in Lyon.
+
+M. Lelong est à Lyon.
+Mr. Lelong is in Lyon.
+
+Il est au café.
+He's at the coffee shop.
+
+Il est à Biarritz.
+He's in Biarritz.
+
+Il est en retard.
+He's late. He's late.
+
+Il est en vacances.
+He's on vacation.
+
+Il est au restaurant.
+He's at the restaurant.
+
+Il est en France.
+He's in France.
+
+Il est au café.
+He's at the coffee shop.
+
+Il est à Lyon.
+He's in Lyon.
+
+Est-ce qu'ils sont toujours en vacances?
+Are they still on vacation? (M)
+
+Est-ce qu'elles sont toujours en vacances?
+Are they still on vacation? (F)
+
+Est-ce qu'il est toujours en vacances?
+Is he still on vacation?
+
+Est-ce qu'elle est toujours en vacances?
+Is she still on vacation?
+
+Est-ce que nous sommes toujours en vacances?
+Are we still on vacation?
+
+Est-ce que vous êtes toujours en vacances?
+Are you still on vacation?
+
+Est-ce qu'ils sont toujours à Grenoble?
+Are they still in Grenoble?
+
+Est-ce qu'ils sont toujours à Lyon?
+Are they still in Lyon?
+
+Est-ce qu'ils sont toujours au café?
+Are they still at the coffee shop?
+
+Est-ce qu'ils sont toujours au restaurant?
+Are they still at the restaurant?
+
+Est-ce qu'ils sont toujours en classe?
+Are they still in class?
+
+Est-ce qu'ils sont toujours à l'heure?
+Are they always on time?
+
+Est-ce qu'ils sont toujours en France?
+Are they still in France?
+
+Est-ce qu'ils sont toujours en retard?
+Are they always late?
+
+Est-ce qu'ils sont toujours à Marseille?
+Are they still in Marseille?
+
+Est-ce qu'ils sont toujours pressés?
+Are they still in a hurry?
+
+Est-ce qu'ils sont toujours heureux?
+Are they still happy?
+
+Est-ce qu'ils sont toujours en Suisse?
+Are they still in Switzerland?
+
+Est-ce qu'ils sont toujours ensemble?
+Are they still together?
