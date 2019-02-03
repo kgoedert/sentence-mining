@@ -409,314 +409,314 @@
 # Ein Ball kommt. 
 # A ball is coming.
 # 
-# Die Milch kommt. 
-# The milk is coming.
+# # Die Milch kommt. 
+# # The milk is coming.
+# # 
+# # Ein Hund sitzt. 
+# # A dog is sitting.
+# # 
+# # Die Katze sitzt. 
+# # The cat is sitting.
 # 
-# Ein Hund sitzt. 
-# A dog is sitting.
+# Ein Kind sitzt. 
+# A child is sitting.
 # 
-# Die Katze sitzt. 
-# The cat is sitting.
-
-Ein Kind sitzt. 
-A child is sitting.
-
-Das Pferd steht. 
-The horse is standing.
-
-Ein Mann steht. 
-A man is standing.
-
-Das Kind steht. 
-The child is standing.
-
-Hier ist das Messer. 
-Here is the knife.
-
-Hier ist ein Löffel. 
-Here is a spoon.
-
-Hier ist die Gabel. 
-Here is the fork.
-
-Hier ist der Teller. 
-Here is the plate.
-
-Hier ist eine Flasche. 
-Here is a bottle.
-
-Hier ist eine Serviette. 
-Here is a napkin.
-
-Hier ist der Bahnhof. 
-Here is the train station.
-
-Hier ist eine Milch. 
-Here is a glass of milk.
-
-Hier ist nur ein Computer. 
-Only one computer is here.
-
-Hier ist nur ein Teller. 
-Only one plate is here.
-
-Hier ist nur eine Haltestelle. 
-Only one station is here.
-
-Hier ist nur ein Restaurant. 
-Only one restaurant is here.
-
-Hier ist nur eine Gabel. 
-Only one fork is here.
-
-Hier ist nur eine Flasche. 
-Only one bottle is here.
-
-Einer ist hier. 
-There is one here.
-
-Eine ist hier. 
-There is one here.
-
-Eines ist hier. 
-There is one here. 
-
-Eine Katze ist dort.
-There's a cat is there.
-
-Herr Wagner ist dort. 
-Herr Wagner is there.
-
-Ein Essen ist dort.
-There's food there.
-
-Ein Computer ist dort.
-There's computer is there.
-
-Frau Wagner ist dort.
-Frau Wagner is there.
-
-Ein Laden ist dort.
-There's shop there.
-
-Eine Haltestelle ist dort
-There's a bus stop there.
-
-Ein Zug ist dort.
-There's a train there.
-
-Eine Autobahn ist dort.
-There's a highway there.
-
-Ein Haus ist dort.
-There's is a house there.
-
-Eine Katze ist hier.
-There's a cat here.
-
-Ein Hund ist hier.
-There's a dog here.
-
-Eine Milch ist hier.
-There's milk here.
-
-Herr Wagner ist hier.
-Herr Wagner is here.
-
-Eine Frau ist hier.
-There's a woman here.
-
-Ein Wasser ist hier.
-There's water here.
-
-Frau Wagner ist hier.
-Frau Wagner is here.
-
-Ein Wein ist hier.
-There's wine here.
-
-Ein Pferd ist hier.
-There's a horse here.
-
-Ein Ball ist hier.
-There's a ball here.
-
-Der Mann ist dort.
-The man is there.
-
-Die Frau ist dort.
-The woman is there.
-
-Das Kind ist dort.
-The child is there.
-
-Der Ball ist dort.
-The ball is there.
-
-Der Flughafen ist dort.
-The airport is there.
-
-Die Gabel ist dort.
-The fork is there.
-
-Das Messer ist dort.
-The knife is there.
-
-Die U-Bahn ist dort.
-The metro is there.
-
-Es kommt nur ein Zug. 
-There's only one train coming. 
-
-Es kommt nur eine Frau.
-There's only one woman coming.
-
-Es kommt nur ein Kind. 
-There's only one child coming.
-
-Es kommt nur ein Mann. 
-There's only one man coming.
-
-Es kommt nur ein Auto. 
-There's only one car coming.
-
-Es kommt nur eine Katze.
-There's only one cat coming.
-
-Es kommt nur ein Pferd. 
-There's only one horse coming.
-
-Es kommt nur ein Ball. 
-There's only one ball coming.
-
-Es kommt nur ein Taxi. 
-There's only one taxi coming.
-
-Da drüben ist das Auto. 
-There's the car over there. 
-
-Da drüben ist ein Auto.
-There's a car over there.
-
-Da drüben ist der Bahnhof. 
-There's the train station over there. 
-
-Da drüben ist ein Bahnhof.
-There's a train station over there.
-
-Da drüben ist das Taxi. 
-There's the taxi over there. 
-
-Da drüben ist ein Taxi.
-There's a taxi over there.
-
-Da drüben ist das Hotel. 
-There's the hotel over there. 
-
-Da drüben ist ein Hotel.
-There's a hotel over there.
-
-Da drüben ist die Gabel. 
-There's the fork over there. 
-
-Da drüben ist eine Gabel.
-There's a fork over there.
-
-Da drüben ist die Maus. 
-There's the mouse over there. 
-
-Da drüben ist eine Maus.
-There's a mouse over there.
-
-Da drüben ist der Zug. 
-There's the train over there. 
-
-Da drüben ist ein Zug.
-There's a train over there.
-
-Da drüben ist die Milch. 
-There's the milk over there. 
-
-Da drüben ist eine Milch.
-There's milk over there.
-
-Da drüben ist der Teller. 
-There's the plate there. 
-
-Da drüben ist ein Teller.
-There's a plate over there.
-
-Das Gras ist grün. 
-The grass is green.
-
-Die Blume ist rosa. 
-The flower is pink.
-
-Der Baum ist groß. 
-The tree is tall.
-
-Das Auto ist schnell. 
-The car is fast.
-
-Das Gold ist schwer. 
-The gold is heavy.
-
-Die Flasche ist groß. 
-The bottle is big.
-
-Das Hotel ist teuer. 
-The hotel is expensive.
-
-Das Café ist gut. 
-The café is good.
-
-Der Flughafen ist groß. 
-The airport is big.
-
-Die Milch ist groß. 
-The glass of milk is big.
-
-Das grüne Gras 
-The green grass
-
-Die rosa Blume 
-The pink flower
-
-Der große Baum 
-The tall tree
-
-Das schnelle Auto 
-The fast car
-
-Das schwere Gold 
-The heavy gold
-
-Das teure Hotel 
-The expensive hotel
-
-Das gute Café 
-The good café
-
-Die kalte Milch 
-The cold milk
-
-Die warme Milch 
-The warm milk
-
-grünes Gras 
-green grass
-
-eine rosa Blume 
-a pink flower
-
-ein großer Baum 
-a tall tree
-
-ein schnelles Auto 
-a fast car
-
-schweres Gold 
-heavy gold
+# Das Pferd steht. 
+# The horse is standing.
+# 
+# Ein Mann steht. 
+# A man is standing.
+# 
+# Das Kind steht. 
+# The child is standing.
+# 
+# Hier ist das Messer. 
+# Here is the knife.
+# 
+# Hier ist ein Löffel. 
+# Here is a spoon.
+# 
+# Hier ist die Gabel. 
+# Here is the fork.
+# 
+# Hier ist der Teller. 
+# Here is the plate.
+# 
+# Hier ist eine Flasche. 
+# Here is a bottle.
+# 
+# Hier ist eine Serviette. 
+# Here is a napkin.
+# 
+# Hier ist der Bahnhof. 
+# Here is the train station.
+# 
+# Hier ist eine Milch. 
+# Here is a glass of milk.
+# 
+# Hier ist nur ein Computer. 
+# Only one computer is here.
+# 
+# Hier ist nur ein Teller. 
+# Only one plate is here.
+# 
+# Hier ist nur eine Haltestelle. 
+# Only one station is here.
+# 
+# Hier ist nur ein Restaurant. 
+# Only one restaurant is here.
+# 
+# Hier ist nur eine Gabel. 
+# Only one fork is here.
+# 
+# Hier ist nur eine Flasche. 
+# Only one bottle is here.
+# 
+# Einer ist hier. 
+# There is one here.
+# 
+# Eine ist hier. 
+# There is one here.
+# 
+# Eines ist hier. 
+# There is one here. 
+# 
+# Eine Katze ist dort.
+# There's a cat is there.
+# 
+# Herr Wagner ist dort. 
+# Herr Wagner is there.
+# 
+# Ein Essen ist dort.
+# There's food there.
+# 
+# Ein Computer ist dort.
+# There's computer is there.
+# 
+# Frau Wagner ist dort.
+# Frau Wagner is there.
+# 
+# Ein Laden ist dort.
+# There's shop there.
+# 
+# Eine Haltestelle ist dort
+# There's a bus stop there.
+# 
+# Ein Zug ist dort.
+# There's a train there.
+# 
+# Eine Autobahn ist dort.
+# There's a highway there.
+# 
+# Ein Haus ist dort.
+# There's is a house there.
+# 
+# Eine Katze ist hier.
+# There's a cat here.
+# 
+# Ein Hund ist hier.
+# There's a dog here.
+# 
+# Eine Milch ist hier.
+# There's milk here.
+# 
+# Herr Wagner ist hier.
+# Herr Wagner is here.
+# 
+# Eine Frau ist hier.
+# There's a woman here.
+# 
+# Ein Wasser ist hier.
+# There's water here.
+# 
+# Frau Wagner ist hier.
+# Frau Wagner is here.
+# 
+# Ein Wein ist hier.
+# There's wine here.
+# 
+# Ein Pferd ist hier.
+# There's a horse here.
+# 
+# Ein Ball ist hier.
+# There's a ball here.
+# 
+# Der Mann ist dort.
+# The man is there.
+# 
+# Die Frau ist dort.
+# The woman is there.
+# 
+# Das Kind ist dort.
+# The child is there.
+# 
+# Der Ball ist dort.
+# The ball is there.
+# 
+# Der Flughafen ist dort.
+# The airport is there.
+# 
+# Die Gabel ist dort.
+# The fork is there.
+# 
+# Das Messer ist dort.
+# The knife is there.
+# 
+# Die U-Bahn ist dort.
+# The metro is there.
+# 
+# Es kommt nur ein Zug. 
+# There's only one train coming. 
+# 
+# Es kommt nur eine Frau.
+# There's only one woman coming.
+# 
+# Es kommt nur ein Kind. 
+# There's only one child coming.
+# 
+# Es kommt nur ein Mann. 
+# There's only one man coming.
+# 
+# Es kommt nur ein Auto. 
+# There's only one car coming.
+# 
+# Es kommt nur eine Katze.
+# There's only one cat coming.
+# 
+# Es kommt nur ein Pferd. 
+# There's only one horse coming.
+# 
+# Es kommt nur ein Ball. 
+# There's only one ball coming.
+# 
+# Es kommt nur ein Taxi. 
+# There's only one taxi coming.
+# 
+# Da drüben ist das Auto. 
+# There's the car over there. 
+# 
+# Da drüben ist ein Auto.
+# There's a car over there.
+# 
+# Da drüben ist der Bahnhof. 
+# There's the train station over there. 
+# 
+# Da drüben ist ein Bahnhof.
+# There's a train station over there.
+# 
+# Da drüben ist das Taxi. 
+# There's the taxi over there. 
+# 
+# Da drüben ist ein Taxi.
+# There's a taxi over there.
+# 
+# Da drüben ist das Hotel. 
+# There's the hotel over there. 
+# 
+# Da drüben ist ein Hotel.
+# There's a hotel over there.
+# 
+# Da drüben ist die Gabel. 
+# There's the fork over there. 
+# 
+# Da drüben ist eine Gabel.
+# There's a fork over there.
+# 
+# Da drüben ist die Maus. 
+# There's the mouse over there. 
+# 
+# Da drüben ist eine Maus.
+# There's a mouse over there.
+# 
+# Da drüben ist der Zug. 
+# There's the train over there. 
+# 
+# Da drüben ist ein Zug.
+# There's a train over there.
+# 
+# Da drüben ist die Milch. 
+# There's the milk over there. 
+# 
+# Da drüben ist eine Milch.
+# There's milk over there.
+# 
+# Da drüben ist der Teller. 
+# There's the plate there. 
+# 
+# Da drüben ist ein Teller.
+# There's a plate over there.
+# 
+# Das Gras ist grün. 
+# The grass is green.
+# 
+# Die Blume ist rosa. 
+# The flower is pink.
+# 
+# Der Baum ist groß. 
+# The tree is tall.
+# 
+# Das Auto ist schnell. 
+# The car is fast.
+# 
+# Das Gold ist schwer. 
+# The gold is heavy.
+# 
+# Die Flasche ist groß. 
+# The bottle is big.
+# 
+# Das Hotel ist teuer. 
+# The hotel is expensive.
+# 
+# Das Café ist gut. 
+# The café is good.
+# 
+# Der Flughafen ist groß. 
+# The airport is big.
+# 
+# Die Milch ist groß. 
+# The glass of milk is big.
+# 
+# Das grüne Gras 
+# The green grass
+# 
+# Die rosa Blume 
+# The pink flower
+# 
+# Der große Baum 
+# The tall tree
+# 
+# Das schnelle Auto 
+# The fast car
+# 
+# Das schwere Gold 
+# The heavy gold
+# 
+# Das teure Hotel 
+# The expensive hotel
+# 
+# Das gute Café 
+# The good café
+# 
+# Die kalte Milch 
+# The cold milk
+# 
+# Die warme Milch 
+# The warm milk
+# 
+# grünes Gras 
+# green grass
+# 
+# eine rosa Blume 
+# a pink flower
+# 
+# ein großer Baum 
+# a tall tree
+# 
+# ein schnelles Auto 
+# a fast car
+# 
+# schweres Gold 
+# heavy gold
 
 ein teures Hotel 
 an expensive hotel
@@ -1584,5 +1584,362 @@ I am Susanne.
 Ich bin Johannes. 
 I am Johannes.
 
-# Diese hier sind gerade das Richtige. Geben Sie mir bitte drei Stück!
-# These here are the best. Please, give me three pieces.
+die roten Blumen
+the red flowers 
+
+die großen Stühle 
+the big chairs 
+
+der große Stuhl
+the big chair
+
+die schwarzen Autos 
+the black cars 
+
+die großen Flughäfen
+the major airports 
+
+die schnellen Pferde
+the fast horses 
+
+die braunen Mäuse 
+the brown mice 
+
+die braune Maus
+the brown mouse
+
+die schönen Bäume 
+the beautiful trees 
+
+die langen Straßen 
+the long roads 
+
+die teuren Hotels 
+the expensive hotels 
+
+die weißen Katzen 
+the white cats 
+
+die weiße Katze
+the white cat
+
+die lieben Hunde 
+the dear dogs
+
+Dort sind viele orangene Blumen. 
+There are many orange flowers.
+
+Dort sind viele schnelle Züge. 
+There are many fast trains.
+
+Dort sind viele große Bäume. 
+There are many big trees.
+
+Dort sind viele volle Flaschen. 
+There are many full bottles.
+
+Dort sind viele schnelle Mäuse. 
+There are many fast mice.
+
+Dort sind viele schwarze Autos. 
+There are many black cars.
+
+die Pferde, das Pferd
+the horses, the horse
+
+die Autos, das Auto
+the cars, the car
+
+die Frauen, die Frau
+the women, the woman
+
+die Kinder, das Kind
+the children, the child
+
+die Bäume, der Baum
+the trees, the tree
+
+die Bälle, der Ball
+the balls, the ball
+
+die Häuser, das Haus
+the houses, the house
+
+die Straßen, die Straße
+the streets, the street
+
+die Züge, ein Zug
+die Züge, ein Zug
+
+die Restaurants, ein Restaurant
+die Restaurants, ein Restaurant
+
+die Brote, ein Brot
+die Brote, ein Brot
+
+die Läden, ein Laden
+die Läden, ein Laden
+
+die Haltestellen, eine Haltestelle
+die Haltestellen, eine Haltestelle
+
+die Gabeln, eine Gabel
+die Gabeln, eine Gabel
+
+die Hunde, ein Hund
+die Hunde, ein Hund
+
+die Straßen, eine Straße
+die Straßen, eine Straße
+
+die Löffel, ein Löffel
+die Löffel, ein Löffel
+
+die roten Blumen, die rote Blume
+the red flowers, the red flower
+
+die großen Stühle, der große Stuhl
+the big chairs, the big chair.
+
+die schwarzen Autos, das schwarze Auto
+the black cars, the black car.
+
+die großen Flughäfen, der große Flughafen
+the big airports, the big airport
+
+die schnellen Pferde, das schnelle Pferd
+the fast horses, the fast horse
+
+die braunen Mäuse, die braune Maus
+the brown mice, the brown mouse
+
+die schönen Bäume, der schöne Baum
+the beautiful trees, the beautiful tree
+
+die langen Straßen, die lange Straße
+the long roads, the long road
+
+die teuren Hotels, das teure Hotel
+the expensive hotels, the expensive hotel
+
+die weißen Katzen, die weiße Katze
+the white cats, the white cat.
+
+die lieben Hunde, der liebe Hund
+the dear dogs, the dear dog
+
+die schnellen Züge, ein schneller Zug
+the fast trains, a fast train
+
+die teuren Cafés, ein teures Café
+the expensive cafés, an expensive café
+
+die schwarzen Katzen, eine schwarze Katze
+the black cats, a black cat.
+
+die großen Kinder, ein großes Kind
+the big kids, a big kid.
+
+die schwarzen Messer, ein schwarzes Messer
+the black knives, a black knife
+
+die gelben Blumen, eine gelbe Blume
+the yellow flowers, a yellow flower
+
+die braunen Pferde, ein braunes Pferd
+the brown horses, a brown horse
+
+die langen Frauen, eine lange Frau
+the long women, a long woman
+
+die leckeren Brote, ein leckeres Brot
+the tasty breads, a tasty bread
+
+die lieben Männer, ein lieber Mann
+the dear men, a dear man
+
+Ist dort nur ein schönes Pferd? Nein, dort sind viele schöne Pferde.
+Is that just a nice horse? No, there are many beautiful horses.
+
+Ist dort nur eine schöne Blume? Nein, dort sind viele schöne Blumen.
+Is there only one beautiful flower? No, there are many beautiful flowers.
+
+Ist dort nur eine schöne Katze? Nein, dort sind viele schöne Katzen.
+Is there only one beautiful cat? No, there are many beautiful cats.
+
+Ist dort nur eine schöne Frau? Nein, dort sind viele schöne Frauen.
+Is there only one beautiful woman? No, there are many beautiful women there.
+
+Ist dort nur ein schönes Mädchen? Nein, dort sind viele schöne Mädchen.
+Is there only one beautiful girl? No, there are many beautiful girls there.
+
+Ist dort nur eine schöne Flasche? Nein, dort sind viele schöne Flaschen.
+Is there only one beautiful bottle? No, there are many beautiful bottles there.
+
+Ist dort nur ein schönes Restaurant? Nein, dort sind viele schöne Restaurants.
+Is there only a nice restaurant? No, there are many nice restaurants.
+
+das große Auto, die großen Autos
+the big car, the big cars.
+
+das kleine Mädchen, die kleinen Mädchen
+the little girl, the little girls
+
+die schnelle Maus, die schnellen Mäuse
+the fast mouse, the fast mice
+
+das gute Restaurant, die guten Restaurants
+the good restaurant, the good restaurants
+
+die liebe Katze, die lieben Katzen
+the dear cat, the dear cats
+
+das gute Café, die guten Cafés
+the good café, the good cafés
+
+die schöne Frau, die schönen Frauen
+the beautiful woman, the beautiful women
+
+das kleine Kind, die kleinen Kinder
+the little child, the little children
+
+das schnelle Pferd, die schnellen Pferde
+the fast horse, the fast horses
+
+Ist hier vielleicht ein schwarzes Auto? Ja, hier ist das schwarze Auto.
+Is there a black car here? Yes, here is the black car.
+
+Vielleicht ist hier die schwarze Katze? Ja, hier ist eine schwarze Katze.
+Maybe the black cat is here? Yes, here is a black cat.
+
+Ist hier vielleicht eine schnelle Katze? Ja, hier ist die schnelle Katze.
+Is there maybe a fast cat here? Yes, here is the fast cat.
+
+Ist hier vielleicht der schelle Hund? Ja, hier ist ein schneller Hund.
+Is here perhaps the fast dog? Yes, here is a fast dog.
+
+Ist hier vielleicht eine liebe Frau? Ja, hier ist die liebe Frau.
+Is there perhaps a dear woman here? Yes, here is the dear woman.
+
+Ist hier vielleicht das lange Messer? Ja, hier ist ein langes Messer.
+Is here perhaps the long knife? Yes, here is a long knife.
+
+Ist hier vielleicht eine lange Straße? Ja, hier ist die lange Straße.
+Is there perhaps a long road here? Yes, here is the long road.
+
+Ist hier vielleicht der große Baum? Ja, hier ist ein großer Baum.
+Is here perhaps the big tree? Yes, here is a big tree.
+
+Ist hier vielleicht ein großer Mann? Ja, hier ist der große Mann.
+Is there perhaps a big man here? Yes, here is the big man.
+
+Eine große Gabel kommt. Die großen Gabeln kommen.
+A big fork is coming. The big forks are coming.
+
+Ein brauner Hund kommt. Die braunen Hunde kommen.
+A brown dog comes. The brown dogs are coming.
+
+Eine rosa Blume kommt. Die rosa Blumen kommen.
+A pink flower comes. The pink flowers are coming.
+
+Ein orangener Ball kommt. Die orangenen Bälle kommen.
+An orange ball is coming. The orange balls are coming.
+
+Eine liebe Frau kommt. Die lieben Frauen kommen.
+A dear woman comes. The dear women are coming.
+
+Eine schöne Flasche kommt. Die schönen Flaschen kommen.
+A beautiful bottle comes. The beautiful bottles are coming.
+
+Ein weißer Zug kommt. Die weißen Züge kommen.
+A white train comes. The white trains are coming.
+
+Ein leckeres Brot kommt. Die leckeren Brote kommen.
+A delicious bread comes. The tasty breads are coming.
+
+Sind die Frauen dort? Vielleicht ist nur eine dort.
+Are the women there? Maybe only one is there.
+
+Sind die Männer dort? Vielleicht ist nur einer dort.
+Are the men there? Maybe only one is there.
+
+Sind die Katzen dort? Vielleicht ist nur eine dort.
+Are the cats there? Maybe there is only one there.
+
+Sind die Gabeln dort? Vielleicht ist nur eine dort.
+Are the forks there? Maybe there is only one there.
+
+Sind die Kinder dort? Vielleicht ist nur eines dort.
+Are the children there? Maybe there is only one there.
+
+Sind die Züge dort? Vielleicht ist nur einer dort.
+Are the trains there? Maybe only one is there.
+
+Sind die Autos dort? Vielleicht ist nur eines dort.
+Are the cars there? Maybe there is only one there.
+
+Sind die Restaurants dort? Vielleicht ist nur eines dort.
+Are the restaurants there? Maybe only one is there.
+
+Sind die Flaschen dort? Vielleicht ist nur eine dort.
+Are the bottles there? Maybe only one is there.
+
+Ich suche den Hund 
+I am searching for the dog.
+
+Wir suchen den Mann. 
+We are searching for the man.
+
+Er sucht den Löffel. 
+He is searching for the spoon.
+
+Meine kleine Schwester sucht den Stuhl. 
+My little sister is searching for the chair.
+
+Mein großer Bruder sucht den Tisch. 
+My big brother is searching for the table.
+
+Er sieht das Pferd. 
+He sees the horse.
+
+Wir sehen das Hemd. 
+We see the shirt.
+
+Sie sieht das Messer. 
+She sees the knife.
+
+Mein Bruder und ich sehen das Glas. 
+My brother and I see the glass.
+
+Ich sehe das Papier. 
+I see the paper.
+
+Sie kauft die Hose. 
+She is buying the pants.
+
+Er kauft die Gabel. 
+He is buying the fork.
+
+Ich kaufe die Milch. 
+I am buying the milk.
+
+Meine Schwester und ich kaufen die Pampelmuse. 
+My sister and I are buying the grapefruit.
+
+Ich kaufe die Katze. 
+I am buying the cat.
+
+Wir finden ihn nicht. 
+We are not finding him. 
+
+Er findet uns nicht. 
+He is not finding us. 
+
+Wir finden sie nicht. 
+We are not finding her. 
+
+Sie findet mich nicht. 
+She is not finding me. 
+
+Ich finde sie nicht. 
+I am not finding her.
