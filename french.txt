@@ -1159,257 +1159,248 @@
 # Les aimez-vous?
 # Do you like them?
 # 
-# Emmenez-vous les enfants au cirque?
-# Are you taking the children to the circus?
+# # Emmenez-vous les enfants au cirque?
+# # Are you taking the children to the circus?
+# # 
+# # Les emmenez-vous au cirque?
+# # Are you taking them to the circus?
+# # 
+# # Pouvez-vous contacter le journaliste?
+# # Can you contact the journalist?
+# # 
+# # Pouvez-vous le contacter?
+# # Can you contact him?
+# # 
+# # Il doit finir son article.
+# # He must finish his article.
+# # 
+# # Il doit le finir.
+# # He must finish it.
+# # 
+# Je vais lire tous les documents.
+# I am going to read all the documents.
 # 
-# Les emmenez-vous au cirque?
-# Are you taking them to the circus?
+# Je vais tous les lire.
+# I am going to read all of them.
 # 
-# Pouvez-vous contacter le journaliste?
-# Can you contact the journalist?
+# Nous venons de voir son nouveau film.
+# We just saw his new film.
 # 
-# Pouvez-vous le contacter?
-# Can you contact him?
+# Nous venons de le voir.
+# We have just seen it.
 # 
-# Il doit finir son article.
-# He must finish his article.
+# Le journaliste a pris les photos.
+# The journalist took the pictures.
 # 
-# Il doit le finir.
-# He must finish it.
+# Le journaliste les a pris.
+# The journaliste took them.
 # 
-Je vais lire tous les documents.
-I am going to read all the documents.
-
-Je vais tous les lire.
-I am going to read all of them.
-
-Nous venons de voir son nouveau film.
-We just saw his new film.
-
-Nous venons de le voir.
-We have just seen it.
-
-Le journaliste a pris les photos.
-The journalist took the pictures.
-
-Le journaliste les a pris.
-The journaliste took them.
-
-Le comptable avait trié tout ces papier.
-The accountant had sorted all these papers.
-
-Le comptable les avait tous triés.
-The accountant had sorted them all out.
-
-Le pompier a éteint les flammes.
-The fireman extinguished the flames.
-
-Le pompier les a éteintes.
-The fireman extinguished them.
-
-Le guitariste a joué ses morceaux favoris.
-The guitarist played his favorite pieces.
-
-Le guitariste les a joués.
-The guitariste played them.
-
-Appelez Jacques!
-Call Jacques!
-
-Appelez-le!
-Call him!
-
-Rendez les clés à Antoine!
-Give the keys back to Antoine!
-
-Rendez-les à Antoine!
-Give them back to Antoine!
-
-Achetez ces fleurs!
-Buy these flowers!
-
-Achetez-les!
-Buy them!
-
-N'éteint pas la lumière!
-Do not turn off the light!
-
-Ne l'éteins pas!
-Do not turn it off!
-
-N'appele pas Caroline si tard!
-Do not call Caroline so late!
-
-Ne l'appelle pas si tard!
-Do not call her so late!
-
-Invitez-moi à la soirée, s'il vous plaît.
-Please invite me to the party.
-
-Tu parle au journaliste.
-You are talking to the journaliste.
-
-Tu lui parle.
-You are talking to him.
-
-Tu réponds à Andrée.
-You answer Andrée.
-
-Tu lui réponds.
-You answer her.
-
-Vous écrivez à l'agent.
-You write to the agent.
-
-Vous lui écrivez.
-You write to him.
-
-Vous expliquez la situation aux clients.
-You explain the situation to the customers.
-
-Vous leur expliquez la situation.
-You explain the situation to them.
-
-Elle nous enverra une confirmation.
-She'll send us a confirmation.
-
-Je vous donnerai un jour de congé.
-I'll give you a day off.
-
-Il me rendra le livre demain.
-He'll return the book to me tomorrow.
-
-Ils t'apporteront des fleurs.
-They will bring you some flowers.
-
-Lui as-tu parlé de ce livre?
-Did you talk to him about his book?
-
-M'avez-vous envoyé un courriel?
-Did you send me an e-mail?
-
-Vous fournit-il de bons produits?
-Does he provide you with good products?
-
-Leur avez-vous envoyé les révisions?
-Did you send them the revisions?
-
-Elle ne nous envoie jamais rien.
-She never sends us anything.
-
-Tu m'apportes que des mauvaises nouvelles.
-You only bring me bad news.
-
-Vous ne lui avez pas dit la vérité.
-You did not tell him the truth.
-
-Ils te prêteront leur voiture.
-They'll lend you their car.
-
-Téléphone-moi demain matin!
-Call me tomorrow morning!
-
-Prêtez-lui votre dictionnaire!
-Lend him your dictionnary!
-
-Apportez-nous de nouveaux accessoires!
-Bring us new props!
-
-Envoyez-leur le script!
-Send them the script!
-
-Ne lui donnez rien!
-Don't give him anything!
-
-Ne nous téléphonez pas si tard!
-Don't call us so late!
-
-Elle répond à l'annonce.
-She answers the ad.
-
-Elle y répond.
-She answers it.
-
-Ils s'habituent à cette ville.
-They are getting used to this city.
-
-Ils s'y habituent.
-They are getting used to it.
-
-Nous pensons à la situation.
-We are thinking about the situation.
-
-Nous y pensons.
-We are thinking about it.
-
-Tu t'intéresses à cette pièce?
-Are you interested in this play?
-
-Tu t'y intéresses?
-Are you interested in it?
-
-Ils on réfléchi à cette question.
-They thought about this issue.
-
-Ils y ont réfléchi.
-They thought about it.
-
-Nous avons répondu à vos questions.
-We answered your questions.
-
-Nous y avons répondu.
-We answered to them.
-
-Il a renoncé à sa carrière.
-He gave up his carreer.
-
-Il y a renoncé.
-He gave it up.
-
-Je n'ai pas goûté à cette sauce.
-I did not taste this sauce.
-
-Je n'y ai pas goûte.
-I did not taste it.
-
-Nous nous occuperons de tous les détails.
-We'll take care of all the details.
-
-Nous nous en occuperons.
-We'll take care of them.
-
-Elle ne se souvient pas de cette histoire.
-She does not remember this story.
-
-Elle ne s'en souvient pas.
-She does not remember it.
-
-Avez-vous peur de sa réaction?
-Are you afraid of his reaction?
-
-En avez-vous peur?
-Are you afraid of it?
-
-Il a parlé de sa nouvelle idée à Théo.
-He talked about his new idea to Théo.
-
-Il en a parlé à Théo.
-He talked about it to Théo.
-
-Elle s'est chargée de cette affaire difficile.
-She took care of this difficult affaire.
-
-Elle s'en est chargée.
-She took care of it.
-
-Je me suis approché des remparts.
-I came closer to the ramparts.
-
-Je m'en suis approché.
-I came closer to them.
-
-Tu t'es débarassé de tout ces choses inutiles.
-You got rid of all these useless things.
+# Le comptable avait trié tout ces papier.
+# The accountant had sorted all these papers.
+# 
+# Le comptable les avait tous triés.
+# The accountant had sorted them all out.
+# 
+# Le guitariste a joué ses morceaux favoris.
+# The guitarist played his favorite pieces.
+# 
+# Le guitariste les a joués.
+# The guitariste played them.
+# 
+# Appelez Jacques!
+# Call Jacques!
+# 
+# Appelez-le!
+# Call him!
+# 
+# Rendez les clés à Antoine!
+# Give the keys back to Antoine!
+# 
+# Rendez-les à Antoine!
+# Give them back to Antoine!
+# 
+# Achetez ces fleurs!
+# Buy these flowers!
+# 
+# Achetez-les!
+# Buy them!
+# 
+# N'éteint pas la lumière!
+# Do not turn off the light!
+# 
+# Ne l'éteins pas!
+# Do not turn it off!
+# 
+# N'appele pas Caroline si tard!
+# Do not call Caroline so late!
+# 
+# Ne l'appelle pas si tard!
+# Do not call her so late!
+# 
+# Invitez-moi à la soirée, s'il vous plaît.
+# Please invite me to the party.
+# 
+# Tu parle au journaliste.
+# You are talking to the journaliste.
+# 
+# Tu lui parle.
+# You are talking to him.
+# 
+# Tu réponds à Andrée.
+# You answer Andrée.
+# 
+# Tu lui réponds.
+# You answer her.
+# 
+# Vous écrivez à l'agent.
+# You write to the agent.
+# 
+# Vous lui écrivez.
+# You write to him.
+# 
+# Vous expliquez la situation aux clients.
+# You explain the situation to the customers.
+# 
+# Vous leur expliquez la situation.
+# You explain the situation to them.
+# 
+# Elle nous enverra une confirmation.
+# She'll send us a confirmation.
+# 
+# Je vous donnerai un jour de congé.
+# I'll give you a day off.
+# 
+# Il me rendra le livre demain.
+# He'll return the book to me tomorrow.
+# 
+# Ils t'apporteront des fleurs.
+# They will bring you some flowers.
+# 
+# Lui as-tu parlé de ce livre?
+# Did you talk to him about his book?
+# 
+# M'avez-vous envoyé un courriel?
+# Did you send me an e-mail?
+# 
+# Vous fournit-il de bons produits?
+# Does he provide you with good products?
+# 
+# Leur avez-vous envoyé les révisions?
+# Did you send them the revisions?
+# 
+# Elle ne nous envoie jamais rien.
+# She never sends us anything.
+# 
+# Tu m'apportes que des mauvaises nouvelles.
+# You only bring me bad news.
+# 
+# Vous ne lui avez pas dit la vérité.
+# You did not tell him the truth.
+# 
+# # Ils te prêteront leur voiture.
+# # They'll lend you their car.
+# # 
+# # Téléphone-moi demain matin!
+# # Call me tomorrow morning!
+# # 
+# Prêtez-lui votre dictionnaire!
+# Lend him your dictionnary!
+# 
+# Apportez-nous de nouveaux accessoires!
+# Bring us new props!
+# 
+# Envoyez-leur le script!
+# Send them the script!
+# 
+# Ne lui donnez rien!
+# Don't give him anything!
+# 
+# Ne nous téléphonez pas si tard!
+# Don't call us so late!
+# 
+# Elle répond à l'annonce.
+# She answers the ad.
+# 
+# Elle y répond.
+# She answers it.
+# 
+# Ils s'habituent à cette ville.
+# They are getting used to this city.
+# 
+# Ils s'y habituent.
+# They are getting used to it.
+# 
+# Nous pensons à la situation.
+# We are thinking about the situation.
+# 
+# Nous y pensons.
+# We are thinking about it.
+# 
+# Tu t'intéresses à cette pièce?
+# Are you interested in this play?
+# 
+# Tu t'y intéresses?
+# Are you interested in it?
+# 
+# Ils on réfléchi à cette question.
+# They thought about this issue.
+# 
+# Ils y ont réfléchi.
+# They thought about it.
+# 
+# Nous avons répondu à vos questions.
+# We answered your questions.
+# 
+# Nous y avons répondu.
+# We answered to them.
+# 
+# Il a renoncé à sa carrière.
+# He gave up his carreer.
+# 
+# Il y a renoncé.
+# He gave it up.
+# 
+# Je n'ai pas goûté à cette sauce.
+# I did not taste this sauce.
+# 
+# Nous nous occuperons de tous les détails.
+# We'll take care of all the details.
+# 
+# Nous nous en occuperons.
+# We'll take care of them.
+# 
+# Elle ne se souvient pas de cette histoire.
+# She does not remember this story.
+# 
+# Elle ne s'en souvient pas.
+# She does not remember it.
+# 
+# Avez-vous peur de sa réaction?
+# Are you afraid of his reaction?
+# 
+# En avez-vous peur?
+# Are you afraid of it?
+# 
+# Il a parlé de sa nouvelle idée à Théo.
+# He talked about his new idea to Théo.
+# 
+# Il en a parlé à Théo.
+# He talked about it to Théo.
+# 
+# Elle s'est chargée de cette affaire difficile.
+# She took care of this difficult affaire.
+# 
+# Elle s'en est chargée.
+# She took care of it.
+# 
+# Je me suis approché des remparts.
+# I came closer to the ramparts.
+# 
+# Je m'en suis approché.
+# I came closer to them.
+# 
+# Tu t'es débarassé de tout ces choses inutiles.
+# You got rid of all these useless things.
 
 Tu t'en es débarassé.
 You got rid of them.
@@ -2259,3 +2250,609 @@ Are they still in Switzerland?
 
 Est-ce qu'ils sont toujours ensemble?
 Are they still together?
+
+Où est-ce que nous allons déjeuner?
+Where are we going to have lunch?
+
+Où est-ce qu'elle va déjeuner?
+Where is she going to have lunch?
+
+Où est-ce qu'il va déjeuner?
+Where's he going to have lunch?
+
+Où est-ce que vous allez déjeuner?
+Where are you going to have lunch?
+
+Où est-ce que vous voulez déjeuner?
+Where do you want to have lunch?
+
+Où est-ce que nous allons déjeuner?
+Where are we going to have lunch?
+
+Où est-ce qu'il veut déjeuner?
+Where does he want to have lunch?
+
+Où est-ce qu'elle veut déjeuner?
+Where does she want to have lunch?
+
+Il est en France maintenant.
+He's in France now.
+
+Il est en Espagne maintenant.
+He's in Spain now.
+
+Il est pressé maintenant.
+He's in a hurry now.
+
+Il est en retard maintenant.
+He's late now.
+
+Il est à Toulouse maintenant.
+He's in Toulouse now.
+
+Il est sur la route maintenant.
+He's on the road now.
+
+Il est heureux maintenant.
+He's happy now.
+
+Il est pressé maintenant.
+He's in a hurry now.
+
+Il est à Lyon maintenant.
+He's in Lyon now.
+
+Voilà Mademoiselle Courtois.
+There's Miss Courtois.
+
+Voilà le restaurant.
+There's the restaurant.
+
+Voilà le café.
+Here's the coffee.
+
+Voilà Nantes.
+There's Nantes.
+
+Voilà votre frère.
+There's your brother.
+
+Voilà le livre.
+Here's the book.
+
+Voilà la porte.
+There's the door.
+
+Voilà vos parents.
+There are your parents.
+
+Voilà ma sœur.
+There's my sister.
+
+Voilà mon ami.
+There's my friend.
+
+Voilà Mademoiselle Courtois.
+There's Miss Courtois.
+
+Écoutez la phrase.
+Listen to the sentence.
+
+Je ne comprends pas la phrase.
+I don't understand the sentence.
+
+Ne lisez pas la phrase.
+Don't read the sentence.
+
+Dites-moi la phrase.
+Tell me the sentence.
+
+Je n'entends pas la phrase.
+I don't hear the sentence.
+
+Traduisez la phrase.
+Translate the sentence.
+
+Lisez la phrase.
+Read the sentence.
+
+Je ne comprends pas la phrase.
+I don't understand the sentence.
+
+C'est un bon restaurant.
+It's a good restaurant.
+
+C'est un bon livre.
+It's a good book.
+
+C'est un bon café.
+It's a good coffee.
+
+C'est un bon père.
+He's a good father.
+
+C'est un bon frère.
+He's a good brother.
+
+C'est un bon cours.
+It's a good class.
+
+C'est un bon ami.
+He's a good friend.
+
+Est-ce que vous avez des nouvelles de votre frère?
+Do you have any news of your brother?
+
+Est-ce que vous avez des nouvelles de votre sœur?
+Have you heard from your sister?
+
+Est-ce que vous avez des nouvelles de votre père?
+Have you heard from your father?
+
+Est-ce que vous avez des nouvelles de votre ami?
+Have you heard from your friend?
+
+Est-ce que vous avez des nouvelles de votre femme?
+Have you heard from your wife?
+
+Est-ce que vous avez des nouvelles de votre mère?
+Do you have any news from your mother?
+
+Est-ce que vous avez des nouvelles de votre fille?
+Have you heard from your daughter?
+
+Est-ce que vous avez des nouvelles de votre fils?
+Have you heard from your son?
+
+Est-ce que vous avez des nouvelles de votre mari?
+Have you heard from your husband?
+
+Est-ce que vous avez des nouvelles de votre femme?
+Have you heard from your wife?
+
+Permettez-moi de vous présenter Monsieur Lelong.
+Allow me to introduce you to Mr. Lelong.
+
+Permettez-moi de vous présenter Madame Durand.
+Allow me to introduce you to Madame Durand.
+
+Permettez-moi de vous présenter mon fils.
+Allow me to introduce my son.
+
+Permettez-moi de vous présenter Mademoiselle Courtois.
+Allow me to introduce you to Miss Courtois.
+
+Permettez-moi de vous présenter mon frère.
+Allow me to introduce my brother.
+
+Permettez-moi de vous présenter mon ami.
+Allow me to introduce my friend.
+
+Permettez-moi de vous présenter ma sœur.
+Allow me to introduce my sister.
+
+Je ne sais pas où il va.
+I don't know where he's going.
+
+Je ne sais pas où vous allez.
+I don't know where you're going.
+
+Je ne sais pas où il est.
+I don't know where he is.
+
+Je ne sais pas où il va.
+I don't know where he's going.
+
+Je ne sais pas où nous allons.
+I don't know where we're going.
+
+Je ne sais pas où elles sont.
+I don't know where they are.
+
+Je ne sais pas où elle est.
+I don't know where she is.
+
+Je ne sais pas où elles sont.
+I don't know where they are.
+
+Nous sommes pressés.
+We are in a hurry.
+
+Il est pressé.
+He's in a hurry.
+
+Il est français.
+He is French.
+
+Ils sont français.
+They are French.
+
+Ils sont près d'ici.
+They're near here.
+
+Elle est près d'ici.
+She's near here.
+
+Elle est pressée.
+She's in a hurry.
+
+Nous sommes heureux.
+We are happy.
+
+Il est heureux.
+He is happy.
+
+Je suis heureux d'être à Genève.
+I am happy to be in Geneva.
+
+Je suis heureux d'être ici.
+I am happy to be here.
+
+Ils sont heureux d'être ici.
+They are happy to be here.
+
+Ils sont heureux d'être en vacances.
+They are happy to be on holiday.
+
+Il est heureux d'être en vacances.
+He's happy to be on vacation.
+
+Il est heureux d'être avec eux.
+He is happy to be with them.
+
+Nous sommes heureux d'être avec eux.
+We are happy to be with them.
+
+Nous sommes heureux d'être à Genève.
+We are happy to be in Geneva.
+
+Je suis heureux d'être en France.
+I am happy to be in France.
+
+Est-ce qu'elles sont toujours en vacances?
+Are they still on vacation?
+
+Est-ce qu'elles sont toujours ici?
+Are they still here?
+
+Est-ce qu'il est toujours ici?
+Is he still here?
+
+Est-ce qu'il est toujours au café?
+Is he still at the coffee shop?
+
+Est-ce qu'elle est toujours au café?
+Is she still at the coffee shop?
+
+Est-ce qu'elle est toujours en vacances?
+Is she still on vacation?
+
+Est-ce qu'ils sont toujours en vacances?
+Are they still on vacation?
+
+Est-ce qu'ils sont toujours en France?
+Are they still in France?
+
+Quand est-ce que nous allons au café?
+When do we go to the coffee shop?
+
+Pourquoi est-ce que nous allons au café?
+Why are we going to the coffee shop?
+
+Pourquoi est-ce qu'il va au café?
+Why is he going to the coffee shop?
+
+Avec qui est-ce qu'il va au café?
+Who's he going to the coffee shop with?
+
+Avec qui est-ce que vous allez au café?
+Who are you going to the coffee shop with?
+
+Quand est-ce que vous allez au café?
+When do you go to the coffee shop?
+
+Quand est-ce qu'elle va au café?
+When does she go to the coffee shop?
+
+Pourquoi est-ce qu'elle va au café?
+Why is she going to the coffee shop?
+
+Est-ce que vous allez au restaurant?
+Do you go to the restaurant?
+
+Est-ce que nous allons au restaurant?
+Are we going to the restaurant?
+
+Est-ce que nous allons à Grenoble?
+Are we going to Grenoble?
+
+Est-ce qu'il va à Grenoble?
+Is he going to Grenoble?
+
+Est-ce qu'il va au café?
+Does he go to the coffee shop?
+
+Est-ce que vous allez au café?
+Are you going to the coffee shop?
+
+Est-ce que vous allez en France?
+Are you going to France?
+
+Est-ce qu'elle va en France?
+Is she going to France?
+
+Est-ce qu'elle va à Genève?
+Is she going to Geneva?
+
+Est-ce qu'il va à Genève?
+Is he going to Geneva?
+
+Quand est-ce que vous allez au restaurant?
+When do you go to the restaurant?
+
+Quand est-ce que nous allons au restaurant?
+When do we go to the restaurant?
+
+Pourquoi est-ce que nous allons au restaurant?
+Why are we going to the restaurant?
+
+Pourquoi est-ce que nous allons à Grenoble?
+Why are we going to Grenoble?
+
+Pourquoi est-ce qu'il va à Grenoble?
+Why is he going to Grenoble?
+
+Avec qui est-ce qu'il va à Grenoble?
+Who is he going to Grenoble with?
+
+Avec qui est-ce qu'il va au café?
+Who's he going to the coffee shop with?
+
+Quand est-ce que vous allez en France?
+When are you going to France?
+ 
+Le pompier les a éteintes.
+The fireman put them out.
+
+Le pompier a éteint les flammes.
+The fireman put out the flames.
+
+Je n'y ai pas goûté.
+I haven't tasted it.
+
+Voilà le livre.
+Here's the book.
+
+Voilà les livres.
+Here are the books.
+
+Voilà le restaurant.
+There's the restaurant.
+
+Voilà les restaurants.
+Here are the restaurants.
+
+Voilà le café.
+Here's the coffee.
+
+Voilà les cafés.
+Here are the coffees.
+
+Voilà la porte.
+There's the door.
+
+Voilà les portes.
+Here are the doors.
+
+Voilà la leçon.
+That is the lesson.
+
+Voilà les leçons.
+These are the lessons.
+
+Voilà la classe.
+That's the class.
+
+Voilà les classes.
+These are the classes.
+
+Voilà l'homme.
+There's the man.
+
+Voilà l'enfant.
+There's the child.
+
+Voilà l'ami.
+There is the friend.
+
+Voilà les hommes.
+There are the men.
+
+Voilà les enfants.
+There are the children.
+
+Voilà les amis.
+There are the friends.
+
+Où est le restaurant? Le voilà.
+Where's the restaurant? There it is.
+
+Où est la leçon? La voilà.
+Where is the lesson? There it is.
+
+Où est la classe? La voilà.
+Where is the class? There it is.
+
+Où est le café? Le voilà.
+Where's the coffee? There it is.
+
+Où est le livre? Le voilà.
+Where is the book? There it is.
+
+Où est l'homme? Le voilà.
+Where is the man? There he is.
+
+Où est la sœur? La voilà.
+Where is the sister? There she is.
+
+Où est le frère? Le voilà.
+Where is the brother? There he is.
+
+Où est le fils de M. Lelong? Le voilà.
+Where is Mr. Lelong's son? There he is.
+
+Où est la fille de M. et Mme Durand? La voilà.
+Where is Mr. and Mrs. Durand's daughter? There she is.
+
+Où est le frère de François? Le voilà.
+Where is François' brother? There he is.
+
+Où est la sœur de Nicole? La voilà.
+Where is Nicole's sister? There she is.
+
+Où est le père de Luc? Le voilà.
+Where is Luc's father? There he is.
+
+Où est M. Durand? Le voilà.
+Where is Mr. Durand? There he is.
+
+Où est Mlle Courtois? La voilà.
+Where is Miss Courtois? There she is.
+
+Où est Mme Durand? La voilà.
+Where is Mrs. Durand? There she is.
+
+Voilà la classe. Voilà les classes.
+That's the class. These are the classes.
+
+Voilà le frère de Christian. Voilà les frères de Christian.
+This is Christian's brother. These are Christian's brothers.
+
+Voilà la sœur de Francine. Voilà les sœurs de Francine.
+This is Francine's sister. These are Francine's sisters.
+
+Voilà la porte. Voilà les portes.
+There's the door. Here are the doors.
+
+Voilà le livre. Voilà les livres.
+Here's the book. Here are the books.
+
+Voilà le café. Voilà les cafés.
+Here's the coffee. Here are the coffees.
+
+Voilà la leçon. Voilà les leçons.
+That is the lesson. These are the lessons.
+
+Voilà les classes. Voilà la classe.
+These are the classes. That's the class.
+
+Voilà les frères de Samuel. Voilà le frère de Samuel.
+These are Samuel's brothers. This is Samuel's brother.
+
+Voilà les sœurs de Jacqueline. Voilà la sœur de Jacqueline.
+These are Jacqueline's sisters. This is Jacqueline's sister.
+
+Voilà les portes. Voilà la porte.
+Here are the doors. There's the door.
+
+Voilà les livres. Voilà le livre.
+Here are the books. Here's the book.
+
+Voilà les cafés. Voilà le café.
+Here are the coffees. Here's the coffee.
+
+Voilà les leçons. Voilà la leçon.
+These are the lessons. That is the lesson.
+
+Où sont les enfants? Les voilà.
+Where are the children? There they are.
+
+Où sont les livres? Les voilà.
+Where are the books? There they are.
+
+Où sont les classes? Les voilà.
+Where are the classes? There they are.
+
+Où sont les amis de Christian? Les voilà.
+Where are Christian's friends? There they are.
+
+Où sont les parents d'Isabelle? Les voilà
+Where are Isabelle's parents? Here they are
+
+Où sont les frères d'Alice? Les voilà.
+Where are Alice's brothers? There they are.
+
+Où est votre sœur? La voilà.
+Where is your sister? There she is.
+
+Où est le livre? Le voilà.
+Where is the book? There he is.
+
+Où est le café? Le voilà.
+Where's the coffee? There he is.
+
+Où est la porte? La voilà.
+Where is the door? There she is.
+
+Où sont les amis de Claire? Les voilà.
+Where are Claire's friends? There they are.
+
+Où est le livre?
+Where is the book?
+
+Où sont les livres?
+Where are the books?
+
+Où est le café?
+Where's the coffee?
+
+Où sont les cafés?
+Where are the coffees?
+
+Où est le restaurant?
+Where's the restaurant?
+
+Où sont les restaurants?
+Where are the restaurants?
+
+Où est la classe?
+Where is the class?
+
+Où sont les classes?
+Where are the classes?
+
+Où est la porte?
+Where is the door?
+
+Où sont les portes?
+Where are the doors?
+
+Où est l'enfant?
+Where is the child?
+
+Où sont les enfants?
+Where are the children?
+
+Les amis de Janine sont ici.
+Janine's friends are here.
+
+L'ami de Janine est à Marseille.
+Janine's friend is in Marseille.
+
+Les sœurs de Janine sont à Marseille.
+Janine's sisters are in Marseille.
+
+La sœur de Janine est en vacances.
+Janine's sister is on vacation.
+
+Les frères de Janine sont en vacances.
+Janine's brothers are on vacation.
+
+Le frère de Janine est à Lyon.
+Janine's brother is in Lyon.
+
+Les amis de Janine sont à Lyon.
+Janine's friends are in Lyon.
+
+L'ami de Janine est ici.
+Janine's friend is here.
