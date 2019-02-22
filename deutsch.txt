@@ -805,12 +805,6 @@ I like pink.
 Er mag weiß. 
 He likes white.
 
-Das Auto ist blau. 
-The car is blue.
-
-Das blaue Auto ist da.
-The blue car is there.
-
 Das Auto ist grün.
 The car is green.
  
@@ -841,11 +835,8 @@ The car is blue.
 Das blaue Auto ist da.
 The blue car is there.
 
-Ein Auto ist grün. 
+Ein Auto ist grün.
 A car is green.
-
-Hier ist kein grünes Auto.
-There is no green car here.
 
 Ein Auto ist blau. 
 A car is blue.
@@ -870,9 +861,6 @@ A car is brown.
 
 Hier ist kein braunes Auto.
 There is no brown car here.
-
-Ein Auto ist grün. 
-A car is green.
 
 Hier ist kein grünes Auto.
 There is no green car here.
@@ -1081,9 +1069,6 @@ the big milk
 ein schöner Baum 
 a beautiful tree 
 
-ein schönes Kind 
-a beautiful child 
-
 ein schöner Hund
 a beautiful dog 
 
@@ -1180,9 +1165,6 @@ an expensive house
 ein teurer Wein
 an expensive wine
 
-ein teures Hotel
-an expensive hotel
-
 ein teurer Käse
 an expensive cheese
 
@@ -1190,7 +1172,7 @@ ein teures Brot
 an expensive bread
 
 eine teure Katze
-an expensive car
+an expensive cat
 
 ein teures Auto
 an expensive car
@@ -1200,9 +1182,6 @@ an expensive flower
 
 ein teures Restaurant
 an expensive restaurant
-
-eine liebe Katze
-a lovely cat
 
 die liebe Katze
 the lovely cat
@@ -1220,7 +1199,7 @@ der liebe Mann
 the lovely man
 
 das liebe Kind
-the lovely cat
+the lovely child
 
 ein liebes Kind
 a lovely child
@@ -1471,9 +1450,6 @@ the white house
 ein weißes Haus
 a white house
 
-ein langes Auto 
-a big car
-
 eine rote Blume 
 a red flower
 
@@ -1668,33 +1644,6 @@ the houses, the house
 die Straßen, die Straße
 the streets, the street
 
-die Züge, ein Zug
-die Züge, ein Zug
-
-die Restaurants, ein Restaurant
-die Restaurants, ein Restaurant
-
-die Brote, ein Brot
-die Brote, ein Brot
-
-die Läden, ein Laden
-die Läden, ein Laden
-
-die Haltestellen, eine Haltestelle
-die Haltestellen, eine Haltestelle
-
-die Gabeln, eine Gabel
-die Gabeln, eine Gabel
-
-die Hunde, ein Hund
-die Hunde, ein Hund
-
-die Straßen, eine Straße
-die Straßen, eine Straße
-
-die Löffel, ein Löffel
-die Löffel, ein Löffel
-
 die roten Blumen, die rote Blume
 the red flowers, the red flower
 
@@ -1884,9 +1833,6 @@ Are the restaurants there? Maybe only one is there.
 Sind die Flaschen dort? Vielleicht ist nur eine dort.
 Are the bottles there? Maybe only one is there.
 
-Ich suche den Hund 
-I am searching for the dog.
-
 Wir suchen den Mann. 
 We are searching for the man.
 
@@ -1943,3 +1889,975 @@ She is not finding me.
 
 Ich finde sie nicht. 
 I am not finding her.
+
+Ich kaufe die Milch. 
+I am buying the milk.
+
+Meine Schwester und ich kaufen die Pampelmuse. 
+My sister and I are buying the grapefruit.
+
+Ich kaufe die Katze. 
+I am buying the cat.
+
+Wir finden ihn nicht. 
+We are not finding him. (We cannot find him.)
+
+Er findet uns nicht. 
+He is not finding us. (He cannot find us.)
+
+Wir finden sie nicht. 
+We are not finding her. (We cannot find her.)
+
+Sie findet mich nicht. 
+She is not finding me. (She cannot find me.)
+
+Ich finde sie nicht. 
+I am not finding her.
+
+Wir fahren das Schiff. 
+We are driving (sailing) the ship.
+
+Sein Bruder fährt das Auto. 
+His brother is driving the car.
+
+Ich fahre das Fahrrad. 
+I am driving (riding) the bike.
+
+Ihre Schwester fährt den Lastkraftwagen. 
+Her sister is driving the semi truck.
+
+Wir fahren den Wagen. 
+We are driving the car.
+
+Mein Bruder hat das Auto. 
+My brother has the car.
+
+Wir haben den Schlüssel. 
+We have the key.
+
+Meine Schwester hat den Wagen. 
+My sister has the car.
+
+Ich habe das Papier. 
+I have the paper.
+
+Wir haben das Geld. 
+We have the money.
+
+Markus probiert das Steak. 
+Markus is trying the steak.
+
+Sophie probiert die Wurst. 
+Sophie is trying the sausage.
+
+Johannes und Karin probieren den Salat. 
+Johannes and Karin are trying the salad.
+
+Das kleine Kind probiert die Banane. 
+The small child is trying the banana.
+
+Das große Kind probiert den Hamburger. 
+The big child is trying the hamburger.
+
+Der Opa probiert die Schokolade. 
+The grandfather is trying the chocolate.
+
+Ich probiere das Müsli. 
+I am trying the cereal.
+
+Meine jungere Schwester probiert die Orange. 
+My younger sister is trying the orange.
+
+Mein älterer Bruder probiert den Apfel. 
+My older brother is trying the apple.
+
+Ich finde den Vogel nicht.
+I can't find the bird.
+
+Er findet den Vogel nicht.
+He doesn't find the bird.
+
+Wir finden den Vogel nicht.
+We can't find the bird.
+
+Sie findet den Vogel nicht.
+She doesn't find the bird.
+
+Ich finde den Vogel nicht.
+I can't find the bird.
+
+Ihr Bruder hört die Maus nicht.
+Her brother does not hear the mouse.
+
+Wir hören die Maus nicht.
+We don't hear the mouse.
+
+Seine Schwester hört die Maus nicht.
+His sister does not hear the mouse.
+
+Ich höre die Maus nicht.
+I don't hear the mouse.
+
+Er hört die Maus nicht.
+He does not hear the mouse.
+
+Wir verkaufen das Haus.
+We sell the house.
+
+Mein Bruder verkauft das Haus.
+My brother sells the house.
+
+Ich verkaufe das Haus.
+I sell the house.
+
+Meine Schwester verkauft das Haus.
+My sister sells the house.
+
+Er sieht den Ball.
+He sees the ball.
+
+Er sieht die Frau.
+He sees the woman.
+
+Er sieht das Kind.
+He sees the child.
+
+Er sieht den Mann.
+He sees the man.
+
+Er sieht die Blume.
+He sees the flower.
+
+Er sieht den Zug.
+He sees the train.
+
+Er sieht das Haus.
+He sees the house.
+
+Christoph und Carmen sehen den Vogel nicht.
+Christoph and Carmen don't see the bird.
+
+Christoph und Carmen sehen das Pferd nicht.
+Christoph and Carmen don't see the horse.
+
+Christoph und Carmen sehen die Maus nicht.
+Christoph and Carmen don't see the mouse.
+
+Christoph und Carmen sehen das Papier nicht.
+Christoph and Carmen don't see the paper.
+
+Christoph und Carmen sehen den Stift nicht.
+Christoph and Carmen don't see the pen.
+
+Christoph und Carmen sehen das Hemd nicht.
+Christoph and Carmen don't see the shirt.
+
+Christoph und Carmen sehen das Fahrrad nicht.
+Christoph and Carmen don't see the bike.
+
+Er sucht das Geld.
+He is looking for the money.
+
+Er sucht den Löffel.
+He is looking for the spoon.
+
+Er sucht die Post.
+He is looking for the post office.
+
+Er sucht das Pferd.
+He is looking for the horse.
+
+Er sucht den Hund.
+He is looking for the dog.
+
+Er sucht die Maus.
+He looks for the mouse.
+
+Er sucht den Schlüssel.
+He is looking for the key.
+
+Er sucht das Haus.
+He is looking for the house.
+
+Markus und Susanne hören den Vogel.
+Markus and Susanne hear the bird.
+
+Markus und Susanne hören die Maus.
+Markus and Susanne hear the mouse.
+
+Markus und Susanne hören den Hund.
+Markus and Susanne hear the dog.
+
+Markus und Susanne hören das Pferd.
+Markus and Susanne hear the horse.
+
+Markus und Susanne hören den Zug.
+Markus and Susanne hear the train.
+
+Markus und Susanne hören die Katze.
+Markus and Susanne hear the cat.
+
+Markus und Susanne hören das Kind.
+Markus and Susanne hear the child.
+
+Die Oma möchte den Stift.
+Grandma wants the pen.
+
+Die Oma möchte das Papier.
+Grandma wants the paper.
+
+Die Oma möchte die Milch.
+Grandma wants the milk.
+
+Die Oma möchte den Wein.
+Grandma wants the wine.
+
+Die Oma möchte das Geld.
+Grandma wants the money.
+
+Die Oma möchte die Pampelmuse.
+Grandma wants the grapefruit.
+
+Die Oma möchte den Käse.
+Grandma wants the cheese.
+
+Die Oma möchte die Schokolade.
+Grandma wants the chocolate.
+
+Birgit sucht die Post, aber sie findet sie nicht.
+Birgit's looking for the mail, but she can't find it.
+
+Birgit sucht den Hund, aber sie findet ihn nicht.
+Birgit is looking for the dog, but she can't find it.
+
+Birgit sucht die Maus, aber sie findet sie nicht.
+Birgit looks for the mouse, but she doesn't find it.
+
+Birgit sucht das Pferd, aber sie findet es nicht.
+Birgit looks for the horse, but she doesn't find it.
+
+Birgit sucht die Post, aber sie findet sie nicht.
+Birgit is looking for the mail, but she can't find it.
+
+Birgit sucht das Haus, aber sie findet es nicht.
+Birgit is looking for the house, but she can't find it.
+
+Birgit sucht den Löffel, aber sie findet ihn nicht.
+Birgit looks for the spoon, but she doesn't find it.
+
+Birgit sucht das Geld, aber sie findet es nicht.
+Birgit is looking for the money, but she cannot find it.
+
+Birgit sucht den Schlüssel, aber sie findet ihn nicht
+Birgit looks for the key, but she doesn't find it.
+
+Wir hören das Pferd, aber wir sehen es nicht.
+We hear the horse, but we don't see it.
+
+Wir hören den Zug, aber wir sehen ihn nicht.
+We hear the train, but we don't see it.
+
+Wir hören die Katze, aber wir sehen sie nicht.
+We hear the cat, but we don't see it.
+
+Wir hören das Kind, aber wir sehen es nicht.
+We hear the child, but we don't see it.
+
+Wir hören den Vogel, aber wir sehen ihn nicht.
+We hear the bird, but we do not see it.
+
+Wir hören die Maus, aber wir sehen sie nicht.
+We hear the mouse, but we do not see it.
+
+Wir hören den Hund, aber wir sehen ihn nicht.
+We hear the dog, but we do not see it.
+
+Sophie kauft das Auto.
+Sophie buys the car.
+
+Sophie kauft die Katze.
+Sophie buys the cat.
+
+Sophie kauft das Haus.
+Sophie buys the house.
+
+Sophie kauft den Wagen.
+Sophie buys the car.
+
+Sophie kauft das Pferd.
+Sophie buys the horse.
+
+Sophie kauft den Stuhl.
+Sophie buys the chair.
+
+Sophie kauft die Hose.
+Sophie buys the trousers.
+
+Sophie kauft den Tisch.
+Sophie buys the table.
+
+Der Vater möchte den Wein.
+The father wants the wine.
+
+Der Vater möchte die Milch.
+The father wants the milk.
+
+Der Vater möchte den Käse.
+The father wants the cheese.
+
+Der Vater möchte die Pampelmuse.
+The father wants the grapefruit.
+
+Der Vater möchte das Papier.
+The father wants the paper.
+
+Der Vater möchte den Stift.
+The father wants the pen.
+
+Der Vater möchte das Geld.
+The father wants the money.
+
+Das Kind sieht das Haus.
+The child sees the house.
+
+Das Kind sieht die Blume.
+The child sees the flower.
+
+Das Kind sieht den Mann.
+The child sees the man.
+
+Das Kind sieht die Frau.
+The child sees the woman.
+
+Das Kind sieht den Zug.
+The child sees the train.
+
+Das Kind sieht das Kind.
+The child sees the child.
+
+Das Kind sieht den Ball.
+The child sees the ball.
+
+Wir suchen den Schlüssel.
+We are looking for the key.
+
+Wir suchen das Pferd.
+We are looking for the horse.
+
+Wir suchen die Post.
+We are looking for the post office.
+
+Wir suchen den Hund.
+We are looking for the dog.
+
+Wir suchen das Geld.
+We are looking for the money.
+
+Wir suchen die Maus.
+We are looking for the mouse.
+
+Wir suchen das Haus.
+We are looking for the house.
+
+Wir suchen den Löffel.
+We look for the spoon.
+
+Wir suchen die Post.
+We are looking for the post office.
+
+Hören Sie den Vogel?
+Do you hear the bird?
+
+Hören Sie die Maus?
+Do you hear the mouse?
+
+Hören Sie das Auto?
+Do you hear the car?
+
+Hören Sie den Zug?
+Do you hear the train?
+
+Hören Sie die Katze?
+Do you hear the cat?
+
+Hören Sie das Pferd?
+Do you hear the horse?
+
+Sehen Sie das Café?
+Do you see the café?
+
+Sehen Sie die S-Bahn?
+Do you see the S-Bahn?
+
+Sehen Sie den Zug?
+Do you see the train?
+
+Sehen Sie das Haus?
+Do you see the house?
+
+Sehen Sie die Post?
+Do you see the post office?
+
+Sehen Sie den Bahnhof?
+Do you see the station?
+
+Sehen Sie das Restaurant?
+Do you see the restaurant?
+
+Sehen Sie die U-Bahn?
+Do you see the subway?
+
+Sehen Sie das Taxi?
+Do you see the taxi?
+
+Das Kind ist verloren. Suchen Sie das Kind?
+The child is lost. Are you looking for the child?
+
+Die Katze ist verloren. Suchen Sie die Katze?
+The cat is lost. Are you looking for the cat?
+
+Der Hund ist verloren. Suchen Sie den Hund?
+The dog is lost. Are you looking for the dog?
+
+Die Maus ist verloren. Suchen Sie die Maus?
+The mouse is lost. Are you looking for the mouse?
+
+Das Pferd ist verloren. Suchen Sie das Pferd?
+The horse is lost. Are you looking for the horse?
+
+Der Schlüssel ist verloren. Suchen Sie den Schlüssel?
+The key is lost. Looking for the key?
+
+Die Gabel ist verloren. Suchen Sie die Gabel?
+The fork is lost. Are you looking for the fork?
+
+Das Geld ist verloren. Suchen Sie das Geld?
+The money is lost. Are you looking for the money?
+
+Schauen Sie mal, der Hund ist da. Ich sehe den Hund nicht.
+Look, the dog's here. I don't see the dog.
+
+Schauen Sie mal, das Haus ist da. Ich sehe das Haus nicht.
+Look, the house is there. I don't see the house.
+
+Schauen Sie mal, die Post ist da. Ich sehe die Post nicht.
+Look, the mail is there. I don't see the mail.
+
+Schauen Sie mal, der Zug ist da. Ich sehe den Zug nicht.
+Look, the train is here. I don't see the train.
+
+Schauen Sie mal, die Haltestelle ist da. Ich sehe die Haltestelle nicht.
+Look, the station is there. I don't see the stop.
+
+Schauen Sie mal, der Bahnhof ist da. Ich sehe den Bahnhof nicht.
+Look, the station is there. I don't see the station.
+
+Schauen Sie mal, die Gabel ist da. Ich sehe die Gabel nicht.
+Look, the fork is there. I don't see the fork.
+
+Schauen Sie mal, das Papier ist da. Ich sehe das Papier nicht.
+Look, the paper is there. I don't see the paper.
+
+Hören Sie das Auto? Ja, es ist hier.
+Do you hear the car? Yes, it's here.
+
+Hören Sie den Zug? Ja, er ist hier.
+Do you hear the train? Yes, it's here.
+
+Hören Sie die Katze? Ja, sie ist hier.
+Do you hear the cat? Yes, it is here.
+
+Hören Sie das Pferd? Ja, es ist hier.
+Do you hear the horse? Yes, it is here.
+
+Hören Sie die Maus? Ja, sie ist hier.
+Do you hear the mouse? Yes, it is here.
+
+Hören Sie den Vogel? Ja, er ist hier.
+Do you hear the bird? Yes, he is here.
+
+Sehen Sie das Haus? Ja, das Haus ist dort.
+Do you see the house? Yes, the house is there.
+
+Sehen Sie den Bahnhof? Ja, der Bahnhof ist dort.
+Do you see the station? Yes, the station is there.
+
+Sehen Sie die Post? Ja, die Post ist dort.
+Do you see the post office? Yes, the post office is there.
+
+Sehen Sie das Restaurant? Ja, das Restaurant ist dort.
+Do you see the restaurant? Yes, the restaurant is there.
+
+Sehen Sie den Wagen? Ja, der Wagen ist dort.
+Do you see the car? Yes, the car is there.
+
+Sehen Sie die S-Bahn? Ja, die S-Bahn ist dort.
+Do you see the S-Bahn? Yes, the S-Bahn is there.
+
+Sehen Sie den Zug? Ja, der Zug ist dort.
+Do you see the train? Yes, the train is there.
+
+Sehen Sie das Café? Ja, das Café ist dort.
+Do you see the café? Yes, the café is there.
+
+Sehen Sie die U-Bahn? Ja, die U-Bahn ist dort.
+Do you see the subway? Yes, the subway is there.
+
+Sehen Sie den Mann? Ja, der Mann ist dort.
+Do you see the man? Yes, the man is there.
+
+Sehen Sie das Taxi? Ja, das Taxi ist dort.
+Do you see the taxi? Yes, the taxi is there.
+
+Ich hoffe, dass ich einen Hund finde. 
+I hope that I find a dog.
+
+Wir hoffen, dass wir einen Freund finden. 
+We hope that we find a friend.
+
+Er hofft, dass er einen Job findet. 
+He hopes that he finds a job.
+
+Sie hofft, dass sie ein Auto findet. 
+She hopes that she finds a car.
+
+Dort gibt es eine Post. 
+There is a post office over there.
+
+Dort gibt es eine Gabel. 
+There is a fork over there.
+
+Dort gibt es einen Mann. 
+There is a man over there.
+
+Dort gibt es ein Kind. 
+There is a child over there.
+
+Dort gibt es eine Frau. 
+There is a woman over there.
+
+Dort gibt es zwei Frauen. 
+There are two women over there.
+
+Dort gibt es drei Männer. 
+There are three men over there.
+
+Dort gibt es vier Kinder. 
+There are four children over there.
+
+Sie sieht ihn. 
+She sees him.
+
+Er sieht sie. 
+He sees her.
+
+Die Schwestern sehen es. 
+The sisters see it.
+
+Die Brüder sehen uns. 
+The brothers see us.
+
+Ich sehe Sie. 
+I see you (formal).
+
+Ich sehe sie. 
+I see them.
+
+Er hat einen Job. 
+He has a job.
+
+Das ist ein richtiger Job. 
+That is a real job.
+
+Sie hat einen richtigen Job. 
+She has a real job.
+
+Ich habe eine Arbeit. 
+I have a job.
+
+Das ist eine richtige Arbeit. 
+That is a real job.
+
+Er hat eine richtige Arbeit. 
+He has a real job.
+
+Wir haben ein Ticket. 
+We have a ticket.
+
+Ich habe einen Bleistift.
+I have a pencil.
+
+Ich sehe einen Mann.
+I see a man.
+
+Ich sehe einen Zug.
+I see a train.
+
+Ich sehe ein Haus.
+I see a house.
+
+Ich sehe eine Frau.
+I see a woman.
+
+Ich sehe einen Wagen.
+I see a car.
+
+Ich sehe ein Hotel.
+I see a hotel.
+
+Hans verkauft ein Haus.
+Hans is selling a house.
+
+Hans verkauft einen Hund.
+Hans is selling a dog.
+
+Hans verkauft ein Auto.
+Hans sells a car.
+
+Hans verkauft einen Stuhl.
+Hans sells a chair.
+
+Hans verkauft ein Hemd.
+Hans sells a shirt.
+
+Hans verkauft eine Hose.
+Hans sells a pair of trousers.
+
+Hans verkauft ein Steak.
+Hans sells a steak.
+
+Hans verkauft eine Blume.
+Hans sells a flower.
+
+Hans verkauft ein Ticket. 
+Hans sells a ticket. 
+
+Katharina hört ein Auto.
+Katharina hears a car.
+
+Katharina hört einen Hund.
+Katharina hears a dog.
+
+Katharina hört eine U-Bahn.
+Katharina hears a subway.
+
+Katharina hört einen Vogel.
+Katharina hears a bird.
+
+Katharina hört eine Katze.
+Katharina hears a cat.
+
+Katharina hört ein Pferd.
+Katharina hears a horse.
+
+Katharina hört einen Wagen.
+Katharina hears a carriage.
+
+Katharina hört eine S-Bahn.
+Katharina hears an S-Bahn.
+
+Katharina hört einen Zug.
+Katharina hears a train.
+
+Nein, es gibt nur ein Auto.
+No, there's only one car.
+
+Nein, es gibt nur einen Schlüssel.
+No, there is only one key.
+
+Nein, es gibt nur ein Messer.
+No, there is only one knife.
+
+Nein, es gibt nur eine Blume.
+No, there is only one flower.
+
+Nein, es gibt nur ein Kind.
+No, there is only one child.
+
+Nein, es gibt nur einen Stuhl.
+No, there is only one chair.
+
+Nein, es gibt nur eine Hose.
+No, there is only one pair of trousers.
+
+Nein, es gibt nur ein Haus.
+No, there is only one house.
+
+Nein, es gibt nur einen Stift.
+No, there is only one pen.
+
+Nein, es gibt nur eine S-Bahn Station.
+No, there is only one S-Bahn station.
+
+Nein, es gibt nur einen Tisch.
+No, there is only one table.
+
+Greta serviert einen Apfel.
+Greta serves an apple.
+
+Greta serviert eine Banane.
+Greta serves a banana.
+
+Greta serviert ein Steak.
+Greta serves a steak.
+
+Greta serviert eine Wurst.
+Greta serves a sausage.
+
+Greta serviert ein Sandwich.
+Greta serves a sandwich.
+
+Greta serviert eine Orange.
+Greta serves an orange.
+
+Greta serviert einen Hamburger.
+Greta serves a hamburger.
+
+Wir schneiden eine Pampelmuse.
+We cut a grapefruit.
+
+Wir schneiden ein Steak.
+We cut a steak.
+
+Wir schneiden eine Orange.
+We cut an orange.
+
+Wir schneiden ein Brot.
+We cut a bread.
+
+Wir schneiden einen Hamburger.
+We cut a hamburger.
+
+Wir schneiden eine Tomate.
+We cut a tomato.
+
+Wir schneiden ein Hähnchen.
+We cut a chicken.
+
+Jakob grillt eine Wurst.
+Jakob grills a sausage.
+
+Jakob grillt einen Hamburger.
+Jakob grills a hamburger.
+
+Jakob grillt ein Hähnchen.
+Jakob grills a chicken.
+
+Jakob grillt eine Tomate.
+Jakob grills a tomato.
+
+Jakob grillt ein Steak.
+Jakob grills a steak.
+
+Suchen Sie einen Stuhl?
+Looking for a chair?
+
+Suchen Sie eine Freundin?
+Are you looking for a girlfriend?
+
+Suchen Sie einen Schlüssel?
+Are you looking for a key?
+
+Suchen Sie eine Katze?
+Are you looking for a cat?
+
+Suchen Sie einen Vogel?
+Are you looking for a bird?
+
+Suchen Sie ein Haus?
+Are you looking for a house?
+
+Suchen Sie einen Mann?
+Are you looking for a man?
+
+Suchen Sie ein Hemd?
+Are you looking for a shirt?
+
+Suchen Sie einen Tisch?
+Are you looking for a table?
+
+Suchen Sie ein Kind?
+Are you looking for a child?
+
+Suchen Sie eine Frau?
+Are you looking for a woman?
+
+Suchen Sie einen Freund?
+Are you looking for a friend?
+
+Er verkauft das Steak. Er verkauft ein Steak.
+He's selling the steak. He sells a steak.
+
+Wir verkaufen das Auto. Wir verkaufen ein Auto.
+We sell the car. We sell a car.
+
+Sie verkauft den Stuhl. Sie verkauft einen Stuhl.
+She sells the chair. She sells a chair.
+
+Ich verkaufe die Hose. Ich verkaufe eine Hose.
+I sell the pants. I sell a pair of trousers.
+
+Sie verkauft das Haus. Sie verkauft ein Haus.
+She sells the house. She sells a house.
+
+Wir verkaufen den Hund. Wir verkaufen einen Hund.
+We sell the dog. We sell a dog.
+
+Er verkauft das Hemd. Er verkauft ein Hemd.
+He sells the shirt. He sells a shirt.
+
+Sie verkauft die Blume. Sie verkauft eine Blume.
+She sells the flower. She sells a flower.
+
+Wir verkaufen das Ticket. Wir verkaufen ein Ticket.
+We sell the ticket. We sell a ticket.
+
+Er hört einen Hund. Er hört den Hund.
+He hears a dog. He hears the dog.
+
+Sie hört einen Vogel. Sie hört den Vogel.
+She hears a bird. She hears the bird.
+
+Wir hören eine Katze. Wir hören die Katze.
+We hear a cat. We hear the cat.
+
+Ich höre ein Pferd. Ich höre das Pferd.
+I hear a horse. I hear the horse.
+
+Sie hört einen Wagen. Sie hört den Wagen.
+She hears a wagon. She hears the wagon.
+
+Er hört ein Auto. Er hört das Auto.
+He hears a car. He hears the car.
+
+Wir hören eine U-Bahn. Wir hören die U-Bahn.
+We hear a subway. We hear the subway.
+
+Ich höre einen Zug. Ich höre den Zug.
+I hear a train. I hear the train.
+
+Sie hört eine S-Bahn. Sie hört die S-Bahn.
+She hears a suburban train. She hears the S-Bahn.
+
+Gibt es viele Kinder? Nein, es gibt nur ein Kind.
+Are there many children? No, there is only one child.
+
+Gibt es viele Autos? Nein, es gibt nur ein Auto.
+Are there many cars? No, there is only one car.
+
+Gibt es viele Stühle? Nein, es gibt nur einen Stuhl.
+Are there many chairs? No, there is only one chair.
+
+Gibt es viele Häuser? Nein, es gibt nur ein Haus.
+Are there many houses? No, there is only one house.
+
+Gibt es viele Schlüssel? Nein, es gibt nur einen Schlüssel.
+Are there many keys? No, there is only one key.
+
+Gibt es viele Blumen? Nein, es gibt nur eine Blume.
+Are there many flowers? No, there is only one flower.
+
+Gibt es viele Messer? Nein, es gibt nur ein Messer.
+Are there many knives? No, there is only one knife.
+
+Gibt es viele Stifte? Nein, es gibt nur einen Stift.
+Are there many pens? No, there is only one pen.
+
+Wir grillen den Hamburger.
+We're barbecuing the hamburger.
+
+Markus grillt den Hamburger.
+Markus grills the hamburger.
+
+Die Brüder grillen den Hamburger.
+The brothers grill the hamburger.
+
+Ich grille den Hamburger.
+I grill the hamburger.
+
+Frau Müller grillt den Hamburger.
+Mrs. Müller grills the hamburger.
+
+Wir grillen den Hamburger.
+We grill the hamburger.
+
+Ich sehe einen Zug. Ist das der richtige Zug?
+I see a train. Is this the right train?
+
+Ich sehe eine Frau. Ist das die richtige Frau?
+I see a woman. Is that the right woman?
+
+Ich sehe einen Wagen. Ist das der richtige Wagen?
+I see a car. Is that the right car?
+
+Ich sehe ein Haus. Ist das das richtige Haus?
+I see a house. Is that the right house?
+
+Ich sehe einen Mann. Ist das der richtige Mann?
+I see a man. Is that the right man?
+
+Ich sehe ein Hotel. Ist das das richtige Hotel?
+I see a hotel. Is this the right hotel?
+
+Johannes serviert eine Banane.
+Johannes serves a banana.
+
+Johannes serviert einen Apfel.
+Johannes serves an apple.
+
+Johannes serviert ein Steak.
+Johannes serves a steak.
+
+Johannes serviert eine Wurst.
+Johannes serves a sausage.
+
+Johannes serviert ein Sandwich.
+Johannes serves a sandwich.
+
+Johannes serviert eine Orange.
+Johannes serves an orange.
+
+Johannes serviert einen Hamburger.
+Johannes serves a hamburger.
+
+Wir schneiden ein Hähnchen.
+Sophie grillt einen Hamburger.
+Sophie grillt eine Wurst.
+Sophie grillt ein Hähnchen.
+Sophie grillt eine Tomate.
+Sophie grillt ein Steak.
+Sophie grillt eine Kartoffel.
+Sophie grillt einen Hamburger.
+Sophie grillt eine Zwiebel.
+
+
+
+
+
+
+
+
+
+
+
+We cut a chicken.
+Sophie grills a hamburger.
+Sophie grills a sausage.
+Sophie grills a chicken.
+Sophie grills a tomato.
+Sophie grills a steak.
+Sophie grills a potato.
+Sophie grills a hamburger.
+Sophie grills an onion.
+
+
+
+die Züge, ein Zug
+die Restaurants, ein Restaurant
+die Brote, ein Brot
+die Läden, ein Laden
+die Haltestellen, eine Haltestelle
+die Gabeln, eine Gabel
+die Hunde, ein Hund
+die Straßen, eine Straße
+die Löffel, ein Löffel
