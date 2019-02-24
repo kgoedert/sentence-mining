@@ -1836,9 +1836,6 @@ Are the bottles there? Maybe only one is there.
 Wir suchen den Mann. 
 We are searching for the man.
 
-Er sucht den Löffel. 
-He is searching for the spoon.
-
 Meine kleine Schwester sucht den Stuhl. 
 My little sister is searching for the chair.
 
@@ -1884,35 +1881,14 @@ He is not finding us.
 Wir finden sie nicht. 
 We are not finding her. 
 
-Sie findet mich nicht. 
-She is not finding me. 
-
 Ich finde sie nicht. 
 I am not finding her.
 
 Ich kaufe die Milch. 
 I am buying the milk.
 
-Meine Schwester und ich kaufen die Pampelmuse. 
-My sister and I are buying the grapefruit.
-
-Ich kaufe die Katze. 
-I am buying the cat.
-
-Wir finden ihn nicht. 
-We are not finding him. (We cannot find him.)
-
-Er findet uns nicht. 
-He is not finding us. (He cannot find us.)
-
-Wir finden sie nicht. 
-We are not finding her. (We cannot find her.)
-
 Sie findet mich nicht. 
 She is not finding me. (She cannot find me.)
-
-Ich finde sie nicht. 
-I am not finding her.
 
 Wir fahren das Schiff. 
 We are driving (sailing) the ship.
@@ -1970,9 +1946,6 @@ My younger sister is trying the orange.
 
 Mein älterer Bruder probiert den Apfel. 
 My older brother is trying the apple.
-
-Ich finde den Vogel nicht.
-I can't find the bird.
 
 Er findet den Vogel nicht.
 He doesn't find the bird.
@@ -2123,9 +2096,6 @@ Grandma wants the cheese.
 
 Die Oma möchte die Schokolade.
 Grandma wants the chocolate.
-
-Birgit sucht die Post, aber sie findet sie nicht.
-Birgit's looking for the mail, but she can't find it.
 
 Birgit sucht den Hund, aber sie findet ihn nicht.
 Birgit is looking for the dog, but she can't find it.
