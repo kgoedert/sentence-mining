@@ -2356,14 +2356,8 @@ I gave them those books.
 Se lo ha enseñado.
 He has taught it to you.
 
-¿Te ha dado el dinero?
-Did he give you the money?
-
 A mí no me lo ha dado.
 He has given me nothing.
-
-¿Qué estás haciendo?
-What are you doing?
 
 Estoy viendo las noticias.
 I am watching the news.
@@ -2421,9 +2415,6 @@ I can't. I need it.
 
 ¿Me dejas el diccionario?
 Can you leave me the dictionary?
-
-No puedo. Lo necesito.
-I can't. I need it.
 
 ¿Amas a Juan?
 Do you love Juan?
@@ -2569,9 +2560,6 @@ What is he telling you?
 Me lo está leyendo.
 He is reading it to me.
 
-Hago gimnasia todas las mañanas.
-I exercise every morning.
-
 En mi casa comemos a las dos.
 At home we eat at two.
 
@@ -2646,9 +2634,6 @@ Nothing. They speak too low.
 
 Estoy oyendo la radio.
 I am listening to the radio.
-
-¿Qué haces?
-What are you doing?
 
 Nada. Leo un rato.
 Nothing. I am reading for a while.
@@ -2770,9 +2755,6 @@ Where are you from?
 Soy peruana.
 I am peruvian.
 
-¿Qué es eso?
-What is that?
-
 Es un sombrero.
 It is a hat.
 
@@ -2790,9 +2772,6 @@ Five o'clock.
 
 Mira, ese es Andrés.
 Look, that is Andrés.
-
-¿Qué es eso?
-What is that?
 
 Es una camara digital.
 It is a digital camera.
@@ -2980,9 +2959,6 @@ This dog is very bad.
 Pepe está malo.
 Pepe is sick.
 
-¿Tienes dinero?
-Do you have money?
-
 Es tarde. Tengo sueño.
 It is late. I am sleepy.
 
@@ -3009,9 +2985,6 @@ How many children do you have?
 
 No tenemos hijos.
 We don't have children.
-
-¿Cuántos años tienes?
-How old are you?
 
 Mis abuelos tienen noventa años.
 My grandparents are ninety years old.
@@ -3141,12 +3114,6 @@ The supermarket is at the square.
 
 Los bares están en el centro.
 The bars are at the center.
-
-¿Y dónde vives ahora?
-And where do you live now?
-
-Vivo en la calle Luna. Muy cerca de aquí.
-I live in Luna street. Very close to here.
 
 Perdone, ¿trabaja usted aquí?
 Excuse me, do you work here?
@@ -3634,9 +3601,6 @@ Who did the food yesterday?
 No sé. La haría Rafael.
 I don't know. It would be Rafael.
 
-¿Quién hizo ayer la comida?
-Who did the food yesterday?
-
 La hizo Rafael.
 Rafael did it.
 
@@ -3952,9 +3916,6 @@ There is some cheese in the fridge.
 No hay nada de queso.
 There is no cheese.
 
-¿Tienes dinero?
-Do you have money?
-
 Tengo algo.
 I have some.
 
@@ -4014,9 +3975,6 @@ Elisa has a huge CDs collection.
 
 Yo tengo tantos como ella.
 I have as many as her.
-
-¿Y dónde vives ahora?
-And where do you live now?
 
 Pide lo que quieras. Yo invito.
 Ask whatever you want. I am inviting.
@@ -6409,9 +6367,6 @@ Do you like coffee?
 ¿Dónde vives?
 Where do you live?
 
-¿Qué quieres?
-What do you want?
-
 Esta es la casa donde nací.
 This is the house where I was born.
 
@@ -6967,9 +6922,6 @@ Do you see the building, that in the background? That's where I live.
 Estoy libre esta mañana.
 I'm free this morning.
 
-¿Qué haces esta noche?
-What are you doing tonight?
-
 Nací en 1969. Ese año llegó el hombre a la luna.
 I was born in 1969. That year man reached the moon.
 
@@ -7206,3 +7158,76 @@ What a brunette you are! How you can tell you've been to the beach!
 Who is the president of Brazil?
 
 Faro y Porto son ciudades portuguesas.
+Faro and Porto are Portuguese cities.
+
+Marta no es nada trabajadora. 
+Marta is not at all hardworking. 
+
+Tus cumpleaños son bastante desagradables.
+Your birthdays are quite unpleasant.
+
+La última película de Almodóvar no es muy buena. Pues no es nada mala.
+Almodóvar's last film is not very good. Well, it's not bad at all.
+
+Lorena no es muy alta. Pues no es nada baja.
+Lorena is not very tall. Well, she's not short at all.
+
+Esta camisa no es nada cara.
+This shirt isn't expensive.
+
+No es lógico que no quiera trabajar necesitando dinero. Pues tampoco es nada extraño. Siempre le han ayudado sus padres.
+It's not logical that she doesn't want to work in need of money. Well, it's nothing strange either. His parents have always helped him.
+
+Hay mucho de bueno en ese muchacho.
+There's a lot of good in that boy.
+
+Pepe tiene poco de simpático y bastante de pesado.
+Pepe is not very sympathetic and quite heavy.
+
+Hay algo maternal en esa mujer.
+There's something maternal about that woman.
+
+Esa película tiene algo de maternal.
+There's something maternal about that film.
+
+Juan tiene poco de amable.
+Juan is not very nice.
+
+Esta novela no tiene nada de original.
+There's nothing original about this novel.
+
+Ana no tiene nada de tímido.
+There's nothing shy about Ana.
+
+Ana no tiene nada de tímida.
+There's nothing shy about Ana.
+
+Tus amigas no tienen nada de gracioso.
+There's nothing funny about your friends.
+
+Tus amigas no tienen nada de graciosas.
+There's nothing funny about your friends.
+
+¿Hay algo de malo en que me guste dormir?
+Is there anything wrong with me liking to sleep?
+
+Este café está bien caliente.
+This coffee is really hot.
+
+Los hijos de Laura son bien listos.
+Laura's kids are smart.
+
+Tu primo es tan guapo...
+Your cousin is so handsome...
+
+Conozco un club de lo más animado.
+I know a very lively club.
+
+Tengo un tío de lo más cariñoso.
+I have a most affectionate uncle.
+
+He visto una película de lo más divertido.
+I've seen the funniest movie.
+
+Pablo se ha comprado unas camisas de lo más caras.
+Pablo has bought some very expensive shirts.
