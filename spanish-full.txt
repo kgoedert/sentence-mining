@@ -448,9 +448,6 @@
 # El delgado.
 # The thin one.
 # 
-# ¿Quén es Susi?
-# Who is Susi?
-# 
 # La alta.
 # The tall one.
 # 
@@ -7232,6 +7229,7 @@ I've seen the funniest movie.
 Pablo se ha comprado unas camisas de lo más caras.
 Pablo has bought some very expensive shirts.
 
+<<<<<<< Updated upstream
 Me pilló un chaparrón y llegué a la oficina toda mojada.
 I got caught in a shower and arrived at the office all wet.
 
@@ -7453,3 +7451,7 @@ I have left a house for each of my children.
 
 He dejado sendas casas a mis tres hijos.
 I have left a house for each of my three children.
+=======
+¿Quién es Susi?
+Who is Susi?
+>>>>>>> Stashed changes
