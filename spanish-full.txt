@@ -2635,9 +2635,6 @@ I am listening to the radio.
 Nada. Leo un rato.
 Nothing. I am reading for a while.
 
-¿Qué estás haciendo?
-What are you doing?
-
 Estoy leyendo un periódico.
 I am reading a newspaper.
 
@@ -7251,9 +7248,6 @@ The walls got all dirty with the works.
 Javier es todo corazón.
 Javier is all heart.
 
-Margarita era todo risas.
-Margarita was all laughter.
-
 Ese libro es todo poesía.
 That book is all poetry.
 
@@ -7456,3 +7450,88 @@ I have left a house for each of my three children.
 Who is Susi?
 
 Esas gafas no me gustan. Prefiero las de la derecha
+I don't like those glasses. I prefer the ones on the right
+
+Tú vives con tus padres, ¿verdad?
+You live with your parents, right?
+
+¿Cuándo acabaste la carrera?
+When did you finish your degree?
+
+Lo siento, pero nosotras no tenemos móvil.
+I'm sorry, but we don't have a mobile.
+
+Vivimos en las afueras.
+We live in the suburbs.
+
+Me han quemado la camisa. ¿Quién ha sido? No sé. No me he dado cuenta.
+They burned my shirt. Who did it? I don't know. I haven't noticed.
+
+¿Quién es? Somos nosotras. 
+Who is it? It's us. 
+
+¿Quién ha usado mi móvil? He sido yo.
+Who used my mobile? It was me.
+
+No hay derecho. Yo recogiendo la casa y tú viendo la tele.
+There is no right. Me cleaning up the house and you watching TV.
+
+¿Vosotros sabéis algo de Lidia?
+Do you know anything about Lidia?
+
+¿Se va a comprar Isabel la casa? Sí, cree que es una ganga, pero yo no estoy tan seguro.
+Is Isabel going to buy the house? Yes, she thinks it's a bargain, but I'm not so sure.
+
+¿Por qué no me avisaste? Perdona, pero yo no sabía que él iba a llegar tarde.
+Why didn't you tell me? I'm sorry, but I didn't know he was going to be late.
+
+¿Por qué no avisó? Porque él no sabía que yo iba llegar tarde.
+Why didn't he warn me? Because he didn't know I was going to be late.
+
+Jorge dice que vas a ir con él a la fiesta. ¡Qué más quisiera él!
+Jorge says you're going with him to the party. He wishes!
+
+Jorge dice que vas a ir con él a la fiesta. ¡Qué más quisiera yo!
+Jorge says you're going with him to the party. I wish!
+
+Ana a estropeado el ordenador. ¡Pero si ella no ha hecho nada!
+Ana broke the computer, but she didn't do anything!
+
+¿Sabes dónde vive Rosa? No lo sé, pero tú deberías saberlo.
+Do you know where Rosa lives? I don't know, but you should know.
+
+El jefe quiere que le prepares un café. ¡Que se lo prepare él!
+The boss wants you to make him a cup of coffee. He can make it himself!
+
+Dice Paula que tenemos que venir el martes. ¿Nosotros? ¡Que venga ella!
+Paula says we have to come on Tuesday. Us? Let her come!
+
+Dice que va a ganar la carrera. Sí, ¡qué más quisiera él!
+He says he's going to win the race. Yes, he wishes!
+
+Vosotros estaos ahí quietos.
+You guys just stand there.
+
+Tú hazme caso. Es lo mejor para ti.
+You listen to me. It's what's best for you.
+
+Mis hijos se hacen la cama ellos mismos.
+My children make the bed themselves.
+
+¿Te despierto por la mañana? No hace falta. Me despierto yo solo.
+Do I wake you up in the morning? You don't have to. I wake up by myself.
+
+Apaga la luz. No hace falta. Se apaga ella sola.
+Turn off the light. You don't have to. It turns itself off.
+
+No te doy el regalo porque Ana quiere dártelo ella.
+I'm not giving you the gift because Anne wants to give it to you herself.
+
+Tenemos problemas económicos. Ello no significa que no podamos ayudarte.
+We have money problems. That doesn't mean we can't help you.
+
+Tienes que decírselo a Laura aunque ello suponga perder una amiga.
+You have to tell Laura even if it means losing a friend.
+
+Tenemos problemas económicos. Eso no significa que no podamos ayudarte.
+We have financial problems. That doesn't mean we can't help you.
