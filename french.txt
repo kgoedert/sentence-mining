@@ -2856,3 +2856,36 @@ Janine's friend is here.
 
 Nous tenons à eux.
 We are attached to them.
+
+Comment allez-vous?
+How are you doing? How are you?
+
+Je suis heureux de faire votre connaissance, Mademoiselle.
+It is a pleasure to meet you, Miss.
+
+Où allons-nous déjeuner?
+Where are we going to have lunch?
+
+Vos sœurs sont près d'ici. 
+Your sisters are nearby.
+
+Elles sont près d'ici. 
+They are nearby. (all feminine)
+
+Les parents sont en vacances. 
+The parents are on vacation.
+
+Ils sont en vacances. 
+They are on vacation. (both masculine and feminine)
+
+Marie, Anne et Janine sont au restaurant. 
+Marie, Anne and Janine are at the restaurant.
+
+Elles sont au restaurant. 
+They are at the restaurant. (all feminine)
+
+Marie, Anne, Janine et Pierre sont à Paris. 
+Marie, Anne, Janine and Pierre are in Paris.
+
+Ils sont à Paris. 
+They are in Paris. (both masculine and feminine)
