@@ -1477,9 +1477,6 @@
 # Tu l'as mise.
 # You put it on.
 # 
-# Elle lui offert des fleurs.
-# She gave her some flowers.
-# 
 # Elle lui en a offert.
 # She gave her some.
 # 
@@ -2889,3 +2886,6 @@ Marie, Anne, Janine and Pierre are in Paris.
 
 Ils sont à Paris. 
 They are in Paris. (both masculine and feminine)
+
+Elle lui a offert des fleurs
+She gave her some flowers

@@ -717,307 +717,307 @@
 # 
 # schweres Gold 
 # heavy gold
-
-ein teures Hotel 
-an expensive hotel
-
-ein gutes Café 
-a good café
-
-Der große Mann ist hier. 
-The tall man is here.
-
-Die schöne Frau ist hier. 
-The beautiful woman is here.
-
-Das schöne Mädchen ist hier. 
-The beautiful girl is here.
-
-Die schwarze Katze ist hier. 
-The black cat is here.
-
-Das große Kind ist hier. 
-The tall child is here
-
-Das gute Brot ist dort. 
-The good bread is there.
-
-Die große Haltestelle ist dort. 
-The large station is there.
-
-Das teure Auto ist dort. 
-The expensive car is there.
-
-Der gute Wein ist dort. 
-The good wine is there.
-
-Der gute Käse ist dort. 
-The good cheese is there.
-
-Das schöne Haus ist dort. 
-The beautiful house is there.
-
-Der große Flughafen ist dort. 
-The big airport is there.
-
-Der Käse schmeckt lecker. 
-The cheese tastes good.
-
-Das Brot schmeckt lecker. 
-The bread tastes good.
-
-Der Wein schmeckt lecker. 
-The wine tastes good.
-
-Die Milch schmeckt lecker. 
-The milk tastes good.
-
-Das Wasser schmeckt lecker. 
-The water tastes good.
-
-Ich mag grün. 
-I like green.
-
-Er mag rot. 
-He likes red.
-
-Sie mag gelb. 
-She likes yellow.
-
-Sie mag blau. 
-She likes blue.
-
-Wir mögen orange. 
-We like orange.
-
-Wir mögen braun. 
-We like brown.
-
-Er mag schwarz. 
-He likes black.
-
-Ich mag weiß. 
-I like white.
-
-Ich mag rosa. 
-I like pink.
-
-Er mag weiß. 
-He likes white.
-
-Das Auto ist grün.
-The car is green.
- 
-Das grüne Auto ist da.
-The green car is there.
-
-Das Auto ist schwarz. 
-The car is black.
-
-Das schwarze Auto ist da.
-The black car is there.
-
-Das Auto ist orange. 
-The car is orange.
-
-Das orangene Auto ist da.
-The orange car is there.
-
-Das Auto ist rot. 
-The car is red.
-
-Das rote Auto ist da.
-The red car is there.
-
-Das Auto ist blau. 
-The car is blue.
-
-Das blaue Auto ist da.
-The blue car is there.
-
-Ein Auto ist grün.
-A car is green.
-
-Ein Auto ist blau. 
-A car is blue.
-
-Hier ist kein blaues Auto.
-There is no blue car here.
-
-Ein Auto ist gelb. 
-A car is yellow.
-
-Hier ist kein gelbes Auto.
-There is no yellow car here.
-
-Ein Auto ist weiß.
-A car is white.
-
-Hier ist kein weißes Auto.
-There is no white car here.
-
-Ein Auto ist braun. 
-A car is brown.
-
-Hier ist kein braunes Auto.
-There is no brown car here.
-
-Hier ist kein grünes Auto.
-There is no green car here.
-
-Der Ball ist gelb.
-The ball is yellow.
-
-Der gelbe Ball ist hier.
-The yellow ball is here.
-
-Der Ball ist orange.
-The ball is orange. 
-
-Der orangene Ball ist hier.
-The orange ball is here.
-
-Der Ball ist schwarz. 
-The ball is black.
-
-Der schwarze Ball ist hier.
-The black ball is here.
-
-Der Ball ist blau.
-The ball is blue. 
-
-Der blaue Ball ist hier.
-The blue ball is here.
-
-Der Ball ist rot.
-The ball is red. 
-
-Der rote Ball ist hier.
-The red ball is here.
-
-Ein Ball ist braun. 
-There is a is brown ball.
-
-Hier ist kein brauner Ball.
-There is no brown ball here.
-
-Ein Ball ist gelb.
-There is a is yellow ball. 
-
-Hier ist kein gelber Ball.
-There is no yellow ball here.
-
-Ein Ball ist orange.
-There is a is orange ball. 
-
-Hier ist kein orangener Ball.
-There is no orange ball here.
-
-Ein Ball ist weiß.
-There is a is white ball. 
-
-Hier ist kein weißer Ball.
-There is no white ball here.
-
-Ein Ball ist rot.
-There is a is red ball. 
-
-Hier ist kein roter Ball.
-There is no red ball here.
-
-Die Blume ist rosa. 
-The flower is pink.
-
-Die schöne rosa Blume ist da.
-The beautiful pink flower is there.
-
-Die Blume ist gelb.
-The flower is yellow. 
-
-Die schöne gelbe Blume ist da.
-The beautiful yellow flower is there.
-
-Die Blume ist orange.
-The flower is orange. 
-
-Die schöne orangene Blume ist da.
-The beautiful orange flower is there.
-
-Die Blume ist rot. 
-The flower is red.
-
-Die schöne rote Blume ist da.
-The beautiful red flower is there.
-
-Die Blume ist weiß.
-The flower is white. 
-
-Die schöne weiße Blume ist da.
-The beautiful white flower is there.
-
-Eine Blume ist gelb. 
-There is a yellow flower.
-
-Eine schöne gelbe Blume ist da.
-There is a beautiful yellow flower there.
-
-Eine Blume ist rosa. 
-There is a pink flower.
-
-Eine schöne rosa Blume ist da.
-There is a beautiful pink flower there.
-
-Eine Blume ist weiß. 
-There is a white flower.
-
-Eine schöne weiße Blume ist da.
-There is a beautiful white flower there.
-
-Eine Blume ist orange. 
-There is a orange flower.
-
-Eine schöne orangene Blume ist da.
-There is a beautiful orange flower there.
-
-Eine Blume ist rot. 
-There is a red flower.
-
-Eine schöne rote Blume ist da.
-There is a beautiful red flower there.
-
-Das Auto ist lang. 
-The car is long
-
-Das lange Auto ist dort.
-The long car is there.
-
-Der Zug ist lang.
-The train is long 
-
-Der lange Zug ist dort.
-The long train is there.
-
-Die Straße ist lang. 
-The street is long
-
-Die lange Straße ist dort.
-The long street is there.
-
-Die Autobahn ist lang. 
-The highway is long
-
-Die lange Autobahn ist dort.
-The long highway is there.
-
-Der Mann ist lang. 
-The man is tall
-
-Der lange Mann ist dort.
-The tall main is there.
-
-das schöne Mädchen
-the beautiful girl
-
+# 
+# ein teures Hotel 
+# an expensive hotel
+# 
+# ein gutes Café 
+# a good café
+# 
+# Der große Mann ist hier. 
+# The tall man is here.
+# 
+# Die schöne Frau ist hier. 
+# The beautiful woman is here.
+# 
+# Das schöne Mädchen ist hier. 
+# The beautiful girl is here.
+# 
+# Die schwarze Katze ist hier. 
+# The black cat is here.
+# 
+# Das große Kind ist hier. 
+# The tall child is here
+# 
+# Das gute Brot ist dort. 
+# The good bread is there.
+# 
+# Die große Haltestelle ist dort. 
+# The large station is there.
+# 
+# Das teure Auto ist dort. 
+# The expensive car is there.
+# 
+# Der gute Wein ist dort. 
+# The good wine is there.
+# 
+# Der gute Käse ist dort. 
+# The good cheese is there.
+# 
+# Das schöne Haus ist dort. 
+# The beautiful house is there.
+# 
+# Der große Flughafen ist dort. 
+# The big airport is there.
+# 
+# Der Käse schmeckt lecker. 
+# The cheese tastes good.
+# 
+# Das Brot schmeckt lecker. 
+# The bread tastes good.
+# 
+# Der Wein schmeckt lecker. 
+# The wine tastes good.
+# 
+# Die Milch schmeckt lecker. 
+# The milk tastes good.
+# 
+# Das Wasser schmeckt lecker. 
+# The water tastes good.
+# 
+# Ich mag grün. 
+# I like green.
+# 
+# Er mag rot. 
+# He likes red.
+# 
+# Sie mag gelb. 
+# She likes yellow.
+# 
+# Sie mag blau. 
+# She likes blue.
+# 
+# Wir mögen orange. 
+# We like orange.
+# 
+# Wir mögen braun. 
+# We like brown.
+# 
+# Er mag schwarz. 
+# He likes black.
+# 
+# Ich mag weiß. 
+# I like white.
+# 
+# Ich mag rosa. 
+# I like pink.
+# 
+# Er mag weiß. 
+# He likes white.
+# 
+# Das Auto ist grün.
+# The car is green.
+#  
+# Das grüne Auto ist da.
+# The green car is there.
+# 
+# Das Auto ist schwarz. 
+# The car is black.
+# 
+# Das schwarze Auto ist da.
+# The black car is there.
+# 
+# Das Auto ist orange. 
+# The car is orange.
+# 
+# Das orangene Auto ist da.
+# The orange car is there.
+# 
+# Das Auto ist rot. 
+# The car is red.
+# 
+# Das rote Auto ist da.
+# The red car is there.
+# 
+# Das Auto ist blau. 
+# The car is blue.
+# 
+# Das blaue Auto ist da.
+# The blue car is there.
+# 
+# Ein Auto ist grün.
+# A car is green.
+# 
+# Ein Auto ist blau. 
+# A car is blue.
+# 
+# Hier ist kein blaues Auto.
+# There is no blue car here.
+# 
+# Ein Auto ist gelb. 
+# A car is yellow.
+# 
+# Hier ist kein gelbes Auto.
+# There is no yellow car here.
+# 
+# Ein Auto ist weiß.
+# A car is white.
+# 
+# Hier ist kein weißes Auto.
+# There is no white car here.
+# 
+# Ein Auto ist braun. 
+# A car is brown.
+# 
+# Hier ist kein braunes Auto.
+# There is no brown car here.
+# 
+# Hier ist kein grünes Auto.
+# There is no green car here.
+# 
+# Der Ball ist gelb.
+# The ball is yellow.
+# 
+# Der gelbe Ball ist hier.
+# The yellow ball is here.
+# 
+# Der Ball ist orange.
+# The ball is orange. 
+# 
+# Der orangene Ball ist hier.
+# The orange ball is here.
+# 
+# Der Ball ist schwarz. 
+# The ball is black.
+# 
+# Der schwarze Ball ist hier.
+# The black ball is here.
+# 
+# Der Ball ist blau.
+# The ball is blue. 
+# 
+# Der blaue Ball ist hier.
+# The blue ball is here.
+# 
+# Der Ball ist rot.
+# The ball is red. 
+# 
+# Der rote Ball ist hier.
+# The red ball is here.
+# 
+# Ein Ball ist braun. 
+# There is a is brown ball.
+# 
+# Hier ist kein brauner Ball.
+# There is no brown ball here.
+# 
+# Ein Ball ist gelb.
+# There is a is yellow ball. 
+# 
+# Hier ist kein gelber Ball.
+# There is no yellow ball here.
+# 
+# Ein Ball ist orange.
+# There is a is orange ball. 
+# 
+# Hier ist kein orangener Ball.
+# There is no orange ball here.
+# 
+# Ein Ball ist weiß.
+# There is a is white ball. 
+# 
+# Hier ist kein weißer Ball.
+# There is no white ball here.
+# 
+# Ein Ball ist rot.
+# There is a is red ball. 
+# 
+# Hier ist kein roter Ball.
+# There is no red ball here.
+# 
+# Die Blume ist rosa. 
+# The flower is pink.
+# 
+# Die schöne rosa Blume ist da.
+# The beautiful pink flower is there.
+# 
+# Die Blume ist gelb.
+# The flower is yellow. 
+# 
+# Die schöne gelbe Blume ist da.
+# The beautiful yellow flower is there.
+# 
+# Die Blume ist orange.
+# The flower is orange. 
+# 
+# Die schöne orangene Blume ist da.
+# The beautiful orange flower is there.
+# 
+# Die Blume ist rot. 
+# The flower is red.
+# 
+# Die schöne rote Blume ist da.
+# The beautiful red flower is there.
+# 
+# Die Blume ist weiß.
+# The flower is white. 
+# 
+# Die schöne weiße Blume ist da.
+# The beautiful white flower is there.
+# 
+# Eine Blume ist gelb. 
+# There is a yellow flower.
+# 
+# Eine schöne gelbe Blume ist da.
+# There is a beautiful yellow flower there.
+# 
+# Eine Blume ist rosa. 
+# There is a pink flower.
+# 
+# Eine schöne rosa Blume ist da.
+# There is a beautiful pink flower there.
+# 
+# Eine Blume ist weiß. 
+# There is a white flower.
+# 
+# Eine schöne weiße Blume ist da.
+# There is a beautiful white flower there.
+# 
+# Eine Blume ist orange. 
+# There is a orange flower.
+# 
+# Eine schöne orangene Blume ist da.
+# There is a beautiful orange flower there.
+# 
+# Eine Blume ist rot. 
+# There is a red flower.
+# 
+# Eine schöne rote Blume ist da.
+# There is a beautiful red flower there.
+# 
+# Das Auto ist lang. 
+# The car is long
+# 
+# Das lange Auto ist dort.
+# The long car is there.
+# 
+# Der Zug ist lang.
+# The train is long 
+# 
+# Der lange Zug ist dort.
+# The long train is there.
+# 
+# Die Straße ist lang. 
+# The street is long
+# 
+# Die lange Straße ist dort.
+# The long street is there.
+# 
+# Die Autobahn ist lang. 
+# The highway is long
+# 
+# Die lange Autobahn ist dort.
+# The long highway is there.
+# 
+# Der Mann ist lang. 
+# The man is tall
+# 
+# Der lange Mann ist dort.
+# The tall main is there.
+# 
+# das schöne Mädchen
+# the beautiful girl
+# 
 der schöne Mann
 the beautiful man
 
