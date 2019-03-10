@@ -859,9 +859,6 @@
 # Ein Auto ist braun. 
 # A car is brown.
 # 
-# Hier ist kein braunes Auto.
-# There is no brown car here.
-# 
 # Hier ist kein grünes Auto.
 # There is no green car here.
 # 
@@ -879,9 +876,6 @@
 # 
 # Der Ball ist schwarz. 
 # The ball is black.
-# 
-# Der schwarze Ball ist hier.
-# The black ball is here.
 # 
 # Der Ball ist blau.
 # The ball is blue. 
@@ -957,9 +951,6 @@
 # 
 # Eine Blume ist gelb. 
 # There is a yellow flower.
-# 
-# Eine schöne gelbe Blume ist da.
-# There is a beautiful yellow flower there.
 # 
 # Eine Blume ist rosa. 
 # There is a pink flower.
@@ -2790,6 +2781,12 @@ Johannes serves an orange.
 Johannes serviert einen Hamburger.
 Johannes serves a hamburger.
 
+Der schwarze Ball ist hier.
+The black ball is here.
+
+Eine schöne gelbe Blume ist da.
+There is a beautiful yellow flower there.
+
 Wir schneiden ein Hähnchen.
 Sophie grillt einen Hamburger.
 Sophie grillt eine Wurst.
@@ -2831,3 +2828,4 @@ die Gabeln, eine Gabel
 die Hunde, ein Hund
 die Straßen, eine Straße
 die Löffel, ein Löffel
+Hier ist kein braunes Auto

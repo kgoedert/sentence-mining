@@ -1561,9 +1561,6 @@
 # Qu'est-ce qu'il a contre eux?
 # What does he have against them?
 # 
-# Cet employé traivaille pour nous.
-# This employee works for us.
-# 
 # Vous allez chez eux ce soir?
 # Are you going to their place tonight?
 # 
@@ -2889,3 +2886,6 @@ They are in Paris. (both masculine and feminine)
 
 Elle lui a offert des fleurs
 She gave her some flowers
+
+Cet employé travaille pour nous.
+This employee works for us.
