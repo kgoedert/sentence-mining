@@ -2788,44 +2788,136 @@ Eine schöne gelbe Blume ist da.
 There is a beautiful yellow flower there.
 
 Wir schneiden ein Hähnchen.
-Sophie grillt einen Hamburger.
-Sophie grillt eine Wurst.
-Sophie grillt ein Hähnchen.
-Sophie grillt eine Tomate.
-Sophie grillt ein Steak.
-Sophie grillt eine Kartoffel.
-Sophie grillt einen Hamburger.
-Sophie grillt eine Zwiebel.
-
-
-
-
-
-
-
-
-
-
-
 We cut a chicken.
+
+Sophie grillt einen Hamburger.
 Sophie grills a hamburger.
+
+Sophie grillt eine Wurst.
 Sophie grills a sausage.
+
+Sophie grillt ein Hähnchen.
 Sophie grills a chicken.
+
+Sophie grillt eine Tomate.
 Sophie grills a tomato.
+
+Sophie grillt ein Steak.
 Sophie grills a steak.
+
+Sophie grillt eine Kartoffel.
 Sophie grills a potato.
+
+Sophie grillt einen Hamburger.
 Sophie grills a hamburger.
+
+Sophie grillt eine Zwiebel.
 Sophie grills an onion.
 
-
-
 die Züge, ein Zug
+the trains, one train
+
 die Restaurants, ein Restaurant
+the restaurants, a restaurant
+
 die Brote, ein Brot
+the loaves, a loaf of bread
+
 die Läden, ein Laden
+the shops, a shop
+
 die Haltestellen, eine Haltestelle
+the stops, one stop
+
 die Gabeln, eine Gabel
+forks, a fork
+
 die Hunde, ein Hund
+the dogs, a dog
+
 die Straßen, eine Straße
+the streets, a street
+
 die Löffel, ein Löffel
+the spoons, one spoon
+
 Hier ist kein braunes Auto
+There's no brown car here.
+
+Mein Bruder sucht zwei Schlüssel; er findet jedoch nur einen Schlüssel.
+My brother is looking for two keys, but he only finds one key.
+
+Mein Bruder sucht zwei Restaurants; er findet jedoch nur ein Restaurant.
+My brother is looking for two restaurants, but he only finds one.
+
+Mein Bruder sucht zwei Hemden; er findet jedoch nur ein Hemd.
+My brother is looking for two shirts; but he only finds one shirt.
+
+Mein Bruder sucht zwei Stühle; er findet jedoch nur einen Stuhl.
+My brother is looking for two chairs; but he only finds one chair.
+
+Mein Bruder sucht zwei Katzen; er findet jedoch nur eine Katze.
+My brother is looking for two cats, but he only finds one cat.
+
+Mein Bruder sucht zwei Hunde; er findet jedoch nur einen Hund.
+My brother is looking for two dogs; but he only finds one dog.
+
+Mein Bruder sucht zwei Hosen; er findet jedoch nur eine Hose.
+My brother is looking for two trousers; he only finds one.
+
+Sie suchen drei Hemden; wir haben aber nur ein Hemd.
+They are looking for three shirts; but we only have one shirt.
+
+Sie suchen drei Hosen; wir haben aber nur eine Hose.
+They are looking for three trousers; but we only have one pair of trousers.
+
+Sie suchen drei Hämmer; wir haben aber nur einen Hammer.
+They are looking for three hammers; but we only have one hammer.
+
+Sie suchen drei Schraubenzieher; wir haben aber nur einen Schraubenzieher.
+You're looking for three screwdrivers; but we only have one screwdriver.
+
+Sie suchen drei Pampelmusen; wir haben aber nur eine Pampelmuse.
+You are looking for three grapefruits; but we only have one grapefruit.
+
+Sie suchen drei Vögel; wir haben aber nur einen Vogel.
+You are looking for three birds; but we only have one bird.
+
+Sie suchen drei Fahrräder; wir haben aber nur ein Fahrrad.
+You are looking for three bicycles; but we only have one bicycle.
+
+Suchen Sie einen Schlüssel? Ich hoffe, dass Sie ihn finden.
+Are you looking for a key? I hope you find it.
+
+Suchen Sie eine Katze? Ich hoffe, dass Sie sie finden.
+Are you looking for a cat? I hope you find it.
+
+Suchen Sie einen Vogel? Ich hoffe, dass Sie ihn finden.
+Are you looking for a bird? I hope you find it.
+
+Suchen Sie ein Haus? Ich hoffe, dass Sie es finden.
+Are you looking for a house? I hope you find it.
+
+Suchen Sie einen Stuhl? Ich hoffe, dass Sie ihn finden.
+Are you looking for a chair? I hope you find it.
+
+Suchen Sie ein Hemd? Ich hoffe, dass Sie es finden.
+Looking for a shirt? I hope you find it.
+
+Suchen Sie einen Tisch? Ich hoffe, dass Sie ihn finden.
+Looking for a table? I hope you find it.
+
+Suchen Sie eine Frau? Ich hoffe, dass Sie sie finden.
+Are you looking for a woman? I hope you find it.
+
+Suchen Sie einen Mann? Ich hoffe, dass Sie ihn finden.
+Are you looking for a man? I hope you find him.
+
+Suchen Sie eine Freundin? Ich hoffe, dass Sie sie finden.
+Are you looking for a girlfriend? I hope you find her.
+
+Suchen Sie einen Freund? Ich hoffe, dass Sie ihn finden.
+Are you looking for a friend? I hope you find him.
+
+Suchen Sie ein Kind? Ich hoffe, dass Sie es finden.
+Are you looking for a child? I hope you find it.
