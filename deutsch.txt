@@ -2921,3 +2921,24 @@ Are you looking for a friend? I hope you find him.
 
 Suchen Sie ein Kind? Ich hoffe, dass Sie es finden.
 Are you looking for a child? I hope you find it.
+
+Möchten Sie eine Pampelmuse oder einen Apfel? Ich hätte gerne die Pampelmuse.
+Would you like a grapefruit or an apple? I would like the grapefruit.
+
+Möchten Sie einen Hund oder eine Katze? Ich hätte gerne den Hund.
+Would you like a dog or a cat? I would like the dog.
+
+Möchten Sie ein Pferd oder eine Maus? Ich hätte gerne das Pferd.
+Would you like a horse or a mouse? I would like the horse.
+
+Möchten Sie einen Hammer oder einen Schraubenzieher? Ich hätte gerne den Hammer.
+Would you like a hammer or a screwdriver? I would like the hammer.
+
+Möchten Sie einen Salat oder eine Wurst? Ich hätte gerne den Salat.
+Would you like a salad or a sausage? I would like the salad.
+
+Möchten Sie ein Bier oder einen Wein? Ich hätte gerne das Bier.
+Would you like a beer or a wine? I would like the beer.
+
+Möchten Sie einen Wein oder ein Wasser? Ich hätte gerne den Wein.
+Would you like a wine or a water? I would like the wine.
