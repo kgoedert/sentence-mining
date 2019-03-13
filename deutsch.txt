@@ -2942,3 +2942,45 @@ Would you like a beer or a wine? I would like the beer.
 
 Möchten Sie einen Wein oder ein Wasser? Ich hätte gerne den Wein.
 Would you like a wine or a water? I would like the wine.
+
+Ich sehe das weiße Auto. I see the white car.
+I see the white car. I see the white car.
+
+Mein Vater sieht das grüne Gras. My father sees the green grass.
+My father sees the green grass. My father sees the green grass.
+
+Die Familie sieht den großen Zug. The family sees the large train.
+The family sees the big train. The family sees the large train.
+
+Wir sehen den langen Zug. We see the long train.
+We see the long train. We see the long train.
+
+Ich sehe die gelbe Blume. I see the yellow flower.
+I see the yellow flower. I see the yellow flower.
+
+Er sieht die schnelle Maus. He sees the quick mouse.
+He sees the fast mouse. He sees the quick mouse.
+
+Herr und Frau Wagner sehen das schnelle Pferd. Mr. and Mrs. Wagner see the quick horse.
+Mr and Mrs Wagner see the fast horse. Mr. and Mrs. Wagner see the quick horse.
+
+Er hört einen lauten Zug. He hears a loud train.
+He hears a loud train. He hears a loud train.
+
+Meine Mutter hört ein lautes Auto. My mother hears a loud car.
+My mother hears a loud car. My mother hears a loud car.
+
+Meine Mutter und ich hören eine große Katze. My mother and I hear a large cat.
+My mother and I hear a big cat. My mother and I hear a large cat.
+
+Sie hört einen lauten Wagen. She hears a loud car.
+She hears a loud car. She hears a loud car.
+
+Mein Vater und ich hören ein lautes Flugzeug. My father and I hear a loud airplane.
+My father and I hear a loud plane. My father and I hear a loud airplane.
+
+Sie hören ein lautes Kind. You (formal) hear a loud/noisy child.
+You hear a loud child. You (formal) hear a loud/noisy child.
+
+Mein Vater hört eine leise Maus. My father hears a quiet mouse.
+My father hears a soft mouse. My father hears a quiet mouse.
