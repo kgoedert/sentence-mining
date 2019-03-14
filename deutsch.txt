@@ -2984,3 +2984,69 @@ You hear a loud child. You (formal) hear a loud/noisy child.
 
 Mein Vater hört eine leise Maus. My father hears a quiet mouse.
 My father hears a soft mouse. My father hears a quiet mouse.
+
+Ich mag grünes Gras. 
+I like green grass.
+
+Er mag warme Milch. 
+He likes warm milk.
+
+Wir mögen großes Abenteuer. 
+We like lots of adventure.
+
+Das Kind mag kalte Milch. 
+The child likes cold milk.
+
+Herr Wagner mag warmes Brot. 
+Mr. Wagner likes warm bread.
+
+Frau Wagner mag scharfen Käse. 
+Mrs. Wagner likes sharp spicy cheese.
+
+Herr und Frau Müller mögen kaltes Wasser. 
+Mr. and Mrs. Müller like cold water.
+
+Ihr Bruder möchte gerne einen Wein trinken. 
+Her brother would like to drink a glass of wine.
+
+Seine Schwester möchte gerne ein Wasser trinken. 
+His sister would like to drink a glass of water.
+
+Wir möchten gerne ein Brot backen. 
+We would like to bake a bread.
+
+Ich möchte gerne ein Stück Käse essen. 
+I would like to eat a piece of cheese.
+
+Ich möchte gerne ein Sandwich essen. 
+I would like to eat a sandwich.
+
+Er möchte gerne einen Kuchen essen. 
+He would like to eat a piece of cake.
+
+Die Kinder möchten gerne ein Eis essen. 
+The children would like to eat ice cream.
+
+Ihr Vater würde gerne einen Brief schreiben. 
+Her Father would like to write a letter.
+
+Seine Mutter würde gerne einen Brief schicken. 
+His Mother would like to send a letter.
+
+Wir würden gerne das Brot schneiden. 
+We would like to cut the bread.
+
+Wir würden gerne den Baum schneiden. 
+We would like to cut the tree.
+
+Ich würde gerne die Küche sauber machen. 
+I would like to clean the kitchen.
+
+Markus würde gerne das Zimmer sauber machen. 
+Markus would like to clean the room.
+
+Sophie würde gerne den Wein einschenken. 
+Sophie would like to pour the wine.
+
+Markus und Sophie würden gerne das Wasser einschenken. 
+Markus and Sophie would like to pour the water.
