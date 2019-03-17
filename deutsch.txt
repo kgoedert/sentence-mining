@@ -955,9 +955,6 @@
 # Eine Blume ist rosa. 
 # There is a pink flower.
 # 
-# Eine schöne rosa Blume ist da.
-# There is a beautiful pink flower there.
-# 
 # Eine Blume ist weiß. 
 # There is a white flower.
 # 
@@ -3104,3 +3101,6 @@ Who is going to clean the kitchen?
 
 Wen sehe ich? 
 Whom do I see?
+
+Eine schöne rosa Blume ist da.
+There is a beautiful pink flower there.

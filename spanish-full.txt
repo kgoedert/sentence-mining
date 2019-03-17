@@ -664,9 +664,6 @@
 # El coche de Ana es mejor que el de Álvaro.
 # Ana's car is better than Álvaro's.
 # 
-# El coche de Álvaro es peor qeu el de Ana.
-# Álvaro's car is worse than Ana's.
-# 
 # Mis hermanos son más altos que yo.
 # My brothers are taller than me.
 # 
@@ -7952,3 +7949,6 @@ My heart shrinks when I see a child crying.
 
 A Ricardo se le alegra el alma cuando ve a Sonia.
 Richard's soul rejoices when he sees Sonia.
+ 
+El coche de Álvaro es peor que el de Ana.
+Álvaro's car is worse than Ana's.
