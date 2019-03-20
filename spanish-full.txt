@@ -8120,3 +8120,66 @@ He told me a lie, which I didn't like at all.
 
 Eva fue despedirse, lo que molestó a Javi.
 Eva said goodbye, which upset Javi.
+
+Tengo un amigo. Su padre es fotógrafo.
+I have a friend. His father is a photographer.
+
+Tengo un amigo cuyo padre es fotógrafo.
+I have a friend whose father is a photographer.
+
+Ese señor es escritor. Te he hablado de sus libros.
+That man is a writer. I told you about his books.
+
+Ese señor es el escritor de cuyos libros te he hablado.
+That man is the writer whose books I told you about.
+
+Mira. Esa es la chica cuyo hermano es actor de teatro.
+Look. That's the girl whose brother is a theatre actor.
+
+Una viuda es una mujer cuyo marido ha fallecido.
+A widow is a woman whose husband has died.
+
+He estado hablando con la señora en cuya tienda quieres trabajar.
+I've been talking to the lady whose shop you want to work in.
+
+Aurelia, cuyo hermano colabora con la Cruz Roja, cree que puede encontrarme trabajo.
+Aurelia, whose brother collaborates with the Red Cross, thinks she can find me a job.
+
+Conozco a una chica cuya hermana ha escalado el Aconcagua.
+I know a girl whose sister has climbed Aconcagua.
+
+Conozco a un señor cuyos hijos han estudiado Físicas.
+I know a man whose children have studied physics.
+
+Esa es la chica cuyo hermano es actor de teatro.
+That's the girl whose brother is a theatre actor.
+
+Esa es la hermana del chico que es actor de teatro.
+That is the sister of the boy who is a theatre actor.
+
+Es es el señor cuyo perro ganó el concurso.
+He is the man whose dog won the contest.
+
+Ese es el dueño del perro que ganó el concurso.
+That's the owner of the dog that won the contest.
+
+Te puedo dar cuanto aceite necesites.
+I can give you as much oil as you need.
+
+Coge cuantos higos quieras. Hay muchos.
+Take as many figs as you want. There are many.
+
+Come cuantos pasteles quieras. Yo no tengo hambre.
+Eat as many cakes as you want. I'm not hungry.
+
+Coge cuantas hojas necesites.
+Take as many leaves as you need.
+
+Duerme cuanto quieras. Estamos de vacaciones.
+Sleep as much as you want. We are on vacation.
+
+Come cuanto quieras. No te quedes con hambre.
+Eat as much as you want. Don't stay hungry.
+
+Se llevaron todo cuanto había en el piso.
+They took everything on the floor.
