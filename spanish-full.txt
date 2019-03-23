@@ -7952,3 +7952,403 @@ Richard's soul rejoices when he sees Sonia.
  
 El coche de Álvaro es peor que el de Ana.
 Álvaro's car is worse than Ana's.
+
+¿Habéis visto los documentos que estaban en mi mesa?
+Have you seen the documents that were on my desk?
+
+¿Qué manzanas quieres? Deme esas que tiene en esa caja.
+What apples do you want? Give me those you have in that box.
+
+Está aquí la mujer que ha llamado antes.
+The woman who called earlier is here.
+
+Aquellos que quieran ir al teatro, que pasen por secretaría.
+Those who want to go to the theatre, let them go through the secretariat.
+
+Mira, esta es la casa en la que vivía de pequeño.
+Look, this is the house I lived in as a child.
+
+Me encantan los poemas que has escrito.
+I love the poems you've written.
+
+Los chicos con los que vivo son rusos.
+The guys I live with are Russians.
+
+Hoy he conocido a la profesora de quien me habías hablado.
+Today I met the teacher you told me about.
+
+He hablado con la persona que se encarga de las matrículas.
+I talked to the person in charge of the plates.
+
+Los compañeros con los que trabajo son extraordinarios.
+The colleagues I work with are extraordinary.
+
+Aquí tengo la novela de que te hablé.
+Here's the novel I told you about.
+
+¿Sabes la hora a la que llegaron?
+Do you know the time they arrived?
+
+Esa es la calle por la que paso todos los días.
+That's the street I walk every day.
+
+Te tengo que presentar al chico con el que salgo.
+I have to introduce you to the guy I'm dating.
+
+¿En qué cama duermo? En la que tú quieras.
+What bed do I sleep in? Any bed you want.
+
+¿Qué tipo de pluma quieres? Una que usa cartuchos.
+What kind of pen do you want? One that uses cartridges.
+
+¿Qué tipo de chica prefieres? Una con quien pueda hablar.
+What kind of girl do you prefer? One I can talk to.
+
+La persona que manda aquí soy yo.
+The person in charge here is me.
+
+¿Qué manzanas quiere? Deme esas que tiene ahí.
+What apples do you want? Give me those you have there.
+
+El que come mucho, engorda.
+He who eats a lot gets fat.
+
+Los que tengan las entradas, que pasen.
+Those who have the tickets, let them pass.
+
+Ya lo sabes, Julia. La que estudia, aprueba.
+You know that, Julia. The one who studies, passes.
+
+Venga, Ángel. El que invita, paga.
+Come on, Angel. The one who invites, pays.
+
+Lo siento, pero no entiendo lo que dices.
+I'm sorry, but I don't understand what you're saying.
+
+Quiero hablar contigo de lo que comentaste anoche.
+I want to talk to you about what you said last night.
+
+Estoy a tu servicio para lo que tú quieras.
+I am at your service for whatever you want.
+
+Necesitas un empleo. Lo que necesito es dinero.
+You need a job. What I need is money.
+
+Lo que me molesta son los atascos de tráfico.
+What bothers me is traffic jams.
+
+Lo que no me gusta es madrugar.
+What I don't like is getting up early.
+
+Lo que quiero es que me ayudes.
+What I want is for you to help me.
+
+Lo que no me gustó fue que no nos avisaras.
+What I didn't like was that you didn't tell us.
+
+Lo que pasa es que no tengo sueño.
+It's just that I'm not sleepy.
+
+Julian quiere jubilarse. Es más joven que yo.
+Julian wants to retire. He's younger than me.
+
+Julian, que es más joven que yo, quiere jubilarse.
+Julian, who is younger than me, wants to retire.
+
+La mujer, que había llamado antes, se presentó en casa a la media hora.
+The woman, who had called before, showed up at home in half an hour.
+
+Entraron dos hombres y se llevaron el Picasso, que estaba en el salón principal.
+Two men came in and took the Picasso, which was in the main room.
+
+Entraron dos hombres y se llevaron todo el dinero y el cuadro que tenía el salón, que yo había pintado ese verano.
+Two men came in and took all the money and the painting in the living room, which I had painted that summer.
+
+Me encanta ese programa, que ya he visto alguna vez.
+I love that show, which I've seen before.
+
+Los ladrones asaltaron primero al portero, quien acababa de abrir la puerta del edificio.
+The thieves first assaulted the doorman, who had just opened the door to the building.
+
+Siempre recordaré a mis padres, a quienes tanto debo.
+I will always remember my parents, to whom I owe so much.
+
+Los ladrones asaltaron al portero, quien acaba de abrir la puerta del edificio.
+The thieves assaulted the doorman, who had just opened the door to the building.
+
+Los ladrones asaltaron al portero, que acaba de abrir la puerta del edificio.
+The thieves assaulted the doorman, who has just opened the door of the building.
+
+Siempre recordaré a mis padres, a los que tanto debo.
+I will always remember my parents, to whom I owe so much.
+
+Andrés, del que ya te he hablado, quiere que vayamos todos a Italia.
+Andrés, of whom I have already told you, wants us all to go to Italy.
+
+Fernando descolgó la lámpara, de la que colgaban trozos de tela.
+Fernando took down the lamp, from which pieces of cloth hung.
+
+Se puso a discutir con Alfredo, el cual había dicho que su libro era muy malo.
+He began to argue with Alfredo, who had said that his book was very bad.
+
+Aquí se guarda el agua, la cual se distribuye a los pisos a través de una tubería central.
+Here we keep the water, which is distributed to the floors through a central pipe.
+
+Elena, a la cual ya conoces, quiere que nos reunamos al sábado.
+Elena, whom you already know, wants us to meet on Saturday.
+
+Faltaba el director, sin el cual no podía empezar el concierto.
+The director was missing, without whom the concert could not begin.
+
+Se puso a discutir con Alfredo, que había dicho que su libro era muy malo.
+He began to argue with Alfredo, who had said that his book was very bad.
+
+Aquí se guarda el agua, que se distribuye a los pisos a través de una tubería central.
+The water is stored here and distributed to the floors through a central pipe.
+
+Elena, a la que ya conoces, quiere que nos reunamos al sábado.
+Elena, whom you already know, wants us to meet on Saturday.
+
+Faltaba el director, sin el que no podía empezar el concierto.
+The director was missing, without whom the concert could not begin.
+
+Me dijo una mentira, lo que no me gustó nada.
+He told me a lie, which I didn't like at all.
+
+Me dijo una mentira, cosa que no gustó nada.
+He told me a lie, which I didn't like at all.
+
+Eva fue despedirse, lo que molestó a Javi.
+Eva said goodbye, which upset Javi.
+
+Tengo un amigo. Su padre es fotógrafo.
+I have a friend. His father is a photographer.
+
+Tengo un amigo cuyo padre es fotógrafo.
+I have a friend whose father is a photographer.
+
+Ese señor es escritor. Te he hablado de sus libros.
+That man is a writer. I told you about his books.
+
+Ese señor es el escritor de cuyos libros te he hablado.
+That man is the writer whose books I told you about.
+
+Mira. Esa es la chica cuyo hermano es actor de teatro.
+Look. That's the girl whose brother is a theatre actor.
+
+Una viuda es una mujer cuyo marido ha fallecido.
+A widow is a woman whose husband has died.
+
+He estado hablando con la señora en cuya tienda quieres trabajar.
+I've been talking to the lady whose shop you want to work in.
+
+Aurelia, cuyo hermano colabora con la Cruz Roja, cree que puede encontrarme trabajo.
+Aurelia, whose brother collaborates with the Red Cross, thinks she can find me a job.
+
+Conozco a una chica cuya hermana ha escalado el Aconcagua.
+I know a girl whose sister has climbed Aconcagua.
+
+Conozco a un señor cuyos hijos han estudiado Físicas.
+I know a man whose children have studied physics.
+
+Esa es la chica cuyo hermano es actor de teatro.
+That's the girl whose brother is a theatre actor.
+
+Esa es la hermana del chico que es actor de teatro.
+That is the sister of the boy who is a theatre actor.
+
+Es es el señor cuyo perro ganó el concurso.
+He is the man whose dog won the contest.
+
+Ese es el dueño del perro que ganó el concurso.
+That's the owner of the dog that won the contest.
+
+Te puedo dar cuanto aceite necesites.
+I can give you as much oil as you need.
+
+Coge cuantos higos quieras. Hay muchos.
+Take as many figs as you want. There are many.
+
+Come cuantos pasteles quieras. Yo no tengo hambre.
+Eat as many cakes as you want. I'm not hungry.
+
+Coge cuantas hojas necesites.
+Take as many leaves as you need.
+
+Duerme cuanto quieras. Estamos de vacaciones.
+Sleep as much as you want. We are on vacation.
+
+Come cuanto quieras. No te quedes con hambre.
+Eat as much as you want. Don't stay hungry.
+
+Se llevaron todo cuanto había en el piso.
+They took everything on the floor.
+
+¿Quién ha llamado?
+Who called?
+
+¿Quiénes faltaron a clase ayer?
+Who missed class yesterday?
+
+¿A quién viste en la explosión?
+Who did you see in the explosion?
+
+¿Qué es un samurái?
+What is a samurai?
+
+¿Con qué profesor estás?
+Which teacher are you with?
+
+¿Qué pintor hispanoamericano pinta personas gordas?
+What Hispanic-American painter paints fat people?
+
+¿Con qué arquitecto trabajas?
+What architect do you work with?
+
+¿Con quién trabajas?
+Who do you work with?
+
+¿Con cuál de las hermanas de John está casado Jorge?
+Which of John's sisters is Jorge married to?
+
+¿Qué es una probeta?
+What is a test tube?
+
+¿Qué prefieres, carne o pescado?
+What do you prefer, meat or fish?
+
+¿En qué libro sales las fotos del monte Emei?
+In which book do you take the photos of Mount Emei?
+
+¿Cuál de estas fotos quieres guardar?
+Which of these photos do you want to keep?
+
+¿Qué tenemos que coger?
+What do we have to take?
+
+¿Cuál es la casa de Anita?
+Which is Anita's house?
+
+¿Cuáles son los accidentes de carretera más frecuentes?
+What are the most frequent road accidents?
+
+¿Cuál es mi habitación?
+Which is my room?
+
+¿En qué restaurante quieres comer?
+In which restaurant do you want to eat?
+
+¿Qué haces?
+What do you do?
+
+¿Qué te ocurre?
+What's wrong with you?
+
+¿Qué pasó anoche?
+What happened last night?
+
+¿Dónde está la torre 101?
+Where is Tower 101?
+
+¿De dónde vienes?
+Where do you come from?
+
+¿Adónde han enviado a Rodríguez?
+Where did they send Rodriguez?
+
+¿Cuando acabaste la carrera?
+When did you finish the race?
+
+¿Hasta cuándo vais a estar en casa de Aurora?
+How long are you going to be at Aurora's house?
+
+¿Cuánto dinero necesitas?
+How much money do you need?
+
+¿Cuántos estudiantes hay en tu clase?
+How many students are in your class?
+
+¿A cuántos de tus amigos has invitado?
+How many of your friends have you invited?
+
+¿Cómo se abre esta ventana?
+How do you open this window?
+
+¿Cómo es tu nueva casa?
+What's your new home like?
+
+¿Cómo está Roberto?
+How is Roberto?
+
+¿Por qué te vas de la empresa?
+Why are you leaving the company?
+
+¿Para qué quieres aprender chino?
+Why do you want to learn Chinese?
+
+¿A qué has venido?
+Why did you come here?
+
+¿Por qué no llamamos a Lola? Buena idea.
+Why don't we call Lola? That's a good idea.
+
+¿Por qué no le pides a Jesús que te ayude? A lo mejor lo hago.
+Why don't you ask Jesus to help you? Maybe I will.
+
+¿Quién diablos te ha vendido este coche? No funciona.
+Who the hell sold you this car? It doesn't work.
+
+¿Qué demonios haces aquí a esta hora?
+What the hell are you doing here at this hour?
+
+¿Dónde diablos vive Mónica? No llegamos nunca.
+Where the hell does Monica live? We never got there.
+
+¿Cómo demonios se abre esta caja?
+How the hell does this box open?
+
+¿Cómo estás en casa? Deberías estar en la oficina. Es que no me siento bien.
+How are you at home? You should be in the office. I just don't feel well.
+
+¿Cómo no hay leche? Si yo compré dos litros ayer. Se la ha bebido Rosa.
+How come there's no milk? I bought two liters yesterday. Rosa drank it.
+
+Rocío ayuda mucho. ¿Cómo que ayuda mucho? Si no está nunca en casa.
+Rocío helps a lot. What do you mean it helps a lot? She's never home.
+
+Luis a pagado dos rondas. ¿Cómo que ha pagado Luis? He pagado yo.
+Luis has paid two rounds. What do you mean, Luis has paid? I paid.
+
+Creo que las tiendas están cerradas. ¿Cómo que están cerradas? Si ya son las 11.
+I think the stores are closed. What do you mean, closed? It's already 11 o'clock.
+
+Espero que me den el puesto. ¿Cómo te van a dar el puesto? Si no has acabado la carrera.
+I hope they give me the stall. How are they going to give you the stall? If you haven't finished the race.
+
+Antonio no hace nada. ¿Cómo que no hace nada? Es el que más trabaja.
+Antonio doesn't do anything. What do you mean he doesn't do anything? He works the hardest.
+
+García no vino ayer. ¿Cómo que no vino ayer? Si acabó el informe.
+García didn't come yesterday. What do you mean he didn't come yesterday? He finished the report.
+
+No sé dónde vive Marta. ¿Cómo que no lo sabes? Si es muy amiga tuya.
+I don't know where Marta lives. What do you mean you don't know? She's a very good friend of yours.
+
+No creo que me den el puesto. ¿Cómo no te van a dar el puesto? Si eres el mejor.
+I don't think they'll give me the job. How can they not give you the job? If you are the best.
+
+Ahora conduzco mejor. ¿Cómo conduces mejor? Pero si eres un peligro.
+I drive better now. How do you drive better? But you are a danger.
+
+No creo que Eva me invite a su boda. ¿Cómo no te va a invitar? Os conocéis hace años.
+I don't think Eva will invite me to her wedding. How can she not invite you? You've known each other for years.
+
+¿Con quién se va a casar Laura? ¿Cómo que con quién se va a casar? Con Jaime, su novio.
+Who is Laura going to marry? What do you mean, who is she going to marry? Jaime, her boyfriend.
+
+¿Para qué quería dinero Rosa? ¿Cómo que para qué quería dinero? Para comprar comida.
+What did Rosa want money for? What do you mean, what did she want money for? To buy food.
+
+Te he estado buscando. ¿Dónde estabas? ¿Cómo que dónde estaba? En la oficina.
+I've been looking for you. Where were you? What do you mean, where was I? In the office.
+>>>>>>> d5140ef45d1d944e343a399b70ae0cd73aa5d0ed
