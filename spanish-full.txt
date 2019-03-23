@@ -1279,324 +1279,324 @@
 # ¿Y dónde vives ahora?
 # And where do you live now?
 # 
-Vivo en la calle Luna. Muy cerca de aquí.
-I live in Luna street. Very close to here.
-
-Perdone. ¿Trabaja usted aquí?
-Excuse-me. Do you work here?
-
-No, gracias. No como carne.
-No, thank you. I don't eat meat.
-
-El hermano de Alicia trabaja en una empresa de informática.
-Alicia's brother works at a tech company.
-
-Nos alojamos en casa de Andrés.
-We stayed at Andrés' house.
-
-En mi casa cenamos muy temprano.
-At home we have dinner very early.
-
-Cristina lleva siempre vaqueros.
-Cristina always wears jeans.
-
-¿Trabajas los domingos?
-Do you work on sundays?
-
-No bebo vino.
-I don't drink wine.
-
-Normalmente pasamos el fin de semana en el campo.
-Usually we spend the weekends in the countryside.
-
-La Tierra gira alrededor del Sol.
-The Earth spins around the Suns.
-
-Los vegetarianos no comen carne.
-The vegeterians don't eat meat.
-
-Una chica lleva una gorra de béisbol.
-A girl is wearing a baseball cap.
-
-¿Qué ves?
-What do you see?
-
-¿Cuántos años tienes?
-How old are you?
-
-Treinta y uno.
-Thirty one.
-
-¿Cuántas chicas hay en tu clase?
-How many girls are in your class?
-
-Veintiuna.
-Twenty one.
-
-En mi oficina hay veintiún hombres.
-In my office there are twenty one men.
-
-En esa montaña vive un águila.
-In this mountain lives an eagle.
-
-Tengo treinta y una libras.
-I have thirty one pounds.
-
-En mi clase hay catorce alumnos.
-In my class there are fourteen students.
-
-Solo tengo quince pesos.
-I have only fifteen pounds.
-
-Peso setenta y cinco kilos.
-I weight seventy one kilos.
-
-Hoy es cuatro de febrero.
-Today is february fourth.
-
-La boda es día trece.
-The wedding is on the thirteenth.
-
-Las tres y veinte.
-At three twenty.
-
-La una en punto.
-At one o'clock.
-
-Hago gimnasia todas las mañanas.
-I exercise every morning.
-
-Te conozco. Tú eres Berta.
-I know you. You are Berta.
-
-Tomás no oye nada.
-Tomás doesn't hear anything.
-
-¿Adónde vas?
-Where are you going?
-
-Voy a casa.
-I am going home.
-
-Los domingos doy una vuelta por el parque.
-On sundays I go for a walk in the park.
-
-Las cigüeñas hacen nidos en las torres.
-The storks make nests in the towers.
-
-No sé conducir.
-I can't drive.
-
-¿Qué dices?
-What did you say?
-
-No oigo.
-I can't hear.
-
-Jorge gana ciento veinticinco mil pesos al mes.
-Jorge earns one hundred twenty five thousand a month.
-
-El hombre más viejo del mundo tiene ciento doce años.
-The oldest man in the world has one hundred and twelve years.
-
-Javier acabó sexto en la maratón.
-Javier finish the marathon in sixth place.
-
-Ana es mi tercera profesora de español.
-Ana is my third spanish teacher.
-
-El primer tren sale a las siete veinte.
-The first train leaves at seven twenty.
-
-Hoy es nuestro tercer día en Bolivia.
-Today is our third day in Bolivia.
-
-Alfonso trece es el abuelo de Juan Carlos primeiro.
-Alfonso thirtheen is the grandfather of Juan Carlos the first.
-
-La oficina de Maribel está en el piso diecisiete.
-Maribel's office is on the seventeenth floor.
-
-Frederico García Lorca nació a finales del siglo diecinueve.
-Frederico García Lorca was born in the end of the nineteenth century.
-
-Las oficinas de Intersa están en la tercera planta.
-Intersa's offices are on the third floor.
-
-Chus y yo quedamos segundos en un campeonato de tenis.
-Chus and I finished second in a tennis championship.
-
-Vivo en el segundo piso.
-I live on the second floor.
-
-Vivo en el piso segundo.
-I live on the second floor.
-
-El Universidad de Chile va primeiro en la liga.
-Universidad de Chile is first on the championship.
-
-¿Por qué capítulo vas?
-In which chapter are you?
-
-Por el quinto.
-In the fifth.
-
-Luis regresa la semana qeu viene.
-Luis comes back next week.
-
-Mañana voy al médico.
-Tomorrow I will go to the doctor.
-
-Nos vemos el domingo.
-We see each other on sunday.
-
-El curso termina en diciembre.
-The course finishes in december.
-
-¿Qué haces esta noche?
-What are you doing tonight?
-
-La película empieza a las diez.
-The movie starts at ten.
-
-El avión sale a las cuatro.
-The plane leaves at four.
-
-¿Vamos a la sierra el domingo?
-Let's go to the mountains on sunday?
-
-No puedo. El domingo como con mis padres.
-I can't. On sundays I eat with my parents.
-
-Primero pelas los tomates y luego los partes.
-First you peal the tomates and then you slice them.
-
-Baja usted por esta calle y luego tuerce a la izquierda.
-You go down this street and then turn left.
-
-¿Por qué no le piedes el coche a Jesús?
-Why don't you ask the car to Jesús?
-
-¿Llamamos a Nuria?
-Do we call Nuria?
-
-¿Qué hago? ¿Lo compro?
-What do I do? Do I buy it?
-
-No sé. Es un poco caro.
-I don't know. It is a bit expensive.
-
-¿Invito a Julio?
-Do I invite Julio?
-
-Si tú quieres.
-If you want to.
-
-¿Te llevo algún libro?
-Do I take you any book?
-
-¿Le abro la puerta?
-Can I open you the door?
-
-Gracias. Muy amable.
-Thank you. Very nice of you.
-
-¿Me pasas el agua, por favor?
-Pass me the water, please?
-
-¿Me presta cincuenta euros?
-Can you lend me fifty euros?
-
-¿Has visto el paquete que ha llegado?
-Have you seen the package that arrived?
-
-El chico con el que sale Nieves es bombero.
-The boy Nieves goes out with is a fireman.
-
-Tengo un loro. El loro habla.
-I have a parrot. The parrot speaks.
-
-Tengo un loro que habla.
-I have a parrot that speaks.
-
-He recibido una revista. Clara escribe en esta revista.
-I received a magazine. Clara writes to this magazine.
-
-He recibido una revista en la que escribe Clara.
-I received a magazine that Clara writes to.
-
-¿Quién es Begoña? Es la chica que está bailando com Pedro.
-Who is Begoña? Is the girl that is dancing with Pedro.
-
-El coche que está delante del banco es el mío.
-The car in front of the bank is mine.
-
-Un carnicero es una persona que vende carne.
-A butcher is someone that sells meat.
-
-Las chicas que conocimos ayer son de Córdoba.
-The girls we met yesterday are from Córdoba.
-
-El cóndor es un ave que procede de América del Sur.
-The condor is a bird that comes from south America.
-
-No me gusta el libro que estoy leyendo.
-I don't like the book that I'm reading.
-
-Ese es el perro del que te hablé.
-This is the dog I talked to you about.
-
-Las chicas con las que estaba jugando son mis sobrinas.
-The girls I was playing with are my nieces.
-
-El chico con quien sale Nieve es bombero.
-The guy with whom Nieves goes out with is a fireman.
-
-Las chicas con quien estaba jugando son mis sobrinas.
-The girls with whom I was playing with are my nieces.
-
-¿Cuál es tu maleta? La que tiene ruedas.
-Which one is your bag? The one with wheels.
-
-Me gusta más este libro que el que me recomendó Luis.
-I like prefer this book than the one Luis recommeded me.
-
-Lo que has dicho es una tontería.
-What you said is nonsense.
-
-Lo que tú necesitas es mucho cariño.
-What you need is a lot of love.
-
-Tengo un amigo. Su padre es fotógrafo.
-I have a friend. His father is a photographer.
-
-Tengo un amigo cuyo padre es fotógrafo.
-I have a friend whose father is a photographer.
-
-Los alumnos cuyos nombres diga pueden salir.
-The students whose names I say can leave.
-
-Ese señor es un escritor. Te he hablado de sus libros.
-That gentleman is a writer. I told you about his books.
-
-Ese es el escritor de cuyos libros te he hablado.
-That is the writer whose books I told you about.
-
-Conozco a una chica. Su hermana ha escalado el Aconcagua.
-I know a girl. Her sister has climbed the Aconcagua.
-
-Conozco a una chica cuya hermana a escalado el Aconcagua.
-I know a girl whose sister has climbed the Aconcagua.
-
-Conozco a un señor. Sus hijos han estudiado Físicas.
-I know a gentleman. His sons have studied Physics.
-
-Esta es la curva donde tuve el accidente.
-This is the curve where I had the accident.
-
-Esta es la casa donde nació Cervantes.
-This is the house where Cervantes was born.
-
+# Vivo en la calle Luna. Muy cerca de aquí.
+# I live in Luna street. Very close to here.
+# 
+# Perdone. ¿Trabaja usted aquí?
+# Excuse-me. Do you work here?
+# 
+# No, gracias. No como carne.
+# No, thank you. I don't eat meat.
+# 
+# El hermano de Alicia trabaja en una empresa de informática.
+# Alicia's brother works at a tech company.
+# 
+# Nos alojamos en casa de Andrés.
+# We stayed at Andrés' house.
+# 
+# En mi casa cenamos muy temprano.
+# At home we have dinner very early.
+# 
+# Cristina lleva siempre vaqueros.
+# Cristina always wears jeans.
+# 
+# ¿Trabajas los domingos?
+# Do you work on sundays?
+# 
+# No bebo vino.
+# I don't drink wine.
+# 
+# Normalmente pasamos el fin de semana en el campo.
+# Usually we spend the weekends in the countryside.
+# 
+# La Tierra gira alrededor del Sol.
+# The Earth spins around the Suns.
+# 
+# Los vegetarianos no comen carne.
+# The vegeterians don't eat meat.
+# 
+# Una chica lleva una gorra de béisbol.
+# A girl is wearing a baseball cap.
+# 
+# ¿Qué ves?
+# What do you see?
+# 
+# ¿Cuántos años tienes?
+# How old are you?
+# 
+# Treinta y uno.
+# Thirty one.
+# 
+# ¿Cuántas chicas hay en tu clase?
+# How many girls are in your class?
+# 
+# Veintiuna.
+# Twenty one.
+# 
+# En mi oficina hay veintiún hombres.
+# In my office there are twenty one men.
+# 
+# En esa montaña vive un águila.
+# In this mountain lives an eagle.
+# 
+# Tengo treinta y una libras.
+# I have thirty one pounds.
+# 
+# En mi clase hay catorce alumnos.
+# In my class there are fourteen students.
+# 
+# Solo tengo quince pesos.
+# I have only fifteen pounds.
+# 
+# Peso setenta y cinco kilos.
+# I weight seventy one kilos.
+# 
+# Hoy es cuatro de febrero.
+# Today is february fourth.
+# 
+# La boda es día trece.
+# The wedding is on the thirteenth.
+# 
+# Las tres y veinte.
+# At three twenty.
+# 
+# La una en punto.
+# At one o'clock.
+# 
+# Hago gimnasia todas las mañanas.
+# I exercise every morning.
+# 
+# Te conozco. Tú eres Berta.
+# I know you. You are Berta.
+# 
+# Tomás no oye nada.
+# Tomás doesn't hear anything.
+# 
+# ¿Adónde vas?
+# Where are you going?
+# 
+# Voy a casa.
+# I am going home.
+# 
+# Los domingos doy una vuelta por el parque.
+# On sundays I go for a walk in the park.
+# 
+# Las cigüeñas hacen nidos en las torres.
+# The storks make nests in the towers.
+# 
+# No sé conducir.
+# I can't drive.
+# 
+# ¿Qué dices?
+# What did you say?
+# 
+# No oigo.
+# I can't hear.
+# 
+# Jorge gana ciento veinticinco mil pesos al mes.
+# Jorge earns one hundred twenty five thousand a month.
+# 
+# El hombre más viejo del mundo tiene ciento doce años.
+# The oldest man in the world has one hundred and twelve years.
+# 
+# Javier acabó sexto en la maratón.
+# Javier finish the marathon in sixth place.
+# 
+# Ana es mi tercera profesora de español.
+# Ana is my third spanish teacher.
+# 
+# El primer tren sale a las siete veinte.
+# The first train leaves at seven twenty.
+# 
+# Hoy es nuestro tercer día en Bolivia.
+# Today is our third day in Bolivia.
+# 
+# Alfonso trece es el abuelo de Juan Carlos primeiro.
+# Alfonso thirtheen is the grandfather of Juan Carlos the first.
+# 
+# La oficina de Maribel está en el piso diecisiete.
+# Maribel's office is on the seventeenth floor.
+# 
+# Frederico García Lorca nació a finales del siglo diecinueve.
+# Frederico García Lorca was born in the end of the nineteenth century.
+# 
+# Las oficinas de Intersa están en la tercera planta.
+# Intersa's offices are on the third floor.
+# 
+# Chus y yo quedamos segundos en un campeonato de tenis.
+# Chus and I finished second in a tennis championship.
+# 
+# Vivo en el segundo piso.
+# I live on the second floor.
+# 
+# Vivo en el piso segundo.
+# I live on the second floor.
+# 
+# El Universidad de Chile va primeiro en la liga.
+# Universidad de Chile is first on the championship.
+# 
+# ¿Por qué capítulo vas?
+# In which chapter are you?
+# 
+# Por el quinto.
+# In the fifth.
+# 
+# Luis regresa la semana qeu viene.
+# Luis comes back next week.
+# 
+# Mañana voy al médico.
+# Tomorrow I will go to the doctor.
+# 
+# Nos vemos el domingo.
+# We see each other on sunday.
+# 
+# El curso termina en diciembre.
+# The course finishes in december.
+# 
+# ¿Qué haces esta noche?
+# What are you doing tonight?
+# 
+# La película empieza a las diez.
+# The movie starts at ten.
+# 
+# El avión sale a las cuatro.
+# The plane leaves at four.
+# 
+# ¿Vamos a la sierra el domingo?
+# Let's go to the mountains on sunday?
+# 
+# No puedo. El domingo como con mis padres.
+# I can't. On sundays I eat with my parents.
+# 
+# Primero pelas los tomates y luego los partes.
+# First you peal the tomates and then you slice them.
+# 
+# Baja usted por esta calle y luego tuerce a la izquierda.
+# You go down this street and then turn left.
+# 
+# ¿Por qué no le piedes el coche a Jesús?
+# Why don't you ask the car to Jesús?
+# 
+# ¿Llamamos a Nuria?
+# Do we call Nuria?
+# 
+# ¿Qué hago? ¿Lo compro?
+# What do I do? Do I buy it?
+# 
+# No sé. Es un poco caro.
+# I don't know. It is a bit expensive.
+# 
+# ¿Invito a Julio?
+# Do I invite Julio?
+# 
+# Si tú quieres.
+# If you want to.
+# 
+# ¿Te llevo algún libro?
+# Do I take you any book?
+# 
+# ¿Le abro la puerta?
+# Can I open you the door?
+# 
+# Gracias. Muy amable.
+# Thank you. Very nice of you.
+# 
+# ¿Me pasas el agua, por favor?
+# Pass me the water, please?
+# 
+# ¿Me presta cincuenta euros?
+# Can you lend me fifty euros?
+# 
+# ¿Has visto el paquete que ha llegado?
+# Have you seen the package that arrived?
+# 
+# El chico con el que sale Nieves es bombero.
+# The boy Nieves goes out with is a fireman.
+# 
+# Tengo un loro. El loro habla.
+# I have a parrot. The parrot speaks.
+# 
+# Tengo un loro que habla.
+# I have a parrot that speaks.
+# 
+# He recibido una revista. Clara escribe en esta revista.
+# I received a magazine. Clara writes to this magazine.
+# 
+# He recibido una revista en la que escribe Clara.
+# I received a magazine that Clara writes to.
+# 
+# ¿Quién es Begoña? Es la chica que está bailando com Pedro.
+# Who is Begoña? Is the girl that is dancing with Pedro.
+# 
+# El coche que está delante del banco es el mío.
+# The car in front of the bank is mine.
+# 
+# Un carnicero es una persona que vende carne.
+# A butcher is someone that sells meat.
+# 
+# Las chicas que conocimos ayer son de Córdoba.
+# The girls we met yesterday are from Córdoba.
+# 
+# El cóndor es un ave que procede de América del Sur.
+# The condor is a bird that comes from south America.
+# 
+# No me gusta el libro que estoy leyendo.
+# I don't like the book that I'm reading.
+# 
+# Ese es el perro del que te hablé.
+# This is the dog I talked to you about.
+# 
+# Las chicas con las que estaba jugando son mis sobrinas.
+# The girls I was playing with are my nieces.
+# 
+# El chico con quien sale Nieve es bombero.
+# The guy with whom Nieves goes out with is a fireman.
+# 
+# Las chicas con quien estaba jugando son mis sobrinas.
+# The girls with whom I was playing with are my nieces.
+# 
+# ¿Cuál es tu maleta? La que tiene ruedas.
+# Which one is your bag? The one with wheels.
+# 
+# Me gusta más este libro que el que me recomendó Luis.
+# I like prefer this book than the one Luis recommeded me.
+# 
+# Lo que has dicho es una tontería.
+# What you said is nonsense.
+# 
+# Lo que tú necesitas es mucho cariño.
+# What you need is a lot of love.
+# 
+# Tengo un amigo. Su padre es fotógrafo.
+# I have a friend. His father is a photographer.
+# 
+# Tengo un amigo cuyo padre es fotógrafo.
+# I have a friend whose father is a photographer.
+# 
+# Los alumnos cuyos nombres diga pueden salir.
+# The students whose names I say can leave.
+# 
+# Ese señor es un escritor. Te he hablado de sus libros.
+# That gentleman is a writer. I told you about his books.
+# 
+# Ese es el escritor de cuyos libros te he hablado.
+# That is the writer whose books I told you about.
+# 
+# Conozco a una chica. Su hermana ha escalado el Aconcagua.
+# I know a girl. Her sister has climbed the Aconcagua.
+# 
+# Conozco a una chica cuya hermana a escalado el Aconcagua.
+# I know a girl whose sister has climbed the Aconcagua.
+# 
+# Conozco a un señor. Sus hijos han estudiado Físicas.
+# I know a gentleman. His sons have studied Physics.
+# 
+# Esta es la curva donde tuve el accidente.
+# This is the curve where I had the accident.
+# 
+# Esta es la casa donde nació Cervantes.
+# This is the house where Cervantes was born.
+# 
 Me gustó mucho el restaurante donde comimos ayer.
 I loved the restaurant where we ate yesterday.
 
@@ -8351,4 +8351,3 @@ What did Rosa want money for? What do you mean, what did she want money for? To 
 
 Te he estado buscando. ¿Dónde estabas? ¿Cómo que dónde estaba? En la oficina.
 I've been looking for you. Where were you? What do you mean, where was I? In the office.
->>>>>>> d5140ef45d1d944e343a399b70ae0cd73aa5d0ed
