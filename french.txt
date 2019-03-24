@@ -1399,9 +1399,6 @@
 # Je m'en suis approché.
 # I came closer to them.
 # 
-# # Tu t'es débarassé de tout ces choses inutiles.
-# # You got rid of all these useless things.
-# 
 # Tu t'en es débarassé.
 # You got rid of them.
 # 
@@ -1461,9 +1458,6 @@
 # 
 # Elle a fait ces tartes délicieuses.
 # She made these delicious pies.
-# 
-# Elles les a faites.
-# She made them.
 # 
 # J'ai envoyé les letrres.
 # I sent the letters.
@@ -2889,3 +2883,9 @@ She gave her some flowers
 
 Cet employé travaille pour nous.
 This employee works for us.
+
+Elle les a fait.
+She made them.
+
+Tu t'es débarassé de toutes ces choses inutiles.
+You got rid of all these useless things.
