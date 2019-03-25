@@ -2889,3 +2889,108 @@ She made them.
 
 Tu t'es débarassé de toutes ces choses inutiles.
 You got rid of all these useless things.
+
+Ma sœur est en vacances; elle est à Bordeaux.
+My sister is on vacation; she is in Bordeaux.
+
+Ma fille est en vacances; elle est à Bordeaux.
+My daughter is on vacation; she is in Bordeaux.
+
+Mon amie Janine est en vacances; elle est à Bordeaux.
+My friend Janine is on holiday; she is in Bordeaux.
+
+Janine est en vacances; elle est à Bordeaux.
+Janine is on holiday; she is in Bordeaux.
+
+Ma mère est en vacances; elle est à Bordeaux.
+My mother is on holiday; she is in Bordeaux.
+
+Mlle Courtois est en vacances; elle est à Bordeaux.
+Miss Courtois is on vacation; she is in Bordeaux.
+
+Mme Durand est en vacances; elle est à Bordeaux.
+Mrs Durand is on holiday; she is in Bordeaux.
+
+Mon amie Janine est en vacances; elle est à Bordeaux.
+My friend Janine is on holiday; she is in Bordeaux.
+
+Mon frère est en vacances; il est à Genève.
+My brother is on vacation; he is in Geneva.
+
+Mon père est en vacances; il est à Genève.
+My father is on vacation; he is in Geneva.
+
+Mon ami M. Lelong est en vacances; il est à Genève.
+My friend Mr. Lelong is on vacation; he is in Geneva.
+
+M. Durand est en vacances; il est à Genève.
+Mr. Durand is on vacation; he is in Geneva.
+
+Mon fils est en vacances; il est à Genève.
+My son is on vacation; he is in Geneva.
+
+Le frère de Janine est en vacances; il est à Genève.
+Janine's brother is on vacation; he is in Geneva.
+
+M. Lelong est en vacances; il est à Genève.
+Mr. Lelong is on vacation; he is in Geneva.
+
+Ma femme et ma fille sont en vacances; elles sont à Marseille.
+My wife and daughter are on vacation; they are in Marseille.
+
+Ma femme et ma sœur sont en vacances; elles sont à Marseille.
+My wife and sister are on vacation; they are in Marseille.
+
+Ma sœur et ma fille sont en vacances; elles sont à Marseille.
+My sister and daughter are on vacation; they are in Marseille.
+
+Janine et ma sœur sont en vacances; elles sont à Marseille.
+Janine and my sister are on vacation; they are in Marseille.
+
+Mlle Courtois et ma fille sont en vacances; elles sont à Marseille.
+Miss Courtois and my daughter are on vacation; they are in Marseille.
+
+Mme Durand et ma femme sont en vacances; elles sont à Marseille.
+Mrs Durand and my wife are on holiday; they are in Marseille.
+
+Ma sœur et Mme Durand sont en vacances; elles sont à Marseille.
+My sister and Mrs Durand are on holiday; they are in Marseille.
+
+Ma femme et ma fille sont en vacances; elles sont à Marseille.
+My wife and daughter are on vacation; they are in Marseille.
+
+Mon frère et Janine sont en vacances; ils sont à Toulouse.
+My brother and Janine are on vacation; they are in Toulouse.
+
+Mon frère et ma sœur sont en vacances; ils sont à Toulouse.
+My brother and sister are on vacation; they are in Toulouse.
+
+Mon mari et mon fils sont en vacances; ils sont à Toulouse.
+My husband and son are on vacation; they are in Toulouse.
+
+Mon fils et mon frère sont en vacances; ils sont à Toulouse.
+My son and brother are on vacation; they are in Toulouse.
+
+Janine et mon fils sont en vacances; ils sont à Toulouse.
+Janine and my son are on vacation; they are in Toulouse.
+
+M. et Mme Durand sont en vacances; ils sont à Toulouse.
+Mr. and Mrs. Durand are on vacation; they are in Toulouse.
+
+Mon père et ma mère sont en vacances; ils sont à Toulouse.
+My father and mother are on holiday; they are in Toulouse.
+
+Mon frère et mon mari sont en vacances; ils sont à Toulouse.
+My brother and husband are on vacation; they are in Toulouse.
+
+Mon frère et ma femme sont en vacances; ils sont à Toulouse.
+My brother and wife are on vacation; they are in Toulouse.
+
+Mon fils et ma fille sont en vacances; ils sont à Toulouse.
+My son and daughter are on vacation; they are in Toulouse.
+
+Les parents de Janine sont en vacances; ils sont à Toulouse.
+Janine's parents are on vacation; they are in Toulouse.
+
+Ma femme et mon fils sont en vacances; ils sont à Toulouse.
+My wife and son are on vacation; they are in Toulouse.
