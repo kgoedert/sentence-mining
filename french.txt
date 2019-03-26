@@ -2994,3 +2994,84 @@ Janine's parents are on vacation; they are in Toulouse.
 
 Ma femme et mon fils sont en vacances; ils sont à Toulouse.
 My wife and son are on vacation; they are in Toulouse.
+
+Mlle Courtois et ma fille sont en vacances; elles sont en Suisse.
+Miss Courtois and my daughter are on vacation; they are in Switzerland.
+
+Mon frère et ma sœur sont en vacances; ils sont en Suisse.
+My brother and sister are on vacation; they are in Switzerland.
+
+Le frère de Janine est en vacances; il est en Suisse.
+Janine's brother is on holiday; he is in Switzerland.
+
+Janine et ma sœur sont en vacances; elles sont en Suisse.
+Janine and my sister are on holiday; they are in Switzerland.
+
+M. Lelong est en vacances; il est en Suisse.
+Mr. Lelong is on vacation; he is in Switzerland.
+
+Mme Durand et M. Lelong sont en vacances; ils sont en Suisse.
+Mrs. Durand and Mr. Lelong are on vacation; they are in Switzerland.
+
+M. et Mme Lelong sont en vacances; ils sont en Suisse.
+Mr. and Mrs. Lelong are on vacation; they are in Switzerland.
+
+Mlle Courtois est en vacances; elle est en Suisse.
+Miss Courtois is on vacation; she is in Switzerland.
+
+Mon père et mon frère sont en vacances; ils sont en Suisse.
+My father and brother are on vacation; they are in Switzerland.
+
+Les parents de Janine sont en vacances; ils sont en Suisse.
+Janine's parents are on vacation; they are in Switzerland.
+
+Où est Danielle? Elle est en Espagne.
+Where's Danielle? Where's Danielle? She's in Spain.
+
+Où sont les fils? Ils sont en Espagne.
+Where are the wires? They are in Spain.
+
+Où sont vos filles? Elles sont en Espagne.
+Where are your daughters? They're in Spain.
+
+Où est Mlle Courtois? Elle est en Espagne.
+Where is Miss Courtois? She's in Spain.
+
+Où est votre fils? Il est en Espagne.
+Where is your son? Where is he? He's in Spain.
+
+Où sont vos fils? Ils sont en Espagne.
+Where are your sons? They are in Spain.
+
+Où sont Janine et sa sœur? Elles sont en Espagne.
+Where are Janine and her sister? They're in Spain.
+
+Où sont vos parents? Ils sont en Espagne.
+Where are your parents? They are in Spain.
+
+Où sont votre père et votre frère? Ils sont en Espagne.
+Where are your father and brother? They are in Spain.
+
+Où est votre amie Stéphanie? Elle est au restaurant.
+Where is your friend Stephanie? She's at the restaurant.
+
+Où est votre fils? Il est au restaurant.
+Where is your son? Where is he? He's at the restaurant.
+
+Où est Mlle Courtois? Elle est au restaurant.
+Where is Miss Courtois? She's at the restaurant.
+
+Où sont vos parents? Ils sont au restaurant.
+Where are your parents? They're at the restaurant.
+
+Où est votre frère? Il est au restaurant.
+Where is your brother? He's at the restaurant.
+
+Où est votre sœur? Elle est au restaurant.
+Where is your sister? She's at the restaurant.
+
+Où sont vos frères? Ils sont au restaurant.
+Where are your brothers? They're at the restaurant.
+
+Où sont vos sœurs? Elles sont au restaurant.
+Where are your sisters? They're at the restaurant.
