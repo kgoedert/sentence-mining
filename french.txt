@@ -3075,3 +3075,90 @@ Where are your brothers? They're at the restaurant.
 
 Où sont vos sœurs? Elles sont au restaurant.
 Where are your sisters? They're at the restaurant.
+
+Où sont les livres? Je ne sais pas où ils sont.
+Where are the books? I don't know where they are.
+
+Où est le livre? Je ne sais pas où il est.
+Where is the book? I don't know where he is.
+
+Où est Janine? Je ne sais pas où elle est.
+Where's Janine? Where's Janine? I don't know where she is.
+
+Où est la classe? Je ne sais pas où elle est.
+Where is the class? I don't know where she is.
+
+Où est le restaurant? Je ne sais pas où il est.
+Where's the restaurant? I don't know where it is.
+
+Où est mon frère? Je ne sais pas où il est.
+Where is my brother? I don't know where he is.
+
+Où est votre amie Janine? Je ne sais pas où elle est.
+Where is your friend Janine? I don't know where she is.
+
+Où sont les enfants? Je ne sais pas où ils sont.
+Where are the children? I don't know where they are.
+
+Où est le livre? Je ne sais pas où il est.
+Where is the book? I don't know where he is.
+
+Où est Émilie? Elle est au café.
+Where's Emily? Where's Emily? She's at the coffee shop.
+
+Où sont vos filles? Elles sont au café.
+Where are your daughters? They're at the coffee shop.
+
+Où sont vos fils? Ils sont au café.
+Where are your sons? They're at the café.
+
+Où est Mlle Courtois? Elle est au café.
+Where is Miss Courtois? She's at the coffee shop.
+
+Où sont les enfants? Ils sont au café.
+Where are the children? They're at the café.
+
+Où est votre fils? Il est au café.
+Where is your son? Where is he? He's at the coffee shop.
+
+Où sont Janine et sa sœur? Elles sont au café.
+Where are Janine and her sister? They're at the coffee shop.
+
+Où sont votre père et votre frère? Ils sont au café.
+Where are your father and brother? They're at the café.
+
+Où sont vos parents? Ils sont au café.
+Where are your parents? They're at the café.
+
+Où est votre amie Janine? Elle est ici.
+Where is your friend Janine? She's here. She's here.
+
+Où est votre frère? Il est ici.
+Where is your brother? He is here.
+
+Où sont vos parents? Ils sont ici.
+Where are your parents? They are here.
+
+Où est Mlle Courtois? Elle est ici.
+Where is Miss Courtois? She's here. She's here.
+
+Où sont les livres? Ils sont ici.
+Where are the books? They are here.
+
+Où est le café? Il est ici.
+Where's the coffee? He is here.
+
+Où est votre sœur? Elle est ici.
+Where is your sister? She's here. She's here.
+
+Où est le livre? Il est ici.
+Where is the book? He is here.
+
+Où sont vos frères? Ils sont ici.
+Where are your brothers? They are here.
+
+Où sont vos sœurs? Elles sont ici.
+Where are your sisters? They are here.
+
+Où est votre fils? Il est ici.
+Where is your son? Where is he? He is here.
