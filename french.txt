@@ -3162,3 +3162,33 @@ Where are your sisters? They are here.
 
 Où est votre fils? Il est ici.
 Where is your son? Where is he? He is here.
+
+Sophie et Théo sont toujours ici. 
+Sophie and Théo are still here.
+
+Est-ce que Sophie et Théo sont toujours ici? 
+Are Sophie and Théo still here?
+
+Le restaurant est près d'ici. 
+The restaurant is nearby.
+
+Est-ce que le restaurant est près d'ici? 
+Is the restaurant nearby?
+
+Vous allez au Café de Paris. 
+You are going to the Paris Café.
+
+Est-ce que vous allez au Café de Paris? 
+Are you going to the Paris Café?
+
+Il est pressé. 
+He is in a hurry.
+
+Est-ce qu'il est pressé? 
+Is he in a hurry?
+
+Elles sont ici. 
+They are here.
+
+Est-ce qu'elles sont ici? 
+Are they here?
