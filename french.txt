@@ -1678,327 +1678,327 @@
 # Il n'a pas de chapeau.
 # He doesn't have a hat.
 # 
-# Il fait chaud.
-# It is hot.
+# # Il fait chaud.
+# # It is hot.
+# # 
+# # J'apporte mes notes et tu apporte les tiennes.
+# # I bring my notes and you bring yours.
+# # 
+# Tu fais tes devoirs et elle fait les siens.
+# You do your homework and she does hers.
 # 
-# J'apporte mes notes et tu apporte les tiennes.
-# I bring my notes and you bring yours.
+# Nous aimons votre chien et vous aimez le nôtre.
+# We like your dog and you like yours.
 # 
-Tu fais tes devoirs et elle fait les siens.
-You do your homework and she does hers.
-
-Nous aimons votre chien et vous aimez le nôtre.
-We like your dog and you like yours.
-
-Les leurs sont de grande valeur.
-They are quite valuable.
-
-Vous prenez vos billets et nous prenons les nôtres.
-You take your tickets and we take ours.
-
-Il a téléphoné à son avocat et elle a téléphoné au sien.
-He called his lawyer and she called hers.
-
-Elle a besoin de ton aide et tu as besoin de la sienne.
-She needs your help and you need hers.
-
-Cette valise est à moi.
-This suitcase is mine.
-
-Ce blouson en cuir est à lui.
-This leather jacket is his.
-
-Ces vélos sont à eux.
-These bikes are theirs.
-
-Ces journaux sont à elles.
-These newspapers are theirs.
-
-C'est le sien? Non, c'est le mien!
-Is it his? No, it's mine!
-
-C'est ton avis et c'est aussi le sien.
-It's your opinion and it's also his.
-
-C'est un de vos associé?
-Is he a business partner of yours.
-
-C'est un des mes collègues.
-He's a collegue of mine.
-
-À la tienne!
-Cheers! 
-
-À la votre!
-Cheers!
-
-Après de mois de cauchemar, elle est de nouveau parmi les siens.
-After some nightmarish months, she is back with her family again.
-
-Leur benjamin a encore fait des siennes!
-Their youngest son has been acting up again!
-
-Il faut y mettre du tien!
-You have to make an effort!
-
-Si elle n'y met pas du sien, elle ne réussira jamais.
-If she does not make an effort, she'll never succeed.
-
-Son appartement coûtait cher. Le mien aussi.
-His apartment was expensive. So was mine.
-
-Nos meubles sont très modernes. Les miens aussi.
-Our furniture is very modern. So is mine.
-
-Vos réponses ne sont pas correctes. Les siennes non plus.
-Your answers are not right. His either.
-
-Son appartement n'est pas bruyant. Le tien non plus.
-His apartment is not noisy. Yours either.
-
-Cette dame est celle qui habitait autrefois à côté.
-That woman is the one who used to live next door.
-
-Il a adopté la méthode de Gérard. Non, c'est celle de Francine.
-He adopted Gerard's method. No, it's Francine's.
-
-À qui est ce téléphone? C'est celui de Juliette?
-Whose phone is this? Is it Juliette's?
-
-Où se trouve le pont Alexander III?
-Where is the Alexander III bridge?
-
-La ville principal est à cent kilomètres d'ici.
-The main town is a hundred kilometers away.
-
-Prenez le chemin sur la droite.
-Take the path on the right.
-
-Le réchauffement de la planète est le sujet de sa conférence.
-Global warming is the topic of this lecture.
-
-Les enfants jouent dans le jardins.
-The children are playing on the garden.
-
-L'ami de Sonia est japonais.
-Sonia's friend is japanese.
-
-Est-ce qu'il y a une piscine?
-Is there a swimming pool?
-
-Elle a acheté un vélo.
-She bought a bike.
-
-Nous avons vu des lapins dans le jardin.
-We saw rabbits in the garden.
-
-Il a acheté des rideaux pour le salon.
-He bought curtains for the living room.
-
-Il a un nouveau chien.
-He has a new dog.
-
-Tu veux emprunter un de mes livres?
-Do you want to borrow one of my books?
-
-voilà Mademoiselle Courtois 
-Oh, there's Miss Courtois
-
-bonjour, Janine 
-Hello, Janine
-
-bonjour, Madame 
-Hello Madam
-
-très bien, merci 
-very well, thank you
-
-de vous présenter 
-to present to you
-
-je suis heureux de faire votre connaissance 
-I am happy to make your acquaintance
-
-bonjour, Monsieur 
-Hello Sir
-
-oui, merci 
-yes, thank you
-
-est-ce que 
-introduction to a question
-
-ils sont toujours ici? 
-are they still here?
-
-et ma sœur est 
-and my sister is
-
-dites-leur le bonjour 
-tell them hello
-
-je suis pressé 
-I am in a hurry
-
-à bientôt 
-see you soon
-
-quelle heure est-il? 
-what time is it?
-
-il est une heure
-it is one o'clock
-
-aller au Café de Paris 
-to go to the Café de Paris
-
-c'est un très bon restaurant 
-it is a very good restaurant
-
-il est près d'ici
-it is near here
-
-Tiens, voilà Mademoiselle Courtois. 
-Oh, there's Miss Courtois.
-
-Bonjour, Madame. Comment allez-vous? 
-Hello, Mrs. Durand. How are you?
-
-Très bien, merci. 
-Very well, thank you.
-
-Permettez-moi de vous présenter Monsieur Lelong. 
-May I introduce Mr. Lelong to you.
-
-Je suis heureux de faire votre connaissance, Mademoiselle. 
-I'm happy to meet you, Miss (Courtois).
-
-Est-ce que vous avez des nouvelles de votre frère? 
-Do you have news from your brother?
-
-Oui, merci. Il est à Lyon maintenant. 
-Yes, thank you. He's in Lyon now.
-
-Est-ce que vos parents sont toujours en vacances? 
-Are your parents still on vacation?
-
-Oui, et ma sœur est avec eux. 
-Yes, and my sister is with them.
-
-Dites-leur le bonjour de ma part. 
-Send them my best regards.
-
-Je n'y manquerai pas. 
-I certainly will.
-
-Excusez-moi, je suis pressée. 
-Excuse me, I'm in a hurry
-
-A bientôt, j'espère. 
-See you soon, I hope.
-
-Où est-ce que nous allons déjeuner? 
-Where are we going to have lunch?
-
-Est-ce que vous voulez aller au Café de Paris? 
-Do you want to go to the Café de Paris?
-
-Mon frère va bien. 
-My brother is doing well.
-
-Mon père va bien. 
-My father is doing well.
-
-Mon fils va bien. 
-My son is doing well.
-
-Mon mari va bien. 
-My husband is doing well.
-
-Ma femme va bien. 
-My wife is doing well.
-
-Mon enfant va bien. 
-My child is doing well.
-
-Mon ami va bien 
-My friend is doing well.
-
-Il va bien. 
-He is doing well.
-
-Ma sœur va bien aujourd'hui. 
-My sister is doing well today.
-
-Ma mère va bien aujourd'hui. 
-My mother is doing well today.
-
-Ma fille va bien aujourd'hui. 
-My daughter is doing well today.
-
-Ma femme va bien aujourd'hui. 
-My wife is doing well today.
-
-Mon amie va bien aujourd'hui. 
-My friend is doing well today.
-
-Elle va bien aujourd'hui. 
-She is doing well today.
-
-Est-ce qu'elle va au café? 
-Is she going to the café?
-
-Est-ce qu'elle va à Paris? 
-Is she going to Paris?
-
-Est-ce qu'elle va au restaurant? 
-Is she going to the restaurant?
-
-Est-ce qu'elle va à Lyon? 
-Is she going to Lyon?
-
-Est-ce qu'elle va en classe? 
-Is she going to the class?
-
-Est-ce qu'elle va au café? 
-Is she going to the café?
-
-Est-ce qu'elle va en vacances? 
-Is she going on vacation?
-
-Est-ce qu'elle va au restaurant? 
-Is she going to the restaurant?
-
-Où est-ce que vous allez? 
-Where are you going?
-
-Où est-ce nous allons? 
-Where are we going?
-
-Où est-ce qu'il va? 
-Where is he going?
-
-Où est-ce qu'elle va? 
-Where is she going?
-
-Quand est-ce que vous allez à Paris? 
-When are you going to Paris?
-
-Quand est-ce que nous allons à Lyon? 
-When are we going to Lyon?
-
-Quand est-ce que vous allez au café? 
-When are you going to the café?
-
-Quand est-ce que nous allons au restaurant? 
-When are we going to the restaurant?
-
-Pourquoi est-ce qu'elle va à Lyon? 
-Why is she going to Lyon?
-
-Quand est-ce qu'elle va à Lyon? 
-When is she going to Lyon?
-
+# Les leurs sont de grande valeur.
+# They are quite valuable.
+# 
+# Vous prenez vos billets et nous prenons les nôtres.
+# You take your tickets and we take ours.
+# 
+# Il a téléphoné à son avocat et elle a téléphoné au sien.
+# He called his lawyer and she called hers.
+# 
+# Elle a besoin de ton aide et tu as besoin de la sienne.
+# She needs your help and you need hers.
+# 
+# Cette valise est à moi.
+# This suitcase is mine.
+# 
+# Ce blouson en cuir est à lui.
+# This leather jacket is his.
+# 
+# Ces vélos sont à eux.
+# These bikes are theirs.
+# 
+# Ces journaux sont à elles.
+# These newspapers are theirs.
+# 
+# C'est le sien? Non, c'est le mien!
+# Is it his? No, it's mine!
+# 
+# C'est ton avis et c'est aussi le sien.
+# It's your opinion and it's also his.
+# 
+# C'est un de vos associé?
+# Is he a business partner of yours.
+# 
+# C'est un des mes collègues.
+# He's a collegue of mine.
+# 
+# À la tienne!
+# Cheers! 
+# 
+# À la votre!
+# Cheers!
+# 
+# Après de mois de cauchemar, elle est de nouveau parmi les siens.
+# After some nightmarish months, she is back with her family again.
+# 
+# Leur benjamin a encore fait des siennes!
+# Their youngest son has been acting up again!
+# 
+# Il faut y mettre du tien!
+# You have to make an effort!
+# 
+# Si elle n'y met pas du sien, elle ne réussira jamais.
+# If she does not make an effort, she'll never succeed.
+# 
+# Son appartement coûtait cher. Le mien aussi.
+# His apartment was expensive. So was mine.
+# 
+# Nos meubles sont très modernes. Les miens aussi.
+# Our furniture is very modern. So is mine.
+# 
+# Vos réponses ne sont pas correctes. Les siennes non plus.
+# Your answers are not right. His either.
+# 
+# Son appartement n'est pas bruyant. Le tien non plus.
+# His apartment is not noisy. Yours either.
+# 
+# Cette dame est celle qui habitait autrefois à côté.
+# That woman is the one who used to live next door.
+# 
+# Il a adopté la méthode de Gérard. Non, c'est celle de Francine.
+# He adopted Gerard's method. No, it's Francine's.
+# 
+# À qui est ce téléphone? C'est celui de Juliette?
+# Whose phone is this? Is it Juliette's?
+# 
+# Où se trouve le pont Alexander III?
+# Where is the Alexander III bridge?
+# 
+# La ville principal est à cent kilomètres d'ici.
+# The main town is a hundred kilometers away.
+# 
+# Prenez le chemin sur la droite.
+# Take the path on the right.
+# 
+# Le réchauffement de la planète est le sujet de sa conférence.
+# Global warming is the topic of this lecture.
+# 
+# Les enfants jouent dans le jardins.
+# The children are playing on the garden.
+# 
+# L'ami de Sonia est japonais.
+# Sonia's friend is japanese.
+# 
+# Est-ce qu'il y a une piscine?
+# Is there a swimming pool?
+# 
+# Elle a acheté un vélo.
+# She bought a bike.
+# 
+# Nous avons vu des lapins dans le jardin.
+# We saw rabbits in the garden.
+# 
+# Il a acheté des rideaux pour le salon.
+# He bought curtains for the living room.
+# 
+# Il a un nouveau chien.
+# He has a new dog.
+# 
+# Tu veux emprunter un de mes livres?
+# Do you want to borrow one of my books?
+# 
+# voilà Mademoiselle Courtois 
+# Oh, there's Miss Courtois
+# 
+# bonjour, Janine 
+# Hello, Janine
+# 
+# bonjour, Madame 
+# Hello Madam
+# 
+# très bien, merci 
+# very well, thank you
+# 
+# de vous présenter 
+# to present to you
+# 
+# je suis heureux de faire votre connaissance 
+# I am happy to make your acquaintance
+# 
+# bonjour, Monsieur 
+# Hello Sir
+# 
+# oui, merci 
+# yes, thank you
+# 
+# est-ce que 
+# introduction to a question
+# 
+# ils sont toujours ici? 
+# are they still here?
+# 
+# et ma sœur est 
+# and my sister is
+# 
+# dites-leur le bonjour 
+# tell them hello
+# 
+# je suis pressé 
+# I am in a hurry
+# 
+# à bientôt 
+# see you soon
+# 
+# quelle heure est-il? 
+# what time is it?
+# 
+# il est une heure
+# it is one o'clock
+# 
+# aller au Café de Paris 
+# to go to the Café de Paris
+# 
+# c'est un très bon restaurant 
+# it is a very good restaurant
+# 
+# il est près d'ici
+# it is near here
+# 
+# Tiens, voilà Mademoiselle Courtois. 
+# Oh, there's Miss Courtois.
+# 
+# Bonjour, Madame. Comment allez-vous? 
+# Hello, Mrs. Durand. How are you?
+# 
+# Très bien, merci. 
+# Very well, thank you.
+# 
+# Permettez-moi de vous présenter Monsieur Lelong. 
+# May I introduce Mr. Lelong to you.
+# 
+# Je suis heureux de faire votre connaissance, Mademoiselle. 
+# I'm happy to meet you, Miss (Courtois).
+# 
+# Est-ce que vous avez des nouvelles de votre frère? 
+# Do you have news from your brother?
+# 
+# Oui, merci. Il est à Lyon maintenant. 
+# Yes, thank you. He's in Lyon now.
+# 
+# Est-ce que vos parents sont toujours en vacances? 
+# Are your parents still on vacation?
+# 
+# Oui, et ma sœur est avec eux. 
+# Yes, and my sister is with them.
+# 
+# Dites-leur le bonjour de ma part. 
+# Send them my best regards.
+# 
+# Je n'y manquerai pas. 
+# I certainly will.
+# 
+# Excusez-moi, je suis pressée. 
+# Excuse me, I'm in a hurry
+# 
+# A bientôt, j'espère. 
+# See you soon, I hope.
+# 
+# Où est-ce que nous allons déjeuner? 
+# Where are we going to have lunch?
+# 
+# Est-ce que vous voulez aller au Café de Paris? 
+# Do you want to go to the Café de Paris?
+# 
+# Mon frère va bien. 
+# My brother is doing well.
+# 
+# Mon père va bien. 
+# My father is doing well.
+# 
+# Mon fils va bien. 
+# My son is doing well.
+# 
+# Mon mari va bien. 
+# My husband is doing well.
+# 
+# Ma femme va bien. 
+# My wife is doing well.
+# 
+# Mon enfant va bien. 
+# My child is doing well.
+# 
+# Mon ami va bien 
+# My friend is doing well.
+# 
+# Il va bien. 
+# He is doing well.
+# 
+# Ma sœur va bien aujourd'hui. 
+# My sister is doing well today.
+# 
+# Ma mère va bien aujourd'hui. 
+# My mother is doing well today.
+# 
+# Ma fille va bien aujourd'hui. 
+# My daughter is doing well today.
+# 
+# Ma femme va bien aujourd'hui. 
+# My wife is doing well today.
+# 
+# Mon amie va bien aujourd'hui. 
+# My friend is doing well today.
+# 
+# Elle va bien aujourd'hui. 
+# She is doing well today.
+# 
+# Est-ce qu'elle va au café? 
+# Is she going to the café?
+# 
+# Est-ce qu'elle va à Paris? 
+# Is she going to Paris?
+# 
+# Est-ce qu'elle va au restaurant? 
+# Is she going to the restaurant?
+# 
+# Est-ce qu'elle va à Lyon? 
+# Is she going to Lyon?
+# 
+# Est-ce qu'elle va en classe? 
+# Is she going to the class?
+# 
+# Est-ce qu'elle va au café? 
+# Is she going to the café?
+# 
+# Est-ce qu'elle va en vacances? 
+# Is she going on vacation?
+# 
+# Est-ce qu'elle va au restaurant? 
+# Is she going to the restaurant?
+# 
+# Où est-ce que vous allez? 
+# Where are you going?
+# 
+# Où est-ce nous allons? 
+# Where are we going?
+# 
+# Où est-ce qu'il va? 
+# Where is he going?
+# 
+# Où est-ce qu'elle va? 
+# Where is she going?
+# 
+# Quand est-ce que vous allez à Paris? 
+# When are you going to Paris?
+# 
+# Quand est-ce que nous allons à Lyon? 
+# When are we going to Lyon?
+# 
+# Quand est-ce que vous allez au café? 
+# When are you going to the café?
+# 
+# Quand est-ce que nous allons au restaurant? 
+# When are we going to the restaurant?
+# 
+# Pourquoi est-ce qu'elle va à Lyon? 
+# Why is she going to Lyon?
+# 
+# Quand est-ce qu'elle va à Lyon? 
+# When is she going to Lyon?
+# 
 Avec qui est-ce qu'elle va à Lyon? 
 With whom is she going to Lyon?
 

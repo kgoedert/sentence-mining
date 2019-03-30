@@ -634,9 +634,6 @@
 # Iván y Haydée son cubanos.
 # Iván and Haydée are cubans.
 # 
-# Tenho unos sellos y monedas rusos.
-# I have some russian stamps and coins.
-# 
 # Gabriel García Marquez es colombiano.
 # Gabriel García Marquez is colombian.
 # 
@@ -3652,7 +3649,7 @@ Work or you will have trouble.
 ¡No toques eso! Es peligroso.
 Don't touch that! It is dangerous.
 
-No abras la ventana, por favor. Tenho frío.
+No abras la ventana, por favor. Tengo frío.
 Don't open the window, please. I am cold.
 
 No habléis en clase.
@@ -8351,3 +8348,6 @@ What did Rosa want money for? What do you mean, what did she want money for? To 
 
 Te he estado buscando. ¿Dónde estabas? ¿Cómo que dónde estaba? En la oficina.
 I've been looking for you. Where were you? What do you mean, where was I? In the office.
+
+Tengo unos sellos y monedas rusos.
+I have some russian stamps and coins.
