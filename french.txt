@@ -1825,9 +1825,6 @@
 # oui, merci 
 # yes, thank you
 # 
-# est-ce que 
-# introduction to a question
-# 
 # ils sont toujours ici? 
 # are they still here?
 # 
