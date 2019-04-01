@@ -3104,3 +3104,75 @@ Whom do I see?
 
 Eine schöne rosa Blume ist da.
 There is a beautiful pink flower there.
+
+Mein Vater hat ein großes Auto.
+My father has a big car.
+
+Mein Vater hat eine große Katze.
+My father has a big cat.
+
+Mein Vater hat einen großen Wagen.
+My father has a big car.
+
+Mein Vater hat ein großes Messer.
+My father has a big knife.
+
+Mein Vater hat eine große Gabel.
+My father has a big fork.
+
+Mein Vater hat einen großen Löffel.
+My father has a big spoon.
+
+Meine Mutter hört einen lauten Vogel.
+My mother hears a loud bird.
+
+Meine Mutter hört eine laute Maus.
+My mother hears a loud mouse.
+
+Meine Mutter hört ein lautes Auto.
+My mother hears a loud car.
+
+Meine Mutter hört einen Lauten Wagen.
+My mother hears a loud car.
+
+Meine Mutter hört eine laute Katze.
+My mother hears a loud cat.
+
+Meine Mutter hört ein lautes Schiff.
+My mother hears a loud ship.
+
+Möchten Sie den blauen Stift?
+Would you like the blue pen?
+
+Möchten Sie das blaue Hemd?
+Would you like the blue shirt?
+
+Möchten Sie die blaue Hose?
+Would you like the blue trousers?
+
+Möchten Sie den blauen Schraubenzieher?
+Do you want the blue screwdriver?
+
+Möchten Sie das blaue Papier?
+Would you like the blue paper?
+
+Möchten Sie die blaue Flasche?
+Would you like the blue bottle?
+
+Wir hätten gerne die schöne Blume.
+We would like the beautiful flower.
+
+Wir hätten gerne das schöne Haus.
+We would like to have the beautiful house.
+
+Wir hätten gerne den schönen Wagen.
+We would like to have the beautiful car.
+
+Wir hätten gerne die schöne Hose.
+We would like the beautiful trousers.
+
+Wir hätten gerne das schöne Hemd.
+We would like to have the beautiful shirt.
+
+Wir hätten gerne den schönen Tisch.
+We would like to have the beautiful table.
