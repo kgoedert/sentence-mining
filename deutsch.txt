@@ -3176,3 +3176,81 @@ We would like to have the beautiful shirt.
 
 Wir hätten gerne den schönen Tisch.
 We would like to have the beautiful table.
+
+Ich möchte das weiße Hemd.
+I want the white shirt.
+
+Elmar möchte das weiße Hemd.
+Elmar wants the white shirt.
+
+Mein Bruder und ich möchten das weiße Hemd.
+My brother and I want the white shirt.
+
+Suse möchte das weiße Hemd.
+Suse wants the white shirt.
+
+Sie möchten das weiße Hemd. 
+You want the white shirt. 
+
+Meine Brüder möchten das weiße Hemd.
+My brothers want the white shirt.
+
+Ich möchte das weiße Hemd.
+I want the white shirt.
+
+Er hätte gerne einen braunen Hund.
+He would like a brown dog.
+
+Karin hätte gerne einen braunen Hund.
+Karin would like a brown dog.
+
+Meine Schwester und ich hätten gerne einen braunen Hund.
+My sister and I would like a brown dog.
+
+Johannes und Karin hätten gerne einen braunen Hund.
+Johannes and Karin would like a brown dog.
+
+Ich hätte gerne einen braunen Hund
+I would like a brown dog.
+
+Sie hätten gerne einen braunen Hund.
+You'd like a brown dog.
+
+Christoph hätte gerne einen braunen Hund.
+Christoph would like a brown dog.
+
+Die Eltern würden gerne die gelbe Blume kaufen.
+The parents would like to buy the yellow flower.
+
+Thomas würde gerne die gelbe Blume kaufen.
+Thomas would like to buy the yellow flower.
+
+Sie würden gerne die gelbe Blume kaufen.
+They would like to buy the yellow flower.
+
+Mein Bruder und ich würden gerne die gelbe Blume kaufen.
+My brother and I would like to buy the yellow flower.
+
+Meine Schwester würde gerne die gelbe Blume kaufen.
+My sister would like to buy the yellow flower.
+
+Die Schwestern würden gerne die gelbe Blume kaufen.
+The sisters would like to buy the yellow flower.
+
+Ich würde gerne die gelbe Blume kaufen.
+I would like to buy the yellow flower.
+
+Mag Johannes ein leckeres Brot schneiden?
+Does Johannes like to cut a delicious bread?
+
+Mögen Sie ein leckeres Brot schneiden?
+Do you like to cut a delicious bread?
+
+Mögen wir ein leckeres Brot schneiden?
+Do we like to cut a delicious bread?
+
+Mag Karin ein leckeres Brot schneiden?
+Does Karin like to cut a delicious bread?
+
+Mögen Johannes und Karin ein leckeres Brot schneiden?
+May John and Karin cut a delicious bread?
