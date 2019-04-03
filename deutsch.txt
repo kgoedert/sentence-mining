@@ -3254,3 +3254,78 @@ Does Karin like to cut a delicious bread?
 
 Mögen Johannes und Karin ein leckeres Brot schneiden?
 May John and Karin cut a delicious bread?
+
+Die Eltern haben Recht; er möchte den gelben Vogel.
+Parents are right; he wants the yellow bird.
+
+Die Eltern haben Recht; er möchte das gelbe Auto.
+The parents are right; he wants the yellow car.
+
+Die Eltern haben Recht; er möchte die gelbe Blume.
+The parents are right; he wants the yellow flower.
+
+Die Eltern haben Recht; er möchte das gelbe Hemd.
+The parents are right; he wants the yellow shirt.
+
+Die Eltern haben Recht; er möchte den gelben Stuhl.
+The parents are right; he wants the yellow chair.
+
+Die Eltern haben Recht; er möchte die gelbe Hose.
+The parents are right; he wants the yellow trousers.
+
+Die Eltern haben Recht; er möchte das gelbe Papier.
+The parents are right; he wants the yellow paper.
+
+Die Eltern haben Recht; er möchte den gelben Ball.
+The parents are right; he wants the yellow ball.
+
+Lukas hat Recht; sie möchte einen blauen Stuhl.
+Lukas is right; she wants a blue chair.
+
+Lukas hat Recht; sie möchte ein blaues Auto.
+Lukas is right; she wants a blue car.
+
+Lukas hat Recht; sie möchte einen blauen Vogel.
+Luke is right; she wants a blue bird.
+
+Lukas hat Recht; sie möchte ein blaues Hemd.
+Luke is right; she wants a blue shirt.
+
+Lukas hat Recht; sie möchte eine blaue Blume.
+Luke is right; she wants a blue flower.
+
+Lukas hat Recht; sie möchte einen blauen Ball.
+Luke is right; she wants a blue ball.
+
+Lukas hat Recht; sie möchte eine blaue Hose.
+Luke is right; she wants blue trousers.
+
+Lukas hat Recht; sie möchte ein blaues Papier.
+Luke is right; she wants a blue paper.
+
+Ich suche nicht irgendein Hemd, ich suche das richtige Hemd.
+I'm not looking for any shirt, I'm looking for the right shirt.
+
+Ich suche nicht irgendeinen Ball, ich suche den richtigen Ball.
+I'm not looking for any ball, I'm looking for the right ball.
+
+Ich suche nicht irgendeine Hose, ich suche die richtige Hose.
+I'm not looking for any pants, I'm looking for the right pants.
+
+Ich suche nicht irgendeinen Hund, ich suche den richtigen Hund.
+I'm not looking for any dog, I'm looking for the right dog.
+
+Ich suche nicht irgendein Messer, ich suche das richtige Messer.
+I'm not looking for any knife, I'm looking for the right knife.
+
+Ich suche nicht irgendeine Blume, ich suche die richtige Blume.
+I'm not looking for just any flower, I'm looking for the right flower.
+
+Ich suche nicht irgendeinen Zug, ich suche den richtigen Zug.
+I'm not looking for some train, I'm looking for the right train.
+
+Ich suche nicht irgendeine S-Bahn, ich suche die richtige S-Bahn.
+I'm not looking for any S-Bahn, I'm looking for the right S-Bahn.
+
+Ich suche nicht irgendein Taxi, ich suche das richtige Taxi.
+I'm not looking for any taxi, I'm looking for the right taxi.
