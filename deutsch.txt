@@ -3329,3 +3329,48 @@ I'm not looking for any S-Bahn, I'm looking for the right S-Bahn.
 
 Ich suche nicht irgendein Taxi, ich suche das richtige Taxi.
 I'm not looking for any taxi, I'm looking for the right taxi.
+
+Der weiße Hund ist verloren gegangen. Student: Suchen Sie den weißen Hund?
+The white dog's been lost. Student: Looking for the white dog?
+
+Der große Schlüssel ist verloren gegangen. Suchen Sie den großen Schlüssel?
+The big key has been lost. Looking for the big key?
+
+Das kleine Mädchen ist verloren gegangen. Suchen Sie das kleine Mädchen?
+The little girl has been lost. Are you looking for the little girl?
+
+Die kleine Maus ist verloren gegangen. Suchen Sie die kleine Maus?
+The little mouse has been lost. Are you looking for the little mouse?
+
+Der schwarze Laptop ist verloren gegangen. Suchen Sie den schwarzen Laptop?
+The black laptop has been lost. Looking for the black laptop?
+
+Das braune Hemd ist verloren gegangen. Suchen Sie das braune Hemd?
+The brown shirt has been lost. Looking for the brown shirt?
+
+Die lange Gabel ist verloren gegangen. Suchen Sie die lange Gabel?
+The long fork has been lost. Looking for the long fork?
+
+Ich suche einen braunen Hund. Student: Ich hoffe, dass Sie den braunen Hund finden.
+I'm looking for a brown dog. Student: I hope you find the brown dog.
+
+Ich suche ein kleines Mädchen. Ich hoffe, dass Sie das kleine Mädchen finden.
+I'm looking for a little girl. I hope you find the little girl.
+
+Ich suche einen großen Schlüssel. Ich hoffe, dass Sie den großen Schlüssel finden.
+I'm looking for a big key. I hope you find the big key.
+
+Ich suche ein langes Messer. Ich hoffe, dass Sie das lange Messer finden.
+I'm looking for a long knife. I hope you find the long knife.
+
+Ich suche eine rote Blume. Ich hoffe, dass Sie die rote Blume finden.
+I am looking for a red flower. I hope you find the red flower.
+
+Ich suche einen gelben Ball. Ich hoffe, dass Sie den gelben Ball finden.
+I am looking for a yellow ball. I hope you find the yellow ball.
+
+Ich suche einen schwarzen Laptop. Ich hoffe, dass Sie den schwarzen Laptop finden.
+I'm looking for a black laptop. I hope you find the black laptop.
+
+Ich suche eine lange Hose. Ich hoffe, dass Sie die lange Hose finden.
+I'm looking for a pair of long trousers. I hope you find the long pants.
