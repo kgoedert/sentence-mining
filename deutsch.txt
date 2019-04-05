@@ -3374,3 +3374,96 @@ I'm looking for a black laptop. I hope you find the black laptop.
 
 Ich suche eine lange Hose. Ich hoffe, dass Sie die lange Hose finden.
 I'm looking for a pair of long trousers. I hope you find the long pants.
+
+Dort ist der graue Hund. Sehr gut, ich suche gerade den grauen Hund.
+There's the grey dog. Very good, I am looking for the grey dog.
+
+Dort ist der große Bahnhof. Sehr gut, ich suche gerade den großen Bahnhof.
+There is the big station. Very good, I'm looking for the big station.
+
+Dort ist die kleine Katze. Sehr gut, ich suche gerade die kleine Katze.
+There is the little cat. Very good, I am looking for the little cat.
+
+Dort ist das weiße Auto. Sehr gut, ich suche gerade das weiße Auto.
+There is the white car. Very good, I'm looking for the white car.
+
+Dort ist die lange Gabel. Sehr gut, ich suche gerade die lange Gabel.
+There is the long fork. Very good, I am looking for the long fork.
+
+Dort ist der weiße Teller. Sehr gut, ich suche gerade den weißen Teller.
+There is the white plate. Very good, I'm looking for the white plate.
+
+Dort ist der große Arbeitstisch. Sehr gut, ich suche gerade den großen Arbeitstisch.
+There is the big work table. Very good, I'm looking for the big work table.
+
+Dort ist das kleine Mädchen. Sehr gut, ich suche gerade das kleine Mädchen.
+There is the little girl. Very good, I am looking for the little girl.
+
+Dort ist die schnelle Maus. Sehr gut, ich suche gerade die schnelle Maus.
+There is the fast mouse. Very good, I am looking for the fast mouse.
+
+Ich sehe einen schwarzen Hund. Der schwarze Hund ist dort.
+I see a black dog. The black dog is there.
+
+Ich sehe eine kleine Maus. Die kleine Maus ist dort.
+I see a little mouse. The little mouse is there.
+
+Ich sehe ein schönes Pferd. Das schöne Pferd ist dort.
+I see a beautiful horse. The beautiful horse is there.
+
+Ich sehe einen roten Vogel. Der rote Vogel ist dort.
+I see a red bird. The red bird is there.
+
+Ich sehe eine kleine Katze. Die kleine Katze ist dort.
+I see a little cat. The little cat is there.
+
+Ich sehe einen langen Zug. Der lange Zug ist dort.
+I see a long train. The long train is there.
+
+Ich sehe eine große S-Bahnstation. Die große S-Bahnstation ist dort.
+I see a big S-Bahn station. The big S-Bahn station is there.
+
+Ich sehe ein langes Messer. Das lange Messer ist dort.
+I see a long knife. The long knife is there.
+
+Das ist ein teures Auto. Kaufen Sie das teure Auto?
+That is an expensive car. Are you buying the expensive car?
+
+Das ist ein schöner Teller. Kaufen Sie den schönen Teller?
+That's a nice plate. Do you buy the nice plate?
+
+Das ist ein schnelles Pferd. Kaufen Sie das schnelle Pferd?
+It's a fast horse. Do you buy the fast horse?
+
+Das ist eine schöne Blume. Kaufen Sie die schöne Blume?
+This is a beautiful flower. Do you buy the beautiful flower?
+
+Das ist ein riesiges Haus. Kaufen Sie das riesige Haus?
+This is a huge house. Are you buying the huge house?
+
+Das ist eine große Pampelmuse. Kaufen Sie die große Pampelmuse?
+This is a big grapefruit. Are you buying the big grapefruit?
+
+Das ist ein schöner Stift. Kaufen Sie den schönen Stift?
+This is a beautiful pen. Do you buy the beautiful pen?
+
+Ich fahre das teure Auto.
+I drive the expensive car.
+
+Ich fahre ein teures Auto.
+I drive an expensive car.
+
+Er fährt ein teures Auto.
+He drives an expensive car.
+
+Er fährt einen teuren Wagen.
+He drives an expensive car.
+
+Er fährt einen schwarzen Wagen.
+He drives a black car.
+
+Er fährt den schwarzen Wagen.
+He drives the black car.
+
+Wir fahren den schwarzen Wagen.
+We drive the black car.
