@@ -1006,297 +1006,297 @@
 # das schöne Mädchen
 # the beautiful girl
 # 
-der schöne Mann
-the beautiful man
-
-das schöne Kind
-the beautiful child
-
-die schöne Frau
-the beautiful woman
-
-der schöne Hund
-the beautiful dog
-
-die schöne Katze
-the beautiful cat
-
-das schöne Haus
-the beautiful house
-
-der schöne Baum
-the beautiful tree
-
-das große Kind
-the tall child
-
-die große Frau
-the tall woman
-
-der große Mann
-the tall man
-
-das große Hotel
-the big hotel
-
-der große Flughafen
-the big airport
-
-das große Auto
-the big car
-
-der große Bahnhof
-the big station
-
-die große Katze
-the big cat
-
-die große Milch
-the big milk
-
-ein schöner Baum 
-a beautiful tree 
-
-ein schöner Hund
-a beautiful dog 
-
-eine schöne Frau
-a beautiful woman 
-
-ein schöner Mann
-a beautiful man 
-
-ein schönes Haus
-a beautiful house
-
-eine schöne Katze
-a beautiful cat
-
-ein schönes Mädchen
-a beautiful child
- 
-eine schöne Straße
-a beautiful street
-
-ein großer Mann
-a tall man
-
-ein großes Kind 
-a tall child
-
-ein großer Flughafen 
-a big airport
-
-ein großes Auto 
-a big car
-
-eine große Frau 
-a tall woman
-
-ein großes Hotel 
-a big hotel
-
-eine große Milch. 
-a big milk
-
-eine große Katze 
-a big cat
-
-ein großer Bahnhof 
-a big station
-
-eine große Straße 
-a big street
-
-ein schnelles Auto
-a fast car
-
-ein schneller Zug
-a fast train
-
-ein schnelles Restaurant
-a fast Restaurant
-
-ein schneller Hund
-a fast dog
-
-ein schnelles Pferd
-a fast horse
-
-eine schnelle Katze
-a fast cat
-
-ein schnelles Taxi
-a fast taxi
-
-ein schneller Computer
-a fast computer
-
-ein leckeres Brot
-a tasty bread
-
-ein leckerer Wein
-a tasty wine
-
-ein leckeres Wasser
-a tasty water
-
-ein leckerer Käse
-a tasty cheese
-
-eine leckere Milch
-a tasty milk
-
-ein teures Haus
-an expensive house
-
-ein teurer Wein
-an expensive wine
-
-ein teurer Käse
-an expensive cheese
-
-ein teures Brot
-an expensive bread
-
-eine teure Katze
-an expensive cat
-
-ein teures Auto
-an expensive car
-
-eine teure Blume
-an expensive flower
-
-ein teures Restaurant
-an expensive restaurant
-
-die liebe Katze
-the lovely cat
-
-das liebe Pferd
-the lovely horse
-
-ein liebes Pferd
-a lovely horse
-
-ein lieber Mann
-a lovely man
-
-der liebe Mann
-the lovely man
-
-das liebe Kind
-the lovely child
-
-ein liebes Kind
-a lovely child
-
-eine liebe Frau
-a lovely woman
-
-die liebe Frau
-the lovely woman
-
-der liebe Hund
-the lovely dog
-
-ein lieber Hund
-a lovely dog
-
-der große Zug
-the big train
-
-ein großer Zug
-a big train
-
-ein großes Messer
-a big knife
-
-das große Messer
-the big knife
-
-die große Flasche
-the big bottle
-
-eine große Flasche
-a big bottle
-
-ein großer Ball
-a big ball
-
-der große Ball
-the big ball
-
-der kleine Baum
-the short tree
-
-das kleine Kind
-the small child
-
-das schnelle Kind
-the fast child
-
-die schnelle Katze
-the fast cat
-
-das kleine Hotel
-the small hotel
-
-das kleine Brot
-the small bread
-
-das leckere Brot
-the tasty bread
-
-der leckere Wein
-the tasty wine
-
-der schöne Wein
-the beautiful wine
-
-die schöne Flasche
-the beautiful bottle
-
-die teure Flasche
-the expensive bottle
-
-der teure Käse
-the expensive cheese
-
-der kleine Käse
-the small cheese
-
-das kleine Auto
-the small car
-
-das kleine Mädchen
-the little girl
-
-der teure Baum
-the expensive tree
-
-das teure Pferd
-the expensive horse
-
-das schnelle Pferd
-the fast horse
-
-ein kleiner Baum
-a small tree
-
-ein kleines Kind
-a young child
-
-ein kleines Brot
-a small bread
-
-ein schöner Wein
-a fine wine
-
-eine schöne Flasche
-a nice bottle
-
+# der schöne Mann
+# the beautiful man
+# 
+# das schöne Kind
+# the beautiful child
+# 
+# die schöne Frau
+# the beautiful woman
+# 
+# der schöne Hund
+# the beautiful dog
+# 
+# die schöne Katze
+# the beautiful cat
+# 
+# das schöne Haus
+# the beautiful house
+# 
+# der schöne Baum
+# the beautiful tree
+# 
+# das große Kind
+# the tall child
+# 
+# die große Frau
+# the tall woman
+# 
+# der große Mann
+# the tall man
+# 
+# das große Hotel
+# the big hotel
+# 
+# der große Flughafen
+# the big airport
+# 
+# das große Auto
+# the big car
+# 
+# der große Bahnhof
+# the big station
+# 
+# die große Katze
+# the big cat
+# 
+# die große Milch
+# the big milk
+# 
+# ein schöner Baum 
+# a beautiful tree 
+# 
+# ein schöner Hund
+# a beautiful dog 
+# 
+# eine schöne Frau
+# a beautiful woman 
+# 
+# ein schöner Mann
+# a beautiful man 
+# 
+# ein schönes Haus
+# a beautiful house
+# 
+# eine schöne Katze
+# a beautiful cat
+# 
+# ein schönes Mädchen
+# a beautiful child
+#  
+# eine schöne Straße
+# a beautiful street
+# 
+# ein großer Mann
+# a tall man
+# 
+# ein großes Kind 
+# a tall child
+# 
+# ein großer Flughafen 
+# a big airport
+# 
+# ein großes Auto 
+# a big car
+# 
+# eine große Frau 
+# a tall woman
+# 
+# ein großes Hotel 
+# a big hotel
+# 
+# eine große Milch. 
+# a big milk
+# 
+# eine große Katze 
+# a big cat
+# 
+# ein großer Bahnhof 
+# a big station
+# 
+# eine große Straße 
+# a big street
+# 
+# ein schnelles Auto
+# a fast car
+# 
+# ein schneller Zug
+# a fast train
+# 
+# ein schnelles Restaurant
+# a fast Restaurant
+# 
+# ein schneller Hund
+# a fast dog
+# 
+# ein schnelles Pferd
+# a fast horse
+# 
+# eine schnelle Katze
+# a fast cat
+# 
+# ein schnelles Taxi
+# a fast taxi
+# 
+# ein schneller Computer
+# a fast computer
+# 
+# ein leckeres Brot
+# a tasty bread
+# 
+# ein leckerer Wein
+# a tasty wine
+# 
+# ein leckeres Wasser
+# a tasty water
+# 
+# ein leckerer Käse
+# a tasty cheese
+# 
+# eine leckere Milch
+# a tasty milk
+# 
+# ein teures Haus
+# an expensive house
+# 
+# ein teurer Wein
+# an expensive wine
+# 
+# ein teurer Käse
+# an expensive cheese
+# 
+# ein teures Brot
+# an expensive bread
+# 
+# eine teure Katze
+# an expensive cat
+# 
+# ein teures Auto
+# an expensive car
+# 
+# eine teure Blume
+# an expensive flower
+# 
+# ein teures Restaurant
+# an expensive restaurant
+# 
+# die liebe Katze
+# the lovely cat
+# 
+# das liebe Pferd
+# the lovely horse
+# 
+# ein liebes Pferd
+# a lovely horse
+# 
+# ein lieber Mann
+# a lovely man
+# 
+# der liebe Mann
+# the lovely man
+# 
+# das liebe Kind
+# the lovely child
+# 
+# ein liebes Kind
+# a lovely child
+# 
+# eine liebe Frau
+# a lovely woman
+# 
+# die liebe Frau
+# the lovely woman
+# 
+# der liebe Hund
+# the lovely dog
+# 
+# ein lieber Hund
+# a lovely dog
+# 
+# der große Zug
+# the big train
+# 
+# ein großer Zug
+# a big train
+# 
+# ein großes Messer
+# a big knife
+# 
+# das große Messer
+# the big knife
+# 
+# die große Flasche
+# the big bottle
+# 
+# eine große Flasche
+# a big bottle
+# 
+# ein großer Ball
+# a big ball
+# 
+# der große Ball
+# the big ball
+# 
+# der kleine Baum
+# the short tree
+# 
+# das kleine Kind
+# the small child
+# 
+# das schnelle Kind
+# the fast child
+# 
+# die schnelle Katze
+# the fast cat
+# 
+# das kleine Hotel
+# the small hotel
+# 
+# das kleine Brot
+# the small bread
+# 
+# das leckere Brot
+# the tasty bread
+# 
+# der leckere Wein
+# the tasty wine
+# 
+# der schöne Wein
+# the beautiful wine
+# 
+# die schöne Flasche
+# the beautiful bottle
+# 
+# die teure Flasche
+# the expensive bottle
+# 
+# der teure Käse
+# the expensive cheese
+# 
+# der kleine Käse
+# the small cheese
+# 
+# das kleine Auto
+# the small car
+# 
+# das kleine Mädchen
+# the little girl
+# 
+# der teure Baum
+# the expensive tree
+# 
+# das teure Pferd
+# the expensive horse
+# 
+# das schnelle Pferd
+# the fast horse
+# 
+# ein kleiner Baum
+# a small tree
+# 
+# ein kleines Kind
+# a young child
+# 
+# ein kleines Brot
+# a small bread
+# 
+# ein schöner Wein
+# a fine wine
+# 
+# eine schöne Flasche
+# a nice bottle
+# 
 eine teure Flasche
 an expensive bottle
 
