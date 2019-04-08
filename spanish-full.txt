@@ -736,9 +736,6 @@
 # Los hijos de Andrés no son tan guapos como él.
 # Andrés' sons are not as handsome as he is.
 # 
-# Yo soy igual de trabajadora que vosostros.
-# I am as hardworking as you.
-# 
 # Juani es simpática.
 # Juani is nice.
 # 
@@ -8414,3 +8411,6 @@ What an ugly shirt you bought!
 
 ¡Qué jóvenes que son tus amigos!
 How young your friends are!
+
+Yo soy igual de trabajadora que vosotros.
+I am as hardworking as you.
