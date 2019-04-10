@@ -736,9 +736,6 @@
 # Los hijos de Andrés no son tan guapos como él.
 # Andrés' sons are not as handsome as he is.
 # 
-# Yo soy igual de trabajadora que vosostros.
-# I am as hardworking as you.
-# 
 # Juani es simpática.
 # Juani is nice.
 # 
@@ -8415,6 +8412,7 @@ What an ugly shirt you bought!
 ¡Qué jóvenes que son tus amigos!
 How young your friends are!
 
+<<<<<<< HEAD
 ¡Qué horror!¡Qué de niños!
 What a horror! What children!
 
@@ -8543,3 +8541,6 @@ I think we're going to be late. We're going to be late! It's only four o'clock.
 
 Te pedirán el carné. ¡Qué van a pedir! Esos nunca piden nada.
 They'll ask for your card. What are they going to ask for? They never ask for anything.
+
+Yo soy igual de trabajadora que vosotros.
+I am as hardworking as you.
