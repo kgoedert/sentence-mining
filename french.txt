@@ -1885,9 +1885,6 @@
 # Dites-leur le bonjour de ma part. 
 # Send them my best regards.
 # 
-# Je n'y manquerai pas. 
-# I certainly will.
-# 
 # Excusez-moi, je suis pressée. 
 # Excuse me, I'm in a hurry
 # 
