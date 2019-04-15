@@ -3345,3 +3345,33 @@ Do you want some water? There are some in the kitchen.
 
 Tu participes au concours ?  – Non je n’y participe pas.
 Are you in the contest?  - No, I'm not participating.
+
+Vous parlez français. 
+You speak French.
+
+Vous parlez français?
+Do you speak French?
+
+Vous avez des nouvelles. Avez-vous des nouvelles?
+You have some news. Do you have any news?
+
+Ils sont en vacances. Sont-ils en vacances?
+They're on vacation. Are they on vacation?
+
+Il est à Lyon maintenant. Est-il à Lyon maintenant?
+He's in Lyon now. Is he in Lyon now?
+
+Nous allons au café. Allons-nous au café?
+We're going to the café. Shall we go to the coffee shop?
+
+Il va bien. Va-t-il bien?
+He's fine. Is he all right?
+
+Elle va bien. Va-t-elle bien?
+She's fine. Is she all right?
+
+Vos parents sont-ils toujours en vacances?
+Are your parents still on vacation?
+
+Le restaurant est-il bon? 
+Is the restaurant good?
