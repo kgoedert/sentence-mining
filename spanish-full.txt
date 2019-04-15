@@ -1654,9 +1654,6 @@
 # ¿Cuánto tiempo hace que trabajas aquí?
 # For how long have you been working here?
 # 
-# Hace mucho tiempo qeu no veo a Luis.
-# I haven't seen Luis in a long time.
-# 
 # ¿Quién vive en esa casa?
 # Who lives in that house?
 # 
@@ -8675,3 +8672,6 @@ Five pesos.
 
 ¿Cuánto pesas?
 How much do you weight?
+
+Hace mucho tiempo que no veo a Luis.
+I haven't seen Luis in a long time.
