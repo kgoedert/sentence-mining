@@ -1966,9 +1966,6 @@
 # Où est-ce que vous allez? 
 # Where are you going?
 # 
-# Où est-ce nous allons? 
-# Where are we going?
-# 
 # Où est-ce qu'il va? 
 # Where is he going?
 # 
@@ -3375,3 +3372,6 @@ Are your parents still on vacation?
 
 Le restaurant est-il bon? 
 Is the restaurant good?
+
+Où est-ce que nous allons? 
+Where are we going?
