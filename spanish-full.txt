@@ -1822,81 +1822,6 @@
 ¿Cuáles de estas cajas son nuestras?
 Which of these boxes are ours?
 
-¿Qué prefieren, carne o pescado?
-
-What do you prefer, meat or fish?
-¿Quién es más alta, Rosana o Leila?
-
-Who is taller, Rosana or Leila?
-Ana se levanta a las siete.
-
-Ana gets up at seven.
-¿Te atreves a venir al lago?
-
-Do you dare to come to the lake?
-En verano no nos aburrimos nunca.
-
-We never get bored in the summer.
-Luis se lava, se afeita y luego se viste.
-
-Luis washes himself, shaves and then dresses.
-Siempre me lavo la cara con agua fría.
-
-I always wash my face with cold water.
-Los niños se manchan mucho la ropa.
-
-The kids stain the clothes a lot.
-Laura pinta las uñas.
-
-Laura paints her fingernails.
-Luis se plancha sus camisas.
-
-Luis irons his shirts.
-¿Dondé vive Graciela?
-
-Where does Graciela live?
-En Rosario.
-
-In Rosario.
-¿Por dónde pasa el Guadalquivir?
-
-By where does de Guadalquivir go through?
-¿Adónde vais a ir este verano?
-
-Where are you going to this summer?
-A Ica.
-
-To Ica.
-¿Adónde hay que enviar este paquete?
-
-Where do you have to send this packet?
-¿Cuándo se casa Sebastián?
-
-When does Sebastián gets married?
-El mes que viene.
-
-Next month.
-¿Desde cuándo estudias español?
-
-Since when do you study spanish?
-Desde hace un año.
-
-For a year.
-¿Cuántos años tiene Rosario?
-
-How old is Rosario?
-Doce.
-
-Twelve.
-¿Con cuántos amigos vas?
-With how many friends do you go?
-¿Cuánto vale esa revista?
-How much is that magazine?
-Cinco pesos.
-Five pesos.
-¿Cuánto pesas?
-How much do you weight?
-
 ¿Cómo conduce Alberto?
 How does Alberto drive?
 
@@ -8672,3 +8597,81 @@ The two friends were tightly knit.
 
 Los alumnos se hallaban estrechamente situados en el aula.
 The students were closely situated in the classroom.
+
+¿Qué prefieren, carne o pescado?
+What do you prefer, meat or fish?
+
+¿Quién es más alta, Rosana o Leila?
+Who is taller, Rosana or Leila?
+
+Ana se levanta a las siete.
+Ana gets up at seven.
+
+¿Te atreves a venir al lago?
+Do you dare to come to the lake?
+
+En verano no nos aburrimos nunca.
+We never get bored in the summer.
+
+Luis se lava, se afeita y luego se viste.
+Luis washes himself, shaves and then dresses.
+
+Siempre me lavo la cara con agua fría.
+I always wash my face with cold water.
+
+Los niños se manchan mucho la ropa.
+The kids stain the clothes a lot.
+
+Laura pinta las uñas.
+Laura paints her fingernails.
+
+Luis se plancha sus camisas.
+Luis irons his shirts.
+
+¿Dondé vive Graciela?
+Where does Graciela live?
+
+En Rosario.
+In Rosario.
+
+¿Por dónde pasa el Guadalquivir?
+By where does de Guadalquivir go through?
+
+¿Adónde vais a ir este verano?
+Where are you going to this summer?
+
+A Ica.
+To Ica.
+
+¿Adónde hay que enviar este paquete?
+Where do you have to send this packet?
+
+¿Cuándo se casa Sebastián?
+When does Sebastián gets married?
+
+El mes que viene.
+Next month.
+
+¿Desde cuándo estudias español?
+Since when do you study spanish?
+
+Desde hace un año.
+For a year.
+
+¿Cuántos años tiene Rosario?
+How old is Rosario?
+
+Doce.
+Twelve.
+
+¿Con cuántos amigos vas?
+With how many friends do you go?
+
+¿Cuánto vale esa revista?
+How much is that magazine?
+
+Cinco pesos.
+Five pesos.
+
+¿Cuánto pesas?
+How much do you weight?
