@@ -3375,3 +3375,66 @@ Is the restaurant good?
 
 Où est-ce que nous allons? 
 Where are we going?
+
+Est-ce que vous voulez le livre?
+Do you want the book?
+
+Est-ce que vous traduisez le livre?
+Do you translate the book?
+
+Est-ce que vous avez le livre?
+Do you have the book?
+
+Est-ce que vous fermez le livre?
+Are you closing the book?
+
+Est-ce que vous ouvrez le livre?
+Are you opening the book?
+
+Est-ce que vous lisez le livre?
+Are you reading the book?
+
+Est-ce que vous demandez le livre?
+Are you asking for the book?
+
+Vous voulez le livre?
+Do you want the book?
+
+Vous traduisez le livre?
+Do you translate the book?
+
+Vous avez le livre?
+Do you have the book?
+
+Vous fermez le livre?
+Are you closing the book?
+
+Vous ouvrez le livre?
+Are you opening the book?
+
+Vous lisez le livre?
+Are you reading the book?
+
+Vous demandez le livre?
+Are you asking for the book?
+
+Voulez-vous le livre?
+Do you want the book?
+
+Traduisez-vous le livre?
+Do you translate the book?
+
+Avez-vous le livre?
+Do you have the book?
+
+Fermez-vous le livre?
+Are you closing the book?
+
+Ouvrez-vous le livre?
+Do you open the book?
+
+Lisez-vous le livre?
+Are you reading the book?
+
+Demandez-vous le livre?
+Are you asking for the book?
