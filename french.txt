@@ -3438,3 +3438,57 @@ Are you reading the book?
 
 Demandez-vous le livre?
 Are you asking for the book?
+
+Est-ce qu'il est pressé?
+Is he in a hurry?
+
+Est-ce qu'ils sont pressés?
+Are they in a hurry?
+
+Est-ce qu'elle est pressée?
+Is she in a hurry?
+
+Est-ce qu'elles sont pressées?
+Are they in a hurry?
+
+Est-ce que nous sommes pressés?
+Are we in a hurry?
+
+Est-ce que vous êtes pressé?
+Are you in a hurry?
+
+Il est pressé?
+Is he in a hurry?
+
+Ils sont pressés?
+Are they in a hurry?
+
+Elle est pressée?
+Is she in a hurry?
+
+Elles sont pressées?
+Are they in a hurry?
+
+Nous sommes pressés?
+Are we in a hurry?
+
+Vous êtes pressé?
+Are you in a hurry?
+
+Est-il pressé?
+Is he in a hurry?
+
+Sont-ils pressés?
+Are they in a hurry?
+
+Est-elle pressée?
+Is she in a hurry?
+
+Sont-elles pressées?
+Are they in a hurry?
+
+Sommes-nous pressés?
+Are we in a hurry?
+
+Êtes-vous pressé?
+Are you in a hurry?
