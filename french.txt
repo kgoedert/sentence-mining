@@ -3492,3 +3492,84 @@ Are we in a hurry?
 
 Êtes-vous pressé?
 Are you in a hurry?
+
+Est-ce que vous êtes au café?
+Are you at the café?
+
+Est-ce que vous allez au café?
+Are you going to the coffee shop?
+
+Est-ce qu'elles sont au café?
+Are they at the coffee shop?
+
+Est-ce qu'il est au café?
+Is he at the coffee shop?
+
+Est-ce que nous allons au café?
+Are we going to the coffee shop?
+
+Est-ce qu'elle est au café?
+Is she at the coffee shop?
+
+Est-ce qu'elle va au café?
+Is she going to the coffee shop?
+
+Est-ce qu'il va au café?
+Does he go to the coffee shop?
+
+Est-ce qu'ils sont au café?
+Are they at the coffee shop?
+
+Vous êtes au café?
+Are you at the café?
+
+Vous allez au café?
+Are you going to the coffee shop?
+
+Elles sont au café?
+Are they at the coffee shop?
+
+Il est au café?
+Is he at the café?
+
+Nous allons au café?
+Are we going to the café?
+
+Elle est au café?
+Is she at the coffee shop?
+
+Elle va au café?
+Is she going to the coffee shop?
+
+Il va au café?
+Is he going to the coffee shop?
+
+Ils sont au café?
+Are they at the coffee shop?
+
+Êtes-vous au café?
+Are you at the café?
+
+Allez-vous au café?
+Are you going to the coffee shop?
+
+Sont-elles au café?
+Are they at the coffee shop?
+
+Est-il au café?
+Is he at the coffee shop?
+
+Allons-nous au café?
+Shall we go to the coffee shop?
+
+Est-elle au café?
+Is she at the coffee shop?
+
+Va-t-elle au café?
+Is she going to the coffee shop?
+
+Va-t-il au café?
+Is he going to the coffee shop?
+
+Sont-ils au café?
+Are they at the coffee shop?
