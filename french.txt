@@ -1985,320 +1985,320 @@
 # When are we going to the restaurant?
 # 
 # Pourquoi est-ce qu'elle va à Lyon? 
-# Why is she going to Lyon?
+# # Why is she going to Lyon?
+# # 
+# # Quand est-ce qu'elle va à Lyon? 
+# # When is she going to Lyon?
+# # 
+# Avec qui est-ce qu'elle va à Lyon? 
+# With whom is she going to Lyon?
 # 
-# Quand est-ce qu'elle va à Lyon? 
-# When is she going to Lyon?
+# A quelle heure est-ce qu'elle va à Lyon? 
+# At what time is she going to Lyon?
 # 
-Avec qui est-ce qu'elle va à Lyon? 
-With whom is she going to Lyon?
-
-A quelle heure est-ce qu'elle va à Lyon? 
-At what time is she going to Lyon?
-
-Je sais qu'il est une heure. 
-I know it's one o'clock.
-
-Je sais qu'elle est ici. 
-I know she's here.
-
-Je sais qu'elle va bien. 
-I know she's doing well.
-
-Je sais qu'ils sont pressés. 
-I know they're in a hurry.(men)
-
-Je sais qu'elles sont pressées. 
-I know they're in a hurry.
-
-J'espère que c'est ici. 
-I hope it's here.
-
-J'espère que c'est bon. 
-I hope it's good.
-
-J'espère que vous avez des nouvelles. 
-I hope you have (some) news.
-
-J'espère que nous allons déjeuner. 
-I hope we're going to lunch.
-
-J'espère que vous allez bien. 
-I hope you're doing well.
-
-Il est heureux de faire votre connaissance.
-He's happy to meet you.
-
-Elle est heureuse de faire votre connaissance.
-She's happy to meet you.
-
-Mon père est heureux de faire votre connaissance.
-My father is happy to meet you.
-
-Ma mère est heureuse de faire votre connaissance.
-My mother is happy to meet you.
-
-Mon ami est heureux de faire votre connaissance.
-My friend is happy to meet you. (M)
-
-Mon amie est heureuse de faire votre connaissance.
-My friend is happy to meet you. (F)
-
-Ils sont heureux de faire votre connaissance.
-They are happy to meet you. (M)
-
-Elles sont heureuses de faire votre connaissance.
-They are happy to meet you. (F)
-
-Elle est heureuse de parler français.
-She's happy to speak french.
-
-Elle est heureuse de déjeuner avec vous.
-She's happy to have lunch with you.
-
-Elle est heureuse de parler anglais.
-She's happy to speak english.
-
-Elle est heureuse de vous transmettre les nouvelles.
-She is happy to share the news with you.
-
-Elle est heureuse de vous présenter son amie.
-She is happy to introduce you to her friend.
-
-Elle est heureuse de déjeuner au restaurant.
-She is happy to have lunch at the restaurant.
-
-Il est heureux d'être à Bordeaux.
-He is happy to be in Bordeaux.
-
-Il est heureux d'aller au café.
-He's happy to go to the café.
-
-Il est heureux d'être ici.
-He is happy to be here.
-
-Il est heureux d'entendre les nouvelles.
-He is happy to hear the news.
-
-Il est heureux d'être avec eux.
-He is happy to be with them.
-
-Il est heureux d'aller à Paris.
-He is happy to go to Paris.
-
-Il est heureux d'être à l'heure.
-He's happy to be on time.
-
-Il est heureux d'être en France.
-He is happy to be in France.
-
-Il est heureux d'avoir un enfant.
-He is happy to have a child.
-
-Il est heureux d'être avec vous.
-He is happy to be with you.
-
-Il est heureux d'aller au restaurant.
-He's happy to go to the restaurant.
-
-Il est heureux d'être au café.
-He's happy to be at the café.
-
-Il est heureux d'être à Toulouse.
-He is happy to be in Toulouse.
-
-Il est à Lyon.
-He's in Lyon.
-
-Vos parents sont à Lyon.
-Your parents are in Lyon.
-
-Ils sont à Lyon.
-They are in Lyon.
-
-Vos sœurs sont à Lyon.
-Your sisters are in Lyon.
-
-Elles sont à Lyon.
-They are in Lyon.
-
-Mon père est à Lyon.
-My father is in Lyon.
-
-Ma sœur est à Lyon.
-My sister is in Lyon.
-
-Elle est à Lyon.
-She's in Lyon.
-
-Il est à Lyon.
-He's in Lyon.
-
-Sophie est à Lyon.
-Sophie is in Lyon.
-
-Les parents sont à Lyon.
-The parents are in Lyon.
-
-Les enfants sont à Lyon.
-The children are in Lyon.
-
-M. Lelong est à Lyon.
-Mr. Lelong is in Lyon.
-
-Il est au café.
-He's at the coffee shop.
-
-Il est à Biarritz.
-He's in Biarritz.
-
-Il est en retard.
-He's late. He's late.
-
-Il est en vacances.
-He's on vacation.
-
-Il est au restaurant.
-He's at the restaurant.
-
-Il est en France.
-He's in France.
-
-Il est au café.
-He's at the coffee shop.
-
-Il est à Lyon.
-He's in Lyon.
-
-Est-ce qu'ils sont toujours en vacances?
-Are they still on vacation? (M)
-
-Est-ce qu'elles sont toujours en vacances?
-Are they still on vacation? (F)
-
-Est-ce qu'il est toujours en vacances?
-Is he still on vacation?
-
-Est-ce qu'elle est toujours en vacances?
-Is she still on vacation?
-
-Est-ce que nous sommes toujours en vacances?
-Are we still on vacation?
-
-Est-ce que vous êtes toujours en vacances?
-Are you still on vacation?
-
-Est-ce qu'ils sont toujours à Grenoble?
-Are they still in Grenoble?
-
-Est-ce qu'ils sont toujours à Lyon?
-Are they still in Lyon?
-
-Est-ce qu'ils sont toujours au café?
-Are they still at the coffee shop?
-
-Est-ce qu'ils sont toujours au restaurant?
-Are they still at the restaurant?
-
-Est-ce qu'ils sont toujours en classe?
-Are they still in class?
-
-Est-ce qu'ils sont toujours à l'heure?
-Are they always on time?
-
-Est-ce qu'ils sont toujours en France?
-Are they still in France?
-
-Est-ce qu'ils sont toujours en retard?
-Are they always late?
-
-Est-ce qu'ils sont toujours à Marseille?
-Are they still in Marseille?
-
-Est-ce qu'ils sont toujours pressés?
-Are they still in a hurry?
-
-Est-ce qu'ils sont toujours heureux?
-Are they still happy?
-
-Est-ce qu'ils sont toujours en Suisse?
-Are they still in Switzerland?
-
-Est-ce qu'ils sont toujours ensemble?
-Are they still together?
-
-Où est-ce que nous allons déjeuner?
-Where are we going to have lunch?
-
-Où est-ce qu'elle va déjeuner?
-Where is she going to have lunch?
-
-Où est-ce qu'il va déjeuner?
-Where's he going to have lunch?
-
-Où est-ce que vous allez déjeuner?
-Where are you going to have lunch?
-
-Où est-ce que vous voulez déjeuner?
-Where do you want to have lunch?
-
-Où est-ce que nous allons déjeuner?
-Where are we going to have lunch?
-
-Où est-ce qu'il veut déjeuner?
-Where does he want to have lunch?
-
-Où est-ce qu'elle veut déjeuner?
-Where does she want to have lunch?
-
-Il est en France maintenant.
-He's in France now.
-
-Il est en Espagne maintenant.
-He's in Spain now.
-
-Il est pressé maintenant.
-He's in a hurry now.
-
-Il est en retard maintenant.
-He's late now.
-
-Il est à Toulouse maintenant.
-He's in Toulouse now.
-
-Il est sur la route maintenant.
-He's on the road now.
-
-Il est heureux maintenant.
-He's happy now.
-
-Il est pressé maintenant.
-He's in a hurry now.
-
-Il est à Lyon maintenant.
-He's in Lyon now.
-
-Voilà Mademoiselle Courtois.
-There's Miss Courtois.
-
-Voilà le restaurant.
-There's the restaurant.
-
-Voilà le café.
-Here's the coffee.
-
-Voilà Nantes.
-There's Nantes.
-
-Voilà votre frère.
+# Je sais qu'il est une heure. 
+# I know it's one o'clock.
+# 
+# Je sais qu'elle est ici. 
+# I know she's here.
+# 
+# Je sais qu'elle va bien. 
+# I know she's doing well.
+# 
+# Je sais qu'ils sont pressés. 
+# I know they're in a hurry.(men)
+# 
+# Je sais qu'elles sont pressées. 
+# I know they're in a hurry.
+# 
+# J'espère que c'est ici. 
+# I hope it's here.
+# 
+# J'espère que c'est bon. 
+# I hope it's good.
+# 
+# J'espère que vous avez des nouvelles. 
+# I hope you have (some) news.
+# 
+# J'espère que nous allons déjeuner. 
+# I hope we're going to lunch.
+# 
+# J'espère que vous allez bien. 
+# I hope you're doing well.
+# 
+# Il est heureux de faire votre connaissance.
+# He's happy to meet you.
+# 
+# Elle est heureuse de faire votre connaissance.
+# She's happy to meet you.
+# 
+# Mon père est heureux de faire votre connaissance.
+# My father is happy to meet you.
+# 
+# Ma mère est heureuse de faire votre connaissance.
+# My mother is happy to meet you.
+# 
+# Mon ami est heureux de faire votre connaissance.
+# My friend is happy to meet you. (M)
+# 
+# Mon amie est heureuse de faire votre connaissance.
+# My friend is happy to meet you. (F)
+# 
+# Ils sont heureux de faire votre connaissance.
+# They are happy to meet you. (M)
+# 
+# Elles sont heureuses de faire votre connaissance.
+# They are happy to meet you. (F)
+# 
+# Elle est heureuse de parler français.
+# She's happy to speak french.
+# 
+# Elle est heureuse de déjeuner avec vous.
+# She's happy to have lunch with you.
+# 
+# Elle est heureuse de parler anglais.
+# She's happy to speak english.
+# 
+# Elle est heureuse de vous transmettre les nouvelles.
+# She is happy to share the news with you.
+# 
+# Elle est heureuse de vous présenter son amie.
+# She is happy to introduce you to her friend.
+# 
+# Elle est heureuse de déjeuner au restaurant.
+# She is happy to have lunch at the restaurant.
+# 
+# Il est heureux d'être à Bordeaux.
+# He is happy to be in Bordeaux.
+# 
+# Il est heureux d'aller au café.
+# He's happy to go to the café.
+# 
+# Il est heureux d'être ici.
+# He is happy to be here.
+# 
+# Il est heureux d'entendre les nouvelles.
+# He is happy to hear the news.
+# 
+# Il est heureux d'être avec eux.
+# He is happy to be with them.
+# 
+# Il est heureux d'aller à Paris.
+# He is happy to go to Paris.
+# 
+# Il est heureux d'être à l'heure.
+# He's happy to be on time.
+# 
+# Il est heureux d'être en France.
+# He is happy to be in France.
+# 
+# Il est heureux d'avoir un enfant.
+# He is happy to have a child.
+# 
+# Il est heureux d'être avec vous.
+# He is happy to be with you.
+# 
+# Il est heureux d'aller au restaurant.
+# He's happy to go to the restaurant.
+# 
+# Il est heureux d'être au café.
+# He's happy to be at the café.
+# 
+# Il est heureux d'être à Toulouse.
+# He is happy to be in Toulouse.
+# 
+# Il est à Lyon.
+# He's in Lyon.
+# 
+# Vos parents sont à Lyon.
+# Your parents are in Lyon.
+# 
+# Ils sont à Lyon.
+# They are in Lyon.
+# 
+# Vos sœurs sont à Lyon.
+# Your sisters are in Lyon.
+# 
+# Elles sont à Lyon.
+# They are in Lyon.
+# 
+# Mon père est à Lyon.
+# My father is in Lyon.
+# 
+# Ma sœur est à Lyon.
+# My sister is in Lyon.
+# 
+# Elle est à Lyon.
+# She's in Lyon.
+# 
+# Il est à Lyon.
+# He's in Lyon.
+# 
+# Sophie est à Lyon.
+# Sophie is in Lyon.
+# 
+# Les parents sont à Lyon.
+# The parents are in Lyon.
+# 
+# Les enfants sont à Lyon.
+# The children are in Lyon.
+# 
+# M. Lelong est à Lyon.
+# Mr. Lelong is in Lyon.
+# 
+# Il est au café.
+# He's at the coffee shop.
+# 
+# Il est à Biarritz.
+# He's in Biarritz.
+# 
+# Il est en retard.
+# He's late. He's late.
+# 
+# Il est en vacances.
+# He's on vacation.
+# 
+# Il est au restaurant.
+# He's at the restaurant.
+# 
+# Il est en France.
+# He's in France.
+# 
+# Il est au café.
+# He's at the coffee shop.
+# 
+# Il est à Lyon.
+# He's in Lyon.
+# 
+# Est-ce qu'ils sont toujours en vacances?
+# Are they still on vacation? (M)
+# 
+# Est-ce qu'elles sont toujours en vacances?
+# Are they still on vacation? (F)
+# 
+# Est-ce qu'il est toujours en vacances?
+# Is he still on vacation?
+# 
+# Est-ce qu'elle est toujours en vacances?
+# Is she still on vacation?
+# 
+# Est-ce que nous sommes toujours en vacances?
+# Are we still on vacation?
+# 
+# Est-ce que vous êtes toujours en vacances?
+# Are you still on vacation?
+# 
+# Est-ce qu'ils sont toujours à Grenoble?
+# Are they still in Grenoble?
+# 
+# Est-ce qu'ils sont toujours à Lyon?
+# Are they still in Lyon?
+# 
+# Est-ce qu'ils sont toujours au café?
+# Are they still at the coffee shop?
+# 
+# Est-ce qu'ils sont toujours au restaurant?
+# Are they still at the restaurant?
+# 
+# Est-ce qu'ils sont toujours en classe?
+# Are they still in class?
+# 
+# Est-ce qu'ils sont toujours à l'heure?
+# Are they always on time?
+# 
+# Est-ce qu'ils sont toujours en France?
+# Are they still in France?
+# 
+# Est-ce qu'ils sont toujours en retard?
+# Are they always late?
+# 
+# Est-ce qu'ils sont toujours à Marseille?
+# Are they still in Marseille?
+# 
+# Est-ce qu'ils sont toujours pressés?
+# Are they still in a hurry?
+# 
+# Est-ce qu'ils sont toujours heureux?
+# Are they still happy?
+# 
+# Est-ce qu'ils sont toujours en Suisse?
+# Are they still in Switzerland?
+# 
+# Est-ce qu'ils sont toujours ensemble?
+# Are they still together?
+# 
+# Où est-ce que nous allons déjeuner?
+# Where are we going to have lunch?
+# 
+# Où est-ce qu'elle va déjeuner?
+# Where is she going to have lunch?
+# 
+# Où est-ce qu'il va déjeuner?
+# Where's he going to have lunch?
+# 
+# Où est-ce que vous allez déjeuner?
+# Where are you going to have lunch?
+# 
+# Où est-ce que vous voulez déjeuner?
+# Where do you want to have lunch?
+# 
+# Où est-ce que nous allons déjeuner?
+# Where are we going to have lunch?
+# 
+# Où est-ce qu'il veut déjeuner?
+# Where does he want to have lunch?
+# 
+# Où est-ce qu'elle veut déjeuner?
+# Where does she want to have lunch?
+# 
+# Il est en France maintenant.
+# He's in France now.
+# 
+# Il est en Espagne maintenant.
+# 
+# He's in Spain now.
+# 
+# 
+# Il est pressé maintenant.
+# 
+# He's in a hurry now.
+# Il est en retard maintenant.
+# 
+# He's late now.
+# Il est à Toulouse maintenant.
+# 
+# He's in Toulouse now.
+# Il est sur la route maintenant.
+# 
+# He's on the road now.
+# Il est heureux maintenant.
+# 
+# He's happy now.
+# Il est pressé maintenant.
+# 
+# He's in a hurry now.
+# Il est à Lyon maintenant.
+# 
+# He's in Lyon now.
+# Voilà Mademoiselle Courtois.
+# 
+# There's Miss Courtois.
+# Voilà le restaurant.
+# 
+# There's the restaurant.
+# Voilà le café.
+# 
+# Here's the coffee.
+# Voilà Nantes.
+# 
+# There's Nantes.
+# Voilà votre frère.
+# 
 There's your brother.
-
 Voilà le livre.
 Here's the book.
-
 Voilà la porte.
 There's the door.
-
 Voilà vos parents.
 There are your parents.
 
