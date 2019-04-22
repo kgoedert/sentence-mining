@@ -3467,3 +3467,96 @@ He drives the black car.
 
 Wir fahren den schwarzen Wagen.
 We drive the black car.
+
+Ich suche nicht irgendein Hemd, ich suche das richtige Hemd.
+I'm not looking for any shirt, I'm looking for the right shirt.
+
+Mein Bruder sucht nicht irgendeinen Hund, er sucht den richtigen Hund.
+My brother is not looking for any dog, he is looking for the right dog.
+
+Wir suchen nicht irgendeine Katze, wir suchen die richtige Katze.
+We are not looking for just any cat, we are looking for the right cat.
+
+Meine Schwester sucht nicht irgendein Pferd, sie sucht das richtige Pferd.
+My sister is not looking for any horse, she is looking for the right horse.
+
+Sie suchen nicht irgendeinen Wagen, Sie suchen den richtigen Wagen.
+You are not looking for any cart, you are looking for the right cart.
+
+Ich suche nicht irgendein Haus, ich suche das richtige Haus.
+I'm not looking for any house, I'm looking for the right house.
+
+Markus sucht nicht irgendeine Ehefrau, er sucht die richtige Ehefrau.
+Markus is not looking for any wife, he is looking for the right wife.
+
+Sophie sucht nicht irgendeinen Ehemann, sie sucht den richtigen Ehemann.
+Sophie is not looking for any husband, she is looking for the right husband.
+
+Er möchte ein großes Brot essen.
+He wants to eat a large loaf of bread.
+
+Er möchte ein großes Brot schneiden.
+He wants to cut a large loaf of bread.
+
+Er möchte einen großen Kuchen schneiden.
+He wants to cut a big cake.
+
+Er möchte einen leckeren Kuchen schneiden.
+He wants to cut a delicious cake.
+
+Er möchte den leckeren Kuchen schneiden.
+He wants to cut the delicious cake.
+
+Wir möchten den leckeren Kuchen schneiden.
+We want to cut the delicious cake.
+
+Wir möchten den leckeren Kuchen essen.
+We want to eat the delicious cake.
+
+Wir möchten die blaue Hose haben.
+We want to have the blue trousers.
+
+Wir möchten die blaue Hose kaufen.
+We want to buy the blue trousers.
+
+Wir möchten den blauen Wagen kaufen.
+We want to buy the blue car.
+
+Wir möchten den schwarzen Wagen kaufen.
+We want to buy the black car.
+
+Wir möchten einen schwarzen Wagen kaufen.
+We want to buy a black car.
+
+Er möchte einen schwarzen Wagen kaufen.
+He wants to buy a black car.
+
+Er möchte einen schwarzen Wagen haben.
+He wants to have a black car.
+
+Er möchte gerne das Steak servieren.
+He wants to serve the steak.
+
+Er möchte gerne das Steak grillen.
+He wants to grill the steak.
+
+Er möchte gerne die Wurst grillen.
+He would like to grill the sausage.
+
+Er würde gerne die Wurst grillen.
+He would like to grill the sausage.
+
+Wir würden gerne die Wurst grillen.
+We would like to grill the sausage.
+
+Wir würden gerne die Wurst kochen.
+We would like to cook the sausage.
+
+Wir würden gerne die Nudeln kochen.
+We would like to cook the noodles.
+
+Wir möchten gerne die Nudeln kochen.
+We would like to cook the noodles.
+
+Ich möchte gerne die Nudeln kochen.
+I would like to cook the noodles.
