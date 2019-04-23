@@ -3560,3 +3560,66 @@ We would like to cook the noodles.
 
 Ich möchte gerne die Nudeln kochen.
 I would like to cook the noodles.
+
+Er verkauft schöne Hemden. Sie kauft ein schönes Hemd.
+He sells nice shirts. She buys a nice shirt.
+
+Er verkauft lange Hosen. Sie kauft eine lange Hose.
+He sells long trousers. She buys a pair of long trousers.
+
+Er verkauft schnelle Autos. Sie kauft ein schnelles Auto.
+He sells fast cars. She buys a fast car.
+
+Er verkauft schöne Teller. Sie kauft einen schönen Teller.
+He sells nice plates. She buys a nice plate.
+
+Er verkauft gelbe Blumen. Sie kauft eine gelbe Blume.
+He sells yellow flowers. She buys a yellow flower.
+
+Er verkauft schnelle Wagen. Sie kauft einen schnellen Wagen.
+He sells fast cars. She buys a fast car.
+
+Sehen Sie die weißen Papiere? Nein, ich sehe nur ein weißes Papier.
+See the white papers? No, I only see a white paper.
+
+Essen Sie die leckeren Brote? Nein, ich esse nur ein leckeres Brot.
+Do you eat the tasty breads? No, I'm just eating a delicious bread.
+
+Trinken Sie die großen Gläser Wasser? Nein, ich trinke nur ein großes Glas Wasser.
+Do you drink the big glasses of water? No, I just drink a big glass of water.
+
+Essen Sie die leckeren Kuchen? Nein, ich esse nur einen leckeren Kuchen.
+Do you eat the delicious cakes? No, I just eat a delicious cake.
+
+Trinken Sie die kleinen Gläser Wein? Nein, ich trinke nur ein kleines Glas Wein.
+Do you drink the small glasses of wine? No, I only drink a small glass of wine.
+
+Hören Sie die lauten Hunde? Nein, ich höre nur einen lauten Hund.
+Do you hear the loud dogs? No, I only hear a loud dog.
+
+Trinken Sie die großen Flaschen Wasser? Nein, ich trinke nur eine große Flasche Wasser.
+Do you drink the big bottles of water? No, I just drink a big bottle of water.
+
+Essen Sie die leckeren Pampelmusen? Nein, ich esse nur eine leckere Pampelmuse.
+Do you eat the delicious grapefruits? No, I only eat a delicious grapefruit.
+
+Trinken Sie die kalten Gläser Milch? Nein, ich trinke nur ein kaltes Glas Milch.
+Do you drink the cold glasses of milk? No, I only drink a cold glass of milk.
+
+Suchen Sie die verlorenen Schlüssel? Nein, ich suche nur einen verlorenen Schlüssel.
+Looking for the lost keys? No, I'm just looking for a lost key.
+
+Suchen Sie die verlorenen Vögel? Nein, ich suche nur einen verlorenen Vogel.
+Are you looking for the lost birds? No, I'm just looking for a lost bird.
+
+Suchen Sie die verlorenen Kinder? Nein, ich suche nur ein verlorenes Kind.
+Are you looking for the lost children? No, I'm just looking for a lost child.
+
+Suchen Sie die verlorenen Stifte? Nein, ich suche nur einen verlorenen Stift.
+Are you looking for the lost pens? No, I'm just looking for a lost pencil.
+
+Suchen Sie die verlorenen Hemden? Nein, ich suche nur ein verlorenes Hemd.
+Are you looking for the lost shirts? No, I'm just looking for a lost shirt.
+
+Suchen Sie die verlorenen Hosen? Nein, ich suche nur eine verlorene Hose.
+Are you looking for the lost trousers? No, I'm just looking for lost trousers.
