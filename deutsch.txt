@@ -3623,3 +3623,54 @@ Are you looking for the lost shirts? No, I'm just looking for a lost shirt.
 
 Suchen Sie die verlorenen Hosen? Nein, ich suche nur eine verlorene Hose.
 Are you looking for the lost trousers? No, I'm just looking for lost trousers.
+
+Ich sehe das große Pferd. Ich sehe die großen Pferde.
+I see the big horse. I see the big horses.
+
+Ich höre das laute Kind. Ich höre die lauten Kinder.
+I hear the loud child. I hear the loud children.
+
+Er hört die laute Maus. Er hört die lauten Mäuse.
+He hears the loud mouse. He hears the loud mice.
+
+Er findet das verlorene Papier. Er findet die verlorenen Papiere.
+He finds the lost paper. He finds the lost papers.
+
+Wir suchen das verlorene Mädchen. Wir suchen die verlorenen Mädchen.
+We look for the lost girl. We look for the lost girls.
+
+Sie hat den schwarzen Laptop. Sie hat die schwarzen Laptops.
+She has the black laptop. She has the black laptops.
+
+Johannes hat die große Orange. Johannes hat die großen Orangen.
+Johannes has the big orange. Johannes has the big oranges.
+
+Suse möchte das weiße Hemd. Suse möchte die weißen Hemden.
+Suse wants the white shirt. Suse wants the white shirts.
+
+Der Junge hat die schnelle Maus. Der Junge hat die schnellen Mäuse.
+The boy has the fast mouse. The boy has the fast mice.
+
+Er findet einen verlorenen Schlüssel. Er findet die verlorenen Schlüssel.
+He finds a lost key. He finds the lost keys.
+
+Er findet eine verlorene Katze. Er findet die verlorenen Katzen.
+He finds a lost cat. He finds the lost cats.
+
+Sie findet den verlorenen Löffel. Sie findet die verlorenen Löffel.
+She finds the lost spoon. She finds the lost spoons.
+
+Hans sucht den roten Ball. Hans sucht die roten Bälle.
+Hans looks for the red ball. Hans looks for the red balls.
+
+Hans sucht auch das braune Pferd. Hans sucht auch die braunen Pferde.
+Hans also looks for the brown horse. Hans also looks for the brown horses.
+
+Suse hat einen teuren Stift. Suse hat die teuren Stifte.
+Suse has an expensive pen. Suse has the expensive pencils.
+
+Sophie und Hans haben einen schwarzen Hund. Sophie und Hans haben die schwarzen Hunde.
+Sophie and Hans have a black dog. Sophie and Hans have the black dogs.
+
+Das Kind mag den weißen Zug. Das Kind mag die weißen Züge.
+The child likes the white train. The child likes the white train.
