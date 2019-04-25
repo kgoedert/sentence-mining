@@ -2254,51 +2254,51 @@
 # Il est en France maintenant.
 # He's in France now.
 # 
-# Il est en Espagne maintenant.
-# 
-# He's in Spain now.
-# 
-# 
-# Il est pressé maintenant.
-# 
-# He's in a hurry now.
-# Il est en retard maintenant.
-# 
-# He's late now.
-# Il est à Toulouse maintenant.
-# 
-# He's in Toulouse now.
-# Il est sur la route maintenant.
-# 
-# He's on the road now.
-# Il est heureux maintenant.
-# 
-# He's happy now.
-# Il est pressé maintenant.
-# 
-# He's in a hurry now.
-# Il est à Lyon maintenant.
-# 
-# He's in Lyon now.
-# Voilà Mademoiselle Courtois.
-# 
-# There's Miss Courtois.
-# Voilà le restaurant.
-# 
-# There's the restaurant.
-# Voilà le café.
-# 
-# Here's the coffee.
-# Voilà Nantes.
-# 
-# There's Nantes.
-# Voilà votre frère.
-# 
+Il est en Espagne maintenant.
+He's in Spain now.
+
+Il est pressé maintenant.
+He's in a hurry now.
+
+Il est en retard maintenant.
+He's late now.
+
+Il est à Toulouse maintenant.
+He's in Toulouse now.
+
+Il est sur la route maintenant.
+He's on the road now.
+
+Il est heureux maintenant.
+He's happy now.
+
+Il est pressé maintenant.
+He's in a hurry now.
+
+Il est à Lyon maintenant.
+He's in Lyon now.
+
+Voilà Mademoiselle Courtois.
+There's Miss Courtois.
+
+Voilà le restaurant.
+There's the restaurant.
+
+Voilà le café.
+Here's the coffee.
+
+Voilà Nantes.
+There's Nantes.
+
+Voilà votre frère.
 There's your brother.
+
 Voilà le livre.
 Here's the book.
+
 Voilà la porte.
 There's the door.
+
 Voilà vos parents.
 There are your parents.
 
