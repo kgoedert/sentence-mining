@@ -4322,3 +4322,130 @@ He writes it to her.
 
 Sie sagt es ihm. 
 She tells it to him; She tells him.
+
+Das Auto gehört dem Kind.
+The kid owns the car.
+
+Das Auto gehört der Frau.
+The car belongs to the woman.
+
+Das Auto gehört dem Mann.
+The car belongs to the man.
+
+Das Auto gehört dem Chef.
+The car belongs to the boss.
+
+Das Auto gehört der Chefin.
+The car belongs to the boss.
+
+Das Auto gehört dem Polizisten.
+The car belongs to the policeman.
+
+Das Auto gehört der Polizistin.
+The car belongs to the policewoman.
+
+Das Haus gefällt mir besser.
+I like the house better.
+
+Der Hamburger gefällt mir besser.
+I like the hamburger better.
+
+Das Steak gefällt mir besser.
+I like the steak better.
+
+Die Brieftasche gefällt mir besser.
+I like the wallet better.
+
+Das Spielzeug gefällt mir besser.
+I like the toy better.
+
+Der Hund gefällt mir besser.
+I like the dog better.
+
+Die Katze gefällt mir besser.
+I like the cat better.
+
+Der Verkäufer gibt dem Kunden den Stift.
+The salesman gives the pen to the customer.
+
+Der Verkäufer gibt dem Kunden das Papier.
+The salesman gives the paper to the customer.
+
+Der Verkäufer gibt dem Kunden den Stuhl.
+The salesman gives the chair to the customer.
+
+Der Verkäufer gibt dem Kunden das Geschenk.
+The salesman gives the gift to the customer.
+
+Der Verkäufer gibt dem Kunden die Tasche.
+The seller gives the bag to the customer.
+
+Der Verkäufer gibt dem Kunden das Dokument.
+The seller gives the document to the customer.
+
+Der Vater schenkt dem Kind das Pferd.
+The father gives the horse to the child.
+
+Der Vater schenkt dem Kind den Ball.
+The father gives the ball to the child.
+
+Der Vater schenkt dem Kind das Spielzeug.
+The father gives the child the toy.
+
+Der Vater schenkt dem Kind die Maus.
+The father gives the child the mouse.
+
+Der Vater schenkt dem Kind den Hund.
+The father gives the child the dog.
+
+Der Vater schenkt dem Kind die Katze.
+The father gives the child the cat.
+
+Der Vater schenkt dem Kind das Auto.
+The father gives the child the car.
+
+Mutter grillt ihnen ein Hähnchen.
+Mother grills them a chicken.
+
+Mutter grillt euch ein Hähnchen.
+Mother grills you a chicken.
+
+Mutter grillt ihr ein Hähnchen.
+Mother grills her a chicken.
+
+Mutter grillt uns ein Hähnchen.
+Mother grills us a chicken.
+
+Mutter grillt mir ein Hähnchen.
+Mother grills me a chicken.
+
+Mutter grillt ihm ein Hähnchen.
+Mother grills him a chicken.
+
+Mutter grillt ihnen ein Hähnchen.
+Mother grills them a chicken.
+
+Herr Wagner zeigt uns das Museum.
+Mr. Wagner shows us the museum.
+
+Herr Wagner zeigt mir das Museum.
+Mr. Wagner shows me the museum.
+
+Herr Wagner zeigt ihnen das Museum.
+Mr. Wagner shows them the museum.
+
+Herr Wagner zeigt ihm das Museum.
+Mr. Wagner shows him the museum.
+
+Herr Wagner zeigt euch das Museum.
+Mr. Wagner shows you the museum.
+
+Herr Wagner zeigt ihr das Museum.
+Mr. Wagner shows her the museum.
+
+Herr Wagner zeigt Ihnen das Museum.
+Mr. Wagner shows you the museum.
+
+Herr Wagner zeigt uns das Museum.
+Mr. Wagner shows us the museum.
+
