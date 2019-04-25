@@ -3674,3 +3674,45 @@ Sophie and Hans have a black dog. Sophie and Hans have the black dogs.
 
 Das Kind mag den weißen Zug. Das Kind mag die weißen Züge.
 The child likes the white train. The child likes the white train.
+
+Ich sehe eine Katze. 
+I see a cat.
+
+Ich sehe katzen. 
+I see cats.
+
+Ich sehe keine Katzen. 
+I don't see any cats.
+
+Ich sehe die Katze nicht. 
+I don't see a specific cat.
+
+Er hört einen Zug. Er hört keinen Zug.
+He hears a train. He does not hear a train.
+
+Da ist ein Zug. Da ist kein Zug.
+There is a train. There is no train.
+
+Frau Wagner sieht einen Hund. Frau Wagner sieht keinen Hund.
+Mrs Wagner sees a dog. Mrs Wagner does not see a dog.
+
+Da ist ein Mann. Da ist kein Mann.
+There is a man. There is no man.
+
+Wir fahren ein Auto. Wir fahren kein Auto.
+We are driving a car. We are not driving a car.
+
+Da ist ein Hund. Da ist kein Hund.
+There is a dog. There is no dog.
+
+Sie sieht einen Mann. Sie sieht keinen Mann.
+She sees a man. She doesn't see a man.
+
+Da ist eine Frau. Da ist keine Frau.
+There is a woman. There is no woman.
+
+Er sieht eine Frau. Er sieht keine Frau.
+He sees a woman. He sees no woman.
+
+Da ist ein Auto. Da ist kein Auto.
+There is a car. There is no car.
