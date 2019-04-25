@@ -3716,3 +3716,609 @@ He sees a woman. He sees no woman.
 
 Da ist ein Auto. Da ist kein Auto.
 There is a car. There is no car.
+
+Er hat ein Steak. Er hat kein Steak.
+He's got a steak. He doesn't have a steak.
+
+Da ist ein Steak. Da ist kein Steak.
+There's a steak. There is no steak.
+
+Das Kind hat eine Pampelmuse. Das Kind hat keine Pampelmuse.
+The child has a grapefruit. The child has no grapefruit.
+
+Da ist der Bahnhof. Da ist kein Bahnhof.
+There is the station. There is no station.
+
+Das Mädchen hat eine Katze. Das Mädchen hat keine Katze.
+The girl has a cat. The girl has no cat.
+
+Da ist die S-Bahn. Da ist keine S-Bahn.
+There is the S-Bahn. There is no S-Bahn.
+
+Herr Wagner hat ein Auto. Herr Wagner hat kein Auto.
+Mr Wagner has a car. Mr Wagner has no car.
+
+Da ist die U-Bahn. Da ist keine U-Bahn.
+There is the subway. There is no subway.
+
+Der Junge möchte einen Ball. Der Junge möchte keinen Ball.
+The boy wants a ball. The boy does not want a ball.
+
+Da ist ein Ball. Da ist kein Ball.
+There is a ball. There is no ball.
+
+Der Vater schneidet den Apfel. Der Vater schneidet keinen Apfel.
+The father cuts the apple. The father is not cutting an apple.
+
+Der Vater schneidet ein Brot. Der Vater schneidet kein Brot.
+The father cuts a loaf of bread. The father does not cut bread.
+
+Die Mutter schneidet eine Pampelmuse. Die Mutter schneidet keine Pampelmuse.
+The mother cuts a grapefruit. The mother does not cut grapefruit.
+
+Wir grillen eine Wurst. Wir grillen keine Wurst.
+We grill a sausage. We do not grill a sausage.
+
+Ich grille einen Hamburger. Ich grille keinen Hamburger.
+I grill a hamburger. I don't grill a hamburger.
+
+Hans verkauft das Hemd. Hans verkauft kein Hemd.
+Hans sells the shirt. Hans is not selling a shirt.
+
+Katharina kauft die Hose. Katharina kauft keine Hose.
+Katharina buys the trousers. Katharina doesn't buy trousers.
+
+Hans und Katharina kaufen das Haus. Hans und Katharina kaufen kein Haus.
+Hans and Katharina buy the house. Hans and Katharina do not buy a house.
+
+Wir suchen das Pferd. Wir suchen kein Pferd.
+We are looking for the horse. We are not looking for a horse.
+
+Der Vater sucht das Mädchen. Der Vater sucht kein Mädchen.
+The father is looking for the girl. The father is not looking for a girl.
+
+Die Mutter sucht den Jungen. Die Mutter sucht keinen Jungen.
+The mother is looking for the boy. The mother is not looking for a boy.
+
+Der Junge ist dort. Dort ist kein Junge.
+The boy is there. There is no boy.
+
+Das Mädchen ist dort. Dort ist kein Mädchen.
+The girl is there. There is no girl.
+
+Die Maus ist dort. Dort ist keine Maus.
+The mouse is there. There is no mouse.
+
+Ich sehe die Maus. Ich sehe keine Maus.
+I see the mouse. I don't see a mouse.
+
+Der Mann ist da. Ich sehe keinen Mann.
+The man is there. I see no man.
+
+Das Pferd ist da. Ich sehe kein Pferd.
+The horse is there. I see no horse.
+
+Die Tomate ist da. Ich sehe keine Tomate.
+The tomato is there. I don't see a tomato.
+
+Der Tisch ist da. Ich sehe keinen Tisch.
+The table is there. I don't see a table.
+
+Die Banane ist da. Ich sehe keine Banane.
+The banana is there. I don't see a banana.
+
+Das Eis ist da. Ich sehe kein Eis.
+The ice is there. I don't see any ice.
+
+Der Stuhl ist da. Ich sehe keinen Stuhl.
+The chair is there. I don't see a chair.
+
+Die Frau ist da. Ich sehe keine Frau.
+The woman is there. I don't see a woman.
+
+Das Kind ist da. Ich sehe kein Kind.
+The child is there. I see no child.
+
+Er sieht keine U-Bahn. Aber die U-Bahn ist da.
+He does not see a subway. But the subway is there.
+
+Sie sieht keinen Bahnhof. Aber der Bahnhof ist da.
+She doesn't see a station. But the station is there.
+
+Frau Wagner hört kein Pferd. Aber das Pferd ist da.
+Mrs Wagner does not hear a horse. But the horse is there.
+
+Sophie sieht keine Banane. Aber die Banane ist da.
+Sophie doesn't see a banana. But the banana is there.
+
+Herr Wagner hört keinen Hund. Aber der Hund ist da.
+Mr Wagner does not hear a dog. But the dog is there.
+
+Die Mutter sieht kein Kind. Aber das Kind ist da.
+The mother sees no child. But the child is there.
+
+Der Mann sieht kein Schiff. Aber das Schiff ist da.
+The man does not see a ship. But the ship is there.
+
+Wir sprechen deutsch. 
+We speak German.
+
+Er kann deutsch sprechen. 
+He can speak German.
+
+Sie möchte gut deutsch sprechen. 
+She would like to speak German well.
+
+Können Sie deutsch sprechen? 
+Can you speak German?
+
+Ich spreche ein bisschen deutsch. 
+I speak a little German.
+
+Markus versteht deutsch. 
+Markus understands German.
+
+Christoph kann gut verstehen. 
+Christoph can understand well.
+
+Ruth möchte deutsch lesen können. 
+Ruth would like to be able to read German.
+
+Frank kann sehr gut deutsch schreiben. 
+Frank can write German very well.
+
+Karin lernt deutsch. 
+Karin is learning German.
+
+Ich habe deutsch gelernt. 
+I learned German.
+
+Ich habe deutsch studiert. 
+I studied German.
+
+Ich möchte deutsch studieren. 
+I want to study German.
+
+Ich lerne deutsch in Deutschland. 
+I am learning German in Germany.
+
+Ich studiere deutsch in Deutschland. 
+I am studying German in Germany.
+
+Ich reise nach Deutschland. 
+I am going to Germany.
+
+Ich bin gestern angekommen. 
+I arrived yesterday.
+
+Ich bleibe zwei Wochen in Deutschland. 
+I am staying in Germany for two weeks.
+
+Ich komme aus den U.S.A. 
+I am from the United States.
+
+Ich fliege morgen nach Hause. 
+I fly home tomorrow.
+
+Sie sprechen zu schnell. 
+You speak too fast.
+
+Bitte sprechen Sie langsamer. 
+Please speak more slowly.
+
+Sie sprechen zu leise. 
+You speak too quietly.
+
+Bitte sprechen Sie lauter. 
+Please speak louder.
+
+Ich habe montags, mittwochs und freitags Deutschunterricht. 
+I have German class on Mondays, Wednesdays and Fridays.
+
+Mein Deutschlehrer ist sehr gut. 
+My German teacher is very good.
+
+Die Schüler sitzen am Arbeitstisch. 
+The students are sitting at their desks.
+
+Der Professor schreibt an die Tafel. 
+The professor is writing on the board.
+
+Die S-Bahn ist links. 
+The tram stop is to the left.
+
+Die U-Bahn ist rechts. 
+The subway station is to the right.
+
+Der Hauptbahnhof ist geradeaus. 
+The main train station is straight ahead.
+
+Der Flughafen ist links. 
+The airport is to the left.
+
+Die Taxi Haltestelle ist rechts. 
+The taxi station is to the right.
+
+Die Toilette ist geradeaus. 
+The restrooms are straight ahead.
+
+Das Klassenzimmer ist links. 
+The classroom is to the left.
+
+Der Hörsaal ist rechts. 
+The auditorium is to the right.
+
+Der Professor lehrt deutsch. 
+The professor teaches German.
+
+Die Studenten lernen deutsch. 
+The students learn German.
+
+Die Studenten lesen das Buch. 
+The students read the book. (das Buch)
+
+Die Studenten schreiben die Prüfung. 
+The students are taking the test. (die Prüfung)
+
+Karin hat die Prüfung bestanden. 
+Karin passed the test.
+
+Georg hat eine eins geschrieben. 
+Georg got an 'A'.
+
+Die besten Studenten studieren viel. 
+The best students study a lot.
+
+Die Studenten studieren deutsche Grammatik. 
+The students are studying German grammar.
+
+Der Mitarbeiter antwortet dem Chef. 
+The employee is answering the boss.
+
+Die Mitarbeiterin antwortet der Chefin. 
+The employee is answering the boss.
+
+Der Chef antwortet dem Polizisten. 
+The boss is answering the policeman.
+
+Die Chefin antwortet der Polizistin. 
+The boss is answering the policewoman.
+
+Das Kind antwortet dem Vater. 
+The child is answering the father.
+
+Das Mädchen antwortet der Mutter. 
+The girl is answering the mother.
+
+Der Junge antwortet der Lehrerin. 
+The boy is answering the teacher.
+
+Der Polizist antwortet dem Dieb nicht. 
+The policeman is not answering the thief.
+
+Die Polizistin antwortet ihnen nicht. 
+The policewoman is not answering them.
+
+Mein Mann ist dort. Ich sehe meinen Mann.
+My husband is there. I see my husband.
+
+Meine Frau ist dort. Ich sehe meine Frau.
+My wife is there. I see my wife.
+
+Mein Kind ist dort. Ich sehe mein Kind.
+My child is there. I see my child.
+
+Unser Ball ist dort. Wir sehen unseren Ball.
+Our ball is there. We see our ball.
+
+Unsere Haltestelle ist dort. Wir sehen unsere Haltestelle.
+Our stop is there. We see our stop.
+
+Unser Haus ist dort. Wir sehen unser Haus.
+Our house is there. We see our house.
+
+Hans dankt der Frau. 
+Hans is thanking the woman.
+
+Der Kunde dankt der Verkäuferin. 
+The customer is thanking the saleswoman.
+
+Der Verkäufer dankt dem Kunden. 
+The salesman is thanking the customer.
+
+Der Chef dankt der Mitarbeiterin. 
+The (male) boss is thanking the (female) employee.
+
+Der Junge dankt dem Vater. 
+The boy is thanking the father.
+
+Hans dankt ihnen nicht. 
+Hans is not thanking them.
+
+Der Hund folgt dem Mädchen. 
+The dog is following the girl.
+
+Der Junge folgt dem Hund. 
+The boy is following the dog.
+
+Der Hund folgt der Katze. 
+The dog is following the cat.
+
+Der Kunde folgt der Verkäuferin. 
+The customer is following the saleswoman.
+
+Der Mitarbeiter folgt dem Chef. 
+The (male) employee is following the (male) boss.
+
+Die Polizistin folgt dem Kunden. 
+The policewoman is following the customer.
+
+Der Polizist folgt dem Dieb. 
+The policeman is following the thief.
+
+Das Mädchen folgt dem Pferd. 
+The girl is following the horse.
+
+Das Pferd folgt dem Mann nicht. 
+The horse is not following the man
+
+Ich gebe dem Mann den Brief. 
+I am giving the letter to the man.
+
+Er gibt der Frau das Dokument. 
+He is giving the document to the woman.
+
+Sie gibt dem Kind das Geschenk. 
+She is giving the present to the child.
+
+Ich gebe dem Kollegen den Stift. 
+I am giving the pen to the colleague.
+
+Wir geben dem Kunden den Stuhl. 
+We are giving the chair to the customer.
+
+Das Kind gibt dem Hund das Futter. 
+The child is giving food to the dog.
+
+Die Mutter gibt dem Kind das Essen. 
+The mother is giving food to the child.
+
+Hans schreibt mir einen Brief. 
+Hans is writing a letter to me.
+
+Frau Wagner schreibt dem Kind einen Brief. 
+Mrs. Wagner is writing a letter to the child.
+
+Das Kind schreibt der Mutter einen Brief. 
+The child is writing a letter to the mother.
+
+Die Chefin schreibt uns einen Brief. 
+The (female) boss is writing a letter to us.
+
+Der Mann schreibt ihr einen Brief. 
+The man is writing a letter to her.
+
+Die Frau schreibt ihm einen Brief. 
+The woman is writing a letter to him.
+
+Der Vater schenkt dem Kind einen Ball. 
+The father is giving a ball to the child as a present.
+
+Die Mutter schenkt dem Kind einen Ball. 
+The mother is giving a ball to the child as a present.
+
+Der Mann schenkt der Frau eine Blume. 
+The man is giving a flower to the woman as a present.
+
+Die Frau schenkt dem Mann ein Hemd. 
+The woman is giving a shirt to the man as a present.
+
+Die Verkäuferin schenkt dem Kunden einen Stift. 
+The saleswoman is giving a pen to the customer as a present.
+
+Das Kind bringt dem Hund den Ball. 
+The child is bringing the ball to the dog.
+
+Der Hund bringt dem Kind den Ball. 
+The dog is bringing the ball to the child.
+
+Der Mann bringt der Frau die Blume. 
+The man is bringing the flower to the woman.
+
+Die Mitarbeiterin bringt dem Chef das Dokument. 
+The (female) employee is bringing the document to the (male) boss.
+
+Der Mitarbeiter bringt der Chefin das Papier. 
+The (male) employee is bringing the paper to the (female) boss.
+
+Der Mitarbeiter bringt dem Kunden den Stift. 
+The (male) employee is bringing the pen to the customer.
+
+Der Mann zeigt der Polizistin den Dieb. 
+The man is pointing out the thief to the policewoman.
+
+Die Frau zeigt dem Polizisten den Dieb. 
+The woman is pointing out the thief to the policeman.
+
+Das Kind zeigt der Mutter den Ball. 
+The child is showing the ball to the mother.
+
+Das Mädchen zeigt dem Vater die Blume. 
+The girl is showing the flower to the father.
+
+Wir zeigen ihm das Museum. 
+We are showing him the museum.
+
+Ich zeige euch das Museum. 
+I am showing you (plural) the museum.
+
+Sie zeigen ihr das Museum. 
+They are showing her the museum.
+
+Der Verkäufer zeigt dem Kunden das Produkt. 
+The salesman is showing the product to the customer.
+
+Der Polizist hilft mir. 
+The policeman is helping me.
+
+Das Kind hilft uns. 
+The child is helping us.
+
+Wir helfen euch. 
+We are helping you.
+
+Ihr helft uns. 
+You are helping us.
+
+Sie helfen euch. 
+They are helping you (plural).
+
+Sie hilft uns. 
+She is helping us.
+
+Sie hilft ihnen nicht. 
+She is not helping them.
+
+Der Ball gehört dem Kind. 
+The ball belongs to the child.
+
+Die Blume gehört der Frau. 
+The flower belongs to the woman.
+
+Der Hund gehört dem Jungen. 
+The dog belongs to the boy.
+
+Die Katze gehört dem Mädchen. 
+The cat belongs to the girl.
+
+Der Arbeitstisch gehört der Chefin. 
+The work desk belongs to the (female) boss.
+
+Der Stift gehört dem Kollegen. 
+The pen belongs to the colleague.
+
+Das Auto gehört uns. 
+The car belongs to us.
+
+Das Haus gehört mir nicht. 
+The house does not belong to me.
+
+Er glaubt mir nicht. 
+He does not believe me.
+
+Sie glaubt uns. 
+She believes us.
+
+Der Polizist glaubt dem Dieb nicht. 
+The policeman does not believe the thief.
+
+Der Chef glaubt dem Mitarbeiter. 
+The (male) boss believes the (male) employee.
+
+Der Mitarbeiter glaubt dem Chef. 
+The (male) employee believes the (male) boss.
+
+Wir glauben ihnen nicht.
+We do not believe them.
+
+Sie vergibt ihm nicht. 
+She does not forgive him.
+
+Er vergibt ihr. 
+He forgives her.
+
+Sie vergeben uns. 
+They forgive us.
+
+Gott vergibt uns. 
+God forgives us.
+
+Wir vergeben euch. 
+We forgive you.
+
+Wir vergeben ihnen. 
+We forgive them.
+
+Der Polizist befiehlt dem Mann zu kommen. 
+The policeman is ordering the man to come.
+
+Der Chef befiehlt dem Mitarbeiter zu arbeiten. 
+The (male) boss is ordering the (male) employee to work.
+
+Die Lehrerin befiehlt dem Kind zu schreiben. 
+The (female) teacher is ordering the child to write.
+
+Der Mann gehorcht dem Polizist. 
+The man is obeying the policeman.
+
+Der Mitarbeiter gehorcht dem Chef. 
+The (male) employee is obeying the (male) boss.
+
+Das Kind gehorcht der Lehrerin. 
+The child is obeying the teacher.
+
+Der Mann gehorcht dem Polizist. 
+The man is obeying the policeman.
+
+Der Mitarbeiter gehorcht dem Chef. 
+The (male) employee is obeying the (male) boss.
+
+Das Kind gehorcht der Lehrerin. 
+The child is obeying the teacher.
+
+Das Haus gefällt mir. 
+I like the house.
+
+Der Mitarbeiter gefällt dem Chef. 
+The (male) boss likes the (male) employee.
+
+Der Hund gefällt dem Kind. 
+The child likes the dog.
+
+Das Auto gefällt uns. 
+We like the car.
+
+Das Pferd gefällt ihnen nicht. 
+They do not like the horse.
+
+Der Ball gefällt dem Mädchen nicht. 
+The girl does not like the ball.
+
+Das Hemd gefällt dem Kunden nicht. 
+The customer does not like the shirt.
+
+Das Dokument gefällt der Chefin nicht. 
+The (female) boss does not like the document.
+
+Der Vater gibt dem Kind den Ball. 
+The father is giving the child the ball.
+
+Die Mutter gibt dem Jungen den Kuchen. 
+The mother is giving the boy the cake.
+
+Die Mutter gibt dem Mädchen die Puppe. 
+The mother is giving the girl the doll.
+
+Der Polizist erlaubt der Frau zu kommen. 
+The policeman is allowing the woman to come.
+
+Die Polizistin erlaubt dem Mann zu gehen. 
+The policewoman is allowing the man to go.
+
+Ich gebe es Ihnen. 
+I give it to you.
+
+Mutter erlaubt es dem Kind. 
+Mother allows the child to do it.
+
+Der Polizist erlaubt es ihr. 
+The policeman allows her to do it.
+
+Ich schenke es Ihnen. 
+I give it to you as a present.
+
+Er schreibt es ihr. 
+He writes it to her.
+
+Sie sagt es ihm. 
+She tells it to him; She tells him.
