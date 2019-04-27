@@ -1297,608 +1297,600 @@
 # eine schöne Flasche
 # a nice bottle
 # 
-eine teure Flasche
-an expensive bottle
-
-ein kleiner Käse
-a small cheese
-
-ein kleines Hotel
-a small hotel
-
-ein kleines Auto
-a small car
-
-ein kleines Mädchen
-a little girl
-
-ein teurer Baum
-an expensive tree
-
-ein teures Pferd
-an expensive horse
-
-Der große Mann ist dort.
-The tall man's there.
-
-Der große Baum ist hier.
-The big tree is here.
-
-Der schöne Baum ist hier.
-The beautiful tree is here.
-
-Der schöne Baum ist da.
-The beautiful tree is there.
-
-Die schöne Frau ist da.
-The beautiful woman is there.
-
-Die kleine Frau ist da.
-The little woman is there.
-
-Die kleine Frau ist dort.
-The little woman is there.
-
-Das kleine Mädchen ist dort.
-The little girl is there.
-
-Das große Mädchen ist dort.
-The tall girl is there.
-
-Das große Mädchen ist drüben.
-The tall girl is over there.
-
-Die große Milch ist drüben.
-The big milk is over there.
-
-Der große Mann spricht.
-The tall man is talking.
-
-Der große Mann steht.
-The tall man is standing.
-
-Das große Pferd steht.
-The big horse is standing.
-
-Das schwarze Pferd steht.
-The black horse is standing.
-
-Das schwarze Pferd kommt.
-The black horse is coming.
-
-Die schwarze Katze kommt.
-The black cat is coming.
-
-Die schnelle Katze kommt.
-The fast cat is coming.
-
-Ein großer Mann ist dort.
-A tall man is there.
-
-Ein großer Mann ist hier.
-A tall man is here.
-
-Eine große Frau ist hier.
-A tall woman is here.
-
-Eine schöne Frau ist hier.
-A beautiful woman is here.
-
-Eine schöne Frau ist da.
-A beautiful woman is there.
-
-Ein schönes Kind ist da.
-A beautiful child is there.
-
-Ein schnelles Kind ist da.
-A fast child is there.
-
-Ein schnelles Kind ist dort.
-A fast child is there.
-
-Eine schnelle Katze ist dort.
-A fast cat is there.
-
-Ein großer Mann spricht.
-A tall man speaks.
-
-Ein großer Mann steht.
-A tall man is standing.
-
-Ein großes Pferd steht.
-A big horse is standing.
-
-Ein schwarzes Pferd steht.
-A black horse is standing.
-
-Ein schwarzes Pferd kommt.
-A black horse is coming.
-
-Eine schwarze Katze kommt.
-A black cat is coming.
-
-Eine schnelle Katze kommt.
-A fast cat comes.
-
-eine liebe Katze 
-a lovely cat
-
-der schnelle Hund
-the fast dog
-
-ein kaltes Wasser 
-a cold water
-
-das kalte Wasser
-the cold water
-
-das weiße Haus
-the white house 
-
-ein weißes Haus
-a white house
-
-eine rote Blume 
-a red flower
-
-die rote Blume 
-the red flower
-
-die große Station 
-the big station
-
-eine große Station  
-a big station
-
-Guten Tag, Herr Wagner. 
-Good day, Mr. Wagner.
-
-Guten Abend, Frau Wagner. 
-Good evening, Mrs. Wagner.
-
-Hallo, Thomas. 
-Hello, Thomas.
-
-Auf Wiedersehen, Christine. 
-Good-bye, Christine.
-
-Bis dann, Georg. 
-See you later, George
-
-Tschüss, Frau Müller. 
-Bye, Mrs. Müller.
-
-Gute Nacht, Kinder. 
-Good night, children.
-
-Wie geht es Ihnen? 
-How are you doing?
-
-Wie geht es? 
-How are you doing?
-
-Wie geht's? 
-How are you doing?
-
-Mir geht es gut. 
-I am doing fine.
-
-Ihm geht's gut. 
-He is doing fine.
-
-Ihr geht es gut. 
-She is doing fine.
-
-Mir geht's gut. 
-I am doing fine.
-
-Wie geht es Frau Wagner?  Es geht ihr gut.
-
-Wie geht es Ihnen? Es geht mir gut.
-
-Wie geht es Herrn Wagner? Es geht ihm gut.
-
-Wie geht es ihr? Es geht ihr gut.
-
-Wie heißen Sie? 
-What is your name?
-
-Wie heißt sie? 
-What is her name?
-
-Wie heißt er? How
-What is his name?
-
-Wie heißt das Kind? 
-What is the child's name?
-
-Wie ist Ihr Name? 
-What is your name?
-
-Wie heißt Ihr Kind? 
-What is your child's name?
-
-Wie heißt Ihr Ehemann? 
-What is your husband's name?
-
-Wie heißt Ihre Ehefrau? 
-What is your wife's name?
-
-Wie ist sein Name? 
-What is his name?
-
-Wie ist ihr Name? 
-How is her name? 
-
-Ich heiße Thomas. 
-My name is Thomas.
-
-Ich heiße Christine. 
-My name is Christine.
-
-Er heißt Herr Wagner. 
-His name is Mr. Wagner.
-
-Sie heißt Frau Dr. Wagner. 
-Her name is Dr. Wagner.
-
-Ich bin Susanne. 
-I am Susanne.
-
-Ich bin Johannes. 
-I am Johannes.
-
-die roten Blumen
-the red flowers 
-
-die großen Stühle 
-the big chairs 
-
-der große Stuhl
-the big chair
-
-die schwarzen Autos 
-the black cars 
-
-die großen Flughäfen
-the major airports 
-
-die schnellen Pferde
-the fast horses 
-
-die braunen Mäuse 
-the brown mice 
-
-die braune Maus
-the brown mouse
-
-die schönen Bäume 
-the beautiful trees 
-
-die langen Straßen 
-the long roads 
-
-die teuren Hotels 
-the expensive hotels 
-
-die weißen Katzen 
-the white cats 
-
-die weiße Katze
-the white cat
-
-die lieben Hunde 
-the dear dogs
-
-Dort sind viele orangene Blumen. 
-There are many orange flowers.
-
-Dort sind viele schnelle Züge. 
-There are many fast trains.
-
-Dort sind viele große Bäume. 
-There are many big trees.
-
-Dort sind viele volle Flaschen. 
-There are many full bottles.
-
-Dort sind viele schnelle Mäuse. 
-There are many fast mice.
-
-Dort sind viele schwarze Autos. 
-There are many black cars.
-
-die Pferde, das Pferd
-the horses, the horse
-
-die Autos, das Auto
-the cars, the car
-
-die Frauen, die Frau
-the women, the woman
-
-die Kinder, das Kind
-the children, the child
-
-die Bäume, der Baum
-the trees, the tree
-
-die Bälle, der Ball
-the balls, the ball
-
-die Häuser, das Haus
-the houses, the house
-
-die Straßen, die Straße
-the streets, the street
-
-die roten Blumen, die rote Blume
-the red flowers, the red flower
-
-die großen Stühle, der große Stuhl
-the big chairs, the big chair.
-
-die schwarzen Autos, das schwarze Auto
-the black cars, the black car.
-
-die großen Flughäfen, der große Flughafen
-the big airports, the big airport
-
-die schnellen Pferde, das schnelle Pferd
-the fast horses, the fast horse
-
-die braunen Mäuse, die braune Maus
-the brown mice, the brown mouse
-
-die schönen Bäume, der schöne Baum
-the beautiful trees, the beautiful tree
-
-die langen Straßen, die lange Straße
-the long roads, the long road
-
-die teuren Hotels, das teure Hotel
-the expensive hotels, the expensive hotel
-
-die weißen Katzen, die weiße Katze
-the white cats, the white cat.
-
-die lieben Hunde, der liebe Hund
-the dear dogs, the dear dog
-
-die schnellen Züge, ein schneller Zug
-the fast trains, a fast train
-
-die teuren Cafés, ein teures Café
-the expensive cafés, an expensive café
-
-die schwarzen Katzen, eine schwarze Katze
-the black cats, a black cat.
-
-die großen Kinder, ein großes Kind
-the big kids, a big kid.
-
-die schwarzen Messer, ein schwarzes Messer
-the black knives, a black knife
-
-die gelben Blumen, eine gelbe Blume
-the yellow flowers, a yellow flower
-
-die braunen Pferde, ein braunes Pferd
-the brown horses, a brown horse
-
-die langen Frauen, eine lange Frau
-the long women, a long woman
-
-die leckeren Brote, ein leckeres Brot
-the tasty breads, a tasty bread
-
-die lieben Männer, ein lieber Mann
-the dear men, a dear man
-
-Ist dort nur ein schönes Pferd? Nein, dort sind viele schöne Pferde.
-Is that just a nice horse? No, there are many beautiful horses.
-
-Ist dort nur eine schöne Blume? Nein, dort sind viele schöne Blumen.
-Is there only one beautiful flower? No, there are many beautiful flowers.
-
-Ist dort nur eine schöne Katze? Nein, dort sind viele schöne Katzen.
-Is there only one beautiful cat? No, there are many beautiful cats.
-
-Ist dort nur eine schöne Frau? Nein, dort sind viele schöne Frauen.
-Is there only one beautiful woman? No, there are many beautiful women there.
-
-Ist dort nur ein schönes Mädchen? Nein, dort sind viele schöne Mädchen.
-Is there only one beautiful girl? No, there are many beautiful girls there.
-
-Ist dort nur eine schöne Flasche? Nein, dort sind viele schöne Flaschen.
-Is there only one beautiful bottle? No, there are many beautiful bottles there.
-
-Ist dort nur ein schönes Restaurant? Nein, dort sind viele schöne Restaurants.
-Is there only a nice restaurant? No, there are many nice restaurants.
-
-das große Auto, die großen Autos
-the big car, the big cars.
-
-das kleine Mädchen, die kleinen Mädchen
-the little girl, the little girls
-
-die schnelle Maus, die schnellen Mäuse
-the fast mouse, the fast mice
-
-das gute Restaurant, die guten Restaurants
-the good restaurant, the good restaurants
-
-die liebe Katze, die lieben Katzen
-the dear cat, the dear cats
-
-das gute Café, die guten Cafés
-the good café, the good cafés
-
-die schöne Frau, die schönen Frauen
-the beautiful woman, the beautiful women
-
-das kleine Kind, die kleinen Kinder
-the little child, the little children
-
-das schnelle Pferd, die schnellen Pferde
-the fast horse, the fast horses
-
-Ist hier vielleicht ein schwarzes Auto? Ja, hier ist das schwarze Auto.
-Is there a black car here? Yes, here is the black car.
-
-Vielleicht ist hier die schwarze Katze? Ja, hier ist eine schwarze Katze.
-Maybe the black cat is here? Yes, here is a black cat.
-
-Ist hier vielleicht eine schnelle Katze? Ja, hier ist die schnelle Katze.
-Is there maybe a fast cat here? Yes, here is the fast cat.
-
-Ist hier vielleicht der schelle Hund? Ja, hier ist ein schneller Hund.
-Is here perhaps the fast dog? Yes, here is a fast dog.
-
-Ist hier vielleicht eine liebe Frau? Ja, hier ist die liebe Frau.
-Is there perhaps a dear woman here? Yes, here is the dear woman.
-
-Ist hier vielleicht das lange Messer? Ja, hier ist ein langes Messer.
-Is here perhaps the long knife? Yes, here is a long knife.
-
-Ist hier vielleicht eine lange Straße? Ja, hier ist die lange Straße.
-Is there perhaps a long road here? Yes, here is the long road.
-
-Ist hier vielleicht der große Baum? Ja, hier ist ein großer Baum.
-Is here perhaps the big tree? Yes, here is a big tree.
-
-Ist hier vielleicht ein großer Mann? Ja, hier ist der große Mann.
-Is there perhaps a big man here? Yes, here is the big man.
-
-Eine große Gabel kommt. Die großen Gabeln kommen.
-A big fork is coming. The big forks are coming.
-
-Ein brauner Hund kommt. Die braunen Hunde kommen.
-A brown dog comes. The brown dogs are coming.
-
-Eine rosa Blume kommt. Die rosa Blumen kommen.
-A pink flower comes. The pink flowers are coming.
-
-Ein orangener Ball kommt. Die orangenen Bälle kommen.
-An orange ball is coming. The orange balls are coming.
-
-Eine liebe Frau kommt. Die lieben Frauen kommen.
-A dear woman comes. The dear women are coming.
-
-Eine schöne Flasche kommt. Die schönen Flaschen kommen.
-A beautiful bottle comes. The beautiful bottles are coming.
-
-Ein weißer Zug kommt. Die weißen Züge kommen.
-A white train comes. The white trains are coming.
-
-Ein leckeres Brot kommt. Die leckeren Brote kommen.
-A delicious bread comes. The tasty breads are coming.
-
-Sind die Frauen dort? Vielleicht ist nur eine dort.
-Are the women there? Maybe only one is there.
-
-Sind die Männer dort? Vielleicht ist nur einer dort.
-Are the men there? Maybe only one is there.
-
-Sind die Katzen dort? Vielleicht ist nur eine dort.
-Are the cats there? Maybe there is only one there.
-
-Sind die Gabeln dort? Vielleicht ist nur eine dort.
-Are the forks there? Maybe there is only one there.
-
-Sind die Kinder dort? Vielleicht ist nur eines dort.
-Are the children there? Maybe there is only one there.
-
-Sind die Züge dort? Vielleicht ist nur einer dort.
-Are the trains there? Maybe only one is there.
-
-Sind die Autos dort? Vielleicht ist nur eines dort.
-Are the cars there? Maybe there is only one there.
-
-Sind die Restaurants dort? Vielleicht ist nur eines dort.
-Are the restaurants there? Maybe only one is there.
-
-Sind die Flaschen dort? Vielleicht ist nur eine dort.
-Are the bottles there? Maybe only one is there.
-
-Wir suchen den Mann. 
-We are searching for the man.
-
-Meine kleine Schwester sucht den Stuhl. 
-My little sister is searching for the chair.
-
-Mein großer Bruder sucht den Tisch. 
-My big brother is searching for the table.
-
-Er sieht das Pferd. 
-He sees the horse.
-
-Wir sehen das Hemd. 
-We see the shirt.
-
-Sie sieht das Messer. 
-She sees the knife.
-
-Mein Bruder und ich sehen das Glas. 
-My brother and I see the glass.
-
-Ich sehe das Papier. 
-I see the paper.
-
-Sie kauft die Hose. 
-She is buying the pants.
-
-Er kauft die Gabel. 
-He is buying the fork.
-
-Ich kaufe die Milch. 
-I am buying the milk.
-
-Meine Schwester und ich kaufen die Pampelmuse. 
-My sister and I are buying the grapefruit.
-
-Ich kaufe die Katze. 
-I am buying the cat.
-
-Wir finden ihn nicht. 
-We are not finding him. 
-
-Er findet uns nicht. 
-He is not finding us. 
-
-Wir finden sie nicht. 
-We are not finding her. 
-
-Ich finde sie nicht. 
-I am not finding her.
-
-Ich kaufe die Milch. 
-I am buying the milk.
-
-Sie findet mich nicht. 
-She is not finding me. (She cannot find me.)
-
-Wir fahren das Schiff. 
-We are driving (sailing) the ship.
-
-Sein Bruder fährt das Auto. 
-His brother is driving the car.
-
-Ich fahre das Fahrrad. 
-I am driving (riding) the bike.
-
-Ihre Schwester fährt den Lastkraftwagen. 
-Her sister is driving the semi truck.
-
-Wir fahren den Wagen. 
-We are driving the car.
-
-Mein Bruder hat das Auto. 
-My brother has the car.
-
-Wir haben den Schlüssel. 
-We have the key.
-
+# eine teure Flasche
+# an expensive bottle
+# 
+# ein kleiner Käse
+# a small cheese
+# 
+# ein kleines Hotel
+# a small hotel
+# 
+# ein kleines Auto
+# a small car
+# 
+# ein kleines Mädchen
+# a little girl
+# 
+# ein teurer Baum
+# an expensive tree
+# 
+# ein teures Pferd
+# an expensive horse
+# 
+# Der große Mann ist dort.
+# The tall man's there.
+# 
+# Der große Baum ist hier.
+# The big tree is here.
+# 
+# Der schöne Baum ist hier.
+# The beautiful tree is here.
+# 
+# Der schöne Baum ist da.
+# The beautiful tree is there.
+# 
+# Die schöne Frau ist da.
+# The beautiful woman is there.
+# 
+# Die kleine Frau ist da.
+# The little woman is there.
+# 
+# Die kleine Frau ist dort.
+# The little woman is there.
+# 
+# Das kleine Mädchen ist dort.
+# The little girl is there.
+# 
+# Das große Mädchen ist dort.
+# The tall girl is there.
+# 
+# Das große Mädchen ist drüben.
+# The tall girl is over there.
+# 
+# Die große Milch ist drüben.
+# The big milk is over there.
+# 
+# Der große Mann spricht.
+# The tall man is talking.
+# 
+# Der große Mann steht.
+# The tall man is standing.
+# 
+# Das große Pferd steht.
+# The big horse is standing.
+# 
+# Das schwarze Pferd steht.
+# The black horse is standing.
+# 
+# Das schwarze Pferd kommt.
+# The black horse is coming.
+# 
+# Die schwarze Katze kommt.
+# The black cat is coming.
+# 
+# Die schnelle Katze kommt.
+# The fast cat is coming.
+# 
+# Ein großer Mann ist dort.
+# A tall man is there.
+# 
+# Ein großer Mann ist hier.
+# A tall man is here.
+# 
+# Eine große Frau ist hier.
+# A tall woman is here.
+# 
+# Eine schöne Frau ist hier.
+# A beautiful woman is here.
+# 
+# Eine schöne Frau ist da.
+# A beautiful woman is there.
+# 
+# Ein schönes Kind ist da.
+# A beautiful child is there.
+# 
+# Ein schnelles Kind ist da.
+# A fast child is there.
+# 
+# Ein schnelles Kind ist dort.
+# A fast child is there.
+# 
+# Eine schnelle Katze ist dort.
+# A fast cat is there.
+# 
+# Ein großer Mann spricht.
+# A tall man speaks.
+# 
+# Ein großer Mann steht.
+# A tall man is standing.
+# 
+# Ein großes Pferd steht.
+# A big horse is standing.
+# 
+# Ein schwarzes Pferd steht.
+# A black horse is standing.
+# 
+# Ein schwarzes Pferd kommt.
+# A black horse is coming.
+# 
+# Eine schwarze Katze kommt.
+# A black cat is coming.
+# 
+# Eine schnelle Katze kommt.
+# A fast cat comes.
+# 
+# eine liebe Katze 
+# a lovely cat
+# 
+# der schnelle Hund
+# the fast dog
+# 
+# ein kaltes Wasser 
+# a cold water
+# 
+# das kalte Wasser
+# the cold water
+# 
+# das weiße Haus
+# the white house 
+# 
+# ein weißes Haus
+# a white house
+# 
+# eine rote Blume 
+# a red flower
+# 
+# die rote Blume 
+# the red flower
+# 
+# die große Station 
+# the big station
+# 
+# eine große Station  
+# a big station
+# 
+# Guten Tag, Herr Wagner. 
+# Good day, Mr. Wagner.
+# 
+# Guten Abend, Frau Wagner. 
+# Good evening, Mrs. Wagner.
+# 
+# Hallo, Thomas. 
+# Hello, Thomas.
+# 
+# Auf Wiedersehen, Christine. 
+# Good-bye, Christine.
+# 
+# Bis dann, Georg. 
+# See you later, George
+# 
+# Tschüss, Frau Müller. 
+# Bye, Mrs. Müller.
+# 
+# Gute Nacht, Kinder. 
+# Good night, children.
+# 
+# Wie geht es Ihnen? 
+# How are you doing?
+# 
+# Wie geht es? 
+# How are you doing?
+# 
+# Wie geht's? 
+# How are you doing?
+# 
+# Mir geht es gut. 
+# I am doing fine.
+# 
+# Ihm geht's gut. 
+# He is doing fine.
+# 
+# Ihr geht es gut. 
+# She is doing fine.
+# 
+# Mir geht's gut. 
+# I am doing fine.
+# 
+# Wie heißen Sie? 
+# What is your name?
+# 
+# Wie heißt sie? 
+# What is her name?
+# 
+# Wie heißt er? How
+# What is his name?
+# 
+# Wie heißt das Kind? 
+# What is the child's name?
+# 
+# Wie ist Ihr Name? 
+# What is your name?
+# 
+# Wie heißt Ihr Kind? 
+# What is your child's name?
+# 
+# Wie heißt Ihr Ehemann? 
+# What is your husband's name?
+# 
+# Wie heißt Ihre Ehefrau? 
+# What is your wife's name?
+# 
+# Wie ist sein Name? 
+# What is his name?
+# 
+# Wie ist ihr Name? 
+# How is her name? 
+# 
+# Ich heiße Thomas. 
+# My name is Thomas.
+# 
+# Ich heiße Christine. 
+# My name is Christine.
+# 
+# Er heißt Herr Wagner. 
+# His name is Mr. Wagner.
+# 
+# Sie heißt Frau Dr. Wagner. 
+# Her name is Dr. Wagner.
+# 
+# Ich bin Susanne. 
+# I am Susanne.
+# 
+# Ich bin Johannes. 
+# I am Johannes.
+# 
+# die roten Blumen
+# the red flowers 
+# 
+# die großen Stühle 
+# the big chairs 
+# 
+# der große Stuhl
+# the big chair
+# 
+# die schwarzen Autos 
+# the black cars 
+# 
+# die großen Flughäfen
+# the major airports 
+# 
+# die schnellen Pferde
+# the fast horses 
+# 
+# die braunen Mäuse 
+# the brown mice 
+# 
+# die braune Maus
+# the brown mouse
+# 
+# die schönen Bäume 
+# the beautiful trees 
+# 
+# die langen Straßen 
+# the long roads 
+# 
+# die teuren Hotels 
+# the expensive hotels 
+# 
+# die weißen Katzen 
+# the white cats 
+# 
+# die weiße Katze
+# the white cat
+# 
+# die lieben Hunde 
+# the dear dogs
+# 
+# Dort sind viele orangene Blumen. 
+# There are many orange flowers.
+# 
+# Dort sind viele schnelle Züge. 
+# There are many fast trains.
+# 
+# Dort sind viele große Bäume. 
+# There are many big trees.
+# 
+# Dort sind viele volle Flaschen. 
+# There are many full bottles.
+# 
+# Dort sind viele schnelle Mäuse. 
+# There are many fast mice.
+# 
+# Dort sind viele schwarze Autos. 
+# There are many black cars.
+# 
+# die Pferde, das Pferd
+# the horses, the horse
+# 
+# die Autos, das Auto
+# the cars, the car
+# 
+# die Frauen, die Frau
+# the women, the woman
+# 
+# die Kinder, das Kind
+# the children, the child
+# 
+# die Bäume, der Baum
+# the trees, the tree
+# 
+# die Bälle, der Ball
+# the balls, the ball
+# 
+# die Häuser, das Haus
+# the houses, the house
+# 
+# die Straßen, die Straße
+# the streets, the street
+# 
+# die roten Blumen, die rote Blume
+# the red flowers, the red flower
+# 
+# die großen Stühle, der große Stuhl
+# the big chairs, the big chair.
+# 
+# die schwarzen Autos, das schwarze Auto
+# the black cars, the black car.
+# 
+# die großen Flughäfen, der große Flughafen
+# the big airports, the big airport
+# 
+# die schnellen Pferde, das schnelle Pferd
+# the fast horses, the fast horse
+# 
+# die braunen Mäuse, die braune Maus
+# the brown mice, the brown mouse
+# 
+# die schönen Bäume, der schöne Baum
+# the beautiful trees, the beautiful tree
+# 
+# die langen Straßen, die lange Straße
+# the long roads, the long road
+# 
+# die teuren Hotels, das teure Hotel
+# the expensive hotels, the expensive hotel
+# 
+# die weißen Katzen, die weiße Katze
+# the white cats, the white cat.
+# 
+# die lieben Hunde, der liebe Hund
+# the dear dogs, the dear dog
+# 
+# die schnellen Züge, ein schneller Zug
+# the fast trains, a fast train
+# 
+# die teuren Cafés, ein teures Café
+# the expensive cafés, an expensive café
+# 
+# die schwarzen Katzen, eine schwarze Katze
+# the black cats, a black cat.
+# 
+# die großen Kinder, ein großes Kind
+# the big kids, a big kid.
+# 
+# die schwarzen Messer, ein schwarzes Messer
+# the black knives, a black knife
+# 
+# die gelben Blumen, eine gelbe Blume
+# the yellow flowers, a yellow flower
+# 
+# die braunen Pferde, ein braunes Pferd
+# the brown horses, a brown horse
+# 
+# die langen Frauen, eine lange Frau
+# the long women, a long woman
+# 
+# die leckeren Brote, ein leckeres Brot
+# the tasty breads, a tasty bread
+# 
+# die lieben Männer, ein lieber Mann
+# the dear men, a dear man
+# 
+# Ist dort nur ein schönes Pferd? Nein, dort sind viele schöne Pferde.
+# Is that just a nice horse? No, there are many beautiful horses.
+# 
+# Ist dort nur eine schöne Blume? Nein, dort sind viele schöne Blumen.
+# Is there only one beautiful flower? No, there are many beautiful flowers.
+# 
+# Ist dort nur eine schöne Katze? Nein, dort sind viele schöne Katzen.
+# Is there only one beautiful cat? No, there are many beautiful cats.
+# 
+# Ist dort nur eine schöne Frau? Nein, dort sind viele schöne Frauen.
+# Is there only one beautiful woman? No, there are many beautiful women there.
+# 
+# Ist dort nur ein schönes Mädchen? Nein, dort sind viele schöne Mädchen.
+# Is there only one beautiful girl? No, there are many beautiful girls there.
+# 
+# Ist dort nur eine schöne Flasche? Nein, dort sind viele schöne Flaschen.
+# Is there only one beautiful bottle? No, there are many beautiful bottles there.
+# 
+# Ist dort nur ein schönes Restaurant? Nein, dort sind viele schöne Restaurants.
+# Is there only a nice restaurant? No, there are many nice restaurants.
+# 
+# das große Auto, die großen Autos
+# the big car, the big cars.
+# 
+# das kleine Mädchen, die kleinen Mädchen
+# the little girl, the little girls
+# 
+# die schnelle Maus, die schnellen Mäuse
+# the fast mouse, the fast mice
+# 
+# das gute Restaurant, die guten Restaurants
+# the good restaurant, the good restaurants
+# 
+# die liebe Katze, die lieben Katzen
+# the dear cat, the dear cats
+# 
+# das gute Café, die guten Cafés
+# the good café, the good cafés
+# 
+# die schöne Frau, die schönen Frauen
+# the beautiful woman, the beautiful women
+# 
+# das kleine Kind, die kleinen Kinder
+# the little child, the little children
+# 
+# das schnelle Pferd, die schnellen Pferde
+# the fast horse, the fast horses
+# 
+# Ist hier vielleicht ein schwarzes Auto? Ja, hier ist das schwarze Auto.
+# Is there a black car here? Yes, here is the black car.
+# 
+# Vielleicht ist hier die schwarze Katze? Ja, hier ist eine schwarze Katze.
+# Maybe the black cat is here? Yes, here is a black cat.
+# 
+# Ist hier vielleicht eine schnelle Katze? Ja, hier ist die schnelle Katze.
+# Is there maybe a fast cat here? Yes, here is the fast cat.
+# 
+# Ist hier vielleicht der schelle Hund? Ja, hier ist ein schneller Hund.
+# Is here perhaps the fast dog? Yes, here is a fast dog.
+# 
+# Ist hier vielleicht eine liebe Frau? Ja, hier ist die liebe Frau.
+# Is there perhaps a dear woman here? Yes, here is the dear woman.
+# 
+# Ist hier vielleicht das lange Messer? Ja, hier ist ein langes Messer.
+# Is here perhaps the long knife? Yes, here is a long knife.
+# 
+# Ist hier vielleicht eine lange Straße? Ja, hier ist die lange Straße.
+# Is there perhaps a long road here? Yes, here is the long road.
+# 
+# Ist hier vielleicht der große Baum? Ja, hier ist ein großer Baum.
+# Is here perhaps the big tree? Yes, here is a big tree.
+# 
+# Ist hier vielleicht ein großer Mann? Ja, hier ist der große Mann.
+# Is there perhaps a big man here? Yes, here is the big man.
+# 
+# Eine große Gabel kommt. Die großen Gabeln kommen.
+# A big fork is coming. The big forks are coming.
+# 
+# Ein brauner Hund kommt. Die braunen Hunde kommen.
+# A brown dog comes. The brown dogs are coming.
+# 
+# Eine rosa Blume kommt. Die rosa Blumen kommen.
+# A pink flower comes. The pink flowers are coming.
+# 
+# Ein orangener Ball kommt. Die orangenen Bälle kommen.
+# An orange ball is coming. The orange balls are coming.
+# 
+# Eine liebe Frau kommt. Die lieben Frauen kommen.
+# A dear woman comes. The dear women are coming.
+# 
+# Eine schöne Flasche kommt. Die schönen Flaschen kommen.
+# A beautiful bottle comes. The beautiful bottles are coming.
+# 
+# Ein weißer Zug kommt. Die weißen Züge kommen.
+# A white train comes. The white trains are coming.
+# 
+# Ein leckeres Brot kommt. Die leckeren Brote kommen.
+# A delicious bread comes. The tasty breads are coming.
+# 
+# Sind die Frauen dort? Vielleicht ist nur eine dort.
+# Are the women there? Maybe only one is there.
+# 
+# Sind die Männer dort? Vielleicht ist nur einer dort.
+# Are the men there? Maybe only one is there.
+# 
+# Sind die Katzen dort? Vielleicht ist nur eine dort.
+# Are the cats there? Maybe there is only one there.
+# 
+# Sind die Gabeln dort? Vielleicht ist nur eine dort.
+# Are the forks there? Maybe there is only one there.
+# 
+# Sind die Kinder dort? Vielleicht ist nur eines dort.
+# Are the children there? Maybe there is only one there.
+# 
+# Sind die Züge dort? Vielleicht ist nur einer dort.
+# Are the trains there? Maybe only one is there.
+# 
+# Sind die Autos dort? Vielleicht ist nur eines dort.
+# Are the cars there? Maybe there is only one there.
+# 
+# Sind die Restaurants dort? Vielleicht ist nur eines dort.
+# Are the restaurants there? Maybe only one is there.
+# 
+# Sind die Flaschen dort? Vielleicht ist nur eine dort.
+# Are the bottles there? Maybe only one is there.
+# 
+# Wir suchen den Mann. 
+# We are searching for the man.
+# 
+# Meine kleine Schwester sucht den Stuhl. 
+# My little sister is searching for the chair.
+# 
+# Mein großer Bruder sucht den Tisch. 
+# My big brother is searching for the table.
+# 
+# Er sieht das Pferd. 
+# He sees the horse.
+# 
+# Wir sehen das Hemd. 
+# We see the shirt.
+# 
+# Sie sieht das Messer. 
+# She sees the knife.
+# 
+# Mein Bruder und ich sehen das Glas. 
+# My brother and I see the glass.
+# 
+# Ich sehe das Papier. 
+# I see the paper.
+# 
+# Sie kauft die Hose. 
+# She is buying the pants.
+# 
+# Er kauft die Gabel. 
+# He is buying the fork.
+# 
+# Ich kaufe die Milch. 
+# I am buying the milk.
+# 
+# Meine Schwester und ich kaufen die Pampelmuse. 
+# My sister and I are buying the grapefruit.
+# 
+# Ich kaufe die Katze. 
+# I am buying the cat.
+# 
+# Wir finden ihn nicht. 
+# We are not finding him. 
+# 
+# Er findet uns nicht. 
+# He is not finding us. 
+# 
+# Wir finden sie nicht. 
+# We are not finding her. 
+# 
+# Ich finde sie nicht. 
+# I am not finding her.
+# 
+# Ich kaufe die Milch. 
+# I am buying the milk.
+# 
+# Sie findet mich nicht. 
+# She is not finding me. (She cannot find me.)
+# 
+# Wir fahren das Schiff. 
+# We are driving (sailing) the ship.
+# 
+# Sein Bruder fährt das Auto. 
+# His brother is driving the car.
+# 
+# Ich fahre das Fahrrad. 
+# I am driving (riding) the bike.
+# 
+# Ihre Schwester fährt den Lastkraftwagen. 
+# Her sister is driving the semi truck.
+# 
+# Wir fahren den Wagen. 
+# We are driving the car.
+# 
+# Mein Bruder hat das Auto. 
+# My brother has the car.
+# 
+# Wir haben den Schlüssel. 
+# We have the key.
+ 
 Meine Schwester hat den Wagen. 
 My sister has the car.
 
@@ -1925,7 +1917,7 @@ The big child is trying the hamburger.
 
 Der Opa probiert die Schokolade. 
 The grandfather is trying the chocolate.
-
+ 
 Ich probiere das Müsli. 
 I am trying the cereal.
 
@@ -4449,3 +4441,7 @@ Mr. Wagner shows you the museum.
 Herr Wagner zeigt uns das Museum.
 Mr. Wagner shows us the museum.
 
+Wie geht es Frau Wagner?  Es geht ihr gut.
+Wie geht es Ihnen? Es geht mir gut.
+Wie geht es Herrn Wagner? Es geht ihm gut.
+Wie geht es ihr? Es geht ihr gut.
