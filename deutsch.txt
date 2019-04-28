@@ -1677,10 +1677,7 @@
 # 
 # die braunen Pferde, ein braunes Pferd
 # the brown horses, a brown horse
-# 
-# die langen Frauen, eine lange Frau
-# the long women, a long woman
-# 
+#
 # die leckeren Brote, ein leckeres Brot
 # the tasty breads, a tasty bread
 # 
