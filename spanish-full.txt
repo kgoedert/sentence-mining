@@ -1435,9 +1435,6 @@
 # Por el quinto.
 # In the fifth.
 # 
-# Luis regresa la semana qeu viene.
-# Luis comes back next week.
-# 
 # Mañana voy al médico.
 # Tomorrow I will go to the doctor.
 # 
@@ -8940,3 +8937,6 @@ In a few days I've been working for the company for a year.
 
 El día 25 hace cinco años que nos casamos.
 On the 25th we got married five years ago.
+
+Luis regresa la semana que viene.
+Luis comes back next week.
