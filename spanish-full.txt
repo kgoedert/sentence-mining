@@ -1804,599 +1804,599 @@
 # ¿Qué libro quieres?
 # Which book do you want?
 # 
-# ¿Qué poeta famoso nació en Chile?
-# Which famous poet was born in Chile?
+# # ¿Qué poeta famoso nació en Chile?
+# # Which famous poet was born in Chile?
+# # 
+# # ¿Cuál de estos libros quieres?
+# # Which ones of these books do you want?
+# # 
+# # ¿Cuál es tu apellido?
+# # Which is you last name?
+# #
+# ¿Cuáles de estas cajas son nuestras?
+# Which of these boxes are ours?
 # 
-# ¿Cuál de estos libros quieres?
-# Which ones of these books do you want?
+# ¿Cómo conduce Alberto?
+# How does Alberto drive?
 # 
-# ¿Cuál es tu apellido?
-# Which is you last name?
-
-¿Cuáles de estas cajas son nuestras?
-Which of these boxes are ours?
-
-¿Cómo conduce Alberto?
-How does Alberto drive?
-
-Bastante mal. Ten cuidado.
-Very badly. Be careful.
-
-¿Cómo has abierto la puerta?
-How did you open the door?
-
-Con la llave de Marcela.
-With Marcela's key.
-
-¿Cómo está la madre de Julia?
-How is Julia's mother?
-
-Ya está mejor.
-Already better.
-
-¿Cómo son los padres de Aurelia?
-How are Aurelia's parents?
-
-Son muy simpáticos.
-They are very nice.
-
-¿Cómo es la casa de Ángel?
-How is Ángel's house?
-
-Es muy grande. Tiene diez habitaciones.
-It's very big. It has ten rooms.
-
-¿Por qué no viniste ayer?
-Why didn't you come yesterday?
-
-Estaba un poco cansada.
-I was a bit tired.
-
-¿Para qué quieres la plancha?
-What do you want the iron for?
-
-Quiero plancharme una camisa.
-I want to iron a shirt.
-
-¿Para qué sirve esa máquina?
-What is that machine for?
-
-Para moler café.
-To grind coffee.
-
-¿Por qué se ríe Juanjo?
-Why is Juanjo laughing?
-
-Lavo el pelo a las clientas.
-I wash the clients hairs.
-
-Gonzalo acuesta a los niños a las nueve.
-Gonzalo puts the kids to bed at nine.
-
-Me lavo el pelo todos los días.
-I wash my hair everyday.
-
-Gonzalo se acuesta a las once.
-Gonzalo goes to bed at eleven.
-
-Te llama Jorge.
-Jorge is on the phone for you.
-
-¡Hola! Me llamo Juana.
-Hello. My name is Juana.
-
-Ana duerme siete hueras al día.
-Ana sleeps seven hours a day.
-
-Voy a clase todos los días.
-I go to class everyday.
-
-¿Me dejas este libro?
-Can you lend me that book?
-
-Emilio parece listo.
-Emilio seems smart.
-
-No encontramos las entradas.
-We didn't find the tickets.
-
-Ana se duerme en la ópera.
-Ana falls asleep at the opera.
-
-¡Adiós! Me voy a clase.
-Bye! I am going to class.
-
-¡Espera! Te dejas un libro!
-Wait! You forgot a book!
-
-Se parece a su madre.
-Looks like her mother.
-
-Ayer nos encontramos con Pepa en el supermercado.
-Yesterday we met Pepa at the supermarket.
-
-No me encuentro bien.
-I am not feeling well.
-
-¡Qué alegría! ¡Cuánto tiempo sin vernos!
-What a joy! I haven't seen you in ages!
-
-¡Cómo bailan! Parecen profesionales.
-How they dance! They look like professionals.
-
-¡Qué casa más grande! Pensé que seria más pequeña.
-What a big house! I tought it would be smaller.
-
-¡Qué salón más bonito! Es muy moderno.
-What a beautiful room. It is very modern.
-
-¡Cuánta gente hay! No vamos tener sitio.
-How many people! We won't have enough seats.
-
-¡Qué alta Linda!
-How tall is Linda!
-
-!Qué bien conduces!
-How well you drive!
-
-¡Qué frío!
-How cold!
-
-¡Qué suerte tiene Pablo!
-How lucky is Pablo!
-
-¡Qué pendientes tan caros!
-How expensive, this earrings!
-
-¡Qué casa más bonita!
-What a beautiful house!
-
-¡Cuánto dinero se gasta Pili!
-How much money you spend Pili!
-
-¡Cuántos sellos tienes!
-How many stamps you have!
-
-¡Cómo come! Se nota que tiene hambre.
-How he eats! You can see he is hungry.
-
-¡Cuánto trabaja Lidia!
-How Lidia works!
-
-¡Cómo canta Angela! Tiene una voz preciosa.
-How Angela sings! She has a beautiful voice.
-
-¡Cómo nieva!
-How it snows!
-
-Vivo en Bogotá.
-I live in Bogotá.
-
-¿Cómo te llamas?
-What's your name?
-
-Arlindo, ¿dónde vive usted?
-Arlindo, where do you live?
-
-Usted no es peruano, ¿verdad? 
-You are not peruvian, are you?
-
-No, soy boliviano.
-No, I am bolivian.
-
-Yo compro fruta y tú las comes.
-I buy fruits and you eat them.
-
-Yo quiero trabajar, pero mis padres quieren que estudie.
-I want to work, but my parents want me to study.
-
-Mira, allí estan Silvia y Jorge. Son peruanos. 
-Look, there are Silvia and Jorge. They are peruvians.
-
-Él es de Arequipa y ella es de Lima.
-He is from Arequipa and she is from Lima.
-
-Alicia y tú parecéis hermanos.
-Alicia and you seem to be siblings.
-
-My padre y yo somos buenos amigos.
-My father and I are good friends.
-
-¿Te gusta este traje?
-Do you like this suit?
-
-Nos gustan la paella y el marisco.
-We like paella and shellfish.
-
-¿Os gustan las naranjas?
-Do they like oranges?
-
-A Ricardo no le gusta nada estudiar.
-Ricardo doesn't like to study at all.
-
-Me gusta bailar.
-I like to dance.
-
-A Concha le gusta cantar y bailar.
-Concha likes to sing and dance.
-
-A Luis le gusta nadar y jugar al tenis.
-Luis likes to swim and play tennis.
-
-A mis padres les gusta mucho viajar.
-My parents love to travel.
-
-A Elsa no le gusta cocinar.
-Elsa doesn't like to cook.
-
-Te sienta muy bien este vestido.
-This dress suits you very well.
-
-¿Te apetece dar un paseo?
-Would you like to go for a walk?
-
-Esta chaqueta te queda corta.
-This jacket is small for you.
-
-¿Te duele la cabeza?
-Do you have a headache?
-
-No me importa madrugar.
-I don't mind waking up early.
-
-¿Me sientan bien estes pendientes?
-Do these earrings suit me?
-
-A Luisa le duelen las muelas.
-Luisa has toothache.
-
-Solo nos quedan veinte euros.
-We only have twenty euros.
-
-Me duelen los pies.
-My feet hurt.
-
-¿Te interesan las matemáticas?
-Do you like math?
-
-A nosotros nos encanta la ópera.
-We love opera.
-
-Me encanta el fútbol.
-I love football.
-
-A mí no me gusta nada.
-I don't like anything.
-
-A Pedro le gusta Luisa, pero a ella no le gusta Pedro.
-Pedro likes Luisa, but she doesn't like Pedro.
-
-¿Le gusta el pescado?
-Do you like seafood?
-
-¿Le gusta a usted el pescado?
-Do you like seafood?
-
-¿Le gusta a él el pescado?
-Does he like seafood?
-
-¿Le gusta a ella el pescado?
-Does she like seafood?
-
-¿Me amas, Lola?
-Do you love me, Lola?
-
-Sí Carlos, te amo.
-Yes Carlos, I love you.
-
-¿Dónde está el pan? No lo encuentro.
-Where is the bread? I can't find it.
-
-¿Ves a Jesús?
-Are you seeing Jesús?
-
-Sí, pero él no nos ve a nosotros.
-Yes, but he cannot see us.
-
-Lola ama a Carlos.
-Lola loves Carlos.
-
-Lola lo ama.
-Lola loves him.
-
-No encuentro el pan.
-I can't find the bread.
-
-No lo encuentro.
-I can't find it.
-
-¿Quién eres? No te conozco.
-Who are you? I don't know you.
-
-¿Nos recuerdas? Nos conocimos en Mallorca.
-Do you remember us? We met in Mallorca.
-
-¡Ah, sí! Ahora os recuerdo.
-Ah, yes! Now I remember you.
-
-¿Quieres este libro, Héctor? No, no lo quiero. Gracias.
-Do you want this book, Hector? No, I don't want it. Thank you.
-
-¿Quieres a tus padres? Sí, los quiero.
-Do you like your parents? Yes, I like them.
-
-¿Veis mucho a Almueda y a Luis? 
-Do you see Almueda and Luis a lot?
-
-No, no los veo mucho.
-No, I don't see them very much.
-
-Yo as conozco. Vosotros sois los hermanos de Lucía.
-I know you. You are Lucías' brothers.
-
-¿Dónde está Marisa? No la veo.
-Where is Marisa? I don't see her.
-
-Ayer las vi en el parque.
-Yesterday I saw them at the park.
-
-Ramón ama a María, pero María no lo ama a él.
-Ramón loves María, but María does not love him.
-
-A mí no me conoce.
-He doesn't know me.
-
-A nosostros no nos ven.
-They don't see us.
-
-¿Qué te ha reglado Luis?
-What did Luis give you?
-
-Me ha reglado un reloj.
-He gave me a watch.
-
-Y tú, ¿qué le has reglado a él?
-And you, what did you give him?
-
-Le he reglado una corbata.
-I gave him a tie.
-
-Luis ha reglado un reloj a Chus.
-Luis gave a watch to Chus.
-
-Luis le ha regalado un reloj.
-Luis gave her a watch.
-
-He preguntado a Ana por sus padres.
-I have asked Ana about her parents.
-
-Le he preguntado por sus padres.
-I have asked her about her parents.
-
-Ayer vi a Rodolfo.
-Yesterday I saw Rodolfo.
-
-¿Le dijiste que quiero verlo?
-Did you tell him I want to see him.
-
-¿Qué os ha preguntado Leonor?
-What did Leonor asked you?
-
-Nos ha preguntado dónde vivimos.
-She asked us where we live.
-
-¿Qué te ha dicho el médico?
-What did the doctor tell you?
-
-Me ha dicho que estoy bien.
-He told me I am fine.
-
-¿Qué te ha preguntado Charo?
-What has Charo asked you?
-
-No me ha preguntado nada.
-He asked me nothing.
-
-Le dije que no era verdad.
-I told him it was not true.
-
-Le dije a usted que no era verdad.
-I told you it was not true.
-
-¿Te ha dado el dinero?
-Did he give you the money?
-
-A mí no ha dado nada.
-He gave me nothing.
-
-¿Le ha regalado algo a Pedro?
-Did you give anything to Pedro?
-
-Sí, le he regalado una cartera.
-Yes, I gave him a wallet.
-
-¿Qué le has regalado a tu família?
-What did you give your family?
-
-A Juana le he regalado un collar y a los niños les he comprado juguetes.
-To Juana I gave a necklace and to the kids I bought toys.
-
-Les he comprado unos bombones a mis hermanos.
-I bought some chocolates to my brothers.
-
-¿Le has dado tu teléfono a Rafa?
-Did you give your phone number to Rafa?
-
-¿Se lo has dado?
-Did you give it to him?
-
-¡Qué corbata más bonita!
-What a beautiful tie!
-
-¿Le has presentado tu novia a tus padres?
-Did you introduce your girlfriend to your parents?
-
-No, no se la he presentado.
-No, I haven't introduced her.
-
-Se lo he dado.
-I gave it to him.
-
-¿Qué has hecho con el coche?
-What did you do with the car?
-
-¿Se lo has regalado a Pepe?
-Did you give it to Pepe?
-
-No, se lo he vendido.
-No, I have sold it.
-
-Esta corbata me la regaló Andrea.
-Andrea gave me this tie.
-
-Esos libros se los regalé yo.
-I gave them those books.
-
-Se lo ha enseñado.
-He has taught it to you.
-
-A mí no me lo ha dado.
-He has given me nothing.
-
-Estoy viendo las noticias.
-I am watching the news.
-
-Isabel está tocando el piano.
-Isabel is playing the piano.
-
-Llévate el paraguas. Está llovendo.
-Take the umbrella. It is raining.
-
-¿Qué estás haciendo?
-What are you doing?
-
-Estoy escuchando un disco de salsa.
-I am listening to a salsa album.
-
-Luisa normalmente trabaja en España, pero este mes está trabajando em Argentina.
-Luisa usually works in Spain, but this month she is working in Argentina.
-
-Este año estamos estudiando chino.
-This year we are studying chinese.
-
-Últimamente estoy durmiendo mucho.
-I am sleeping a lot lately.
-
-Antonio está siempre pensando em Belén.
-Antonio is always thinking about Belén.
-
-Estáis todo el día jugando y no estudiáis.
-You are playing the whole day and not studying.
-
-Me estoy duchando.
-I am taking a shower.
-
-Se están vistiendo.
-They are dressing up.
-
-Estoy duchándome.
-I am taking a shower.
-
-Están vistiéndose.
-They are dressing up.
-
-¿Está Alfredo?
-Is Alfredo there?
-
-Sí, pero se está duchando.
-Yes, but he is taking a shower.
-
-¿Me dejas el coche?
-Can you leave me the car?
-
-No puedo. Lo necesito.
-I can't. I need it.
-
-¿Me dejas el diccionario?
-Can you leave me the dictionary?
-
-¿Amas a Juan?
-Do you love Juan?
-
-Sí, lo amo.
-Yes, I love him.
-
-¿Me dejas la pluma? 
-Can you leave me the pen?
-
-No puedo. La necesito.
-I can't. I need it.
-
-¿Quieres a tus padres?
-Do you like your parents?
-
-Sí, los quiero.
-Yes, I like them.
-
-Di a Sofia que la llaman por teléfono.
-Tell Sofia somebody called her on the phone.
-
-¿Qué le has regalado a Pedro?
-What did you give Pedro?
-
-Le he regalado una cartera.
-I gave him a wallet.
-
-¿Y a María?
-And to María?
-
-Le he regalado unos pendientes.
-I gave her some earrings.
-
-A Elena le duele la cabeza.
-Elena has a headache.
-
-A Juan le he regalado un disco.
-I have given Juan an album.
-
-¿Le has dado la carta a Joaquin?
-Have you given the letter to Joaquin?
-
-Sí, se la he dado.
-Yes, I gave it to him.
-
-¿Les has enseñado las notas a tus padres?
-Have you shown the grades to your parents?
-
-Sí, se las he enseñado.
-Yes, I have shown them to them.
-
-¿Le has dicho a Juan que me caso?
-Have you told Juan I am getting married?
-
-Sí, se lo he dicho, pero no se le cree.
-Yes, I told it to him, but he doesn't believe it.
-
-¿Sabes que Chavez está muy enfermo?
-Do you know Chavez is very sick?
-
-Sí, lo sé.
-Yes, I know it.
-
-Felipe no es argentino. 
-Felipe is not argentinian.
-
-Claro que lo es.
-Of course he is.
-
-Ámame.
-Love me.
-
-Ese coche ya está muy viejo. Véndelo.
-That car is too old. Sell it.
-
-Roberto necesita el coche. Dale las llaves.
-Roberto needs the car. Give him the keys.
+# Bastante mal. Ten cuidado.
+# Very badly. Be careful.
+# 
+# ¿Cómo has abierto la puerta?
+# How did you open the door?
+# 
+# Con la llave de Marcela.
+# With Marcela's key.
+# 
+# ¿Cómo está la madre de Julia?
+# How is Julia's mother?
+# 
+# Ya está mejor.
+# Already better.
+# 
+# ¿Cómo son los padres de Aurelia?
+# How are Aurelia's parents?
+# 
+# Son muy simpáticos.
+# They are very nice.
+# 
+# ¿Cómo es la casa de Ángel?
+# How is Ángel's house?
+# 
+# Es muy grande. Tiene diez habitaciones.
+# It's very big. It has ten rooms.
+# 
+# ¿Por qué no viniste ayer?
+# Why didn't you come yesterday?
+# 
+# Estaba un poco cansada.
+# I was a bit tired.
+# 
+# ¿Para qué quieres la plancha?
+# What do you want the iron for?
+# 
+# Quiero plancharme una camisa.
+# I want to iron a shirt.
+# 
+# ¿Para qué sirve esa máquina?
+# What is that machine for?
+# 
+# Para moler café.
+# To grind coffee.
+# 
+# ¿Por qué se ríe Juanjo?
+# Why is Juanjo laughing?
+# 
+# Lavo el pelo a las clientas.
+# I wash the clients hairs.
+# 
+# Gonzalo acuesta a los niños a las nueve.
+# Gonzalo puts the kids to bed at nine.
+# 
+# Me lavo el pelo todos los días.
+# I wash my hair everyday.
+# 
+# Gonzalo se acuesta a las once.
+# Gonzalo goes to bed at eleven.
+# 
+# Te llama Jorge.
+# Jorge is on the phone for you.
+# 
+# ¡Hola! Me llamo Juana.
+# Hello. My name is Juana.
+# 
+# Ana duerme siete hueras al día.
+# Ana sleeps seven hours a day.
+# 
+# Voy a clase todos los días.
+# I go to class everyday.
+# 
+# ¿Me dejas este libro?
+# Can you lend me that book?
+# 
+# Emilio parece listo.
+# Emilio seems smart.
+# 
+# No encontramos las entradas.
+# We didn't find the tickets.
+# 
+# Ana se duerme en la ópera.
+# Ana falls asleep at the opera.
+# 
+# ¡Adiós! Me voy a clase.
+# Bye! I am going to class.
+# 
+# ¡Espera! Te dejas un libro!
+# Wait! You forgot a book!
+# 
+# Se parece a su madre.
+# Looks like her mother.
+# 
+# Ayer nos encontramos con Pepa en el supermercado.
+# Yesterday we met Pepa at the supermarket.
+# 
+# No me encuentro bien.
+# I am not feeling well.
+# 
+# ¡Qué alegría! ¡Cuánto tiempo sin vernos!
+# What a joy! I haven't seen you in ages!
+# 
+# ¡Cómo bailan! Parecen profesionales.
+# How they dance! They look like professionals.
+# 
+# ¡Qué casa más grande! Pensé que seria más pequeña.
+# What a big house! I tought it would be smaller.
+# 
+# ¡Qué salón más bonito! Es muy moderno.
+# What a beautiful room. It is very modern.
+# 
+# ¡Cuánta gente hay! No vamos tener sitio.
+# How many people! We won't have enough seats.
+# 
+# ¡Qué alta Linda!
+# How tall is Linda!
+# 
+# !Qué bien conduces!
+# How well you drive!
+# 
+# ¡Qué frío!
+# How cold!
+# 
+# ¡Qué suerte tiene Pablo!
+# How lucky is Pablo!
+# 
+# ¡Qué pendientes tan caros!
+# How expensive, this earrings!
+# 
+# ¡Qué casa más bonita!
+# What a beautiful house!
+# 
+# ¡Cuánto dinero se gasta Pili!
+# How much money you spend Pili!
+# 
+# ¡Cuántos sellos tienes!
+# How many stamps you have!
+# 
+# ¡Cómo come! Se nota que tiene hambre.
+# How he eats! You can see he is hungry.
+# 
+# ¡Cuánto trabaja Lidia!
+# How Lidia works!
+# 
+# ¡Cómo canta Angela! Tiene una voz preciosa.
+# How Angela sings! She has a beautiful voice.
+# 
+# ¡Cómo nieva!
+# How it snows!
+# 
+# Vivo en Bogotá.
+# I live in Bogotá.
+# 
+# ¿Cómo te llamas?
+# What's your name?
+# 
+# Arlindo, ¿dónde vive usted?
+# Arlindo, where do you live?
+# 
+# Usted no es peruano, ¿verdad? 
+# You are not peruvian, are you?
+# 
+# No, soy boliviano.
+# No, I am bolivian.
+# 
+# Yo compro fruta y tú las comes.
+# I buy fruits and you eat them.
+# 
+# Yo quiero trabajar, pero mis padres quieren que estudie.
+# I want to work, but my parents want me to study.
+# 
+# Mira, allí estan Silvia y Jorge. Son peruanos. 
+# Look, there are Silvia and Jorge. They are peruvians.
+# 
+# Él es de Arequipa y ella es de Lima.
+# He is from Arequipa and she is from Lima.
+# 
+# Alicia y tú parecéis hermanos.
+# Alicia and you seem to be siblings.
+# 
+# My padre y yo somos buenos amigos.
+# My father and I are good friends.
+# 
+# ¿Te gusta este traje?
+# Do you like this suit?
+# 
+# Nos gustan la paella y el marisco.
+# We like paella and shellfish.
+# 
+# ¿Os gustan las naranjas?
+# Do they like oranges?
+# 
+# A Ricardo no le gusta nada estudiar.
+# Ricardo doesn't like to study at all.
+# 
+# Me gusta bailar.
+# I like to dance.
+# 
+# A Concha le gusta cantar y bailar.
+# Concha likes to sing and dance.
+# 
+# A Luis le gusta nadar y jugar al tenis.
+# Luis likes to swim and play tennis.
+# 
+# A mis padres les gusta mucho viajar.
+# My parents love to travel.
+# 
+# A Elsa no le gusta cocinar.
+# Elsa doesn't like to cook.
+# 
+# Te sienta muy bien este vestido.
+# This dress suits you very well.
+# 
+# ¿Te apetece dar un paseo?
+# Would you like to go for a walk?
+# 
+# Esta chaqueta te queda corta.
+# This jacket is small for you.
+# 
+# ¿Te duele la cabeza?
+# Do you have a headache?
+# 
+# No me importa madrugar.
+# I don't mind waking up early.
+# 
+# ¿Me sientan bien estes pendientes?
+# Do these earrings suit me?
+# 
+# A Luisa le duelen las muelas.
+# Luisa has toothache.
+# 
+# Solo nos quedan veinte euros.
+# We only have twenty euros.
+# 
+# Me duelen los pies.
+# My feet hurt.
+# 
+# ¿Te interesan las matemáticas?
+# Do you like math?
+# 
+# A nosotros nos encanta la ópera.
+# We love opera.
+# 
+# Me encanta el fútbol.
+# I love football.
+# 
+# A mí no me gusta nada.
+# I don't like anything.
+# 
+# A Pedro le gusta Luisa, pero a ella no le gusta Pedro.
+# Pedro likes Luisa, but she doesn't like Pedro.
+# 
+# ¿Le gusta el pescado?
+# Do you like seafood?
+# 
+# ¿Le gusta a usted el pescado?
+# Do you like seafood?
+# 
+# ¿Le gusta a él el pescado?
+# Does he like seafood?
+# 
+# ¿Le gusta a ella el pescado?
+# Does she like seafood?
+# 
+# ¿Me amas, Lola?
+# Do you love me, Lola?
+# 
+# Sí Carlos, te amo.
+# Yes Carlos, I love you.
+# 
+# ¿Dónde está el pan? No lo encuentro.
+# Where is the bread? I can't find it.
+# 
+# ¿Ves a Jesús?
+# Are you seeing Jesús?
+# 
+# Sí, pero él no nos ve a nosotros.
+# Yes, but he cannot see us.
+# 
+# Lola ama a Carlos.
+# Lola loves Carlos.
+# 
+# Lola lo ama.
+# Lola loves him.
+# 
+# No encuentro el pan.
+# I can't find the bread.
+# 
+# No lo encuentro.
+# I can't find it.
+# 
+# ¿Quién eres? No te conozco.
+# Who are you? I don't know you.
+# 
+# ¿Nos recuerdas? Nos conocimos en Mallorca.
+# Do you remember us? We met in Mallorca.
+# 
+# ¡Ah, sí! Ahora os recuerdo.
+# Ah, yes! Now I remember you.
+# 
+# ¿Quieres este libro, Héctor? No, no lo quiero. Gracias.
+# Do you want this book, Hector? No, I don't want it. Thank you.
+# 
+# ¿Quieres a tus padres? Sí, los quiero.
+# Do you like your parents? Yes, I like them.
+# 
+# ¿Veis mucho a Almueda y a Luis? 
+# Do you see Almueda and Luis a lot?
+# 
+# No, no los veo mucho.
+# No, I don't see them very much.
+# 
+# Yo as conozco. Vosotros sois los hermanos de Lucía.
+# I know you. You are Lucías' brothers.
+# 
+# ¿Dónde está Marisa? No la veo.
+# Where is Marisa? I don't see her.
+# 
+# Ayer las vi en el parque.
+# Yesterday I saw them at the park.
+# 
+# Ramón ama a María, pero María no lo ama a él.
+# Ramón loves María, but María does not love him.
+# 
+# A mí no me conoce.
+# He doesn't know me.
+# 
+# A nosostros no nos ven.
+# They don't see us.
+# 
+# ¿Qué te ha reglado Luis?
+# What did Luis give you?
+# 
+# Me ha reglado un reloj.
+# He gave me a watch.
+# 
+# Y tú, ¿qué le has reglado a él?
+# And you, what did you give him?
+# 
+# Le he reglado una corbata.
+# I gave him a tie.
+# 
+# Luis ha reglado un reloj a Chus.
+# Luis gave a watch to Chus.
+# 
+# Luis le ha regalado un reloj.
+# Luis gave her a watch.
+# 
+# He preguntado a Ana por sus padres.
+# I have asked Ana about her parents.
+# 
+# Le he preguntado por sus padres.
+# I have asked her about her parents.
+# 
+# Ayer vi a Rodolfo.
+# Yesterday I saw Rodolfo.
+# 
+# ¿Le dijiste que quiero verlo?
+# Did you tell him I want to see him.
+# 
+# ¿Qué os ha preguntado Leonor?
+# What did Leonor asked you?
+# 
+# Nos ha preguntado dónde vivimos.
+# She asked us where we live.
+# 
+# ¿Qué te ha dicho el médico?
+# What did the doctor tell you?
+# 
+# Me ha dicho que estoy bien.
+# He told me I am fine.
+# 
+# ¿Qué te ha preguntado Charo?
+# What has Charo asked you?
+# 
+# No me ha preguntado nada.
+# He asked me nothing.
+# 
+# Le dije que no era verdad.
+# I told him it was not true.
+# 
+# Le dije a usted que no era verdad.
+# I told you it was not true.
+# 
+# ¿Te ha dado el dinero?
+# Did he give you the money?
+# 
+# A mí no ha dado nada.
+# He gave me nothing.
+# 
+# ¿Le ha regalado algo a Pedro?
+# Did you give anything to Pedro?
+# 
+# Sí, le he regalado una cartera.
+# Yes, I gave him a wallet.
+# 
+# ¿Qué le has regalado a tu família?
+# What did you give your family?
+# 
+# A Juana le he regalado un collar y a los niños les he comprado juguetes.
+# To Juana I gave a necklace and to the kids I bought toys.
+# 
+# Les he comprado unos bombones a mis hermanos.
+# I bought some chocolates to my brothers.
+# 
+# ¿Le has dado tu teléfono a Rafa?
+# Did you give your phone number to Rafa?
+# 
+# ¿Se lo has dado?
+# Did you give it to him?
+# 
+# ¡Qué corbata más bonita!
+# What a beautiful tie!
+# 
+# ¿Le has presentado tu novia a tus padres?
+# Did you introduce your girlfriend to your parents?
+# 
+# No, no se la he presentado.
+# No, I haven't introduced her.
+# 
+# Se lo he dado.
+# I gave it to him.
+# 
+# ¿Qué has hecho con el coche?
+# What did you do with the car?
+# 
+# ¿Se lo has regalado a Pepe?
+# Did you give it to Pepe?
+# 
+# No, se lo he vendido.
+# No, I have sold it.
+# 
+# Esta corbata me la regaló Andrea.
+# Andrea gave me this tie.
+# 
+# Esos libros se los regalé yo.
+# I gave them those books.
+# 
+# Se lo ha enseñado.
+# He has taught it to you.
+# 
+# A mí no me lo ha dado.
+# He has given me nothing.
+# 
+# Estoy viendo las noticias.
+# I am watching the news.
+# 
+# Isabel está tocando el piano.
+# Isabel is playing the piano.
+# 
+# Llévate el paraguas. Está llovendo.
+# Take the umbrella. It is raining.
+# 
+# ¿Qué estás haciendo?
+# What are you doing?
+# 
+# Estoy escuchando un disco de salsa.
+# I am listening to a salsa album.
+# 
+# Luisa normalmente trabaja en España, pero este mes está trabajando em Argentina.
+# Luisa usually works in Spain, but this month she is working in Argentina.
+# 
+# Este año estamos estudiando chino.
+# This year we are studying chinese.
+# 
+# Últimamente estoy durmiendo mucho.
+# I am sleeping a lot lately.
+# 
+# Antonio está siempre pensando em Belén.
+# Antonio is always thinking about Belén.
+# 
+# Estáis todo el día jugando y no estudiáis.
+# You are playing the whole day and not studying.
+# 
+# Me estoy duchando.
+# I am taking a shower.
+# 
+# Se están vistiendo.
+# They are dressing up.
+# 
+# Estoy duchándome.
+# I am taking a shower.
+# 
+# Están vistiéndose.
+# They are dressing up.
+# 
+# ¿Está Alfredo?
+# Is Alfredo there?
+# 
+# Sí, pero se está duchando.
+# Yes, but he is taking a shower.
+# 
+# ¿Me dejas el coche?
+# Can you leave me the car?
+# 
+# No puedo. Lo necesito.
+# I can't. I need it.
+# 
+# ¿Me dejas el diccionario?
+# Can you leave me the dictionary?
+# 
+# ¿Amas a Juan?
+# Do you love Juan?
+# 
+# Sí, lo amo.
+# Yes, I love him.
+# 
+# ¿Me dejas la pluma? 
+# Can you leave me the pen?
+# 
+# No puedo. La necesito.
+# I can't. I need it.
+# 
+# ¿Quieres a tus padres?
+# Do you like your parents?
+# 
+# Sí, los quiero.
+# Yes, I like them.
+# 
+# Di a Sofia que la llaman por teléfono.
+# Tell Sofia somebody called her on the phone.
+# 
+# ¿Qué le has regalado a Pedro?
+# What did you give Pedro?
+# 
+# Le he regalado una cartera.
+# I gave him a wallet.
+# 
+# ¿Y a María?
+# And to María?
+# 
+# Le he regalado unos pendientes.
+# I gave her some earrings.
+# 
+# A Elena le duele la cabeza.
+# Elena has a headache.
+# 
+# A Juan le he regalado un disco.
+# I have given Juan an album.
+# 
+# ¿Le has dado la carta a Joaquin?
+# Have you given the letter to Joaquin?
+# 
+# Sí, se la he dado.
+# Yes, I gave it to him.
+# 
+# ¿Les has enseñado las notas a tus padres?
+# Have you shown the grades to your parents?
+# 
+# Sí, se las he enseñado.
+# Yes, I have shown them to them.
+# 
+# ¿Le has dicho a Juan que me caso?
+# Have you told Juan I am getting married?
+# 
+# Sí, se lo he dicho, pero no se le cree.
+# Yes, I told it to him, but he doesn't believe it.
+# 
+# ¿Sabes que Chavez está muy enfermo?
+# Do you know Chavez is very sick?
+# 
+# Sí, lo sé.
+# Yes, I know it.
+# 
+# Felipe no es argentino. 
+# Felipe is not argentinian.
+# 
+# Claro que lo es.
+# Of course he is.
+# 
+# Ámame.
+# Love me.
+# 
+# Ese coche ya está muy viejo. Véndelo.
+# That car is too old. Sell it.
+# 
+# Roberto necesita el coche. Dale las llaves.
+# Roberto needs the car. Give him the keys.
 
 Dime la verdad.
 Tell me the truth.
