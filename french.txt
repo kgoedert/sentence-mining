@@ -3855,3 +3855,42 @@ He who / Whoever lied will be punished.
 
 Ceux qui sont polis recevront un cadeau.
 Those who are polite will receive a gift.
+
+Vos parents sont-ils toujours en vacances?
+Are your parents still on vacation?
+
+Vos amis sont-ils toujours en vacances?
+Are your friends still on vacation?
+
+Vos amies sont-elles toujours en vacances?
+Are your friends still on vacation?
+
+Votre amie est-elle toujours en vacances?
+Is your friend still on vacation?
+
+Votre ami est-il toujours en vacances?
+Is your friend still on vacation?
+
+Votre sœur est-elle toujours en vacances?
+Is your sister still on vacation?
+
+Votre frère est-il toujours en vacances?
+Is your brother still on vacation?
+
+Les enfants sont-ils toujours en vacances?
+Are the children still on holiday?
+
+Vos filles sont-elles toujours en vacances?
+Are your daughters still on vacation?
+
+Vos fils sont-ils toujours en vacances?
+Are your sons still on vacation?
+
+Mme Lelong est-elle toujours en vacances?
+Is Mrs. Lelong still on vacation?
+
+Votre frère et votre sœur sont-ils toujours en vacances?
+Are your brother and sister still on vacation?
+
+Votre sœur et Janine sont-elles toujours en vacances?
+Are your sister and Janine still on vacation?
