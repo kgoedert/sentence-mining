@@ -3894,3 +3894,66 @@ Are your brother and sister still on vacation?
 
 Votre sœur et Janine sont-elles toujours en vacances?
 Are your sister and Janine still on vacation?
+
+Vous allez à Paris. Est-ce que vous allez à Paris?
+You're going to Paris. Are you going to Paris?
+
+Vous allez au restaurant. Est-ce que vous allez au restaurant?
+You go to the restaurant. Do you go to the restaurant?
+
+Vous parlez français. Est-ce que vous parlez français?
+You speak French. Do you speak French?
+
+Vous traduisez le livre. Est-ce que vous traduisez le livre?
+You translate the book. Do you translate the book?
+
+Vous fermez la porte. Est-ce que vous fermez la porte?
+You close the door. Are you closing the door?
+
+Vous répétez la phrase. Est-ce que vous répétez la phrase?
+You repeat the sentence. Do you repeat the sentence?
+
+Vous lisez la leçon. Est-ce que vous lisez la leçon?
+You read the lesson. Are you reading the lesson?
+
+Vous répondez en français. Est-ce que vous répondez en français?
+You answer in French. Do you answer in French?
+
+Vous écoutez la phrase. Est-ce que vous écoutez la phrase?
+You're listening to the sentence. Are you listening to the sentence?
+
+Vous ouvrez la porte. Est-ce que vous ouvrez la porte?
+You open the door. Are you opening the door?
+
+Vous avez des nouvelles. Est-ce que vous avez des nouvelles?
+You have some news. Do you have any news?
+
+Vous êtes heureux. Vous êtes heureux?
+You are happy. Are you happy now?
+
+Vous êtes pressé. Vous êtes pressé?
+You're in a hurry. Are you in a hurry?
+
+Vous êtes français. Vous êtes français?
+You are French. Are you French?
+
+Vous êtes près d'ici. Vous êtes près d'ici?
+You're close to here. Are you near here?
+
+Vous êtes en retard. Vous êtes en retard?
+You're late for work. Are you late for work?
+
+Vous êtes anglais. Vous êtes anglais?
+You are English. Are you English?
+
+Vous êtes au café. Vous êtes au café?
+You're at the café. Are you at the café?
+
+Vous êtes heureux. Vous êtes heureux?
+You are happy. Are you happy now?
+
+Vous êtes M. Lelong. Vous êtes M. Lelong?
+You are Mr. Lelong. Are you Mr. Lelong?
+
+Vous êtes pressé. Vous êtes pressé?
+You're in a hurry. Are you in a hurry?
