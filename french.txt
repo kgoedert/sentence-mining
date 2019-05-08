@@ -3957,3 +3957,87 @@ You are Mr. Lelong. Are you Mr. Lelong?
 
 Vous êtes pressé. Vous êtes pressé?
 You're in a hurry. Are you in a hurry?
+
+Ils sont ensemble. Est-ce qu'ils sont ensemble?
+They are together. Are they together?
+
+Elles sont ensemble. Est-ce qu'elles sont ensemble?
+They are together. Are they together?
+
+Ils sont heureux. Est-ce qu'ils sont heureux?
+They are happy. Are they happy?
+
+Il est heureux. Est-ce qu'il est heureux?
+He is happy. Is he happy? Is he happy?
+
+Elle est ici. Est-ce qu'elle est ici?
+She's here. She's here. Is she here? Is she here?
+
+Elles sont ici. Est-ce qu'elles sont ici?
+They are here. Are they here?
+
+Ils sont ici. Est-ce qu'ils sont ici?
+They are here. Are they here?
+
+Il est anglais. Est-ce qu'il est anglais?
+He is English. Is he English?
+
+Ils sont anglais. Est-ce qu'ils sont anglais?
+They are English. Are they English?
+
+Il va au café. Il va au café?
+He's going to the coffee shop. Is he going to the coffee shop?
+
+Elle va à Lyon. Elle va à Lyon?
+She's going to Lyon. She's going to Lyon?
+
+Ils sont pressés. Ils sont pressés?
+They're in a hurry. Are they in a hurry?
+
+Elle est pressée. Elle est pressée?
+She's in a hurry. Is she in a hurry?
+
+Il est français. Il est français?
+He is French. Is he French?
+
+Ils sont français. Ils sont français?
+They are French. Are they French?
+
+Il sait la leçon. Il sait la leçon?
+He knows the lesson. Does he know the lesson?
+
+Elle sait la leçon. Elle sait la leçon?
+She knows the lesson. Does she know the lesson?
+
+Il va déjeuner. Il va déjeuner?
+He's going to lunch. Is he going to lunch?
+
+Elle va déjeuner. Elle va déjeuner?
+She's going to lunch. Is she going to lunch?
+
+Mon père et ma mère sont à Biarritz. Est-ce qu'ils sont toujours en vacances?
+My father and mother are in Biarritz. Are they still on vacation?
+
+Mon frère est à Biarritz. Est-ce qu'il est toujours en vacances?
+My brother is in Biarritz. Is he still on vacation?
+
+Ma sœur est à Biarritz. Est-ce qu'elle est toujours en vacances?
+My sister is in Biarritz. Is she still on vacation?
+
+Les sœurs de Janine sont à Biarritz. Est-ce qu'elles sont toujours en vacances?
+Janine's sisters are in Biarritz. Are they still on vacation?
+
+Mlle Courtois est à Biarritz. Est-ce qu'elle est toujours en vacances?
+Miss Courtois is in Biarritz. Is she still on vacation?
+
+Mon frère et ma sœur sont à Biarritz. Est-ce qu'ils sont toujours en vacances?
+My brother and sister are in Biarritz. Are they still on vacation?
+
+Mme Lelong et Mme Courtois sont à Biarritz. Est-ce qu'elles sont toujours en vacances?
+Mrs. Lelong and Mrs. Courtois are in Biarritz. Are they still on vacation?
+
+M. et Mme Lelong sont à Biarritz. Est-ce qu'ils sont toujours en vacances?
+Mr. and Mrs. Lelong are in Biarritz. Are they still on vacation?
+
+Janine est à Biarritz. Est-ce qu'elle est toujours en vacances?
+Janine is in Biarritz. Is she still on vacation?
