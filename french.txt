@@ -4041,3 +4041,72 @@ Mr. and Mrs. Lelong are in Biarritz. Are they still on vacation?
 
 Janine est à Biarritz. Est-ce qu'elle est toujours en vacances?
 Janine is in Biarritz. Is she still on vacation?
+
+Janine va au restaurant. Janine va-t-elle au restaurant?
+Janine goes to the restaurant. Is Janine going to the restaurant?
+
+Les enfants sont en vacances. Les enfants sont-ils en vacances?
+The children are on vacation. Are the children on holiday?
+
+Vos parents sont ici. Vos parents sont-ils ici?
+Your parents are here. Are your parents here?
+
+Janine est avec eux. Janine est-elle avec eux?
+Janine is with them. Is Janine with them?
+
+Janine sait la leçon. Janine sait-elle la leçon?
+Janine knows the lesson. Does Janine know the lesson?
+
+Ma sœur va à Lyon. Ma sœur va-t-elle à Lyon?
+My sister is going to Lyon. Is my sister going to Lyon?
+
+Ma fille va avec eux. Ma fille va-t-elle avec eux?
+My daughter goes with them. Does my daughter go with them?
+
+Janine comprend la leçon. Janine comprend-elle la leçon?
+Janine understands the lesson. Does Janine understand the lesson?
+
+La classe commence à une heure. La classe commence-t-elle à une heure?
+Class starts at one o'clock. Does the class start at one o'clock?
+
+M. Lelong comprend. M. Lelong comprend-il?
+Mr. Lelong understands. Does Mr. Lelong understand?
+
+Ce mot est français. Ce mot est-il français?
+This word is French. Is this word French?
+
+Vos filles sont en retard. Vos filles sont-elles en retard?
+Your daughters are late. Are your daughters late?
+
+Le restaurant est bon. Le restaurant est-il bon?
+The restaurant is good. Is the restaurant good?
+
+Vous êtes pressé? Est-ce que vous êtes pressé?
+Are you in a hurry? Are you in a hurry?
+
+Vous êtes en vacances? Est-ce que vous êtes en vacances?
+Are you on vacation? Are you on vacation?
+
+Elle est française? Est-ce qu'elle est française?
+Is she French? Is she French?
+
+Elle sait la leçon? Est-ce qu'elle sait la leçon?
+Does she know the lesson? Does she know the lesson?
+
+Ils sont heureux? Est-ce qu'ils sont heureux?
+Are they happy? Are they happy?
+
+Vous fermez la porte? Est-ce que vous fermez la porte?
+Are you closing the door? Are you closing the door?
+
+Vous allez au café? Est-ce que vous allez au café?
+Are you going to the coffee shop? Are you going to the coffee shop?
+
+Il est en retard? Est-ce qu'il est en retard?
+Is he late? Is he late? Is he late? Is he late?
+
+Elles sont à Lyon? Est-ce qu'elles sont à Lyon?
+Are they in Lyon? Are they in Lyon?
+
+Vous répétez en français? Est-ce que vous répétez en français?
+Are you rehearsing in French? Do you repeat in French?
