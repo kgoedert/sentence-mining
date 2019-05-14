@@ -4569,3 +4569,108 @@ Mr. Wagner shows her the museum.
 
 Herr Wagner zeigt Ihnen das Museum.
 Mr. Wagner shows you the museum.
+
+Das Haus gehört dem Chef.
+The boss owns the house.
+
+Das Haus gehört der Chefin.
+The house belongs to the boss.
+
+Das Haus gehört dem Kind.
+The house belongs to the child.
+
+Das Haus gehört der Polizistin.
+The house belongs to the policewoman.
+
+Das Haus gehört dem Mann.
+The house belongs to the man.
+
+Das Haus gehört der Frau.
+The house belongs to the woman.
+
+Der Hund gefällt uns besser.
+We like the dog better.
+
+Das Steak gefällt uns besser.
+We like the steak better.
+
+Der Wein gefällt uns besser.
+We like the wine better.
+
+Die Katze gefällt uns besser.
+We like the cat better.
+
+Das Haus gefällt uns besser.
+We like the house better.
+
+Der Laden gefällt uns besser.
+We like the shop better.
+
+Das Spielzeug gefällt uns besser.
+We like the toys better.
+
+Die Brieftasche gefällt uns besser.
+We like the wallet better.
+
+Der Hamburger gefällt uns besser.
+We like the hamburger better.
+
+Die Verkäuferin gibt dem Kunden den Stuhl.
+The saleswoman gives the chair to the customer.
+
+Die Verkäuferin gibt dem Kunden das Geschenk.
+The saleswoman gives the gift to the customer.
+
+Die Verkäuferin gibt dem Kunden die Tasche.
+The saleswoman gives the bag to the customer.
+
+Die Verkäuferin gibt dem Kunden das Dokument.
+The saleswoman gives the document to the customer.
+
+Die Verkäuferin gibt dem Kunden den Stift.
+The saleswoman gives the pen to the customer.
+
+Die Verkäuferin gibt dem Kunden das Papier.
+The saleswoman gives the paper to the customer.
+
+Die Verkäuferin gibt dem Kunden das Glas Wasser.
+The saleswoman gives the customer the glass of water.
+
+Der Onkel und die Tante schenken dem Mädchen den Hund.
+The uncle and the aunt give the girl the dog.
+
+Der Onkel und die Tante schenken dem Mädchen das Auto.
+The uncle and the aunt give the girl the car.
+
+Der Onkel und die Tante schenken dem Mädchen die Maus.
+Uncle and aunt give the girl the mouse.
+
+Der Onkel und die Tante schenken dem Mädchen den Ball.
+Uncle and aunt give the girl the ball.
+
+Der Onkel und die Tante schenken dem Mädchen das Pferd.
+The uncle and the aunt give the girl the horse.
+
+Der Onkel und die Tante schenken dem Mädchen die Katze.
+The uncle and the aunt give the girl the cat.
+
+Der Onkel und die Tante schenken dem Mädchen das Spielzeug.
+The uncle and the aunt give the girl the toy.
+
+Die Chefin schreibt dem Kunden einen Brief.
+The boss writes a letter to the customer.
+
+Die Chefin schreibt der Frau einen Brief.
+The boss writes a letter to the woman.
+
+Die Chefin schreibt dem Mitarbeiter einen Brief.
+The boss writes a letter to the employee.
+
+Die Chefin schreibt der Mitarbeiterin einen Brief.
+The boss writes a letter to the employee.
+
+Die Chefin schreibt dem Mann einen Brief.
+The boss writes a letter to the man.
+
+Die Chefin schreibt der Kollegin einen Brief.
+The boss writes a letter to the colleague.
