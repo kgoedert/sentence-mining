@@ -1888,6 +1888,18 @@
 # Wir haben den Schlüssel. 
 # We have the key.
 
+Sie soll nach Hamburg versetzt werden.
+She’s to be transferred to Hamburg.
+
+Glaube kann Berge versetzen.
+Faith can move mountains.
+
+Mehrere Helfer wurden bei dem Einsatz verletzt.
+Several helpers were injured in the operation.
+
+Alle Mitarbeiter zeigten vollen Einsatz.
+All the workers showed complete commitment.
+
 Die Zahl der Studienanfänger hat deutlich zugenommen.
 The number of new students has increased markedly.
 
