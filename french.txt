@@ -4110,3 +4110,174 @@ Are they in Lyon? Are they in Lyon?
 
 Vous répétez en français? Est-ce que vous répétez en français?
 Are you rehearsing in French? Do you repeat in French?
+
+Il est pressé.
+He's in a hurry.
+
+Ils sont pressés.
+They're in a hurry.
+
+Elle est pressée.
+She's in a hurry.
+
+On est pressé.
+We're in a hurry.
+
+Elles sont pressées.
+They're in a hurry.
+
+Elle est pressée.
+She's in a hurry.
+
+Il est à Londres.
+He's in London.
+
+Ils sont à Londres.
+They're in London.
+
+Elle est à Londres.
+She's in London.
+
+Elles sont à Londres.
+They're in London.
+
+On est à Londres.
+We're in London.
+
+Il est à Londres.
+He's in London.
+
+Nos amis sont à Londres.
+Our friends are in London.
+
+Janine est à Londres.
+Janine is in London.
+
+Ils sont ici.
+They are here.
+
+Ils sont en retard.
+They're late. They're late.
+
+Ils sont à Bordeaux.
+They're in Bordeaux.
+
+Ils sont au restaurant.
+They're at the restaurant.
+
+Ils sont en vacances.
+They're on vacation.
+
+Ils sont au café.
+They're at the café.
+
+Ils sont à Lyon.
+They are in Lyon.
+
+Ils sont au café.
+They're at the café.
+
+Ils sont en retard.
+They're late. They're late.
+
+Ils sont ensemble.
+They are together.
+
+Ils sont avec eux.
+They are with them.
+
+Il est fort.
+He is strong.
+
+Il est pressé.
+He's in a hurry.
+
+Il est ici.
+He is here.
+
+Il est bon.
+He's good. He's good.
+
+Il est à Marseille.
+He's in Marseille.
+
+Il est français.
+He is French.
+
+Il est près d'ici.
+He's near here.
+
+Il est fort.
+He is strong.
+
+Il est en France.
+He's in France.
+
+Il est en retard.
+He's late. He's late.
+
+Il est anglais.
+He is English.
+
+Il est en vacances.
+He's on vacation.
+
+Je suis en retard.
+I'm late for work.
+
+Je suis avec eux aujourd'hui.
+I am with them today.
+
+Je suis anglais.
+I am English.
+
+Je suis anglaise.
+I am English.
+
+Je suis en vacances aujourd'hui.
+I'm on vacation today.
+
+Je suis heureux.
+I am happy.
+
+Je suis au restaurant aujourd'hui.
+I'm at the restaurant today.
+
+Je suis au café.
+I'm at the coffee shop.
+
+Je suis à Londres aujourd'hui.
+I'm in London today.
+
+Je suis à Lyon aujourd'hui.
+I am in Lyon today.
+
+Nous sommes à Paris.
+We are in Paris.
+
+Nous sommes anglais.
+We are English.
+
+Nous sommes ici.
+We are here.
+
+Nous sommes en retard.
+We are late for work.
+
+Nous sommes heureux.
+We are happy.
+
+Nous sommes en vacances.
+We are on holiday.
+
+Nous sommes à Lyon.
+We are in Lyon.
+
+Nous sommes au restaurant.
+We're at the restaurant.
+
+Nous sommes ensemble.
+We are together.
+
+Nous sommes avec eux.
+We are with them.
