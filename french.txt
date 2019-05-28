@@ -4281,3 +4281,111 @@ We are together.
 
 Nous sommes avec eux.
 We are with them.
+
+Vous êtes à Grenoble.
+You are in Grenoble.
+
+Vous êtes en retard.
+You're late for work.
+
+Vous êtes à Lyon aujourd'hui.
+You are in Lyon today.
+
+Vous êtes au café maintenant.
+You're at the café now.
+
+Vous êtes anglais.
+You are English.
+
+Vous êtes avec eux maintenant.
+You're with them now.
+
+Vous êtes ensemble aujourd'hui.
+You're together today.
+
+Vous êtes au restaurant.
+You are at the restaurant.
+
+Vous êtes à Paris aujourd'hui.
+You are in Paris today.
+
+Vous êtes français.
+You are French.
+
+Nous sommes français.
+We are French.
+
+On est français.
+We are French.
+
+M. Durand est français.
+Mr. Durand is French.
+
+Mlle. Courtois est française.
+Miss Courtois is French.
+
+Êtes-vous en retard?
+Are you late for work?
+
+Est-elle en retard?
+Is she late?
+
+Sont-ils en retard?
+Are they late?
+
+Est-il en retard?
+Is he late?
+
+Sommes-nous en retard?
+Are we late?
+
+Suis-je en retard?
+Am I late?
+
+Vous êtes français.
+You are French.
+
+Je suis français.
+I am French.
+
+Nous sommes avec eux.
+We are with them.
+
+Il est avec eux.
+He is with them.
+
+Mme Durand est ici.
+Mrs. Durand is here.
+
+Mme Durand est française.
+Mrs. Durand is French.
+
+Les enfants sont en retard.
+The children are late.
+
+Janine est en retard.
+Janine's late.
+
+M. Lelong est en retard.
+Mr. Lelong is late.
+
+M. et Mme Lelong sont en retard.
+Mr. and Mrs. Lelong are late.
+
+Mme Courtois et ma sœur sont en retard.
+Mrs. Courtois and my sister are late.
+
+Les enfants sont pressés.
+The children are in a hurry.
+
+Mon frère et ma sœur sont pressés.
+My brother and sister are in a hurry.
+
+Mon ami est pressé.
+My friend is in a hurry.
+
+Janine est pressée.
+Janine's in a hurry.
+
+Je suis pressé.
+I'm in a hurry.
