@@ -1,0 +1,251 @@
+C'est un bon frère.
+He's a good brother.
+
+C'est un bon cours.
+It's a good class.
+
+C'est un bon ami.
+He's a good friend.
+
+Est-ce que vous avez des nouvelles de votre frère?
+Do you have any news of your brother?
+
+Est-ce que vous avez des nouvelles de votre sœur?
+Have you heard from your sister?
+
+Est-ce que vous avez des nouvelles de votre père?
+Have you heard from your father?
+
+Est-ce que vous avez des nouvelles de votre ami?
+Have you heard from your friend?
+
+Est-ce que vous avez des nouvelles de votre femme?
+Have you heard from your wife?
+
+Est-ce que vous avez des nouvelles de votre mère?
+Do you have any news from your mother?
+
+Est-ce que vous avez des nouvelles de votre fille?
+Have you heard from your daughter?
+
+Est-ce que vous avez des nouvelles de votre fils?
+Have you heard from your son?
+
+Est-ce que vous avez des nouvelles de votre mari?
+Have you heard from your husband?
+
+Est-ce que vous avez des nouvelles de votre femme?
+Have you heard from your wife?
+
+Permettez-moi de vous présenter Monsieur Lelong.
+Allow me to introduce you to Mr. Lelong.
+
+Permettez-moi de vous présenter Madame Durand.
+Allow me to introduce you to Madame Durand.
+
+Permettez-moi de vous présenter mon fils.
+Allow me to introduce my son.
+
+Permettez-moi de vous présenter Mademoiselle Courtois.
+Allow me to introduce you to Miss Courtois.
+
+Permettez-moi de vous présenter mon frère.
+Allow me to introduce my brother.
+
+Permettez-moi de vous présenter mon ami.
+Allow me to introduce my friend.
+
+Permettez-moi de vous présenter ma sœur.
+Allow me to introduce my sister.
+
+Je ne sais pas où il va.
+I don't know where he's going.
+
+Je ne sais pas où vous allez.
+I don't know where you're going.
+
+Je ne sais pas où il est.
+I don't know where he is.
+
+Je ne sais pas où il va.
+I don't know where he's going.
+
+Je ne sais pas où nous allons.
+I don't know where we're going.
+
+Je ne sais pas où elles sont.
+I don't know where they are.
+
+Je ne sais pas où elle est.
+I don't know where she is.
+
+Je ne sais pas où elles sont.
+I don't know where they are.
+
+Nous sommes pressés.
+We are in a hurry.
+
+Il est pressé.
+He's in a hurry.
+
+Il est français.
+He is French.
+
+Ils sont français.
+They are French.
+
+Ils sont près d'ici.
+They're near here.
+
+Elle est près d'ici.
+She's near here.
+
+Elle est pressée.
+She's in a hurry.
+
+Nous sommes heureux.
+We are happy.
+
+Il est heureux.
+He is happy.
+
+Je suis heureux d'être à Genève.
+I am happy to be in Geneva.
+
+Je suis heureux d'être ici.
+I am happy to be here.
+
+Ils sont heureux d'être ici.
+They are happy to be here.
+
+Ils sont heureux d'être en vacances.
+They are happy to be on holiday.
+
+Il est heureux d'être en vacances.
+He's happy to be on vacation.
+
+Il est heureux d'être avec eux.
+He is happy to be with them.
+
+Nous sommes heureux d'être avec eux.
+We are happy to be with them.
+
+Nous sommes heureux d'être à Genève.
+We are happy to be in Geneva.
+
+Je suis heureux d'être en France.
+I am happy to be in France.
+
+Est-ce qu'elles sont toujours en vacances?
+Are they still on vacation?
+
+Est-ce qu'elles sont toujours ici?
+Are they still here?
+
+Est-ce qu'il est toujours ici?
+Is he still here?
+
+Est-ce qu'il est toujours au café?
+Is he still at the coffee shop?
+
+Est-ce qu'elle est toujours au café?
+Is she still at the coffee shop?
+
+Est-ce qu'elle est toujours en vacances?
+Is she still on vacation?
+
+Est-ce qu'ils sont toujours en vacances?
+Are they still on vacation?
+
+Est-ce qu'ils sont toujours en France?
+Are they still in France?
+
+Quand est-ce que nous allons au café?
+When do we go to the coffee shop?
+
+Pourquoi est-ce que nous allons au café?
+Why are we going to the coffee shop?
+
+Pourquoi est-ce qu'il va au café?
+Why is he going to the coffee shop?
+
+Avec qui est-ce qu'il va au café?
+Who's he going to the coffee shop with?
+
+Avec qui est-ce que vous allez au café?
+Who are you going to the coffee shop with?
+
+Quand est-ce que vous allez au café?
+When do you go to the coffee shop?
+
+Quand est-ce qu'elle va au café?
+When does she go to the coffee shop?
+
+Pourquoi est-ce qu'elle va au café?
+Why is she going to the coffee shop?
+
+Est-ce que vous allez au restaurant?
+Do you go to the restaurant?
+
+Est-ce que nous allons au restaurant?
+Are we going to the restaurant?
+
+Est-ce que nous allons à Grenoble?
+Are we going to Grenoble?
+
+Est-ce qu'il va à Grenoble?
+Is he going to Grenoble?
+
+Est-ce qu'il va au café?
+Does he go to the coffee shop?
+
+Est-ce que vous allez au café?
+Are you going to the coffee shop?
+
+Est-ce que vous allez en France?
+Are you going to France?
+
+Est-ce qu'elle va en France?
+Is she going to France?
+
+Est-ce qu'elle va à Genève?
+Is she going to Geneva?
+
+Est-ce qu'il va à Genève?
+Is he going to Geneva?
+
+Quand est-ce que vous allez au restaurant?
+When do you go to the restaurant?
+
+Quand est-ce que nous allons au restaurant?
+When do we go to the restaurant?
+
+Pourquoi est-ce que nous allons au restaurant?
+Why are we going to the restaurant?
+
+Pourquoi est-ce que nous allons à Grenoble?
+Why are we going to Grenoble?
+
+Pourquoi est-ce qu'il va à Grenoble?
+Why is he going to Grenoble?
+
+Avec qui est-ce qu'il va à Grenoble?
+Who is he going to Grenoble with?
+
+Avec qui est-ce qu'il va au café?
+Who's he going to the coffee shop with?
+
+Quand est-ce que vous allez en France?
+When are you going to France?
+ 
+Le pompier les a éteintes.
+The fireman put them out.
+
+Le pompier a éteint les flammes.
+The fireman put out the flames.
+
+Je n'y ai pas goûté.
+I haven't tasted it.
+
+Voilà le livre.
+Here's the book.
