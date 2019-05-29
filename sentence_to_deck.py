@@ -8,7 +8,7 @@ import re
 
 
 url = "https://api.soundoftext.com"
-ANKI_URL = "http://192.168.0.23:8765"
+ANKI_URL = "http://localhost:8765"
 
 def main():
     parser = argparse.ArgumentParser("Sentence Mining")
@@ -97,12 +97,13 @@ def create_card(phrase_en, phrase_tl, sound_file, deck):
     card = {}
 
     card['action'] = "addNote"
-    card['version'] = 5
+    card['version'] = 6
     card['params'] = {}
     card['params']['note'] = {}
     card['params']['note']['deckName'] = deck
     card['params']['note']['modelName'] = "3. All-Purpose Card"
     card['params']['note']['fields'] = {}
+    card['params']['note']['tags'] = []
     card['params']['note']['fields']['Front (Example with word blanked out or missing)'] = phrase_en + '[sound:' + sound_file + ']'
     card['params']['note']['fields']['Back (a single word/phrase, no context)'] = phrase_en
     card['params']['note']['fields']['- The full sentence (no words blanked out)'] = phrase_tl
@@ -121,7 +122,7 @@ def mp3_to_base64(file_path):
 def upload_mp3_to_anki(filename, file_base64):
     name_millis = "_" + str(int(round(time.time() * 1000))) + ".mp3"
 
-    content = {"action": "storeMediaFile", "version": 5, "params": {"filename": name_millis, "data": file_base64}}
+    content = {"action": "storeMediaFile", "version": 6, "params": {"filename": name_millis, "data": file_base64}}
     response = requests.post(ANKI_URL, json=content)
 
     if response.status_code != 200:
