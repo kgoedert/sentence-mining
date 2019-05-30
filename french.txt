@@ -4389,3 +4389,54 @@ Janine's in a hurry.
 
 Je suis pressé.
 I'm in a hurry.
+
+Nous sommes au café.
+We're at the café.
+
+Nous sommes à Nantes.
+We are in Nantes.
+
+Ils sont bons.
+They're good.
+
+Ils sont en France.
+They are in France.
+
+Ils sont forts.
+They are strong.
+
+Elle est en retard.
+She's late. She's late.
+
+Ma fille est en retard.
+My daughter is late.
+
+Ma femme est en retard.
+My wife is late.
+
+Elles sont en retard.
+They're late. They're late.
+
+Est-ce que vous avez des nouvelles de Janine? Oui, merci. Elle est à Nantes maintenant.
+Have you heard from Janine? Yes, thank you. She's in Nantes now.
+
+Est-ce que vous avez des nouvelles de vos parents? Oui, merci. Ils sont à Nantes maintenant.
+Do you have any news from your parents? Yes, thank you. They're in Nantes now.
+
+Est-ce que vous avez des nouvelles de votre sœur? Oui, merci. Elle est à Nantes maintenant.
+Have you heard from your sister? Yes, thank you. She's in Nantes now.
+
+Est-ce que vous avez des nouvelles de votre frère? Oui, merci. Il est à Nantes maintenant.
+Do you have any news of your brother? Yes, thank you. He's in Nantes now.
+
+Est-ce que vous avez des nouvelles de vos sœurs? Oui, merci. Elles sont à Nantes maintenant.
+Do you have any news of your sisters? Yes, thank you. They're in Nantes now.
+
+Est-ce que vous avez des nouvelles de vos frères? Oui, merci. Ils sont à Nantes maintenant.
+Do you have any news of your brothers? Yes, thank you. They're in Nantes now.
+
+Est-ce que vous avez des nouvelles de votre fille? Oui, merci. Elle est à Nantes maintenant.
+Have you heard from your daughter? Yes, thank you. She's in Nantes now.
+
+Est-ce que vous avez des nouvelles de Mlle Courtois? Oui, merci. Elle est à Nantes maintenant.
+Do you have any news of Miss Courtois? Yes, thank you. She's in Nantes now.
