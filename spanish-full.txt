@@ -1759,9 +1759,6 @@
 # ¿Cuáles son tus deportes preferidos?
 # Which are your favorite sports?
 # 
-# ¿Cuál de vosostros habla russo?
-# Which of you speaks russian?
-# 
 # ¿Tienes un boli?
 # Do you have a pen?
 # 
@@ -1884,9 +1881,6 @@
 # 
 # ¡Hola! Me llamo Juana.
 # Hello. My name is Juana.
-# 
-# Ana duerme siete hueras al día.
-# Ana sleeps seven hours a day.
 # 
 # Voy a clase todos los días.
 # I go to class everyday.
@@ -9168,3 +9162,9 @@ Apparently, they were moving tomorrow.
 
 Creo que examinaban hoy, pero no estoy segura.
 I think they were examining today, but I'm not sure.
+
+Ana duerme siete horas al día.
+Ana sleeps seven hours a day.
+
+¿Cuál de vosotros habla russo?
+Which of you speaks russian?
