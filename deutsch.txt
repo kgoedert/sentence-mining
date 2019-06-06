@@ -1498,9 +1498,6 @@
 # Wie heißt sie? 
 # What is her name?
 # 
-# Wie heißt er? How
-# What is his name?
-# 
 # Wie heißt das Kind? 
 # What is the child's name?
 # 
@@ -4848,3 +4845,6 @@ Susanne helps you. (help)
 
 Wir helfen euch.
 We'll help you.
+
+Wie heißt er? 
+What is his name?
