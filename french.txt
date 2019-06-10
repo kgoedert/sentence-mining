@@ -4440,3 +4440,102 @@ Have you heard from your daughter? Yes, thank you. She's in Nantes now.
 
 Est-ce que vous avez des nouvelles de Mlle Courtois? Oui, merci. Elle est à Nantes maintenant.
 Do you have any news of Miss Courtois? Yes, thank you. She's in Nantes now.
+
+Est-ce que les enfants sont toujours à Lyon? Non, ils sont à Grenoble aujourd'hui.
+Are the children still in Lyon? No, they're in Grenoble today.
+
+Est-ce que vous êtes toujours à Lyon? Non, je suis à Grenoble aujourd'hui.
+Are you still in Lyon? No, I'm in Grenoble today.
+
+Est-ce que Janine est toujours à Lyon? Non, elle est à Grenoble aujourd'hui.
+Is Janine still in Lyon? No, she's in Grenoble today.
+
+Est-ce que vos parents sont toujours avec vous? Non, ils sont à Grenoble aujourd'hui.
+Are your parents still with you? No, they're in Grenoble today.
+
+Est-ce que votre frère est toujours ici? Non, il est à Grenoble aujourd'hui.
+Is your brother still here? No, he's in Grenoble today.
+
+Est-ce que vos filles sont toujours à Lyon? Non, elles sont à Grenoble aujourd'hui.
+Are your daughters still in Lyon? No, they're in Grenoble today.
+
+Est-ce que votre amie est toujours à Lyon? Non, elle est à Grenoble aujourd'hui.
+Is your friend still in Lyon? No, she's in Grenoble today.
+
+Est-ce que vos fils sont toujours à Lyon? Non, ils sont à Grenoble aujourd'hui.
+Are your sons still in Lyon? No, they're in Grenoble today.
+
+À quelle heure est-ce qu'elle va déjeuner? À une heure et elle est en retard.
+What time is she going to lunch? At one o'clock and she's late.
+
+À quelle heure est-ce que votre ami va déjeuner? À une heure et il est en retard.
+What time is your friend going to lunch? At one o'clock and he's late.
+
+À quelle heure est-ce que vous allez déjeuner? À une heure et je suis en retard.
+What time are you going to lunch? At one o'clock and I'm late.
+
+À quelle heure est-ce que Janine va déjeuner? À une heure et elle est en retard.
+What time is Janine going to lunch? At one o'clock and she's late.
+
+À quelle heure est-ce que nous allons déjeuner? À une heure et nous sommes en retard.
+What time are we going to lunch? At one o'clock and we're late.
+
+À quelle heure est-ce que votre amie va déjeuner? À une heure et elle est en retard.
+What time is your friend going to lunch? At one o'clock and she's late.
+
+À quelle heure est-ce que M. Lelong va déjeuner? À une heure et il est en retard.
+What time is Mr. Lelong going to lunch? At one o'clock and he's late.
+
+À quelle heure est-ce que Mlle Courtois va déjeuner? À une heure et elle est en retard.
+What time is Miss Courtois going to lunch? At one o'clock and she's late.
+
+À quelle heure est-ce que vous allez déjeuner? À une heure et je suis en retard.
+What time are you going to lunch? At one o'clock and I'm late.
+
+Est-ce qu'ils sont pressés? Oui, ils sont pressés.
+Are they in a hurry? Yes, they're in a hurry.
+
+Est-ce qu'il est heureux? Oui, il est heureux.
+Is he happy? Is he happy? Yes, he's happy.
+
+Est-ce qu'elles sont ici? Oui, elles sont ici.
+Are they here? Yes, they are here.
+
+Est-ce qu'elle est à Bordeaux? Oui, elle est à Bordeaux.
+Is she in Bordeaux? Yes, she's in Bordeaux.
+
+Est-ce que vous êtes pressé? Oui, je suis pressé.
+Are you in a hurry? Yes, I'm in a hurry.
+
+Est-ce que vous êtes ensemble? Oui, nous sommes ensemble.
+Are you two together? Yes, we are together.
+
+Est-ce qu'ils sont heureux? Oui, ils sont heureux.
+Are they happy? Yes, they are happy.
+
+Est-ce qu'elle est au restaurant? Oui, elle est au restaurant.
+Is she in the restaurant? Yes, she is in the restaurant.
+
+Est-ce qu'ils sont en France? Oui, ils sont en France.
+Are they in France? Yes, they are in France.
+
+Ma sœur est à Nantes. Est-ce qu'elle est en vacances?
+My sister is in Nantes. Is she on vacation?
+
+Mon frère est à Nantes. Est-ce qu'il est en vacances?
+My brother is in Nantes. Is he on vacation?
+
+Mon père et ma mère sont à Nantes. Est-ce qu'ils sont en vacances?
+My father and mother are in Nantes. Are they on vacation?
+
+Janine est à Nantes. Est-ce qu'elle est en vacances?
+Janine is in Nantes. Is she on vacation?
+
+Je suis à Nantes. Est-ce que vous êtes en vacances?
+I'm in Nantes. Are you on vacation?
+
+Mlle Courtois est à Nantes. Est-ce qu'elle est en vacances?
+Miss Courtois is in Nantes. Is she on vacation?
+
+Mon fils et ma fille sont à Nantes. Est-ce qu'ils sont en vacances?
+My son and daughter are in Nantes. Are they on vacation?
