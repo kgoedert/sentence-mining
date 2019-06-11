@@ -4539,3 +4539,114 @@ Miss Courtois is in Nantes. Is she on vacation?
 
 Mon fils et ma fille sont à Nantes. Est-ce qu'ils sont en vacances?
 My son and daughter are in Nantes. Are they on vacation?
+
+Est-ce qu'elle est au restaurant? Oui, elle est au restaurant.
+Is she in the restaurant? Yes, she is in the restaurant.
+
+Est-ce qu'il est au restaurant? Oui, il est au restaurant.
+Is he in the restaurant? Yes, he's in the restaurant.
+
+Est-ce qu'ils sont au restaurant? Oui, ils sont au restaurant.
+Are they at the restaurant? Yes, they are at the restaurant.
+
+Est-ce qu'elle est au restaurant? Oui, elle est au restaurant.
+Is she in the restaurant? Yes, she is in the restaurant.
+
+Est-ce que vous êtes au restaurant? Oui, je suis au restaurant.
+Are you in the restaurant? Yes, I'm in the restaurant.
+
+Est-ce qu'elle est au restaurant? Oui, elle est au restaurant.
+Is she in the restaurant? Yes, she is in the restaurant.
+
+Est-ce qu'ils sont au restaurant? Oui, ils sont au restaurant.
+Are they at the restaurant? Yes, they are at the restaurant.
+
+Nous sommes en retard.
+We are late for work.
+
+Vous êtes pressé.
+You're in a hurry.
+
+Vous êtes au café.
+You're at the café.
+
+Je suis au café
+I'm at the coffee shop.
+
+Elles sont françaises.
+They are French.
+
+Elles sont ici.
+They are here.
+
+Ils sont ensemble.
+They are together.
+
+Nous sommes ensemble.
+We are together.
+
+Nous sommes pressés.
+We are in a hurry.
+
+Ils sont en retard.
+They're late.
+
+Elle est française.
+She's French.
+
+Elle est en vacances.
+She's on vacation.
+
+Je suis en vacances.
+I'm on vacation.
+
+Je suis anglais.
+I am English.
+
+Ma femme est anglaise.
+My wife is English.
+
+Ma femme est en retard.
+My wife is late.
+
+Vous êtes en retard.
+You're late for work.
+
+Vous êtes ici
+You are here
+
+Nous sommes ici.
+We are here.
+
+Ils sont pressés aujourd'hui.
+They're in a hurry today.
+
+Je suis pressé(e) aujourd'hui.
+I am in a hurry today.
+
+Je suis heureux aujourd'hui.
+I am happy today.
+
+Nous sommes heureux aujourd'hui.
+We are happy today.
+
+Nous sommes en retard aujourd'hui.
+We're late today.
+
+Elles sont en retard aujourd'hui.
+They're late today.
+
+Elles sont ensemble aujourd'hui.
+They are together today.
+
+Ils sont ensemble aujourd'hui.
+They are together today.
+
+Ils sont avec eux aujourd'hui.
+They are with them today.
+
+Il est avec eux aujourd'hui.
+He is with them today.
+
+Il est pressé aujourd'hui.
+He's in a hurry today.
