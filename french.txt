@@ -4713,3 +4713,90 @@ Who is she with?
 
 Elle est avec qui?
 Who is she with?
+
+Nous sommes heureux de faire votre connaissance.
+We are happy to meet you.
+
+Il est heureux de faire votre connaissance.
+He is happy to meet you.
+
+Mon frère est heureux de faire votre connaissance.
+My brother is happy to meet you.
+
+Je ne sais pas s'ils sont en vacances.
+I don't know if they're on vacation.
+
+Je ne sais pas s'il est en vacances.
+I don't know if he's on vacation.
+
+Je ne sais pas s'il est en retard.
+I don't know if he's late.
+
+Je ne sais pas s'ils sont au café.
+I don't know if they're at the café.
+
+Je ne sais pas s'il va au restaurant.
+I don't know if he goes to the restaurant.
+
+Je ne sais pas s'il va à Paris.
+I don't know if he's going to Paris.
+
+Je ne sais pas s'ils sont à l'heure.
+I don't know if they're on time.
+
+Je ne sais pas s'ils sont avec eux.
+I don't know if they're with them.
+
+Je ne sais pas si elles sont en vacances.
+I don't know if they're on vacation.
+
+Je ne sais pas si elle est à Paris.
+I don't know if she's in Paris.
+
+Je ne sais pas si elle est au restaurant.
+I don't know if she's at the restaurant.
+
+Je ne sais pas si elle va être en retard.
+I don't know if she's going to be late.
+
+Je ne sais pas si c'est un bon restaurant.
+I don't know if it's a good restaurant.
+
+Je ne sais pas si le café est près d'ici.
+I don't know if the coffee's near here.
+
+Je ne sais pas si elles sont ensemble.
+I don't know if they're together.
+
+Je ne sais pas si elle va déjeuner.
+I don't know if she's going to lunch.
+
+Je ne sais pas si les livres sont ici
+I don't know if the books are here.
+
+C'est bon. Oui, je sais que c'est bon.
+It's okay. It's okay. Yes, I know it's okay.
+
+C'est ici. Oui, je sais que c'est ici.
+It's right here. Yes, I know it's here.
+
+Il va à Paris. Oui, je sais qu'il va à Paris.
+He's going to Paris. Yes, I know he's going to Paris.
+
+Elles sont pressées. Oui, je sais qu'elles sont pressées.
+They're in a hurry. Yes, I know they're in a hurry.
+
+Il est en vacances. Oui, je sais qu'il est en vacances.
+He's on vacation. Yes, I know he's on vacation.
+
+Ils sont anglais. Oui, je sais qu'ils sont anglais.
+They are English. Yes, I know they're English.
+
+C'est près d'ici. Oui, je sais que c'est près d'ici.
+It's close to here. Yes, I know it's close to here.
+
+Elle est pressée. Oui, je sais qu'elle est pressée.
+She's in a hurry. Yes, I know she's in a hurry.
+
+Ils sont en retard. Oui, je sais qu'ils sont en retard.
+They're late. They're late. Yes, I know they're late.
