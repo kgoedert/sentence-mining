@@ -4800,3 +4800,75 @@ She's in a hurry. Yes, I know she's in a hurry.
 
 Ils sont en retard. Oui, je sais qu'ils sont en retard.
 They're late. They're late. Yes, I know they're late.
+
+Vous êtes ici.
+You are here.
+
+Il est dans la rue.
+He's on the street.
+
+Elle est dans la classe.
+She's in the classroom.
+
+Ma femme est au restaurant.
+My wife is at the restaurant.
+
+Je vais bien.
+I'm fine. I'm fine.
+
+Est-ce que vous allez bien?
+Are you all right?
+
+Quand est-ce que la classe commence?
+When does the class start?
+
+La classe commence aujourd'hui.
+The class starts today.
+
+Le restaurant est ici.
+The restaurant is here.
+
+Elle est avec eux.
+She's with them.
+
+Ma femme est avec ma fille.
+My wife is with my daughter.
+
+Est-ce que vous êtes français?
+Are you French?
+
+Nous allons déjeuner à une heure.
+We're going to lunch at one o'clock.
+
+Les amies sont ici.
+The friends are here.
+
+Elle sait où il est.
+She knows where he is.
+
+Il sait qu'elle est ici.
+He knows she's here.
+
+Elle est heureuse d'être dans la classe.
+She's happy to be in the classroom.
+
+Je suis heureux d'être au restaurant.
+I'm happy to be in the restaurant.
+
+Je sais qu'elle est heureuse.
+I know she's happy.
+
+Votre fille est au café.
+Your daughter's at the café.
+
+Il ne sait pas où est le restaurant.
+He doesn't know where the restaurant is.
+
+Elle est toujours en vacances.
+She's still on vacation.
+
+Oui, il est pressé.
+Yes, he's in a hurry.
+
+Je suis en vacances maintenant.
+I'm on vacation now.
