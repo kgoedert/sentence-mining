@@ -4848,3 +4848,126 @@ We'll help you.
 
 Wie heißt er? 
 What is his name?
+
+Ich vertraue dem Mann. Ich glaube ihm kein Wort.
+I trust the man. I don't believe a word he says.
+
+Ich vertraue der Frau. Ich glaube ihr kein Wort.
+I trust the woman. I do not believe a word she says.
+
+Ich vertraue dem Kind. Ich glaube ihm kein Wort.
+I trust the child. I do not believe a word he says.
+
+Ich vertraue der Chefin. Ich glaube ihr kein Wort.
+I trust the boss. I don't believe a word she says.
+
+Ich vertraue dem Chef. Ich glaube ihm kein Wort.
+I trust the boss. I don't believe a word he says.
+
+Ich vertraue der Lehrerin. Ich glaube ihr kein Wort.
+I trust the teacher. I don't believe a word she says.
+
+Ich vertraue dem Verkäufer. Ich glaube ihm kein Wort.
+I trust the salesman. I don't believe a word he says.
+
+Wir helfen dem Mann
+We help the man
+
+Wir helfen der Frau.
+We're helping the woman.
+
+Wir danken der Frau.
+We thank the woman.
+
+Wir danken dem Polizisten.
+We thank the policeman.
+
+Wir gehorchen dem Polizisten.
+We obey the policeman.
+
+Wir gehorchen der Chefin.
+We obey the boss.
+
+Wir folgen der Chefin.
+We follow the boss.
+
+Wir folgen dem Verkäufer.
+We follow the seller.
+
+Wir vertrauen dem Mann
+We trust the man
+
+Wir vertrauen der Frau.
+We trust the woman.
+
+Wir glauben der Frau.
+We believe the woman.
+
+Er glaubt der Frau.
+He believes the woman.
+
+Er glaubt dem Kind.
+He believes the child.
+
+Er schreibt dem Kind.
+He writes to the child.
+
+Ich schreibe dem Kind.
+I write to the child.
+
+Sie gibt dem Jungen ein Pferd.
+She gives the boy a horse.
+
+Sie gibt dem Jungen eine Maus.
+She gives the boy a mouse.
+
+Sie gibt dem Mädchen eine Maus.
+She gives the girl a mouse.
+
+Sie schenkt dem Mädchen eine Maus.
+She gives the girl a mouse.
+
+Wir schenken dem Mädchen eine Maus.
+We give the girl a mouse.
+
+Wir schenken dem Mädchen eine Blume.
+We give the girl a flower.
+
+Wir schenken der Frau eine Blume.
+We give the woman a flower.
+
+Wir präsentieren der Frau eine Blume.
+We present the woman with a flower.
+
+Herr Wagner präsentiert der Frau eine Blume.
+Mr. Wagner presents a flower to the woman.
+
+Er antwortet ihr.
+He answers her.
+
+Er antwortet mir.
+He answers me.
+
+Er glaubt mir.
+He believes me.
+
+Herr und Frau Wagner glauben mir.
+Mr. and Mrs. Wagner believe me.
+
+Herr und Frau Wagner glauben uns.
+Mr. and Mrs. Wagner believe us.
+
+Herr und Frau Wagner danken uns.
+Mr. and Mrs. Wagner thank us.
+
+Susanne dankt uns.
+Susanne thanks us.
+
+Susanne dankt euch.
+Susanne thanks you.
+
+Susanne hilft euch.
+Susanne helps you.
+
+Wir helfen euch.
+We help you.
