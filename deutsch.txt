@@ -4971,3 +4971,87 @@ Susanne helps you.
 
 Wir helfen euch.
 We help you.
+
+Ich helfe einer Frau. 
+I am helping a woman.
+
+Herr Kunz hilft einem Mann. 
+Mr. Kunz is helping a man.
+
+Der Verkäufer hilft einem Kunden. 
+The salesman is helping a customer.
+
+Die Lehrerin hilft einem Kind. 
+The teacher is helping a child.
+
+Der Chef dankt einem Mitarbeiter. 
+The boss is thanking an employee.
+
+Das Kind dankt einer Lehrerin. 
+The child is thanking a teacher.
+
+Das Kind dankt einem Polizisten. 
+The child is thanking a policeman.
+
+Der Kunde dankt einer Verkäuferin. 
+The customer is thanking a saleswoman.
+
+Die Tante schenkt dem Kind ein Auto.
+Auntie gives the kid a car.
+
+Die Tante schenkt dem Kind einen Hund.
+The aunt gives the child a dog.
+
+Die Tante schenkt dem Kind eine Maus.
+The aunt gives the child a mouse.
+
+Die Tante schenkt dem Kind ein Pferd.
+The aunt gives the child a horse.
+
+Die Tante schenkt dem Kind einen Ball.
+The aunt gives the child a ball.
+
+Die Tante schenkt dem Kind eine Brieftasche.
+The aunt gives the child a wallet.
+
+Die Tante schenkt dem Kind ein Spielzeug.
+The aunt gives the child a toy.
+
+Die Verkäufer präsentieren einem Kunden die Blume.
+The sellers present the flower to a customer.
+
+Die Verkäufer präsentieren einem Kind das Spielzeug.
+The sellers present the toy to a child.
+
+Die Verkäufer präsentieren einem Jungen das Spielzeug.
+The sellers present the toy to a boy.
+
+Die Verkäufer präsentieren einem Mann das Geschenk.
+The sellers present the gift to a man.
+
+Die Verkäufer präsentieren einem Mädchen das Spielzeug.
+The sellers present the toy to a girl.
+
+Die Verkäufer präsentieren einer Frau die Blume.
+The sellers present the flower to a woman.
+
+Das Mädchen vertraut einem Jungen.
+The girl trusts a boy.
+
+Das Mädchen vertraut einer Polizistin.
+The girl trusts a policewoman.
+
+Das Mädchen vertraut einem Mädchen.
+The girl trusts a girl.
+
+Das Mädchen vertraut einer Katze.
+The girl trusts a cat.
+
+Das Mädchen vertraut einem Mann.
+The girl trusts a man.
+
+Das Mädchen vertraut einer Frau.
+The girl trusts a woman.
+
+Das Mädchen vertraut einem Pferd.
+The girl trusts a horse.
