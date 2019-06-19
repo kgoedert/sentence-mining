@@ -5055,3 +5055,141 @@ The girl trusts a woman.
 
 Das Mädchen vertraut einem Pferd.
 The girl trusts a horse.
+
+Der Vater schenkt dem Kind das Pferd. 
+The father gives the child the horse. 
+
+Der Vater schenkt dem Kind ein Pferd.
+The father gives the child a horse.
+
+Der Vater schenkt dem Kind den Ball. 
+The father gives the child the ball. 
+
+Der Vater schenkt dem Kind einen Ball.
+The father gives the child a ball.
+
+Der Vater schenkt dem Kind die Maus. 
+The father gives the child the mouse. 
+
+Der Vater schenkt dem Kind eine Maus.
+The father gives the child a mouse.
+
+Der Vater schenkt dem Kind das Auto. 
+The father gives the child the car. 
+
+Der Vater schenkt dem Kind ein Auto.
+The father gives the child a car.
+
+Der Vater schenkt dem Kind den Hund. 
+The father gives the child the dog. 
+
+Der Vater schenkt dem Kind einen Hund.
+The father gives the child a dog.
+
+Der Vater schenkt dem Kind das Spielzeug. 
+The father gives the child the toy. 
+
+Der Vater schenkt dem Kind ein Spielzeug.
+The father gives the child a toy.
+
+Der Vater schenkt dem Kind die Brieftasche. 
+The father gives the child the wallet. 
+
+Der Vater schenkt dem Kind eine Brieftasche.
+The father gives the child a wallet.
+
+Die Verkäuferin präsentiert dem Mann eine Blume. 
+The saleswoman presents the man with a flower. 
+
+Die Verkäuferin präsentiert einem Mann eine Blume.
+The saleswoman presents a flower to a man.
+
+Die Verkäuferin präsentiert der Frau eine Blume. 
+The saleswoman presents a flower to the woman. 
+
+Die Verkäuferin präsentiert einer Frau eine Blume.
+The seller presents a flower to a woman.
+
+Die Verkäuferin präsentiert dem Kunden eine Blume. 
+The saleswoman presents a flower to the customer. 
+
+Die Verkäuferin präsentiert einem Kunden eine Blume.
+The saleswoman presents a flower to a customer.
+
+Die Verkäuferin präsentiert dem Kind ein Spielzeug. 
+The saleswoman presents a toy to the child. 
+
+Die Verkäuferin präsentiert einem Kind ein Spielzeug.
+The saleswoman presents a toy to a child.
+
+Die Verkäuferin präsentiert dem Jungen ein Spielzeug. 
+The saleswoman presents a toy to the boy. 
+
+Die Verkäuferin präsentiert einem Jungen ein Spielzeug.
+The saleswoman presents a toy to a boy.
+
+Die Verkäuferin präsentiert dem Mädchen ein Spielzeug. 
+The saleswoman presents a toy to the girl. 
+
+Die Verkäuferin präsentiert einem Mädchen ein Spielzeug.
+The saleswoman presents a toy to a girl.
+
+Das Kind vertraut einem Mann. 
+The child trusts a man. 
+
+Das Kind vertraut dem Mann.
+The child trusts the man.
+
+Das Kind vertraut einem Pferd. 
+The child trusts a horse. 
+
+Das Kind vertraut dem Pferd.
+The child trusts the horse.
+
+Das Kind vertraut einer Katze. 
+The child trusts a cat. 
+
+Das Kind vertraut der Katze.
+The child trusts the cat.
+
+Das Kind vertraut einem Mädchen. 
+The child trusts a girl. 
+
+Das Kind vertraut dem Mädchen.
+The child trusts the girl.
+
+Das Kind vertraut einer Frau. 
+The child trusts a woman. 
+
+Das Kind vertraut der Frau.
+The child trusts the woman.
+
+Das Kind vertraut einem Jungen. 
+The child trusts a boy. 
+
+Das Kind vertraut dem Jungen.
+The child trusts the boy.
+
+Das Kind vertraut einer Polizistin. 
+The child trusts a policewoman. 
+
+Das Kind vertraut der Polizistin.
+The child trusts the policewoman.
+
+Das Kind gehorcht einem Polizisten.
+The child obeys a policeman.
+
+Das Kind gehorcht einer Lehrerin.
+The child obeys a teacher.
+
+Das Kind gehorcht einem Mann.
+The child obeys a man.
+
+Das Kind gehorcht einer Frau.
+The child obeys a woman.
+
+Das Kind gehorcht einem Mädchen.
+The child obeys a girl.
+
+Das Kind gehorcht einem Jungen.
+The child obeys a boy.
