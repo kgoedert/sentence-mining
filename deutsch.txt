@@ -5193,3 +5193,99 @@ The child obeys a girl.
 
 Das Kind gehorcht einem Jungen.
 The child obeys a boy.
+
+Der Verkäufer gibt dem Kunden ein Geschenk. 
+The seller gives the customer a gift. 
+
+Der Verkäufer gibt mir kein Geschenk.
+The seller does not give me a gift.
+
+Der Verkäufer gibt dem Kunden einen Stift. 
+The seller gives the customer a pen. 
+
+Der Verkäufer gibt mir keinen Stift.
+The seller does not give me a pen.
+
+Der Verkäufer gibt dem Kunden ein Papier. 
+The seller gives the customer a paper. 
+
+Der Verkäufer gibt mir kein Papier.
+The seller does not give me any paper.
+
+Der Verkäufer gibt dem Kunden einen Stuhl. 
+The seller gives the customer a chair. 
+
+Der Verkäufer gibt mir keinen Stuhl.
+The seller does not give me a chair.
+
+Der Verkäufer gibt dem Kunden ein Glas Wasser. 
+The salesman gives the customer a glass of water. 
+
+Der Verkäufer gibt mir kein Glas Wasser.
+The seller does not give me a glass of water.
+
+Der Verkäufer gibt dem Kunden eine Tasche. 
+The salesman gives the customer a bag. 
+
+Der Verkäufer gibt mir keine Tasche.
+The seller does not give me a bag.
+
+Der Verkäufer gibt dem Kunden ein Dokument. 
+The seller gives the customer a document. 
+
+Der Verkäufer gibt mir kein Dokument.
+The seller does not give me a document.
+
+Der Verkäufer gibt dem Kunden ein Glas Wein. 
+The seller gives the customer a glass of wine. 
+
+Der Verkäufer gibt mir kein Glas Wein.
+The seller does not give me a glass of wine.
+
+Der Verkäufer gibt dem Kunden eine Blume. 
+The seller gives the customer a flower. 
+
+Der Verkäufer gibt mir keine Blume.
+The seller does not give me a flower.
+
+Er vertraut dem Mann. 
+He trusts the man. 
+
+Er vertraut keinem Mann.
+He does not trust a man.
+
+Er vertraut der Verkäuferin. 
+He trusts the seller. 
+
+Er vertraut keiner Verkäuferin.
+He doesn't trust a saleswoman.
+
+Er vertraut dem Polizisten 
+He trusts the policeman. 
+
+Er vertraut keinem Polizisten.
+He doesn't trust a cop.
+
+Er vertraut der Lehrerin. 
+He trusts the teacher. 
+
+Er vertraut keiner Lehrerin.
+He doesn't trust a teacher.
+
+Er vertraut der Chefin. 
+He trusts the boss. 
+
+Er vertraut keiner Chefin.
+He does not trust a boss.
+
+Er vertraut dem Chef. 
+He trusts the boss. 
+
+Er vertraut keinem Chef.
+He trusts no boss.
+
+Er vertraut der Frau. 
+He trusts the woman. 
+
+Er vertraut keiner Frau.
+He does not trust a woman.
