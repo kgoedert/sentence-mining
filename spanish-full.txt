@@ -2152,9 +2152,6 @@
 # Y tú, ¿qué le has reglado a él?
 # And you, what did you give him?
 # 
-# Le he reglado una corbata.
-# I gave him a tie.
-# 
 # Luis ha reglado un reloj a Chus.
 # Luis gave a watch to Chus.
 # 
@@ -9168,3 +9165,6 @@ Ana sleeps seven hours a day.
 
 ¿Cuál de vosotros habla russo?
 Which of you speaks russian?
+
+Le he regalado una corbata.
+I gave him a tie.
