@@ -1993,9 +1993,6 @@
 # Alicia y tú parecéis hermanos.
 # Alicia and you seem to be siblings.
 # 
-# My padre y yo somos buenos amigos.
-# My father and I are good friends.
-# 
 # ¿Te gusta este traje?
 # Do you like this suit?
 # 
@@ -2140,9 +2137,6 @@
 # A mí no me conoce.
 # He doesn't know me.
 # 
-# A nosostros no nos ven.
-# They don't see us.
-# 
 # ¿Qué te ha reglado Luis?
 # What did Luis give you?
 # 
@@ -2150,10 +2144,7 @@
 # He gave me a watch.
 # 
 # Y tú, ¿qué le has reglado a él?
-# And you, what did you give him?
-# 
-# Luis ha reglado un reloj a Chus.
-# Luis gave a watch to Chus.
+# And you, what did you give him.
 # 
 # Luis le ha regalado un reloj.
 # Luis gave her a watch.
@@ -9438,3 +9429,12 @@ She has been preparing for the marathon for six months.
 
 He vuelto a estudiar chino. Llevaba más de un año sin ir a clases.
 I've gone back to studying Chinese. I hadn't been to class in over a year.
+
+Luis ha regalado un reloj a Chus.
+Luis gave a watch to Chus.
+
+Mí padre y yo somos buenos amigos.
+My father and I are good friends.
+
+A nosotros no nos ven.
+They don't see us.
