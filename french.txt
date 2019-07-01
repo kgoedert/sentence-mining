@@ -4872,3 +4872,24 @@ Yes, he's in a hurry.
 
 Je suis en vacances maintenant.
 I'm on vacation now.
+
+Est-ce que tu veux répondre à la lettre de tes parents? Oui, je vais y répondre tout de suite.
+Do you wish to respond to the letter from your parents? Yes, I will respond to it at once.
+
+Est-ce que tu vas à Paris? Non, je n'y vais pas.
+Are you going to Paris? No, I am not going there.
+
+Tu entres dans la maison? Non, je n'y entre pas.
+Are you entering (into) the house? No, I am not entering (into) there.
+
+Est-ce qu'il parle de son travail? Non, il n'en parle jamais.
+Is he speaking of his work? No, he never talks about it.
+
+Est-ce que tu viens de Paris? Oui, j'en viens.
+Are you coming from Paris? Yes, I am coming from there.
+
+Je voudrais des pommes. Combien en voulez-vous? J'en voudrais un kilo.
+I would like some apples. How much (of them) would you like? I would like a kilogram (of them).
+
+Et du lait. Combien de bouteilles? Donnes m'en deux.
+And some milk. How many bottles (thereof)? Give me two (of them).
