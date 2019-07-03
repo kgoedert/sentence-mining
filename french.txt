@@ -4956,3 +4956,54 @@ Does the manager have change for twenty euros? Yes, he has change for twenty eur
 
 Est-ce que l'hôtel garde les sacs? Oui, l'hôtel garde les sacs.
 Does the hotel keep the bags? Yes, the hotel keeps the bags.
+
+Donc il nous faut prendre les escaliers. 
+Therefore, we have to take the stairs.
+
+Donc il nous faut prendre l'autobus. 
+Therefore, we have to take the bus.
+
+Donc il nous faut prendre le métro. 
+Therefore, we have to take the subway.
+
+Donc il nous faut prendre l'ascenseur. 
+Therefore, we have to take the elevator.
+
+Donc il nous faut prendre le train. 
+Therefore, we have to take the train.
+
+Donc il nous faut prendre l'avion. 
+Therefore, we have to take the airplane.
+
+Quand est-ce que nous devons libérer la chambre? 
+By when must we vacate the room?
+
+Quand est-ce que nous devons partir? 
+By when must we leave?
+
+Quand est-ce que nous devons être ici? 
+By when must we be here?
+
+Quand est-ce que nous devons arriver? 
+By when must we arrive?
+
+Quand est-ce que nous devons être à l'hôtel? 
+By when must we be at the hotel?
+
+Quand est-ce que nous devons être à la gare? 
+By when must we be at the train station?
+
+Quand est-ce que nous devons être à l'aéroport? 
+By when must we be at the airport?
+
+Venez par ici pour aller aux escaliers. 
+Come this way to go to the stairs.
+
+Venez par ici pour aller à l'ascenseur. 
+Come this way to go to the elevator.
+
+Venez par ici pour aller à la chambre. 
+Come this way to go to the room.
+
+Venez par ici pour aller à la salle du petit déjeuner. 
+Come this way to go to the breakfast room.
