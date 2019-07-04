@@ -5007,3 +5007,174 @@ Come this way to go to the room.
 
 Venez par ici pour aller à la salle du petit déjeuner. 
 Come this way to go to the breakfast room.
+
+La femme de chambre va vous y conduire.
+The maid will take you there.
+
+Mademoiselle Courtois va vous y conduire.
+Miss Courtois will take you there.
+
+Mon ami va vous y conduire.
+My friend will take you there.
+
+Ma femme va vous y conduire.
+My wife will take you there.
+
+Elle va vous y conduire.
+She'll take you there.
+
+Mon fils va vous y conduire.
+My son will take you there.
+
+Il va vous y conduire.
+He'll take you there.
+
+Le gérant va vous y conduire.
+The manager will take you there.
+
+Janine va vous y conduire.
+Janine will take you there.
+
+La femme de chambre va vous y conduire.
+The maid will take you there.
+
+Que désirez-vous, Monsieur?
+What would you like, sir?
+
+Où allez-vous, Monsieur?
+Where are you going, sir?
+
+Où êtes-vous, Monsieur?
+Where are you, sir? Where are you?
+
+Que dites-vous, Monsieur?
+What are you saying, sir?
+
+Que répondez-vous, Monsieur?
+What do you say, sir?
+
+Que dit-on, Monsieur?
+What do they say, sir?
+
+Où êtes-vous, Monsieur?
+Where are you, sir? Where are you?
+
+Où allez-vous, Monsieur?
+Where are you going, sir?
+
+Que désirez-vous, Monsieur?
+What would you like, sir?
+
+Que dites-vous, Monsieur?
+What are you saying, sir?
+
+Est-ce que vous n'êtes pas satisfait?
+Are you not satisfied?
+
+Est-ce que vous n'êtes pas heureux?
+Aren't you happy?
+
+Est-ce que vous n'êtes pas à l'heure?
+Aren't you on time?
+
+Est-ce que vous n'êtes pas seul?
+Aren't you alone?
+
+Est-ce que vous n'êtes pas avec eux?
+Aren't you with them?
+
+Est-ce que vous n'êtes pas pressé?
+Aren't you in a hurry?
+
+Est-ce que vous n'êtes pas libre?
+Aren't you free?
+
+Est-ce que vous n'êtes pas au restaurant?
+Aren't you at the restaurant?
+
+Est-ce que vous n'êtes pas en vacances?
+Aren't you on vacation?
+
+Est-ce que vous n'êtes pas français?
+Aren't you French?
+
+Est-ce que vous n'êtes pas satisfait?
+Are you not satisfied?
+
+Voici la chambre, Monsieur.
+This is the room, sir.
+
+Voici le livre, Monsieur.
+Here's the book, sir.
+
+Voici le restaurant, Monsieur.
+This is the restaurant, sir.
+
+Voici la femme de chambre, Monsieur.
+This is the maid, sir.
+
+Voici les bagages, Monsieur.
+Here's the luggage, sir.
+
+Voici le café, Monsieur.
+Here's the coffee, sir.
+
+Voici la salle de bains, Monsieur.
+This is the bathroom, sir.
+
+Voici le gérant, Monsieur.
+This is the manager, sir.
+
+Voici la monnaie, Monsieur.
+Here's the change, sir.
+
+Voici la chambre, Monsieur.
+This is the room, sir.
+
+Nous avons une jolie chambre au premier étage.
+We have a nice room on the first floor.
+
+Je voudrais une jolie chambre au premier étage.
+I would like a nice room on the first floor.
+
+Voici une jolie chambre au premier étage.
+This is a nice room on the first floor.
+
+C'est une jolie chambre au premier étage.
+It's a nice room on the first floor.
+
+Vous avez une jolie chambre au premier étage.
+You have a nice room on the first floor.
+
+Vous voulez une jolie chambre au premier étage.
+You want a nice room on the first floor.
+
+Il voudrait une jolie chambre au premier étage.
+He would like a nice room on the first floor.
+
+Nous avons une jolie chambre au premier étage.
+We have a nice room on the first floor.
+
+Je vais les remplir tout de suite.
+I'll fill them out right away.
+
+Je vais les remplir maintenant.
+I'll fill them out now.
+
+Je vais les remplir ce soir.
+I'm going to fill them out tonight.
+
+Je vais les remplir aujourd'hui.
+I'm going to fill them out today.
+
+Je vais les remplir demain soir.
+I'll fill them out tomorrow night.
+
+Je vais les remplir à midi.
+I'll fill them out at noon.
+
+Je vais les remplir à huit heures.
+I'll fill them out at eight o'clock.
+
+Je vais les remplir tout de suite.
+I'll fill them out right away.
