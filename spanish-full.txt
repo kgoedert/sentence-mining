@@ -2140,9 +2140,6 @@
 # ¿Qué te ha reglado Luis?
 # What did Luis give you?
 # 
-# Me ha reglado un reloj.
-# He gave me a watch.
-# 
 # Y tú, ¿qué le has reglado a él?
 # And you, what did you give him.
 # 
@@ -9438,3 +9435,6 @@ My father and I are good friends.
 
 A nosotros no nos ven.
 They don't see us.
+
+Me ha regalado un reloj.
+He gave me a watch.

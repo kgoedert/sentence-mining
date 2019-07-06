@@ -2593,309 +2593,309 @@
 # Le pompier a éteint les flammes.
 # The fireman put out the flames.
 # 
-# Je n'y ai pas goûté.
-# I haven't tasted it.
+# # Je n'y ai pas goûté.
+# # I haven't tasted it.
+# # 
+# # Voilà le livre.
+# # Here's the book.
+# # 
+# Voilà les livres.
+# Here are the books.
 # 
-# Voilà le livre.
-# Here's the book.
+# Voilà le restaurant.
+# There's the restaurant.
 # 
-Voilà les livres.
-Here are the books.
-
-Voilà le restaurant.
-There's the restaurant.
-
-Voilà les restaurants.
-Here are the restaurants.
-
-Voilà le café.
-Here's the coffee.
-
-Voilà les cafés.
-Here are the coffees.
-
-Voilà la porte.
-There's the door.
-
-Voilà les portes.
-Here are the doors.
-
-Voilà la leçon.
-That is the lesson.
-
-Voilà les leçons.
-These are the lessons.
-
-Voilà la classe.
-That's the class.
-
-Voilà les classes.
-These are the classes.
-
-Voilà l'homme.
-There's the man.
-
-Voilà l'enfant.
-There's the child.
-
-Voilà l'ami.
-There is the friend.
-
-Voilà les hommes.
-There are the men.
-
-Voilà les enfants.
-There are the children.
-
-Voilà les amis.
-There are the friends.
-
-Où est le restaurant? Le voilà.
-Where's the restaurant? There it is.
-
-Où est la leçon? La voilà.
-Where is the lesson? There it is.
-
-Où est la classe? La voilà.
-Where is the class? There it is.
-
-Où est le café? Le voilà.
-Where's the coffee? There it is.
-
-Où est le livre? Le voilà.
-Where is the book? There it is.
-
-Où est l'homme? Le voilà.
-Where is the man? There he is.
-
-Où est la sœur? La voilà.
-Where is the sister? There she is.
-
-Où est le frère? Le voilà.
-Where is the brother? There he is.
-
-Où est le fils de M. Lelong? Le voilà.
-Where is Mr. Lelong's son? There he is.
-
-Où est la fille de M. et Mme Durand? La voilà.
-Where is Mr. and Mrs. Durand's daughter? There she is.
-
-Où est le frère de François? Le voilà.
-Where is François' brother? There he is.
-
-Où est la sœur de Nicole? La voilà.
-Where is Nicole's sister? There she is.
-
-Où est le père de Luc? Le voilà.
-Where is Luc's father? There he is.
-
-Où est M. Durand? Le voilà.
-Where is Mr. Durand? There he is.
-
-Où est Mlle Courtois? La voilà.
-Where is Miss Courtois? There she is.
-
-Où est Mme Durand? La voilà.
-Where is Mrs. Durand? There she is.
-
-Voilà la classe. Voilà les classes.
-That's the class. These are the classes.
-
-Voilà le frère de Christian. Voilà les frères de Christian.
-This is Christian's brother. These are Christian's brothers.
-
-Voilà la sœur de Francine. Voilà les sœurs de Francine.
-This is Francine's sister. These are Francine's sisters.
-
-Voilà la porte. Voilà les portes.
-There's the door. Here are the doors.
-
-Voilà le livre. Voilà les livres.
-Here's the book. Here are the books.
-
-Voilà le café. Voilà les cafés.
-Here's the coffee. Here are the coffees.
-
-Voilà la leçon. Voilà les leçons.
-That is the lesson. These are the lessons.
-
-Voilà les classes. Voilà la classe.
-These are the classes. That's the class.
-
-Voilà les frères de Samuel. Voilà le frère de Samuel.
-These are Samuel's brothers. This is Samuel's brother.
-
-Voilà les sœurs de Jacqueline. Voilà la sœur de Jacqueline.
-These are Jacqueline's sisters. This is Jacqueline's sister.
-
-Voilà les portes. Voilà la porte.
-Here are the doors. There's the door.
-
-Voilà les livres. Voilà le livre.
-Here are the books. Here's the book.
-
-Voilà les cafés. Voilà le café.
-Here are the coffees. Here's the coffee.
-
-Voilà les leçons. Voilà la leçon.
-These are the lessons. That is the lesson.
-
-Où sont les enfants? Les voilà.
-Where are the children? There they are.
-
-Où sont les livres? Les voilà.
-Where are the books? There they are.
-
-Où sont les classes? Les voilà.
-Where are the classes? There they are.
-
-Où sont les amis de Christian? Les voilà.
-Where are Christian's friends? There they are.
-
-Où sont les parents d'Isabelle? Les voilà
-Where are Isabelle's parents? Here they are
-
-Où sont les frères d'Alice? Les voilà.
-Where are Alice's brothers? There they are.
-
-Où est votre sœur? La voilà.
-Where is your sister? There she is.
-
-Où est le livre? Le voilà.
-Where is the book? There he is.
-
-Où est le café? Le voilà.
-Where's the coffee? There he is.
-
-Où est la porte? La voilà.
-Where is the door? There she is.
-
-Où sont les amis de Claire? Les voilà.
-Where are Claire's friends? There they are.
-
-Où est le livre?
-Where is the book?
-
-Où sont les livres?
-Where are the books?
-
-Où est le café?
-Where's the coffee?
-
-Où sont les cafés?
-Where are the coffees?
-
-Où est le restaurant?
-Where's the restaurant?
-
-Où sont les restaurants?
-Where are the restaurants?
-
-Où est la classe?
-Where is the class?
-
-Où sont les classes?
-Where are the classes?
-
-Où est la porte?
-Where is the door?
-
-Où sont les portes?
-Where are the doors?
-
-Où est l'enfant?
-Where is the child?
-
-Où sont les enfants?
-Where are the children?
-
-Les amis de Janine sont ici.
-Janine's friends are here.
-
-L'ami de Janine est à Marseille.
-Janine's friend is in Marseille.
-
-Les sœurs de Janine sont à Marseille.
-Janine's sisters are in Marseille.
-
-La sœur de Janine est en vacances.
-Janine's sister is on vacation.
-
-Les frères de Janine sont en vacances.
-Janine's brothers are on vacation.
-
-Le frère de Janine est à Lyon.
-Janine's brother is in Lyon.
-
-Les amis de Janine sont à Lyon.
-Janine's friends are in Lyon.
-
-L'ami de Janine est ici.
-Janine's friend is here.
-
-Nous tenons à eux.
-We are attached to them.
-
-Comment allez-vous?
-How are you doing? How are you?
-
-Je suis heureux de faire votre connaissance, Mademoiselle.
-It is a pleasure to meet you, Miss.
-
-Où allons-nous déjeuner?
-Where are we going to have lunch?
-
-Vos sœurs sont près d'ici. 
-Your sisters are nearby.
-
-Elles sont près d'ici. 
-They are nearby. (all feminine)
-
-Les parents sont en vacances. 
-The parents are on vacation.
-
-Ils sont en vacances. 
-They are on vacation. (both masculine and feminine)
-
-Marie, Anne et Janine sont au restaurant. 
-Marie, Anne and Janine are at the restaurant.
-
-Elles sont au restaurant. 
-They are at the restaurant. (all feminine)
-
-Marie, Anne, Janine et Pierre sont à Paris. 
-Marie, Anne, Janine and Pierre are in Paris.
-
-Ils sont à Paris. 
-They are in Paris. (both masculine and feminine)
-
-Elle lui a offert des fleurs
-She gave her some flowers
-
-Cet employé travaille pour nous.
-This employee works for us.
-
-Elle les a fait.
-She made them.
-
-Tu t'es débarassé de toutes ces choses inutiles.
-You got rid of all these useless things.
-
-Ma sœur est en vacances; elle est à Bordeaux.
-My sister is on vacation; she is in Bordeaux.
-
-Ma fille est en vacances; elle est à Bordeaux.
-My daughter is on vacation; she is in Bordeaux.
-
-Mon amie Janine est en vacances; elle est à Bordeaux.
-My friend Janine is on holiday; she is in Bordeaux.
-
-Janine est en vacances; elle est à Bordeaux.
-Janine is on holiday; she is in Bordeaux.
-
-Ma mère est en vacances; elle est à Bordeaux.
-My mother is on holiday; she is in Bordeaux.
-
+# Voilà les restaurants.
+# Here are the restaurants.
+# 
+# Voilà le café.
+# Here's the coffee.
+# 
+# Voilà les cafés.
+# Here are the coffees.
+# 
+# Voilà la porte.
+# There's the door.
+# 
+# Voilà les portes.
+# Here are the doors.
+# 
+# Voilà la leçon.
+# That is the lesson.
+# 
+# Voilà les leçons.
+# These are the lessons.
+# 
+# Voilà la classe.
+# That's the class.
+# 
+# Voilà les classes.
+# These are the classes.
+# 
+# Voilà l'homme.
+# There's the man.
+# 
+# Voilà l'enfant.
+# There's the child.
+# 
+# Voilà l'ami.
+# There is the friend.
+# 
+# Voilà les hommes.
+# There are the men.
+# 
+# Voilà les enfants.
+# There are the children.
+# 
+# Voilà les amis.
+# There are the friends.
+# 
+# Où est le restaurant? Le voilà.
+# Where's the restaurant? There it is.
+# 
+# Où est la leçon? La voilà.
+# Where is the lesson? There it is.
+# 
+# Où est la classe? La voilà.
+# Where is the class? There it is.
+# 
+# Où est le café? Le voilà.
+# Where's the coffee? There it is.
+# 
+# Où est le livre? Le voilà.
+# Where is the book? There it is.
+# 
+# Où est l'homme? Le voilà.
+# Where is the man? There he is.
+# 
+# Où est la sœur? La voilà.
+# Where is the sister? There she is.
+# 
+# Où est le frère? Le voilà.
+# Where is the brother? There he is.
+# 
+# Où est le fils de M. Lelong? Le voilà.
+# Where is Mr. Lelong's son? There he is.
+# 
+# Où est la fille de M. et Mme Durand? La voilà.
+# Where is Mr. and Mrs. Durand's daughter? There she is.
+# 
+# Où est le frère de François? Le voilà.
+# Where is François' brother? There he is.
+# 
+# Où est la sœur de Nicole? La voilà.
+# Where is Nicole's sister? There she is.
+# 
+# Où est le père de Luc? Le voilà.
+# Where is Luc's father? There he is.
+# 
+# Où est M. Durand? Le voilà.
+# Where is Mr. Durand? There he is.
+# 
+# Où est Mlle Courtois? La voilà.
+# Where is Miss Courtois? There she is.
+# 
+# Où est Mme Durand? La voilà.
+# Where is Mrs. Durand? There she is.
+# 
+# Voilà la classe. Voilà les classes.
+# That's the class. These are the classes.
+# 
+# Voilà le frère de Christian. Voilà les frères de Christian.
+# This is Christian's brother. These are Christian's brothers.
+# 
+# Voilà la sœur de Francine. Voilà les sœurs de Francine.
+# This is Francine's sister. These are Francine's sisters.
+# 
+# Voilà la porte. Voilà les portes.
+# There's the door. Here are the doors.
+# 
+# Voilà le livre. Voilà les livres.
+# Here's the book. Here are the books.
+# 
+# Voilà le café. Voilà les cafés.
+# Here's the coffee. Here are the coffees.
+# 
+# Voilà la leçon. Voilà les leçons.
+# That is the lesson. These are the lessons.
+# 
+# Voilà les classes. Voilà la classe.
+# These are the classes. That's the class.
+# 
+# Voilà les frères de Samuel. Voilà le frère de Samuel.
+# These are Samuel's brothers. This is Samuel's brother.
+# 
+# Voilà les sœurs de Jacqueline. Voilà la sœur de Jacqueline.
+# These are Jacqueline's sisters. This is Jacqueline's sister.
+# 
+# Voilà les portes. Voilà la porte.
+# Here are the doors. There's the door.
+# 
+# Voilà les livres. Voilà le livre.
+# Here are the books. Here's the book.
+# 
+# Voilà les cafés. Voilà le café.
+# Here are the coffees. Here's the coffee.
+# 
+# Voilà les leçons. Voilà la leçon.
+# These are the lessons. That is the lesson.
+# 
+# Où sont les enfants? Les voilà.
+# Where are the children? There they are.
+# 
+# Où sont les livres? Les voilà.
+# Where are the books? There they are.
+# 
+# Où sont les classes? Les voilà.
+# Where are the classes? There they are.
+# 
+# Où sont les amis de Christian? Les voilà.
+# Where are Christian's friends? There they are.
+# 
+# Où sont les parents d'Isabelle? Les voilà
+# Where are Isabelle's parents? Here they are
+# 
+# Où sont les frères d'Alice? Les voilà.
+# Where are Alice's brothers? There they are.
+# 
+# Où est votre sœur? La voilà.
+# Where is your sister? There she is.
+# 
+# Où est le livre? Le voilà.
+# Where is the book? There he is.
+# 
+# Où est le café? Le voilà.
+# Where's the coffee? There he is.
+# 
+# Où est la porte? La voilà.
+# Where is the door? There she is.
+# 
+# Où sont les amis de Claire? Les voilà.
+# Where are Claire's friends? There they are.
+# 
+# Où est le livre?
+# Where is the book?
+# 
+# Où sont les livres?
+# Where are the books?
+# 
+# Où est le café?
+# Where's the coffee?
+# 
+# Où sont les cafés?
+# Where are the coffees?
+# 
+# Où est le restaurant?
+# Where's the restaurant?
+# 
+# Où sont les restaurants?
+# Where are the restaurants?
+# 
+# Où est la classe?
+# Where is the class?
+# 
+# Où sont les classes?
+# Where are the classes?
+# 
+# Où est la porte?
+# Where is the door?
+# 
+# Où sont les portes?
+# Where are the doors?
+# 
+# Où est l'enfant?
+# Where is the child?
+# 
+# Où sont les enfants?
+# Where are the children?
+# 
+# Les amis de Janine sont ici.
+# Janine's friends are here.
+# 
+# L'ami de Janine est à Marseille.
+# Janine's friend is in Marseille.
+# 
+# Les sœurs de Janine sont à Marseille.
+# Janine's sisters are in Marseille.
+# 
+# La sœur de Janine est en vacances.
+# Janine's sister is on vacation.
+# 
+# Les frères de Janine sont en vacances.
+# Janine's brothers are on vacation.
+# 
+# Le frère de Janine est à Lyon.
+# Janine's brother is in Lyon.
+# 
+# Les amis de Janine sont à Lyon.
+# Janine's friends are in Lyon.
+# 
+# L'ami de Janine est ici.
+# Janine's friend is here.
+# 
+# Nous tenons à eux.
+# We are attached to them.
+# 
+# Comment allez-vous?
+# How are you doing? How are you?
+# 
+# Je suis heureux de faire votre connaissance, Mademoiselle.
+# It is a pleasure to meet you, Miss.
+# 
+# Où allons-nous déjeuner?
+# Where are we going to have lunch?
+# 
+# Vos sœurs sont près d'ici. 
+# Your sisters are nearby.
+# 
+# Elles sont près d'ici. 
+# They are nearby. (all feminine)
+# 
+# Les parents sont en vacances. 
+# The parents are on vacation.
+# 
+# Ils sont en vacances. 
+# They are on vacation. (both masculine and feminine)
+# 
+# Marie, Anne et Janine sont au restaurant. 
+# Marie, Anne and Janine are at the restaurant.
+# 
+# Elles sont au restaurant. 
+# They are at the restaurant. (all feminine)
+# 
+# Marie, Anne, Janine et Pierre sont à Paris. 
+# Marie, Anne, Janine and Pierre are in Paris.
+# 
+# Ils sont à Paris. 
+# They are in Paris. (both masculine and feminine)
+# 
+# Elle lui a offert des fleurs
+# She gave her some flowers
+# 
+# Cet employé travaille pour nous.
+# This employee works for us.
+# 
+# Elle les a fait.
+# She made them.
+# 
+# Tu t'es débarassé de toutes ces choses inutiles.
+# You got rid of all these useless things.
+# 
+# Ma sœur est en vacances; elle est à Bordeaux.
+# My sister is on vacation; she is in Bordeaux.
+# 
+# Ma fille est en vacances; elle est à Bordeaux.
+# My daughter is on vacation; she is in Bordeaux.
+# 
+# Mon amie Janine est en vacances; elle est à Bordeaux.
+# My friend Janine is on holiday; she is in Bordeaux.
+# 
+# Janine est en vacances; elle est à Bordeaux.
+# Janine is on holiday; she is in Bordeaux.
+# 
+# Ma mère est en vacances; elle est à Bordeaux.
+# My mother is on holiday; she is in Bordeaux.
+# 
 Mlle Courtois est en vacances; elle est à Bordeaux.
 Miss Courtois is on vacation; she is in Bordeaux.
 
