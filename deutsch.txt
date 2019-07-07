@@ -1870,333 +1870,333 @@
 # Sein Bruder fährt das Auto. 
 # His brother is driving the car.
 # 
-# Ich fahre das Fahrrad. 
-# I am driving (riding) the bike.
+# # Ich fahre das Fahrrad. 
+# # I am driving (riding) the bike.
+# # 
+# # Ihre Schwester fährt den Lastkraftwagen. 
+# # Her sister is driving the semi truck.
+# # 
+# # Wir fahren den Wagen. 
+# # We are driving the car.
+# # 
+# # Mein Bruder hat das Auto. 
+# # My brother has the car.
+# # 
+# # Wir haben den Schlüssel. 
+# # We have the key.
 # 
-# Ihre Schwester fährt den Lastkraftwagen. 
-# Her sister is driving the semi truck.
+# einen Termin beim Zahnarzt vereinbaren
+# to arrange an appointment at the dentist
 # 
-# Wir fahren den Wagen. 
-# We are driving the car.
+# Er ist stets bemüht, freundlich zu sein.
+# He always tries to be nice.
 # 
-# Mein Bruder hat das Auto. 
-# My brother has the car.
+# Dünger steigert die Ernteerträge.
+# Fertilizer improves harvest yields.
 # 
-# Wir haben den Schlüssel. 
-# We have the key.
-
-einen Termin beim Zahnarzt vereinbaren
-to arrange an appointment at the dentist
-
-Er ist stets bemüht, freundlich zu sein.
-He always tries to be nice.
-
-Dünger steigert die Ernteerträge.
-Fertilizer improves harvest yields.
-
-Sie konnte sich im neuen Schuljahr notenmäßig erheblich steigern.
-She was able to improve her grades considerably in the new school year.
-
-vor Wut mit dem Fuß auf dem Boden stampfen
-to stamp your foot on the ground in anger
-
-Wer ist denn hier durchs Blumenbeet gestampft?
-Who has been trampling through the flower bed?
-
-der Lärm der stampfenden Maschinen
-the noise of the pounding machines
-
-Der Junge schniefte noch ein wenig, beruhigte sich dann aber wieder.
-The boy kept sniffing for a while, but then calmed down again.
-
-über die Regierung schimpfen
-to complain about the government
-
-Was müffelt hier so?
-Where’s that musty smell coming from?
-
-Das neue Gemeindezentrum wurde gestern eingeweiht.
-The new civic center was officially opened yesterday.
-
-Ich kann es nicht leiden, wenn dauernd Werbespots eingeblendet werden.
-I can’t stand it when commercials are constantly slotted in.
-
-Die Länge darf höchstens 2,50 m betragen.
-The length can be 2.50 meters tops.
-
-eine Auszeichnung verliehen bekommen
-to be presented with an award
-
-Er schreibt heute eine Mathearbeit und will deswegen nicht zur Schule gehen.
-He has a math test today, so he doesn’t want to go to school.
-
-Er gab ihm einen freundschaftlichen Knuff in die Seite.
-He gave him a friendly poke in the side.
-
-ein Brocken Erde
-a clump of earth
-
-Der Tisch hat tiefe Abdrücke im Teppich hinterlassen.
-The table left deep indentations in the carpet.
-
-Sie ging nicht auf seine Ausführungen ein, sondern beschied sich damit, bedächtig zu nicken.
-She didn’t go into his remarks but contented herself with nodding thoughtfully.
-
-Leider muss das Fest heute Abend ausfallen.
-Unfortunately tonight’s party has to be cancelled.
-
-Weil die Ernte ausfiel, brach eine Hungersnot aus.
-Famine broke out because the crop failed.
-
-Der Lift ist ausgefallen.
-The elevator is out of order.
-
-Der Verdächtige wurde in Handschellen abgeführt.
-The suspect was led away in handcuffs.
-
-Sie soll nach Hamburg versetzt werden.
-She’s to be transferred to Hamburg.
-
-Glaube kann Berge versetzen.
-Faith can move mountains.
-
-Mehrere Helfer wurden bei dem Einsatz verletzt.
-Several helpers were injured in the operation.
-
-Alle Mitarbeiter zeigten vollen Einsatz.
-All the workers showed complete commitment.
-
-Die Zahl der Studienanfänger hat deutlich zugenommen.
-The number of new students has increased markedly.
-
-sein Land, seine Freiheit verteidigen
-to defend your country, liberty
-
-Sie hat ihre Spielsachen im ganzen Zimmer verstreut.
-She has strewn her toys all over the room.
-
-Sie rauschte beleidigt aus dem Büro.
-She rushed out of the office in a huff.
-
-das gleichmäßige Rauschen des Verkehrs
-the constant roar of the traffic
-
-Das Wasser rauschte in die Badewanne.
-The water whooshed into the bathtub.
-
-Er hat der Polizei gegenüber falsche Angaben gemacht.
-He made false statements to the police.
-
-Das Ergebnis zu Aufgabe 2 lautet 32.
-The result of problem 2 is 32.
-
-Die Verhandlungen blieben ohne Ergebnis.
-The negotiations did not produce any concrete results.
-
-Zu welchem Ergebnis ist der Ausschuss gekommen?
-What conclusion did the committee come to?
-
-Mein Arzt sagt, ich darf mich nicht aufregen.
-My doctor says I shouldn’t get worked up about things.
-
-Die Patientin darf nicht aufgeregt werden.
-The patient mustn’t be upset.
-
-Diese Unordnung regt mich echt auf!
-This mess really annoys me.
-
-Meine Schwester hat den Wagen. 
-My sister has the car.
-
-Ich habe das Papier. 
-I have the paper.
-
-Wir haben das Geld. 
-We have the money.
-
-Markus probiert das Steak. 
-Markus is trying the steak.
-
-Sophie probiert die Wurst. 
-Sophie is trying the sausage.
-
-Johannes und Karin probieren den Salat. 
-Johannes and Karin are trying the salad.
-
-Das kleine Kind probiert die Banane. 
-The small child is trying the banana.
-
-Das große Kind probiert den Hamburger. 
-The big child is trying the hamburger.
-
-Der Opa probiert die Schokolade. 
-The grandfather is trying the chocolate.
- 
-Ich probiere das Müsli. 
-I am trying the cereal.
-
-Meine jungere Schwester probiert die Orange. 
-My younger sister is trying the orange.
-
-Mein älterer Bruder probiert den Apfel. 
-My older brother is trying the apple.
-
-Er findet den Vogel nicht.
-He doesn't find the bird.
-
-Wir finden den Vogel nicht.
-We can't find the bird.
-
-Sie findet den Vogel nicht.
-She doesn't find the bird.
-
-Ich finde den Vogel nicht.
-I can't find the bird.
-
-Ihr Bruder hört die Maus nicht.
-Her brother does not hear the mouse.
-
-Wir hören die Maus nicht.
-We don't hear the mouse.
-
-Seine Schwester hört die Maus nicht.
-His sister does not hear the mouse.
-
-Ich höre die Maus nicht.
-I don't hear the mouse.
-
-Er hört die Maus nicht.
-He does not hear the mouse.
-
-Wir verkaufen das Haus.
-We sell the house.
-
-Mein Bruder verkauft das Haus.
-My brother sells the house.
-
-Ich verkaufe das Haus.
-I sell the house.
-
-Meine Schwester verkauft das Haus.
-My sister sells the house.
-
-Er sieht den Ball.
-He sees the ball.
-
-Er sieht die Frau.
-He sees the woman.
-
-Er sieht das Kind.
-He sees the child.
-
-Er sieht den Mann.
-He sees the man.
-
-Er sieht die Blume.
-He sees the flower.
-
-Er sieht den Zug.
-He sees the train.
-
-Er sieht das Haus.
-He sees the house.
-
-Christoph und Carmen sehen den Vogel nicht.
-Christoph and Carmen don't see the bird.
-
-Christoph und Carmen sehen das Pferd nicht.
-Christoph and Carmen don't see the horse.
-
-Christoph und Carmen sehen die Maus nicht.
-Christoph and Carmen don't see the mouse.
-
-Christoph und Carmen sehen das Papier nicht.
-Christoph and Carmen don't see the paper.
-
-Christoph und Carmen sehen den Stift nicht.
-Christoph and Carmen don't see the pen.
-
-Christoph und Carmen sehen das Hemd nicht.
-Christoph and Carmen don't see the shirt.
-
-Christoph und Carmen sehen das Fahrrad nicht.
-Christoph and Carmen don't see the bike.
-
-Er sucht das Geld.
-He is looking for the money.
-
-Er sucht den Löffel.
-He is looking for the spoon.
-
-Er sucht die Post.
-He is looking for the post office.
-
-Er sucht das Pferd.
-He is looking for the horse.
-
-Er sucht den Hund.
-He is looking for the dog.
-
-Er sucht die Maus.
-He looks for the mouse.
-
-Er sucht den Schlüssel.
-He is looking for the key.
-
-Er sucht das Haus.
-He is looking for the house.
-
-Markus und Susanne hören den Vogel.
-Markus and Susanne hear the bird.
-
-Markus und Susanne hören die Maus.
-Markus and Susanne hear the mouse.
-
-Markus und Susanne hören den Hund.
-Markus and Susanne hear the dog.
-
-Markus und Susanne hören das Pferd.
-Markus and Susanne hear the horse.
-
-Markus und Susanne hören den Zug.
-Markus and Susanne hear the train.
-
-Markus und Susanne hören die Katze.
-Markus and Susanne hear the cat.
-
-Markus und Susanne hören das Kind.
-Markus and Susanne hear the child.
-
-Die Oma möchte den Stift.
-Grandma wants the pen.
-
-Die Oma möchte das Papier.
-Grandma wants the paper.
-
-Die Oma möchte die Milch.
-Grandma wants the milk.
-
-Die Oma möchte den Wein.
-Grandma wants the wine.
-
-Die Oma möchte das Geld.
-Grandma wants the money.
-
-Die Oma möchte die Pampelmuse.
-Grandma wants the grapefruit.
-
-Die Oma möchte den Käse.
-Grandma wants the cheese.
-
-Die Oma möchte die Schokolade.
-Grandma wants the chocolate.
-
-Birgit sucht den Hund, aber sie findet ihn nicht.
-Birgit is looking for the dog, but she can't find it.
-
-Birgit sucht die Maus, aber sie findet sie nicht.
-Birgit looks for the mouse, but she doesn't find it.
-
+# Sie konnte sich im neuen Schuljahr notenmäßig erheblich steigern.
+# She was able to improve her grades considerably in the new school year.
+# 
+# vor Wut mit dem Fuß auf dem Boden stampfen
+# to stamp your foot on the ground in anger
+# 
+# Wer ist denn hier durchs Blumenbeet gestampft?
+# Who has been trampling through the flower bed?
+# 
+# der Lärm der stampfenden Maschinen
+# the noise of the pounding machines
+# 
+# Der Junge schniefte noch ein wenig, beruhigte sich dann aber wieder.
+# The boy kept sniffing for a while, but then calmed down again.
+# 
+# über die Regierung schimpfen
+# to complain about the government
+# 
+# Was müffelt hier so?
+# Where’s that musty smell coming from?
+# 
+# Das neue Gemeindezentrum wurde gestern eingeweiht.
+# The new civic center was officially opened yesterday.
+# 
+# Ich kann es nicht leiden, wenn dauernd Werbespots eingeblendet werden.
+# I can’t stand it when commercials are constantly slotted in.
+# 
+# Die Länge darf höchstens 2,50 m betragen.
+# The length can be 2.50 meters tops.
+# 
+# eine Auszeichnung verliehen bekommen
+# to be presented with an award
+# 
+# Er schreibt heute eine Mathearbeit und will deswegen nicht zur Schule gehen.
+# He has a math test today, so he doesn’t want to go to school.
+# 
+# Er gab ihm einen freundschaftlichen Knuff in die Seite.
+# He gave him a friendly poke in the side.
+# 
+# ein Brocken Erde
+# a clump of earth
+# 
+# Der Tisch hat tiefe Abdrücke im Teppich hinterlassen.
+# The table left deep indentations in the carpet.
+# 
+# Sie ging nicht auf seine Ausführungen ein, sondern beschied sich damit, bedächtig zu nicken.
+# She didn’t go into his remarks but contented herself with nodding thoughtfully.
+# 
+# Leider muss das Fest heute Abend ausfallen.
+# Unfortunately tonight’s party has to be cancelled.
+# 
+# Weil die Ernte ausfiel, brach eine Hungersnot aus.
+# Famine broke out because the crop failed.
+# 
+# Der Lift ist ausgefallen.
+# The elevator is out of order.
+# 
+# Der Verdächtige wurde in Handschellen abgeführt.
+# The suspect was led away in handcuffs.
+# 
+# Sie soll nach Hamburg versetzt werden.
+# She’s to be transferred to Hamburg.
+# 
+# Glaube kann Berge versetzen.
+# Faith can move mountains.
+# 
+# Mehrere Helfer wurden bei dem Einsatz verletzt.
+# Several helpers were injured in the operation.
+# 
+# Alle Mitarbeiter zeigten vollen Einsatz.
+# All the workers showed complete commitment.
+# 
+# Die Zahl der Studienanfänger hat deutlich zugenommen.
+# The number of new students has increased markedly.
+# 
+# sein Land, seine Freiheit verteidigen
+# to defend your country, liberty
+# 
+# Sie hat ihre Spielsachen im ganzen Zimmer verstreut.
+# She has strewn her toys all over the room.
+# 
+# Sie rauschte beleidigt aus dem Büro.
+# She rushed out of the office in a huff.
+# 
+# das gleichmäßige Rauschen des Verkehrs
+# the constant roar of the traffic
+# 
+# Das Wasser rauschte in die Badewanne.
+# The water whooshed into the bathtub.
+# 
+# Er hat der Polizei gegenüber falsche Angaben gemacht.
+# He made false statements to the police.
+# 
+# Das Ergebnis zu Aufgabe 2 lautet 32.
+# The result of problem 2 is 32.
+# 
+# Die Verhandlungen blieben ohne Ergebnis.
+# The negotiations did not produce any concrete results.
+# 
+# Zu welchem Ergebnis ist der Ausschuss gekommen?
+# What conclusion did the committee come to?
+# 
+# Mein Arzt sagt, ich darf mich nicht aufregen.
+# My doctor says I shouldn’t get worked up about things.
+# 
+# Die Patientin darf nicht aufgeregt werden.
+# The patient mustn’t be upset.
+# 
+# Diese Unordnung regt mich echt auf!
+# This mess really annoys me.
+# 
+# Meine Schwester hat den Wagen. 
+# My sister has the car.
+# 
+# Ich habe das Papier. 
+# I have the paper.
+# 
+# Wir haben das Geld. 
+# We have the money.
+# 
+# Markus probiert das Steak. 
+# Markus is trying the steak.
+# 
+# Sophie probiert die Wurst. 
+# Sophie is trying the sausage.
+# 
+# Johannes und Karin probieren den Salat. 
+# Johannes and Karin are trying the salad.
+# 
+# Das kleine Kind probiert die Banane. 
+# The small child is trying the banana.
+# 
+# Das große Kind probiert den Hamburger. 
+# The big child is trying the hamburger.
+# 
+# Der Opa probiert die Schokolade. 
+# The grandfather is trying the chocolate.
+#  
+# Ich probiere das Müsli. 
+# I am trying the cereal.
+# 
+# Meine jungere Schwester probiert die Orange. 
+# My younger sister is trying the orange.
+# 
+# Mein älterer Bruder probiert den Apfel. 
+# My older brother is trying the apple.
+# 
+# Er findet den Vogel nicht.
+# He doesn't find the bird.
+# 
+# Wir finden den Vogel nicht.
+# We can't find the bird.
+# 
+# Sie findet den Vogel nicht.
+# She doesn't find the bird.
+# 
+# Ich finde den Vogel nicht.
+# I can't find the bird.
+# 
+# Ihr Bruder hört die Maus nicht.
+# Her brother does not hear the mouse.
+# 
+# Wir hören die Maus nicht.
+# We don't hear the mouse.
+# 
+# Seine Schwester hört die Maus nicht.
+# His sister does not hear the mouse.
+# 
+# Ich höre die Maus nicht.
+# I don't hear the mouse.
+# 
+# Er hört die Maus nicht.
+# He does not hear the mouse.
+# 
+# Wir verkaufen das Haus.
+# We sell the house.
+# 
+# Mein Bruder verkauft das Haus.
+# My brother sells the house.
+# 
+# Ich verkaufe das Haus.
+# I sell the house.
+# 
+# Meine Schwester verkauft das Haus.
+# My sister sells the house.
+# 
+# Er sieht den Ball.
+# He sees the ball.
+# 
+# Er sieht die Frau.
+# He sees the woman.
+# 
+# Er sieht das Kind.
+# He sees the child.
+# 
+# Er sieht den Mann.
+# He sees the man.
+# 
+# Er sieht die Blume.
+# He sees the flower.
+# 
+# Er sieht den Zug.
+# He sees the train.
+# 
+# Er sieht das Haus.
+# He sees the house.
+# 
+# Christoph und Carmen sehen den Vogel nicht.
+# Christoph and Carmen don't see the bird.
+# 
+# Christoph und Carmen sehen das Pferd nicht.
+# Christoph and Carmen don't see the horse.
+# 
+# Christoph und Carmen sehen die Maus nicht.
+# Christoph and Carmen don't see the mouse.
+# 
+# Christoph und Carmen sehen das Papier nicht.
+# Christoph and Carmen don't see the paper.
+# 
+# Christoph und Carmen sehen den Stift nicht.
+# Christoph and Carmen don't see the pen.
+# 
+# Christoph und Carmen sehen das Hemd nicht.
+# Christoph and Carmen don't see the shirt.
+# 
+# Christoph und Carmen sehen das Fahrrad nicht.
+# Christoph and Carmen don't see the bike.
+# 
+# Er sucht das Geld.
+# He is looking for the money.
+# 
+# Er sucht den Löffel.
+# He is looking for the spoon.
+# 
+# Er sucht die Post.
+# He is looking for the post office.
+# 
+# Er sucht das Pferd.
+# He is looking for the horse.
+# 
+# Er sucht den Hund.
+# He is looking for the dog.
+# 
+# Er sucht die Maus.
+# He looks for the mouse.
+# 
+# Er sucht den Schlüssel.
+# He is looking for the key.
+# 
+# Er sucht das Haus.
+# He is looking for the house.
+# 
+# Markus und Susanne hören den Vogel.
+# Markus and Susanne hear the bird.
+# 
+# Markus und Susanne hören die Maus.
+# Markus and Susanne hear the mouse.
+# 
+# Markus und Susanne hören den Hund.
+# Markus and Susanne hear the dog.
+# 
+# Markus und Susanne hören das Pferd.
+# Markus and Susanne hear the horse.
+# 
+# Markus und Susanne hören den Zug.
+# Markus and Susanne hear the train.
+# 
+# Markus und Susanne hören die Katze.
+# Markus and Susanne hear the cat.
+# 
+# Markus und Susanne hören das Kind.
+# Markus and Susanne hear the child.
+# 
+# Die Oma möchte den Stift.
+# Grandma wants the pen.
+# 
+# Die Oma möchte das Papier.
+# Grandma wants the paper.
+# 
+# Die Oma möchte die Milch.
+# Grandma wants the milk.
+# 
+# Die Oma möchte den Wein.
+# Grandma wants the wine.
+# 
+# Die Oma möchte das Geld.
+# Grandma wants the money.
+# 
+# Die Oma möchte die Pampelmuse.
+# Grandma wants the grapefruit.
+# 
+# Die Oma möchte den Käse.
+# Grandma wants the cheese.
+# 
+# Die Oma möchte die Schokolade.
+# Grandma wants the chocolate.
+# 
+# Birgit sucht den Hund, aber sie findet ihn nicht.
+# Birgit is looking for the dog, but she can't find it.
+# 
+# Birgit sucht die Maus, aber sie findet sie nicht.
+# Birgit looks for the mouse, but she doesn't find it.
+# 
 Birgit sucht das Pferd, aber sie findet es nicht.
 Birgit looks for the horse, but she doesn't find it.
 

@@ -2586,9 +2586,6 @@
 # 
 # Quand est-ce que vous allez en France?
 # When are you going to France?
-#  
-# Le pompier les a éteintes.
-# The fireman put them out.
 # 
 # Le pompier a éteint les flammes.
 # The fireman put out the flames.
@@ -5334,3 +5331,6 @@ Where are you going, sir?
 
 Que désirez-vous, Monsieur?
 What would you like, sir?
+
+Le pompier les a éteint.
+The fireman put them out.
