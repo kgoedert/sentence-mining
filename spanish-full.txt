@@ -2137,9 +2137,6 @@
 # A mí no me conoce.
 # He doesn't know me.
 # 
-# ¿Qué te ha reglado Luis?
-# What did Luis give you?
-# 
 # Y tú, ¿qué le has reglado a él?
 # And you, what did you give him.
 # 
@@ -9438,3 +9435,6 @@ They don't see us.
 
 Me ha regalado un reloj.
 He gave me a watch.
+
+¿Qué te ha regalado Luis?
+What did Luis give you?
