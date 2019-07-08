@@ -1738,9 +1738,6 @@
 # Ist hier vielleicht eine schnelle Katze? Ja, hier ist die schnelle Katze.
 # Is there maybe a fast cat here? Yes, here is the fast cat.
 # 
-# Ist hier vielleicht der schelle Hund? Ja, hier ist ein schneller Hund.
-# Is here perhaps the fast dog? Yes, here is a fast dog.
-# 
 # Ist hier vielleicht eine liebe Frau? Ja, hier ist die liebe Frau.
 # Is there perhaps a dear woman here? Yes, here is the dear woman.
 # 
@@ -5400,3 +5397,6 @@ The (male) teacher is allowing a little girl to write.
 
 Die Lehrerin erlaubt einem kleinen Jungen zu malen. 
 The (female) teacher is allowing a little boy to draw.
+
+Ist hier vielleicht der schnelle Hund? Ja, hier ist ein schneller Hund.
+Is here perhaps the fast dog? Yes, here is a fast dog.
