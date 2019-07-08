@@ -5358,3 +5358,45 @@ He trusts the woman.
 
 Er vertraut keiner Frau.
 He does not trust a woman.
+
+Wir geben dem großen Hund das Futter. 
+We are giving food to the big dog.
+
+Er gibt der weißen Katze das Futter. 
+He is giving food to the white cat.
+
+Frau Kunz gibt der grauen Maus das Futter. 
+Mrs. Kunz is giving food to the gray mouse.
+
+Ihr gebt dem braunen Pferd das Futter. 
+You (plural) are giving food to the brown horse.
+
+Der Kellner bringt dem alten Kunden ein schönes Steak. 
+The (male) waiter is bringing a nice steak to the old customer.
+
+Die Kellnerin bringt dem jungen Kind ein schönes Steak. 
+The (female) waiter is bringing a nice steak to the young child.
+
+Der Kellner bringt dem jungen Mann einen schönen Apfel. 
+The (male) waiter is bringing a nice apple to the young man.
+
+Die Kellnerin bringt dem kleinen Mädchen eine schöne Banane. 
+The (female) waiter is bringing a nice banana to the little girl.
+
+Der Kellner bringt der grauen Maus ein schönes Stück Käse.
+The (male) waiter is bringing a nice piece of cheese to the gray mouse.
+
+Die Kellnerin bringt der schwarzen Katze eine kalte Milch. 
+The (female) waiter is bringing a cold milk to the black cat.
+
+Der Polizist erlaubt einem alten Mann zu kommen. 
+The policeman is allowing an old man to come.
+
+Die Polizistin erlaubt einer jungen Frau zu gehen. 
+The policewoman is allowing a young woman to go.
+
+Der Lehrer erlaubt einem kleinen Mädchen zu schreiben. 
+The (male) teacher is allowing a little girl to write.
+
+Die Lehrerin erlaubt einem kleinen Jungen zu malen. 
+The (female) teacher is allowing a little boy to draw.
