@@ -5400,3 +5400,51 @@ The (female) teacher is allowing a little boy to draw.
 
 Ist hier vielleicht der schnelle Hund? Ja, hier ist ein schneller Hund.
 Is here perhaps the fast dog? Yes, here is a fast dog.
+
+Frau Kunz vertraut keinem alten Mann. 
+Mrs. Kunz does not trust any older man.
+
+Herr Kunz vertraut keiner alten Frau. 
+Mr. Kunz does not trust any older woman.
+
+Herr Schneider vertraut keinem neuen Autoverkäufer. 
+Mr. Schneider does not trust any new car salesman.
+
+Frau Schneider vertraut keinem jungen Kind. 
+Mrs. Schneider does not trust any young child.
+
+Das Kind vertraut keiner schwarzen Katze. 
+The child does not trust any black cat.
+
+Die Polizistin erlaubt einem großen Mann zu kommen.
+The policewoman allows a tall man to come.
+
+Die Polizistin erlaubt einer großen Frau zu kommen.
+The policewoman allows a tall woman to come.
+
+Die Polizistin erlaubt einem großen Dieb zu kommen.
+The policewoman allows a big thief to come.
+
+Die Polizistin erlaubt einem großen Mädchen zu kommen.
+The policewoman allows a big girl to come.
+
+Die Polizistin erlaubt einem großen Jungen zu kommen.
+The policewoman allows a big boy to come.
+
+Die Polizistin erlaubt einem großen Kunden zu kommen.
+The policewoman allows a big customer to come.
+
+Die Oma gibt einem schwarzen Pferd das Futter.
+Grandma feeds a black horse.
+
+Die Oma gibt einer schwarzen Maus das Futter.
+Grandma feeds a black mouse.
+
+Die Oma gibt einem schwarzen Vogel das Futter.
+Grandma feeds a black bird.
+
+Die Oma gibt einer schwarzen Katze das Futter.
+Grandma feeds a black cat.
+
+Die Oma gibt einem schwarzen Pferd das Futter.
+Grandma feeds a black horse.
