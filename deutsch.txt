@@ -5448,3 +5448,87 @@ Grandma feeds a black cat.
 
 Die Oma gibt einem schwarzen Pferd das Futter.
 Grandma feeds a black horse.
+
+Herr Schneider vertraut keinem jungen Autoverkäufer.
+Mr Schneider doesn't trust a young car salesman.
+
+Herr Schneider vertraut keiner jungen Chefin.
+Mr Schneider does not trust a young boss.
+
+Herr Schneider vertraut keinem jungen Chef.
+Mr Schneider does not trust a young boss.
+
+Herr Schneider vertraut keiner jungen Polizistin.
+Mr Schneider does not trust a young policewoman.
+
+Herr Schneider vertraut keinem jungen Vater.
+Mr Schneider does not trust a young father.
+
+Herr Schneider vertraut keiner jungen Mutter.
+Mr Schneider does not trust a young mother.
+
+Herr Schneider vertraut keinem jungen Koch.
+Mr Schneider does not trust a young cook.
+
+Herr Schneider vertraut keiner jungen Köchin.
+Mr Schneider does not trust a young cook.
+
+Der Kellner bringt einem guten Kunden ein schönes Steak.
+The waiter brings a nice steak to a good customer.
+
+Der Kellner bringt einer guten Chefin ein schönes Steak.
+The waiter brings a nice steak to a good chef.
+
+Der Kellner bringt einem guten Mädchen ein schönes Steak.
+The waiter brings a nice steak to a good girl.
+
+Der Kellner bringt einer guten Katze ein schönes Steak.
+The waiter brings a nice steak to a good cat.
+
+Der Kellner bringt einem guten Hund ein schönes Steak.
+The waiter brings a nice steak to a good dog.
+
+Der Kellner bringt einer guten Polizistin ein schönes Steak
+The waiter brings a nice steak to a good policewoman.
+
+Frau Schneider vertraut der jungen Köchin.
+Mrs. Schneider trusts the young cook.
+
+Frau Schneider vertraut dem jungen Chef.
+Mrs. Schneider trusts the young chef.
+
+Frau Schneider vertraut der jungen Chefin.
+Mrs. Schneider trusts the young chef.
+
+Frau Schneider vertraut dem jungen Koch.
+Mrs. Schneider trusts the young cook.
+
+Frau Schneider vertraut der jungen Mutter.
+Mrs. Schneider trusts the young mother.
+
+Frau Schneider vertraut dem jungen Vater.
+Mrs. Schneider trusts the young father.
+
+Frau Schneider vertraut der jungen Polizistin.
+Mrs. Schneider trusts the young policewoman.
+
+Frau Schneider vertraut dem jungen Autoverkäufer.
+Mrs. Schneider trusts the young car salesman.
+
+Die Kellnerin bringt dem guten Hund eine schöne Wurst.
+The waitress brings the good dog a nice sausage.
+
+Die Kellnerin bringt der guten Katze eine schöne Wurst.
+The waitress brings a beautiful sausage to the good cat.
+
+Die Kellnerin bringt dem guten Mädchen eine schöne Wurst.
+The waitress brings the good girl a nice sausage.
+
+Die Kellnerin bringt der guten Chefin eine schöne Wurst.
+The waitress brings the good boss a nice sausage.
+
+Die Kellnerin bringt dem guten Kunden eine schöne Wurst.
+The waitress brings the good customer a beautiful sausage.
+
+Die Kellnerin bringt der guten Polizistin eine schöne Wurst.
+The waitress brings the good policewoman a nice sausage.
