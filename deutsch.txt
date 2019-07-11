@@ -5532,3 +5532,54 @@ The waitress brings the good customer a beautiful sausage.
 
 Die Kellnerin bringt der guten Polizistin eine schöne Wurst.
 The waitress brings the good policewoman a nice sausage.
+
+Ich gebe einer jungen Frau ein schönes Geschenk.
+I'm giving a beautiful present to a young woman.
+
+Ich gebe einem jungen Mann ein schönes Geschenk.
+I give a beautiful gift to a young man.
+
+Ich gebe einem alten Mann ein schönes Geschenk.
+I give a beautiful gift to an old man.
+
+Ich präsentiere einem alten Mann ein schönes Geschenk. (präsentieren)
+I present a beautiful gift to an old man. (present)
+
+Herr Kunz präsentiert einem alten Mann ein schönes Geschenk.
+Mr. Kunz presents a beautiful gift to an old man.
+
+Herr Kunz präsentiert einer alten Frau ein schönes Geschenk.
+Mr. Kunz presents a beautiful gift to an old woman.
+
+Herr Kunz präsentiert einer kleinen Frau ein schönes Geschenk.
+Mr. Kunz presents a beautiful gift to a small woman.
+
+Herr Kunz gibt einer kleinen Frau ein schönes Geschenk. (geben)
+Mr. Kunz gives a beautiful gift to a small woman. (give)
+
+Herr und Frau Wagner geben einer kleinen Frau ein schönes Geschenk.
+Mr. and Mrs. Wagner give a small woman a nice present.
+
+Das kleine Kind zeigt dem alten Polizisten den Dieb.
+The little child shows the old policeman the thief.
+
+Das kleine Kind zeigt dem großen Polizisten den Dieb.
+The little child shows the thief to the big policeman.
+
+Das kleine Kind zeigt der großen Lehrerin den Dieb.
+The little child shows the thief to the big teacher.
+
+Das kleine Kind zeigt der netten Lehrerin den Dieb.
+The little child shows the thief to the nice teacher.
+
+Das kleine Kind zeigt dem netten Lehrer den Dieb.
+The little child shows the thief to the nice teacher.
+
+Das kleine Kind zeigt dem kleinen Lehrer den Dieb.
+The little child shows the thief to the little teacher.
+
+Das kleine Kind zeigt der kleinen Polizistin den Dieb.
+The little child shows the thief to the little policewoman.
+
+Das kleine Kind zeigt der alten Polizistin den Dieb.
+The little child shows the thief to the old policewoman.
