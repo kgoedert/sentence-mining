@@ -5583,3 +5583,33 @@ The little child shows the thief to the little policewoman.
 
 Das kleine Kind zeigt der alten Polizistin den Dieb.
 The little child shows the thief to the old policewoman.
+
+Der Polizist zeigt den Eltern die Kinder. 
+The policeman is pointing out the children to the parents.
+
+Die Polizistin zeigt den Verkäufern den Dieb. 
+The policewoman is pointing out the thief to the sales people.
+
+Der Lehrer zeigt den Kindern das Papier. 
+The teacher is showing the paper to the children.
+
+Der Vater zeigt den Mädchen den Stift. 
+The father is showing the pencil to the girls.
+
+Die Mutter zeigt den Jungen das Spielzeug. 
+The mother is showing the toy to the boys.
+
+Der Mann schreibt den jungen Eltern. 
+The man is writing to the young parents.
+
+Der Mann schreibt den treuen Mitarbeitern. 
+The man is writing to the faithful (male) employees.
+
+Die Frau schreibt den kleinen Kindern. 
+The woman is writing to the little children.
+
+Die Frau schreibt den treuen Mitarbeiterinnen. 
+The woman is writing to the faithful (female) employees.
+
+Der Mitarbeiter schreibt den alten Kollegen. 
+The (male) employee is writing to the former (male) colleagues.
