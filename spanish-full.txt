@@ -2137,9 +2137,6 @@
 # A mí no me conoce.
 # He doesn't know me.
 # 
-# Y tú, ¿qué le has reglado a él?
-# And you, what did you give him.
-# 
 # Luis le ha regalado un reloj.
 # Luis gave her a watch.
 # 
@@ -9498,3 +9495,7 @@ Surely the City Council will call competitive examinations this month.
 
 Os quedaréis toda la semana hasta las ocho.
 You will stay the whole week until eight o'clock.
+
+# 
+# Y tú, ¿qué le has reglado a él?
+# And you, what did you give him.
