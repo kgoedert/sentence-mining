@@ -2188,315 +2188,315 @@
 # Die Oma möchte die Schokolade.
 # Grandma wants the chocolate.
 # 
-# Birgit sucht den Hund, aber sie findet ihn nicht.
-# Birgit is looking for the dog, but she can't find it.
+# # Birgit sucht den Hund, aber sie findet ihn nicht.
+# # Birgit is looking for the dog, but she can't find it.
+# # 
+# # Birgit sucht die Maus, aber sie findet sie nicht.
+# # Birgit looks for the mouse, but she doesn't find it.
+# # 
+# Zum Kochen verwende ich fast nur Olivenöl.
+# I virtually only use olive oil for cooking.
 # 
-# Birgit sucht die Maus, aber sie findet sie nicht.
-# Birgit looks for the mouse, but she doesn't find it.
+# Ich habe schon viel zu viel Zeit auf dieses Projekt verwendet / verwandt.
+# I’ve already spent far too much time on this project.
 # 
-Zum Kochen verwende ich fast nur Olivenöl.
-I virtually only use olive oil for cooking.
-
-Ich habe schon viel zu viel Zeit auf dieses Projekt verwendet / verwandt.
-I’ve already spent far too much time on this project.
-
-Pass auf, dass du das Lineal nicht verschiebst.
-Be careful not to jog the ruler.
-
-Der Teppich hatte sich verschoben.
-The rug has moved.
-
-Sie mussten ihren Urlaub verschieben.
-They had to put their vacation off.
-
-Die Ankunft des Zuges verschiebt sich noch etwas.
-The train’s arrival will be delayed a bit longer.
-
-Die Bande hat gestohlene Autos über die Grenze verschoben.
-The gang smuggled stolen cars across the border.
-
-sich [ dative ] die Haare / einen Zopf flechten
-to braid your hair / to put your hair into pigtails
-
-Die Dächer der Hütten sind aus Palmwedeln geflochten.
-The roofs of the huts are made of woven palm fronds.
-
-Konnte ich deine Zweifel beseitigen?
-Was I able to dispel your doubts?
-
-Der Richter wurde von der Mafia beseitigt.
-The judge was taken out by the mafia.
-
-Sie warf ihm einen entgeisterten Blick zu.
-She looked at him aghast.
-
-Er sah mich entgeistert an: „Das kann doch nicht dein Ernst sein!‟
-He looked at me aghast. “You can’t be serious.”
-
-Sie suchte im Eingang Schutz vor dem Regen.
-She sought shelter from the rain in the doorway.
-
-die Schrauben festdrehen
-to screw in the screws
-
-Die Einzahl von „Antibiotika‟ ist „Antibiotikum‟.
-The singular of “Antibiotika” is “Antibiotikum”.
-
-den Rasen mähen
-to mow the lawn
-
-ein Gedicht schreiben
-to write a poem
-
-Ich rufe dauernd an, aber keiner hebt ab.
-I keep calling but no one is answering.
-
-Heb ab!
-Cut the cards.
-
-Ich möchte gern 300 Euro von meinem Sparbuch abheben.
-I’d like to withdraw 300 euros from my savings account.
-
-Gleich heben wir ab.
-We’ll be taking off in a moment.
-
-Ihr Beitrag hebt sich positiv von den anderen ab.
-Your piece compares favorably with the others’.
-
-Brichst du mir bitte ein Stück vom Brot ab?
-Could you break off a bit of read for me?
-
-Der Absatz meines Stiefels ist abgebrochen.
-The heel of my boot broke off.
-
-einen abgebrochenen Fingernagel haben
-to have a broken fingernail
-
-Er hat das Studium abgebrochen.
-He dropped out of college.
-
-Die Verbindung ist plötzlich abgebrochen.
-The line suddenly went dead.
-
-Der alte Bahnhof wurde abgebrochen und ein neuer gebaut.
-The old station was pulled down and a new one built in its place.
-
-Die Nomaden haben ihr Lager abgebrochen und sind weitergezogen.
-The nomads broke camp and moved on.
-
-Birgit sucht das Pferd, aber sie findet es nicht.
-Birgit looks for the horse, but she doesn't find it.
-
-Birgit sucht die Post, aber sie findet sie nicht.
-Birgit is looking for the mail, but she can't find it.
-
-Birgit sucht das Haus, aber sie findet es nicht.
-Birgit is looking for the house, but she can't find it.
-
-Birgit sucht den Löffel, aber sie findet ihn nicht.
-Birgit looks for the spoon, but she doesn't find it.
-
-Birgit sucht das Geld, aber sie findet es nicht.
-Birgit is looking for the money, but she cannot find it.
-
-Birgit sucht den Schlüssel, aber sie findet ihn nicht
-Birgit looks for the key, but she doesn't find it.
-
-Wir hören das Pferd, aber wir sehen es nicht.
-We hear the horse, but we don't see it.
-
-Wir hören den Zug, aber wir sehen ihn nicht.
-We hear the train, but we don't see it.
-
-Wir hören die Katze, aber wir sehen sie nicht.
-We hear the cat, but we don't see it.
-
-Wir hören das Kind, aber wir sehen es nicht.
-We hear the child, but we don't see it.
-
-Wir hören den Vogel, aber wir sehen ihn nicht.
-We hear the bird, but we do not see it.
-
-Wir hören die Maus, aber wir sehen sie nicht.
-We hear the mouse, but we do not see it.
-
-Wir hören den Hund, aber wir sehen ihn nicht.
-We hear the dog, but we do not see it.
-
-Sophie kauft das Auto.
-Sophie buys the car.
-
-Sophie kauft die Katze.
-Sophie buys the cat.
-
-Sophie kauft das Haus.
-Sophie buys the house.
-
-Sophie kauft den Wagen.
-Sophie buys the car.
-
-Sophie kauft das Pferd.
-Sophie buys the horse.
-
-Sophie kauft den Stuhl.
-Sophie buys the chair.
-
-Sophie kauft die Hose.
-Sophie buys the trousers.
-
-Sophie kauft den Tisch.
-Sophie buys the table.
-
-Der Vater möchte den Wein.
-The father wants the wine.
-
-Der Vater möchte die Milch.
-The father wants the milk.
-
-Der Vater möchte den Käse.
-The father wants the cheese.
-
-Der Vater möchte die Pampelmuse.
-The father wants the grapefruit.
-
-Der Vater möchte das Papier.
-The father wants the paper.
-
-Der Vater möchte den Stift.
-The father wants the pen.
-
-Der Vater möchte das Geld.
-The father wants the money.
-
-Das Kind sieht das Haus.
-The child sees the house.
-
-Das Kind sieht die Blume.
-The child sees the flower.
-
-Das Kind sieht den Mann.
-The child sees the man.
-
-Das Kind sieht die Frau.
-The child sees the woman.
-
-Das Kind sieht den Zug.
-The child sees the train.
-
-Das Kind sieht das Kind.
-The child sees the child.
-
-Das Kind sieht den Ball.
-The child sees the ball.
-
-Wir suchen den Schlüssel.
-We are looking for the key.
-
-Wir suchen das Pferd.
-We are looking for the horse.
-
-Wir suchen die Post.
-We are looking for the post office.
-
-Wir suchen den Hund.
-We are looking for the dog.
-
-Wir suchen das Geld.
-We are looking for the money.
-
-Wir suchen die Maus.
-We are looking for the mouse.
-
-Wir suchen das Haus.
-We are looking for the house.
-
-Wir suchen den Löffel.
-We look for the spoon.
-
-Wir suchen die Post.
-We are looking for the post office.
-
-Hören Sie den Vogel?
-Do you hear the bird?
-
-Hören Sie die Maus?
-Do you hear the mouse?
-
-Hören Sie das Auto?
-Do you hear the car?
-
-Hören Sie den Zug?
-Do you hear the train?
-
-Hören Sie die Katze?
-Do you hear the cat?
-
-Hören Sie das Pferd?
-Do you hear the horse?
-
-Sehen Sie das Café?
-Do you see the café?
-
-Sehen Sie die S-Bahn?
-Do you see the S-Bahn?
-
-Sehen Sie den Zug?
-Do you see the train?
-
-Sehen Sie das Haus?
-Do you see the house?
-
-Sehen Sie die Post?
-Do you see the post office?
-
-Sehen Sie den Bahnhof?
-Do you see the station?
-
-Sehen Sie das Restaurant?
-Do you see the restaurant?
-
-Sehen Sie die U-Bahn?
-Do you see the subway?
-
-Sehen Sie das Taxi?
-Do you see the taxi?
-
-Das Kind ist verloren. Suchen Sie das Kind?
-The child is lost. Are you looking for the child?
-
-Die Katze ist verloren. Suchen Sie die Katze?
-The cat is lost. Are you looking for the cat?
-
-Der Hund ist verloren. Suchen Sie den Hund?
-The dog is lost. Are you looking for the dog?
-
-Die Maus ist verloren. Suchen Sie die Maus?
-The mouse is lost. Are you looking for the mouse?
-
-Das Pferd ist verloren. Suchen Sie das Pferd?
-The horse is lost. Are you looking for the horse?
-
-Der Schlüssel ist verloren. Suchen Sie den Schlüssel?
-The key is lost. Looking for the key?
-
-Die Gabel ist verloren. Suchen Sie die Gabel?
-The fork is lost. Are you looking for the fork?
-
-Das Geld ist verloren. Suchen Sie das Geld?
-The money is lost. Are you looking for the money?
-
-Schauen Sie mal, der Hund ist da. Ich sehe den Hund nicht.
-Look, the dog's here. I don't see the dog.
-
-Schauen Sie mal, das Haus ist da. Ich sehe das Haus nicht.
-Look, the house is there. I don't see the house.
-
-Schauen Sie mal, die Post ist da. Ich sehe die Post nicht.
-Look, the mail is there. I don't see the mail.
-
-Schauen Sie mal, der Zug ist da. Ich sehe den Zug nicht.
-Look, the train is here. I don't see the train.
-
+# Pass auf, dass du das Lineal nicht verschiebst.
+# Be careful not to jog the ruler.
+# 
+# Der Teppich hatte sich verschoben.
+# The rug has moved.
+# 
+# Sie mussten ihren Urlaub verschieben.
+# They had to put their vacation off.
+# 
+# Die Ankunft des Zuges verschiebt sich noch etwas.
+# The train’s arrival will be delayed a bit longer.
+# 
+# Die Bande hat gestohlene Autos über die Grenze verschoben.
+# The gang smuggled stolen cars across the border.
+# 
+# sich [ dative ] die Haare / einen Zopf flechten
+# to braid your hair / to put your hair into pigtails
+# 
+# Die Dächer der Hütten sind aus Palmwedeln geflochten.
+# The roofs of the huts are made of woven palm fronds.
+# 
+# Konnte ich deine Zweifel beseitigen?
+# Was I able to dispel your doubts?
+# 
+# Der Richter wurde von der Mafia beseitigt.
+# The judge was taken out by the mafia.
+# 
+# Sie warf ihm einen entgeisterten Blick zu.
+# She looked at him aghast.
+# 
+# Er sah mich entgeistert an: „Das kann doch nicht dein Ernst sein!‟
+# He looked at me aghast. “You can’t be serious.”
+# 
+# Sie suchte im Eingang Schutz vor dem Regen.
+# She sought shelter from the rain in the doorway.
+# 
+# die Schrauben festdrehen
+# to screw in the screws
+# 
+# Die Einzahl von „Antibiotika‟ ist „Antibiotikum‟.
+# The singular of “Antibiotika” is “Antibiotikum”.
+# 
+# den Rasen mähen
+# to mow the lawn
+# 
+# ein Gedicht schreiben
+# to write a poem
+# 
+# Ich rufe dauernd an, aber keiner hebt ab.
+# I keep calling but no one is answering.
+# 
+# Heb ab!
+# Cut the cards.
+# 
+# Ich möchte gern 300 Euro von meinem Sparbuch abheben.
+# I’d like to withdraw 300 euros from my savings account.
+# 
+# Gleich heben wir ab.
+# We’ll be taking off in a moment.
+# 
+# Ihr Beitrag hebt sich positiv von den anderen ab.
+# Your piece compares favorably with the others’.
+# 
+# Brichst du mir bitte ein Stück vom Brot ab?
+# Could you break off a bit of read for me?
+# 
+# Der Absatz meines Stiefels ist abgebrochen.
+# The heel of my boot broke off.
+# 
+# einen abgebrochenen Fingernagel haben
+# to have a broken fingernail
+# 
+# Er hat das Studium abgebrochen.
+# He dropped out of college.
+# 
+# Die Verbindung ist plötzlich abgebrochen.
+# The line suddenly went dead.
+# 
+# Der alte Bahnhof wurde abgebrochen und ein neuer gebaut.
+# The old station was pulled down and a new one built in its place.
+# 
+# Die Nomaden haben ihr Lager abgebrochen und sind weitergezogen.
+# The nomads broke camp and moved on.
+# 
+# Birgit sucht das Pferd, aber sie findet es nicht.
+# Birgit looks for the horse, but she doesn't find it.
+# 
+# Birgit sucht die Post, aber sie findet sie nicht.
+# Birgit is looking for the mail, but she can't find it.
+# 
+# Birgit sucht das Haus, aber sie findet es nicht.
+# Birgit is looking for the house, but she can't find it.
+# 
+# Birgit sucht den Löffel, aber sie findet ihn nicht.
+# Birgit looks for the spoon, but she doesn't find it.
+# 
+# Birgit sucht das Geld, aber sie findet es nicht.
+# Birgit is looking for the money, but she cannot find it.
+# 
+# Birgit sucht den Schlüssel, aber sie findet ihn nicht
+# Birgit looks for the key, but she doesn't find it.
+# 
+# Wir hören das Pferd, aber wir sehen es nicht.
+# We hear the horse, but we don't see it.
+# 
+# Wir hören den Zug, aber wir sehen ihn nicht.
+# We hear the train, but we don't see it.
+# 
+# Wir hören die Katze, aber wir sehen sie nicht.
+# We hear the cat, but we don't see it.
+# 
+# Wir hören das Kind, aber wir sehen es nicht.
+# We hear the child, but we don't see it.
+# 
+# Wir hören den Vogel, aber wir sehen ihn nicht.
+# We hear the bird, but we do not see it.
+# 
+# Wir hören die Maus, aber wir sehen sie nicht.
+# We hear the mouse, but we do not see it.
+# 
+# Wir hören den Hund, aber wir sehen ihn nicht.
+# We hear the dog, but we do not see it.
+# 
+# Sophie kauft das Auto.
+# Sophie buys the car.
+# 
+# Sophie kauft die Katze.
+# Sophie buys the cat.
+# 
+# Sophie kauft das Haus.
+# Sophie buys the house.
+# 
+# Sophie kauft den Wagen.
+# Sophie buys the car.
+# 
+# Sophie kauft das Pferd.
+# Sophie buys the horse.
+# 
+# Sophie kauft den Stuhl.
+# Sophie buys the chair.
+# 
+# Sophie kauft die Hose.
+# Sophie buys the trousers.
+# 
+# Sophie kauft den Tisch.
+# Sophie buys the table.
+# 
+# Der Vater möchte den Wein.
+# The father wants the wine.
+# 
+# Der Vater möchte die Milch.
+# The father wants the milk.
+# 
+# Der Vater möchte den Käse.
+# The father wants the cheese.
+# 
+# Der Vater möchte die Pampelmuse.
+# The father wants the grapefruit.
+# 
+# Der Vater möchte das Papier.
+# The father wants the paper.
+# 
+# Der Vater möchte den Stift.
+# The father wants the pen.
+# 
+# Der Vater möchte das Geld.
+# The father wants the money.
+# 
+# Das Kind sieht das Haus.
+# The child sees the house.
+# 
+# Das Kind sieht die Blume.
+# The child sees the flower.
+# 
+# Das Kind sieht den Mann.
+# The child sees the man.
+# 
+# Das Kind sieht die Frau.
+# The child sees the woman.
+# 
+# Das Kind sieht den Zug.
+# The child sees the train.
+# 
+# Das Kind sieht das Kind.
+# The child sees the child.
+# 
+# Das Kind sieht den Ball.
+# The child sees the ball.
+# 
+# Wir suchen den Schlüssel.
+# We are looking for the key.
+# 
+# Wir suchen das Pferd.
+# We are looking for the horse.
+# 
+# Wir suchen die Post.
+# We are looking for the post office.
+# 
+# Wir suchen den Hund.
+# We are looking for the dog.
+# 
+# Wir suchen das Geld.
+# We are looking for the money.
+# 
+# Wir suchen die Maus.
+# We are looking for the mouse.
+# 
+# Wir suchen das Haus.
+# We are looking for the house.
+# 
+# Wir suchen den Löffel.
+# We look for the spoon.
+# 
+# Wir suchen die Post.
+# We are looking for the post office.
+# 
+# Hören Sie den Vogel?
+# Do you hear the bird?
+# 
+# Hören Sie die Maus?
+# Do you hear the mouse?
+# 
+# Hören Sie das Auto?
+# Do you hear the car?
+# 
+# Hören Sie den Zug?
+# Do you hear the train?
+# 
+# Hören Sie die Katze?
+# Do you hear the cat?
+# 
+# Hören Sie das Pferd?
+# Do you hear the horse?
+# 
+# Sehen Sie das Café?
+# Do you see the café?
+# 
+# Sehen Sie die S-Bahn?
+# Do you see the S-Bahn?
+# 
+# Sehen Sie den Zug?
+# Do you see the train?
+# 
+# Sehen Sie das Haus?
+# Do you see the house?
+# 
+# Sehen Sie die Post?
+# Do you see the post office?
+# 
+# Sehen Sie den Bahnhof?
+# Do you see the station?
+# 
+# Sehen Sie das Restaurant?
+# Do you see the restaurant?
+# 
+# Sehen Sie die U-Bahn?
+# Do you see the subway?
+# 
+# Sehen Sie das Taxi?
+# Do you see the taxi?
+# 
+# Das Kind ist verloren. Suchen Sie das Kind?
+# The child is lost. Are you looking for the child?
+# 
+# Die Katze ist verloren. Suchen Sie die Katze?
+# The cat is lost. Are you looking for the cat?
+# 
+# Der Hund ist verloren. Suchen Sie den Hund?
+# The dog is lost. Are you looking for the dog?
+# 
+# Die Maus ist verloren. Suchen Sie die Maus?
+# The mouse is lost. Are you looking for the mouse?
+# 
+# Das Pferd ist verloren. Suchen Sie das Pferd?
+# The horse is lost. Are you looking for the horse?
+# 
+# Der Schlüssel ist verloren. Suchen Sie den Schlüssel?
+# The key is lost. Looking for the key?
+# 
+# Die Gabel ist verloren. Suchen Sie die Gabel?
+# The fork is lost. Are you looking for the fork?
+# 
+# Das Geld ist verloren. Suchen Sie das Geld?
+# The money is lost. Are you looking for the money?
+# 
+# Schauen Sie mal, der Hund ist da. Ich sehe den Hund nicht.
+# Look, the dog's here. I don't see the dog.
+# 
+# Schauen Sie mal, das Haus ist da. Ich sehe das Haus nicht.
+# Look, the house is there. I don't see the house.
+# 
+# Schauen Sie mal, die Post ist da. Ich sehe die Post nicht.
+# Look, the mail is there. I don't see the mail.
+# 
+# Schauen Sie mal, der Zug ist da. Ich sehe den Zug nicht.
+# Look, the train is here. I don't see the train.
+# 
 Schauen Sie mal, die Haltestelle ist da. Ich sehe die Haltestelle nicht.
 Look, the station is there. I don't see the stop.
 
