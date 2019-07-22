@@ -5368,3 +5368,128 @@ She has a lot of kids hein? Yes, a lot!
 Ça va chier !
 You are going to have troubles for that...
 
+Vous êtes seul.
+You are alone.
+
+Ils sont seuls.
+They are alone.
+
+Elles sont seules.
+They are alone.
+
+Je voudrais une chambre avec salle de bains.
+I would like a room with a bathroom.
+
+Je voudrais deux chambres communicantes.
+I would like two communicating rooms.
+
+Nous avons deux chambres communicantes.
+We have two communicating rooms.
+
+Nous avons la monnaie pour vingt euros.
+We have change for twenty euros.
+
+Il a les bagages.
+He has the luggage.
+
+Je voudrais les bagages.
+I'd like the luggage.
+
+Je voudrais une chambre avec salle de bains.
+I would like a room with a bathroom.
+
+Il veut le livre.
+He wants the book.
+
+Est-ce qu'elle est toujours en retard?
+Is she always late?
+
+Est-qu'elles sont toujours en retard?
+Are they always late?
+
+Est-ce qu'elles sont toujours ensemble?
+Are they still together?
+
+Est-ce qu'ils sont toujours avec eux?
+Are they still with them?
+
+Est-ce qu'il est toujours avec eux?
+Is he still with them?
+
+Allez-vous me la présenter?
+Are you going to introduce me to her?
+
+Désirez-vous me la présenter?
+Would you like to present it to me?
+
+Désirez-vous me le répéter?
+Would you like to repeat it to me?
+
+Voulez-vous me le répéter?
+Would you like to tell me again?
+
+Voulez-vous me le dire?
+Do you want to tell me?
+
+Allez-vous me le dire?
+Are you going to tell me?
+
+Vous voulez changer de chambre?
+Do you want to change rooms?
+
+Vous allez changer de chambre?
+Are you going to change rooms?
+
+Vous allez remplir les fiches?
+Are you going to fill out the forms?
+
+Nous allons remplir les fiches?
+We're going to fill out the forms?
+
+Nous allons apporter les bagages?
+We're going to bring the luggage?
+
+Il va apporter les bagages?
+Is he going to bring the luggage?
+
+Il va déjeuner plus tard?
+Is he going to lunch later?
+
+Vous désirez déjeuner plus tard?
+Would you like to have lunch later?
+
+Vous désirez changer de chambre?
+Would you like to change rooms?
+
+Je voudrais changer de chambre.
+I would like to change rooms.
+
+Nous allons changer de chambre.
+We're going to change rooms.
+
+Nous allons changer d'hôtel.
+We're going to change hotels.
+
+Elle voudrait changer d'hôtel.
+She would like to change hotels.
+
+Elle voudrait changer d'étage.
+She would like to change floors.
+
+On va changer d'étage.
+We're going to change floors.
+
+On va changer de classe.
+We're going to change classes.
+
+Vous allez changer de classe.
+You're going to change classes.
+
+Vous allez changer de livre.
+You're going to change the book.
+
+J'espère changer de livre.
+I hope to change the book.
+
+J'espère changer de chambre.
+I hope to change rooms.
