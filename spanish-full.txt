@@ -2473,9 +2473,6 @@
 # Vamos a Viña todos los años.
 # We go to Viña every year.
 # 
-# Las cigüeñas vienen a España en primevera.
-# The storks come to Spain during spring.
-# 
 # ¿Adónde vais?
 # Where are you going?
 # 
@@ -9771,3 +9768,6 @@ We got married in 2008 and a year later our daughter would be born.
 
 Mi abuelo emigró a Caracas en 1930. Al año siguiente conocería a Matilde, su esposa, y ya se quedaría y moriría allí.
 My grandfather emigrated to Caracas in 1930. The following year he would meet Matilde, his wife, and he would stay and die there.
+
+Las cigüeñas vienen a España en primavera.
+The storks come to Spain during spring.
