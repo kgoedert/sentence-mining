@@ -5493,3 +5493,24 @@ I hope to change the book.
 
 J'espère changer de chambre.
 I hope to change rooms.
+
+Je donne ce cadeau à Paul et Marie. Je leur donne ce cadeau.
+I give this gift to Paul and Mary. I give them this gift.
+
+Je donne ce cadeau à Marie. Je lui donne.
+I give this gift to Mary. I give it to him.
+
+Paul et Marie ont un chien qui s’appelle Pilou. Leur chien s’appelle Pilou.
+Paul and Mary have a dog called Pilou. Their dog's name is Pilou.
+
+Paul et Marie ont deux chiens qui s’appellent Pilou et Loupi. Leurs chiens s’appellent Pilou et Loupi.
+Paul and Mary have two dogs called Pilou and Loupi. Their dogs are called Pilou and Loupi.
+
+Paul et Marie ont un chien. C’est le leur. 
+Paul and Mary have a dog. It's theirs. 
+
+Paul et Marie ont une voiture. C’est la leur.
+Paul and Marie have a car. It's theirs.
+
+Paul et Marie ont deux chiens. Ce sont les leurs.
+Paul and Mary have two dogs. They are their own.
