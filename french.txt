@@ -5559,3 +5559,336 @@ Do you know the restaurant?
 
 Connaissez-vous la direction?
 Do you know the direction?
+
+Avez-vous une fiche?
+Do you have a card?
+
+Avez-vous une chambre?
+Do you have a room?
+
+Avez-vous une sœur?
+Do you have a sister?
+
+Avez-vous une fille?
+Do you have a daughter?
+
+Avez-vous une salle de bains?
+Do you have a bathroom?
+
+Avez-vous une femme de chambre?
+Do you have a maid?
+
+Avez-vous une classe?
+Do you have a class?
+
+Ils ont une fiche.
+They have a card.
+
+Ils ont des fiches.
+They have cards.
+
+Ils ont une sœur.
+They have a sister.
+
+Ils ont des sœurs.
+They have sisters.
+
+Ils ont une nouvelle.
+They have news.
+
+Ils ont des nouvelles.
+They have some news.
+
+Ils ont une chambre.
+They have a room.
+
+Ils ont des chambres.
+They have rooms.
+
+Ils ont une salle de bains.
+They have a bathroom.
+
+Ils ont des salles de bains.
+They have bathrooms.
+
+Ils ont un café.
+They have a coffee.
+
+Ils ont un livre.
+They have a book.
+
+Ils ont un jour.
+They have a day.
+
+Ils ont un frère.
+They have a brother.
+
+Ils ont un fils.
+They have a son.
+
+Ils ont un restaurant.
+They have a restaurant.
+
+Ils ont un étage.
+They have a floor.
+
+Ils ont un hôtel.
+They have a hotel.
+
+Ils ont un ami.
+They have a friend.
+
+Ils ont un enfant.
+They have a child.
+
+Ils ont un restaurant.
+They have a restaurant.
+
+Ils ont des restaurants.
+They have restaurants.
+
+Ils ont un livre.
+They have a book.
+
+Ils ont des livres.
+They have books.
+
+Ils ont un café.
+They have a coffee.
+
+Ils ont des cafés.
+They have coffee.
+
+Ils ont un frère.
+They have a brother.
+
+Ils ont des frères.
+They have brothers.
+
+Ils ont un fils.
+They have a son.
+
+Ils ont des fils.
+They have sons.
+
+Voilà un hôtel.
+There's a hotel.
+
+Voilà des hôtels.
+These are hotels.
+
+Voilà un enfant.
+There's a child.
+
+Voilà des enfants.
+These are children.
+
+Voilà un ami.
+Here's a friend of mine.
+
+Voilà des amis.
+Here are some friends.
+
+Voilà une amie.
+This is a friend of mine.
+
+Voilà des amies.
+Here are some friends.
+
+Voilà un restaurant.
+There's a restaurant.
+
+Voilà des restaurants
+Here are some restaurants
+
+Avez-vous une fiche?
+Do you have a card?
+
+Avez-vous des fiches?
+Do you have any cards?
+
+Avez-vous un ami?
+Do you have a friend?
+
+Avez-vous des amis?
+Do you have any friends?
+
+Avez-vous un livre?
+Do you have a book?
+
+Avez-vous des livres?
+Do you have any books?
+
+Avez-vous une amie?
+Do you have a friend?
+
+Avez-vous des amies?
+Do you have any friends?
+
+Avez-vous un enfant?
+Do you have a child?
+
+Avez-vous des enfants?
+Do you have children?
+
+Avez-vous une question?
+Do you have a question?
+
+Avez-vous des questions?
+Do you have any questions?
+
+Avez-vous une nouvelle?
+Do you have any news?
+
+Avez-vous des nouvelles?
+Do you have any news?
+
+Avez-vous des livres? Oui, nous avons un livre.
+Do you have any books? Yes, we have a book.
+
+Avez-vous des frères? Oui, nous avons un frère.
+Do you have any brothers? Yes, we have a brother.
+
+Avez-vous des fiches? Oui, nous avons une fiche.
+Do you have any cards? Yes, we have a card.
+
+Avez-vous des sœurs? Oui, nous avons une sœur.
+Do you have any sisters? Yes, we have a sister.
+
+Avez-vous des questions? Oui, nous avons une question.
+Do you have any questions? Yes, we have a question.
+
+Avez-vous des chambres? Oui, nous avons une chambre.
+Do you have rooms? Yes, we have a room.
+
+Avez-vous des enfants? Oui, nous avons un enfant.
+Do you have children? Yes, we have a child.
+
+Avez-vous plusieurs frères? Non, j'ai un frère.
+Do you have several brothers? No, I have a brother.
+
+Avez-vous plusieurs sœurs? Non, j'ai une sœur.
+Do you have several sisters? No, I have a sister.
+
+Avez-vous plusieurs fiches? Non, j'ai une fiche.
+Do you have several cards? No, I have a card.
+
+Avez-vous plusieurs restaurants? Non, j'ai un restaurant.
+Do you have several restaurants? No, I have a restaurant.
+
+Avez-vous plusieurs questions? Non, j'ai une question.
+Do you have several questions? No, I have a question.
+
+Avez-vous plusieurs chambres? Non, j'ai une chambre.
+Do you have several rooms? No, I have a room.
+
+Avez-vous plusieurs salles de bains? Non, j'ai une salle de bains.
+Do you have several bathrooms? No, I have a bathroom.
+
+Avez-vous plusieurs étages? Non, j'ai un étage.
+Do you have several floors? No, I have a floor.
+
+Ils ont un frère.
+They have a brother.
+
+Ils ont une sœur.
+They have a sister.
+
+Ils ont une fiche.
+They have a card.
+
+Ils ont des bagages.
+They have luggage.
+
+Ils ont une fille.
+They have a daughter.
+
+Ils ont un fils.
+They have a son.
+
+Ils ont une chambre.
+They have a room.
+
+Ils ont un café.
+They have a coffee.
+
+Ils ont un restaurant.
+They have a restaurant.
+
+Ils ont un livre.
+They have a book.
+
+Ils ont un hôtel.
+They have a hotel.
+
+Ils ont des livres.
+They have books.
+
+Voilà les bagages. Voilà des bagages.
+Here's the luggage. Here's some luggage.
+
+Voilà le café. Voilà un café.
+Here's the coffee. Here's a coffee.
+
+Voilà l'hôtel. Voilà un hôtel.
+There's the hotel. There's a hotel.
+
+Voilà le livre. Voilà un livre.
+Here's the book. Here's a book.
+
+Voilà les livres. Voilà des livres.
+Here are the books. Here are some books.
+
+Voilà la classe. Voilà une classe.
+That's the class. This is a class.
+
+Voilà la question. Voilà une question.
+That is the question. That's a question.
+
+Voilà la chambre. Voilà une chambre.
+This is the bedroom. This is a room.
+
+Voilà le café. Voilà un café.
+Here's the coffee. Here's a coffee.
+
+Voilà la fiche. Voilà une fiche.
+Here's the card. Here's a card.
+
+Voilà le restaurant. Voilà un restaurant
+There's the restaurant. This is a restaurant.
+
+Voilà votre salle de bains. Voilà une salle de bains.
+This is your bathroom. This is a bathroom.
+
+Voilà vos bagages. Voilà des bagages.
+Here's your luggage. Here's some luggage.
+
+Voilà votre chambre. Voilà une chambre.
+This is your room. This is a room.
+
+Voilà vos bagages. Voilà des bagages.
+Here's your luggage. Here's some luggage.
+
+Voilà votre café. Voilà un café.
+Here's your coffee. Here's a coffee.
+
+Voilà votre fiche. Voilà une fiche.
+Here's your card. Here's a card.
+
+Voilà vos livres. Voilà des livres.
+Here are your books. Here are some books.
+
+Voilà votre porte. Voilà une porte.
+Here's your door. There's a door.
+
+Voilà vos fiches. Voilà des fiches.
+Here are your cards. Here are some cards.
+
+Voilà votre livre. Voilà un livre.
+Here's your book. Here's a book.
+
+Voilà votre classe. Voilà une classe.
+This is your class. This is a class.
+
+Voilà votre restaurant. Voilà un restaurant.
+There's your restaurant. There's a restaurant.
