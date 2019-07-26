@@ -5514,3 +5514,120 @@ Paul and Marie have a car. It's theirs.
 
 Paul et Marie ont deux chiens. Ce sont les leurs.
 Paul and Mary have two dogs. They are their own.
+
+Ma famille arrive ce soir.
+My family is coming tonight.
+
+Ma famille arrive demain.
+My family is coming tomorrow.
+
+Le gérant arrive demain.
+The manager arrives tomorrow.
+
+Le gérant arrive à midi.
+The manager arrives at noon.
+
+Janine arrive à midi.
+Janine arrives at noon.
+
+Janine arrive plus tard.
+Janine arrives later.
+
+Ma sœur arrive plus tard.
+My sister arrives later.
+
+Ma sœur arrive aujourd'hui.
+My sister is coming today.
+
+Les bagages arrivent aujourd'hui.
+The luggage arrives today.
+
+Les bagages arrivent ce soir.
+The luggage arrives tonight.
+
+Désirez-vous quelque chose?
+Can I get you anything?
+
+Voulez-vous quelque chose?
+Can I get you anything?
+
+Voulez-vous une chambre?
+Do you want a room?
+
+Avez-vous une chambre?
+Do you have a room?
+
+Avez-vous vos bagages?
+Do you have your luggage?
+
+Voulez-vous vos bagages?
+Do you want your luggage?
+
+Voulez-vous quelque chose?
+Can I get you anything?
+
+Désirez-vous quelque chose?
+Can I get you anything?
+
+Désirez-vous deux chambres?
+Would you like two rooms?
+
+Est-ce qu'il veut deux chambres?
+Does he want two rooms?
+
+Est-ce qu'il veut trois chambres?
+Does he want three rooms?
+
+Désirez-vous quelque chose, Monsieur?
+Can I get you anything, sir?
+
+Voulez-vous quelque chose, Monsieur?
+Can I get you anything, sir?
+
+Voulez-vous une chambre, Monsieur?
+Would you like a room, sir?
+
+Voulez-vous une chambre, Madame?
+Would you like a room, ma'am?
+
+Avez-vous une chambre, Madame?
+Do you have a room, ma'am?
+
+Avez-vous vos bagages, Madame?
+Do you have your luggage, ma'am?
+
+Avez-vous vos bagages, Mademoiselle?
+Do you have your luggage, Miss?
+
+Voulez-vous vos bagages, Mademoiselle?
+Would you like your luggage, Miss?
+
+Voulez-vous quelque chose, Mademoiselle?
+Can I get you anything, miss?
+
+Voulez-vous quelque chose, Monsieur?
+Can I get you anything, sir?
+
+Connaissez-vous l'identifiant?
+Do you know the ID?
+
+Connaissez-vous l'hôtel?
+Do you know the hotel?
+
+Connaissez-vous le mot de passe?
+Do you know the password?
+
+Connaissez-vous le café?
+Do you know coffee?
+
+Connaissez-vous le gérant?
+Do you know the manager?
+
+Connaissez-vous la chambre?
+Do you know the room?
+
+Connaissez-vous le restaurant?
+Do you know the restaurant?
+
+Connaissez-vous la direction?
+Do you know the direction?
