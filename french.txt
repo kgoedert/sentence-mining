@@ -2944,9 +2944,6 @@ Mrs Durand and my wife are on holiday; they are in Marseille.
 Ma sœur et Mme Durand sont en vacances; elles sont à Marseille.
 My sister and Mrs Durand are on holiday; they are in Marseille.
 
-Ma femme et ma fille sont en vacances; elles sont à Marseille.
-My wife and daughter are on vacation; they are in Marseille.
-
 Mon frère et Janine sont en vacances; ils sont à Toulouse.
 My brother and Janine are on vacation; they are in Toulouse.
 
@@ -3067,9 +3064,6 @@ Where are your sisters? They're at the restaurant.
 Où sont les livres? Je ne sais pas où ils sont.
 Where are the books? I don't know where they are.
 
-Où est le livre? Je ne sais pas où il est.
-Where is the book? I don't know where he is.
-
 Où est Janine? Je ne sais pas où elle est.
 Where's Janine? Where's Janine? I don't know where she is.
 
@@ -3168,9 +3162,6 @@ You are going to the Paris Café.
 
 Est-ce que vous allez au Café de Paris? 
 Are you going to the Paris Café?
-
-Il est pressé. 
-He is in a hurry.
 
 Est-ce qu'il est pressé? 
 Is he in a hurry?
@@ -3435,9 +3426,6 @@ Are you reading the book?
 
 Demandez-vous le livre?
 Are you asking for the book?
-
-Est-ce qu'il est pressé?
-Is he in a hurry?
 
 Est-ce qu'ils sont pressés?
 Are they in a hurry?
@@ -3853,9 +3841,6 @@ He who / Whoever lied will be punished.
 Ceux qui sont polis recevront un cadeau.
 Those who are polite will receive a gift.
 
-Vos parents sont-ils toujours en vacances?
-Are your parents still on vacation?
-
 Vos amis sont-ils toujours en vacances?
 Are your friends still on vacation?
 
@@ -3946,14 +3931,8 @@ You are English. Are you English?
 Vous êtes au café. Vous êtes au café?
 You're at the café. Are you at the café?
 
-Vous êtes heureux. Vous êtes heureux?
-You are happy. Are you happy now?
-
 Vous êtes M. Lelong. Vous êtes M. Lelong?
 You are Mr. Lelong. Are you Mr. Lelong?
-
-Vous êtes pressé. Vous êtes pressé?
-You're in a hurry. Are you in a hurry?
 
 Ils sont ensemble. Est-ce qu'ils sont ensemble?
 They are together. Are they together?
@@ -4108,9 +4087,6 @@ Are they in Lyon? Are they in Lyon?
 Vous répétez en français? Est-ce que vous répétez en français?
 Are you rehearsing in French? Do you repeat in French?
 
-Il est pressé.
-He's in a hurry.
-
 Ils sont pressés.
 They're in a hurry.
 
@@ -4122,9 +4098,6 @@ We're in a hurry.
 
 Elles sont pressées.
 They're in a hurry.
-
-Elle est pressée.
-She's in a hurry.
 
 Il est à Londres.
 He's in London.
@@ -4141,9 +4114,6 @@ They're in London.
 On est à Londres.
 We're in London.
 
-Il est à Londres.
-He's in London.
-
 Nos amis sont à Londres.
 Our friends are in London.
 
@@ -4152,9 +4122,6 @@ Janine is in London.
 
 Ils sont ici.
 They are here.
-
-Ils sont en retard.
-They're late. They're late.
 
 Ils sont à Bordeaux.
 They're in Bordeaux.
@@ -4171,23 +4138,8 @@ They're at the café.
 Ils sont à Lyon.
 They are in Lyon.
 
-Ils sont au café.
-They're at the café.
-
-Ils sont en retard.
-They're late. They're late.
-
-Ils sont ensemble.
-They are together.
-
 Ils sont avec eux.
 They are with them.
-
-Il est fort.
-He is strong.
-
-Il est pressé.
-He's in a hurry.
 
 Il est ici.
 He is here.
@@ -4306,9 +4258,6 @@ You are at the restaurant.
 Vous êtes à Paris aujourd'hui.
 You are in Paris today.
 
-Vous êtes français.
-You are French.
-
 Nous sommes français.
 We are French.
 
@@ -4344,9 +4293,6 @@ You are French.
 
 Je suis français.
 I am French.
-
-Nous sommes avec eux.
-We are with them.
 
 Il est avec eux.
 He is with them.
@@ -4486,9 +4432,6 @@ What time is Mr. Lelong going to lunch? At one o'clock and he's late.
 À quelle heure est-ce que Mlle Courtois va déjeuner? À une heure et elle est en retard.
 What time is Miss Courtois going to lunch? At one o'clock and she's late.
 
-À quelle heure est-ce que vous allez déjeuner? À une heure et je suis en retard.
-What time are you going to lunch? At one o'clock and I'm late.
-
 Est-ce qu'ils sont pressés? Oui, ils sont pressés.
 Are they in a hurry? Yes, they're in a hurry.
 
@@ -4509,9 +4452,6 @@ Are you two together? Yes, we are together.
 
 Est-ce qu'ils sont heureux? Oui, ils sont heureux.
 Are they happy? Yes, they are happy.
-
-Est-ce qu'elle est au restaurant? Oui, elle est au restaurant.
-Is she in the restaurant? Yes, she is in the restaurant.
 
 Est-ce qu'ils sont en France? Oui, ils sont en France.
 Are they in France? Yes, they are in France.
@@ -4555,12 +4495,6 @@ Are you in the restaurant? Yes, I'm in the restaurant.
 Est-ce qu'elle est au restaurant? Oui, elle est au restaurant.
 Is she in the restaurant? Yes, she is in the restaurant.
 
-Est-ce qu'ils sont au restaurant? Oui, ils sont au restaurant.
-Are they at the restaurant? Yes, they are at the restaurant.
-
-Nous sommes en retard.
-We are late for work.
-
 Vous êtes pressé.
 You're in a hurry.
 
@@ -4573,14 +4507,8 @@ I'm at the coffee shop.
 Elles sont françaises.
 They are French.
 
-Elles sont ici.
-They are here.
-
 Ils sont ensemble.
 They are together.
-
-Nous sommes ensemble.
-We are together.
 
 Nous sommes pressés.
 We are in a hurry.
