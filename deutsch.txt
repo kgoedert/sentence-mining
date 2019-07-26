@@ -2496,7 +2496,295 @@
 # 
 # Schauen Sie mal, der Zug ist da. Ich sehe den Zug nicht.
 # Look, the train is here. I don't see the train.
-# 
+#
+Wo ist das Auto?
+Where is the car?
+
+Wo ist der Mann?
+Where is the man?
+
+Wo ist die Frau?
+Where is the woman?
+
+Die Frau ist im Auto.
+The woman is in the car.
+
+Der Mann ist im Auto.
+The man is in the car.
+
+Ich lerne Deutsch.
+I'm learning german.
+
+Wo ist das Auto?
+Where is the car?
+
+Hallo Leute!
+Hi Guys!
+
+Guten Tag. Mein Name is Janine Schmidt.
+Hello. My name is Janine Schmidt.
+
+Wie heiẞt ihr?
+What are your names? - informal
+
+Ich komme aus Deutschland.
+I come from Germany.
+
+Ich komme aus den USA. 
+I come from the USA.
+
+Ich wohne in Berlin.
+I live in Berlin.
+
+Ich wohne in München.
+I live in Munich.
+
+Er lernt viel.
+He studies a lot.
+
+Stephan lernt für die Prüfung.
+Stephan is studying for the exam.
+
+Ich lerne gerade.
+I'm studying right now.
+
+Sie lernt heute.
+She is studying today.
+
+Sie lernt nicht.
+She is not studying.
+
+Sie macht einen Salat.
+She is making a salad.
+
+Wir machen Urlaub.
+We are on vacation.
+
+Manuela und Jochen machen Lärm.
+Manuela and Jochen are making noise.
+
+Ich mache Kaffee.
+I am making coffee.
+
+Tim macht das Bett.
+Tim is making the Bed.
+
+Luisa macht nichts.
+Luisa is not doing anything.
+
+Er geht nach Hause.
+He is going home.
+
+Sie geht zu Fuẞ.
+She is walking.
+
+Ich gehe ins Bett.
+I am going to bed.
+
+Klaus geht weg.
+Klaus is going away.
+
+Ich gehe zum Supermarkt.
+I am going to the supermaket.
+
+Der Hund geht nach drauẞen.
+The dog is going outside.
+
+Ich gehe in die Küche.
+I am going into the kitchen.
+
+Lernst du?
+Are you studying?
+
+Lernt ihr?
+Are you guys studying?
+
+Lernt ihr heute?
+Are you guys studying today?
+
+Lernt Maria für die Prüfung?
+Is Maria studying for the exam?
+
+Machst du Kaffee?
+Are you making coffee?
+
+Machen Sie Kaffee?
+Are you making coffee?
+
+Macht Frank Überstunden?
+Is Frank doing overtime?
+
+Machst du die Hausaufgaben?
+Are you doing the homework?
+
+Machen Karl und Susane eine Pause?
+Are Karl and Susanne taking a break?
+
+Geht er nach Hause?
+Is he going home?
+
+Gehst du ins Bett?
+Are you going to bed?
+
+Geht sie zur Apotheke?
+Is she going to the pharmacy?
+
+Geht das Kind ins Haus?
+Is the child going into the house?
+
+Geht das Kind nach drauẞen?
+Is the child going outside?
+
+Das Fenster ist auf.
+The window is open.
+
+Die Tür ist zu.
+The door is closed.
+
+Der Computer ist an.
+The computer is on.
+
+Die Lampe ist aus.
+The lamp is off.
+
+Maria ist oben.
+Maria is upstairs.
+
+Klaus ist unten.
+Klaus is downstairs.
+
+Stephanie ist hier.
+Stephanie is here.
+
+Ist Klaus da?
+Is Klaus there?
+
+Der Kühlschrank ist voll.
+The refrigerator is full.
+
+Der Karton ist leer.
+The box is empty.
+
+Die Kinder sind weg.
+The kids are gone.
+
+Die Treppe ist da hinten.
+The stairs are back there.
+
+Der Aufzug ist da vorne.
+The elevator is over there.
+
+Das Mädchen ist drauẞen.
+The girl is outside.
+
+Der Junge ist drinnen.
+The boy is inside.
+
+Was sind Sie von Beruf?
+What is your profession? - formal
+
+Was bist du von Beruf?
+What is your profession? - informal
+
+Was machen Sie beruflich? 
+What do you do professionally? - formal
+
+Was machst du beruflich?
+What do you do professionally? - informal
+
+Er ist Architekt.
+He is an architect
+
+Er ist Immobilienmakler.
+He is a real state agent.
+
+Sie ist Busfahrerin.
+She is a bus driver.
+
+Ich bin Programmierer.
+I am a computer programmer.
+
+Ich bin Koch.
+I am a cook. - M
+
+Ich bin Köchin.
+I am a cook. - F
+
+Sie ist Journalistin.
+She is a journalist.
+
+Sie ist Krankenschwester.
+She is a nurse.
+
+Er ist Krankenpfleger.
+He is a nurse.
+
+Ich bin Bankangestellte.
+I am a bank employee. - F
+
+Ich bin Bankangestellter.
+I am a bank employee. - M
+
+Er ist Fotograf.
+He is a photographer.
+
+Sie ist Schülerin.
+She is a student.
+
+Ich bin Arzt.
+I am a doctor. - M
+
+Ich bin Ärtztin.
+I am a doctor - F
+
+Er ist Taxifahrer.
+He is a taxi driver.
+
+Sie ist Lehrerin.
+She is a teacher.
+
+Er ist Kellner.
+He is a waiter.
+
+Er ist Automechaniker.
+He is a car mechanic.
+
+Ich bin Ingenieurin.
+I am an engineer.
+
+Er ist Elektroingenieur.
+He is an electrical engineer.
+
+Sie ist Polizistin.
+She is a police officer.
+
+Ich bin Geschäftsführerin.
+I am a CEO
+
+Ich bin Buchhalterin.
+I am an accountant.
+
+Ich bin Forscher.
+I am a researcher.
+
+Ich bin Informatiker.
+I am a computer scientist.
+
+Er ist Designer.
+He is a designer.
+
+Ich bin Projektmanagerin.
+I am a project manager.
+
+Ich bin Apothekerin.
+I am a pharmacist.
+
+Ich bin selbständig.
+I am self-employed.
+
+Ich bin arbeitslos.
+I am unemployed.
+
 Schauen Sie mal, die Haltestelle ist da. Ich sehe die Haltestelle nicht.
 Look, the station is there. I don't see the stop.
 
