@@ -2880,325 +2880,325 @@
 # 
 # Ma sœur est en vacances; elle est à Bordeaux.
 # My sister is on vacation; she is in Bordeaux.
+# # 
+# # Ma fille est en vacances; elle est à Bordeaux.
+# # My daughter is on vacation; she is in Bordeaux.
+# # 
+# # Mon amie Janine est en vacances; elle est à Bordeaux.
+# # My friend Janine is on holiday; she is in Bordeaux.
+# # 
+# # Janine est en vacances; elle est à Bordeaux.
+# # Janine is on holiday; she is in Bordeaux.
+# # 
+# # Ma mère est en vacances; elle est à Bordeaux.
+# # My mother is on holiday; she is in Bordeaux.
+# # 
+# Mlle Courtois est en vacances; elle est à Bordeaux.
+# Miss Courtois is on vacation; she is in Bordeaux.
 # 
-# Ma fille est en vacances; elle est à Bordeaux.
-# My daughter is on vacation; she is in Bordeaux.
+# Mme Durand est en vacances; elle est à Bordeaux.
+# Mrs Durand is on holiday; she is in Bordeaux.
 # 
 # Mon amie Janine est en vacances; elle est à Bordeaux.
 # My friend Janine is on holiday; she is in Bordeaux.
 # 
-# Janine est en vacances; elle est à Bordeaux.
-# Janine is on holiday; she is in Bordeaux.
+# Mon frère est en vacances; il est à Genève.
+# My brother is on vacation; he is in Geneva.
 # 
-# Ma mère est en vacances; elle est à Bordeaux.
-# My mother is on holiday; she is in Bordeaux.
+# Mon père est en vacances; il est à Genève.
+# My father is on vacation; he is in Geneva.
 # 
-Mlle Courtois est en vacances; elle est à Bordeaux.
-Miss Courtois is on vacation; she is in Bordeaux.
-
-Mme Durand est en vacances; elle est à Bordeaux.
-Mrs Durand is on holiday; she is in Bordeaux.
-
-Mon amie Janine est en vacances; elle est à Bordeaux.
-My friend Janine is on holiday; she is in Bordeaux.
-
-Mon frère est en vacances; il est à Genève.
-My brother is on vacation; he is in Geneva.
-
-Mon père est en vacances; il est à Genève.
-My father is on vacation; he is in Geneva.
-
-Mon ami M. Lelong est en vacances; il est à Genève.
-My friend Mr. Lelong is on vacation; he is in Geneva.
-
-M. Durand est en vacances; il est à Genève.
-Mr. Durand is on vacation; he is in Geneva.
-
-Mon fils est en vacances; il est à Genève.
-My son is on vacation; he is in Geneva.
-
-Le frère de Janine est en vacances; il est à Genève.
-Janine's brother is on vacation; he is in Geneva.
-
-M. Lelong est en vacances; il est à Genève.
-Mr. Lelong is on vacation; he is in Geneva.
-
-Ma femme et ma fille sont en vacances; elles sont à Marseille.
-My wife and daughter are on vacation; they are in Marseille.
-
-Ma femme et ma sœur sont en vacances; elles sont à Marseille.
-My wife and sister are on vacation; they are in Marseille.
-
-Ma sœur et ma fille sont en vacances; elles sont à Marseille.
-My sister and daughter are on vacation; they are in Marseille.
-
-Janine et ma sœur sont en vacances; elles sont à Marseille.
-Janine and my sister are on vacation; they are in Marseille.
-
-Mlle Courtois et ma fille sont en vacances; elles sont à Marseille.
-Miss Courtois and my daughter are on vacation; they are in Marseille.
-
-Mme Durand et ma femme sont en vacances; elles sont à Marseille.
-Mrs Durand and my wife are on holiday; they are in Marseille.
-
-Ma sœur et Mme Durand sont en vacances; elles sont à Marseille.
-My sister and Mrs Durand are on holiday; they are in Marseille.
-
-Mon frère et Janine sont en vacances; ils sont à Toulouse.
-My brother and Janine are on vacation; they are in Toulouse.
-
-Mon frère et ma sœur sont en vacances; ils sont à Toulouse.
-My brother and sister are on vacation; they are in Toulouse.
-
-Mon mari et mon fils sont en vacances; ils sont à Toulouse.
-My husband and son are on vacation; they are in Toulouse.
-
-Mon fils et mon frère sont en vacances; ils sont à Toulouse.
-My son and brother are on vacation; they are in Toulouse.
-
-Janine et mon fils sont en vacances; ils sont à Toulouse.
-Janine and my son are on vacation; they are in Toulouse.
-
-M. et Mme Durand sont en vacances; ils sont à Toulouse.
-Mr. and Mrs. Durand are on vacation; they are in Toulouse.
-
-Mon père et ma mère sont en vacances; ils sont à Toulouse.
-My father and mother are on holiday; they are in Toulouse.
-
-Mon frère et mon mari sont en vacances; ils sont à Toulouse.
-My brother and husband are on vacation; they are in Toulouse.
-
-Mon frère et ma femme sont en vacances; ils sont à Toulouse.
-My brother and wife are on vacation; they are in Toulouse.
-
-Mon fils et ma fille sont en vacances; ils sont à Toulouse.
-My son and daughter are on vacation; they are in Toulouse.
-
-Les parents de Janine sont en vacances; ils sont à Toulouse.
-Janine's parents are on vacation; they are in Toulouse.
-
-Ma femme et mon fils sont en vacances; ils sont à Toulouse.
-My wife and son are on vacation; they are in Toulouse.
-
-Mlle Courtois et ma fille sont en vacances; elles sont en Suisse.
-Miss Courtois and my daughter are on vacation; they are in Switzerland.
-
-Mon frère et ma sœur sont en vacances; ils sont en Suisse.
-My brother and sister are on vacation; they are in Switzerland.
-
-Le frère de Janine est en vacances; il est en Suisse.
-Janine's brother is on holiday; he is in Switzerland.
-
-Janine et ma sœur sont en vacances; elles sont en Suisse.
-Janine and my sister are on holiday; they are in Switzerland.
-
-M. Lelong est en vacances; il est en Suisse.
-Mr. Lelong is on vacation; he is in Switzerland.
-
-Mme Durand et M. Lelong sont en vacances; ils sont en Suisse.
-Mrs. Durand and Mr. Lelong are on vacation; they are in Switzerland.
-
-M. et Mme Lelong sont en vacances; ils sont en Suisse.
-Mr. and Mrs. Lelong are on vacation; they are in Switzerland.
-
-Mlle Courtois est en vacances; elle est en Suisse.
-Miss Courtois is on vacation; she is in Switzerland.
-
-Mon père et mon frère sont en vacances; ils sont en Suisse.
-My father and brother are on vacation; they are in Switzerland.
-
-Les parents de Janine sont en vacances; ils sont en Suisse.
-Janine's parents are on vacation; they are in Switzerland.
-
-Où est Danielle? Elle est en Espagne.
-Where's Danielle? Where's Danielle? She's in Spain.
-
-Où sont les fils? Ils sont en Espagne.
-Where are the wires? They are in Spain.
-
-Où sont vos filles? Elles sont en Espagne.
-Where are your daughters? They're in Spain.
-
-Où est Mlle Courtois? Elle est en Espagne.
-Where is Miss Courtois? She's in Spain.
-
-Où est votre fils? Il est en Espagne.
-Where is your son? Where is he? He's in Spain.
-
-Où sont vos fils? Ils sont en Espagne.
-Where are your sons? They are in Spain.
-
-Où sont Janine et sa sœur? Elles sont en Espagne.
-Where are Janine and her sister? They're in Spain.
-
-Où sont vos parents? Ils sont en Espagne.
-Where are your parents? They are in Spain.
-
-Où sont votre père et votre frère? Ils sont en Espagne.
-Where are your father and brother? They are in Spain.
-
-Où est votre amie Stéphanie? Elle est au restaurant.
-Where is your friend Stephanie? She's at the restaurant.
-
-Où est votre fils? Il est au restaurant.
-Where is your son? Where is he? He's at the restaurant.
-
-Où est Mlle Courtois? Elle est au restaurant.
-Where is Miss Courtois? She's at the restaurant.
-
-Où sont vos parents? Ils sont au restaurant.
-Where are your parents? They're at the restaurant.
-
-Où est votre frère? Il est au restaurant.
-Where is your brother? He's at the restaurant.
-
-Où est votre sœur? Elle est au restaurant.
-Where is your sister? She's at the restaurant.
-
-Où sont vos frères? Ils sont au restaurant.
-Where are your brothers? They're at the restaurant.
-
-Où sont vos sœurs? Elles sont au restaurant.
-Where are your sisters? They're at the restaurant.
-
-Où sont les livres? Je ne sais pas où ils sont.
-Where are the books? I don't know where they are.
-
-Où est Janine? Je ne sais pas où elle est.
-Where's Janine? Where's Janine? I don't know where she is.
-
-Où est la classe? Je ne sais pas où elle est.
-Where is the class? I don't know where she is.
-
-Où est le restaurant? Je ne sais pas où il est.
-Where's the restaurant? I don't know where it is.
-
-Où est mon frère? Je ne sais pas où il est.
-Where is my brother? I don't know where he is.
-
-Où est votre amie Janine? Je ne sais pas où elle est.
-Where is your friend Janine? I don't know where she is.
-
-Où sont les enfants? Je ne sais pas où ils sont.
-Where are the children? I don't know where they are.
-
-Où est le livre? Je ne sais pas où il est.
-Where is the book? I don't know where he is.
-
-Où est Émilie? Elle est au café.
-Where's Emily? Where's Emily? She's at the coffee shop.
-
-Où sont vos filles? Elles sont au café.
-Where are your daughters? They're at the coffee shop.
-
-Où sont vos fils? Ils sont au café.
-Where are your sons? They're at the café.
-
-Où est Mlle Courtois? Elle est au café.
-Where is Miss Courtois? She's at the coffee shop.
-
-Où sont les enfants? Ils sont au café.
-Where are the children? They're at the café.
-
-Où est votre fils? Il est au café.
-Where is your son? Where is he? He's at the coffee shop.
-
-Où sont Janine et sa sœur? Elles sont au café.
-Where are Janine and her sister? They're at the coffee shop.
-
-Où sont votre père et votre frère? Ils sont au café.
-Where are your father and brother? They're at the café.
-
-Où sont vos parents? Ils sont au café.
-Where are your parents? They're at the café.
-
-Où est votre amie Janine? Elle est ici.
-Where is your friend Janine? She's here. She's here.
-
-Où est votre frère? Il est ici.
-Where is your brother? He is here.
-
-Où sont vos parents? Ils sont ici.
-Where are your parents? They are here.
-
-Où est Mlle Courtois? Elle est ici.
-Where is Miss Courtois? She's here. She's here.
-
-Où sont les livres? Ils sont ici.
-Where are the books? They are here.
-
-Où est le café? Il est ici.
-Where's the coffee? He is here.
-
-Où est votre sœur? Elle est ici.
-Where is your sister? She's here. She's here.
-
-Où est le livre? Il est ici.
-Where is the book? He is here.
-
-Où sont vos frères? Ils sont ici.
-Where are your brothers? They are here.
-
-Où sont vos sœurs? Elles sont ici.
-Where are your sisters? They are here.
-
-Où est votre fils? Il est ici.
-Where is your son? Where is he? He is here.
-
-Sophie et Théo sont toujours ici. 
-Sophie and Théo are still here.
-
-Est-ce que Sophie et Théo sont toujours ici? 
-Are Sophie and Théo still here?
-
-Le restaurant est près d'ici. 
-The restaurant is nearby.
-
-Est-ce que le restaurant est près d'ici? 
-Is the restaurant nearby?
-
-Vous allez au Café de Paris. 
-You are going to the Paris Café.
-
-Est-ce que vous allez au Café de Paris? 
-Are you going to the Paris Café?
-
-Est-ce qu'il est pressé? 
-Is he in a hurry?
-
-Elles sont ici. 
-They are here.
-
-Est-ce qu'elles sont ici? 
-Are they here?
-
-Ce cahier appartient à Paul. Ce cahier lui  appartient.
-This notebook belongs to Paul. This notebook belongs to him.
-
-Je pense  à Julien  tous les jours. J'y  pense  tous les jours.
-I think about Julien every day. I think about it every day.
-
-Elle parle souvent de  son enfance. Elle en parle souvent.
-She often talks about her childhood. She talks about it a lot.
-
-Laurent revient de  Londres. Laurent en revient.
-Laurent is back from London. Laurent comes back from it.
-
-Combien de  tomates voulez vous? J'en veux 1 kilo.
-How many tomatoes do you want? I want a kilo of it.
-
-Ils parleront de  Vincent  au prochain conseil. Ils parleront de lui.
-They'll talk about Vincent at the next council meeting. They'll talk about him.
-
-Il a une envie de  soupe. Il en  a envie.
-He wants soup. He wants to.
-
-J'ai deux dictionnaires. Moi j'en ai deux également.
-I have two dictionaries. I have two too.
-
-Est-ce qu'elle t'a emmenée à la piscine ? Oui, elle m'y a emmenée.
-Did she take you to the pool? Yes, she took me there.
-
+# Mon ami M. Lelong est en vacances; il est à Genève.
+# My friend Mr. Lelong is on vacation; he is in Geneva.
+# 
+# M. Durand est en vacances; il est à Genève.
+# Mr. Durand is on vacation; he is in Geneva.
+# 
+# Mon fils est en vacances; il est à Genève.
+# My son is on vacation; he is in Geneva.
+# 
+# Le frère de Janine est en vacances; il est à Genève.
+# Janine's brother is on vacation; he is in Geneva.
+# 
+# M. Lelong est en vacances; il est à Genève.
+# Mr. Lelong is on vacation; he is in Geneva.
+# 
+# Ma femme et ma fille sont en vacances; elles sont à Marseille.
+# My wife and daughter are on vacation; they are in Marseille.
+# 
+# Ma femme et ma sœur sont en vacances; elles sont à Marseille.
+# My wife and sister are on vacation; they are in Marseille.
+# 
+# Ma sœur et ma fille sont en vacances; elles sont à Marseille.
+# My sister and daughter are on vacation; they are in Marseille.
+# 
+# Janine et ma sœur sont en vacances; elles sont à Marseille.
+# Janine and my sister are on vacation; they are in Marseille.
+# 
+# Mlle Courtois et ma fille sont en vacances; elles sont à Marseille.
+# Miss Courtois and my daughter are on vacation; they are in Marseille.
+# 
+# Mme Durand et ma femme sont en vacances; elles sont à Marseille.
+# Mrs Durand and my wife are on holiday; they are in Marseille.
+# 
+# Ma sœur et Mme Durand sont en vacances; elles sont à Marseille.
+# My sister and Mrs Durand are on holiday; they are in Marseille.
+# 
+# Mon frère et Janine sont en vacances; ils sont à Toulouse.
+# My brother and Janine are on vacation; they are in Toulouse.
+# 
+# Mon frère et ma sœur sont en vacances; ils sont à Toulouse.
+# My brother and sister are on vacation; they are in Toulouse.
+# 
+# Mon mari et mon fils sont en vacances; ils sont à Toulouse.
+# My husband and son are on vacation; they are in Toulouse.
+# 
+# Mon fils et mon frère sont en vacances; ils sont à Toulouse.
+# My son and brother are on vacation; they are in Toulouse.
+# 
+# Janine et mon fils sont en vacances; ils sont à Toulouse.
+# Janine and my son are on vacation; they are in Toulouse.
+# 
+# M. et Mme Durand sont en vacances; ils sont à Toulouse.
+# Mr. and Mrs. Durand are on vacation; they are in Toulouse.
+# 
+# Mon père et ma mère sont en vacances; ils sont à Toulouse.
+# My father and mother are on holiday; they are in Toulouse.
+# 
+# Mon frère et mon mari sont en vacances; ils sont à Toulouse.
+# My brother and husband are on vacation; they are in Toulouse.
+# 
+# Mon frère et ma femme sont en vacances; ils sont à Toulouse.
+# My brother and wife are on vacation; they are in Toulouse.
+# 
+# Mon fils et ma fille sont en vacances; ils sont à Toulouse.
+# My son and daughter are on vacation; they are in Toulouse.
+# 
+# Les parents de Janine sont en vacances; ils sont à Toulouse.
+# Janine's parents are on vacation; they are in Toulouse.
+# 
+# Ma femme et mon fils sont en vacances; ils sont à Toulouse.
+# My wife and son are on vacation; they are in Toulouse.
+# 
+# Mlle Courtois et ma fille sont en vacances; elles sont en Suisse.
+# Miss Courtois and my daughter are on vacation; they are in Switzerland.
+# 
+# Mon frère et ma sœur sont en vacances; ils sont en Suisse.
+# My brother and sister are on vacation; they are in Switzerland.
+# 
+# Le frère de Janine est en vacances; il est en Suisse.
+# Janine's brother is on holiday; he is in Switzerland.
+# 
+# # Janine et ma sœur sont en vacances; elles sont en Suisse.
+# # Janine and my sister are on holiday; they are in Switzerland.
+# # 
+# # M. Lelong est en vacances; il est en Suisse.
+# # Mr. Lelong is on vacation; he is in Switzerland.
+# # 
+# # Mme Durand et M. Lelong sont en vacances; ils sont en Suisse.
+# # Mrs. Durand and Mr. Lelong are on vacation; they are in Switzerland.
+# # 
+# M. et Mme Lelong sont en vacances; ils sont en Suisse.
+# Mr. and Mrs. Lelong are on vacation; they are in Switzerland.
+# 
+# Mlle Courtois est en vacances; elle est en Suisse.
+# Miss Courtois is on vacation; she is in Switzerland.
+# 
+# Mon père et mon frère sont en vacances; ils sont en Suisse.
+# My father and brother are on vacation; they are in Switzerland.
+# 
+# Les parents de Janine sont en vacances; ils sont en Suisse.
+# Janine's parents are on vacation; they are in Switzerland.
+# 
+# Où est Danielle? Elle est en Espagne.
+# Where's Danielle? Where's Danielle? She's in Spain.
+# 
+# Où sont les fils? Ils sont en Espagne.
+# Where are the wires? They are in Spain.
+# 
+# Où sont vos filles? Elles sont en Espagne.
+# Where are your daughters? They're in Spain.
+# 
+# Où est Mlle Courtois? Elle est en Espagne.
+# Where is Miss Courtois? She's in Spain.
+# 
+# Où est votre fils? Il est en Espagne.
+# Where is your son? Where is he? He's in Spain.
+# 
+# Où sont vos fils? Ils sont en Espagne.
+# Where are your sons? They are in Spain.
+# 
+# Où sont Janine et sa sœur? Elles sont en Espagne.
+# Where are Janine and her sister? They're in Spain.
+# 
+# Où sont vos parents? Ils sont en Espagne.
+# Where are your parents? They are in Spain.
+# 
+# Où sont votre père et votre frère? Ils sont en Espagne.
+# Where are your father and brother? They are in Spain.
+# 
+# Où est votre amie Stéphanie? Elle est au restaurant.
+# Where is your friend Stephanie? She's at the restaurant.
+# 
+# Où est votre fils? Il est au restaurant.
+# Where is your son? Where is he? He's at the restaurant.
+# 
+# Où est Mlle Courtois? Elle est au restaurant.
+# Where is Miss Courtois? She's at the restaurant.
+# 
+# Où sont vos parents? Ils sont au restaurant.
+# Where are your parents? They're at the restaurant.
+# 
+# Où est votre frère? Il est au restaurant.
+# Where is your brother? He's at the restaurant.
+# 
+# Où est votre sœur? Elle est au restaurant.
+# Where is your sister? She's at the restaurant.
+# 
+# Où sont vos frères? Ils sont au restaurant.
+# Where are your brothers? They're at the restaurant.
+# 
+# Où sont vos sœurs? Elles sont au restaurant.
+# Where are your sisters? They're at the restaurant.
+# 
+# Où sont les livres? Je ne sais pas où ils sont.
+# Where are the books? I don't know where they are.
+# 
+# Où est Janine? Je ne sais pas où elle est.
+# Where's Janine? Where's Janine? I don't know where she is.
+# 
+# Où est la classe? Je ne sais pas où elle est.
+# Where is the class? I don't know where she is.
+# 
+# Où est le restaurant? Je ne sais pas où il est.
+# Where's the restaurant? I don't know where it is.
+# 
+# Où est mon frère? Je ne sais pas où il est.
+# Where is my brother? I don't know where he is.
+# 
+# Où est votre amie Janine? Je ne sais pas où elle est.
+# Where is your friend Janine? I don't know where she is.
+# 
+# Où sont les enfants? Je ne sais pas où ils sont.
+# Where are the children? I don't know where they are.
+# 
+# Où est le livre? Je ne sais pas où il est.
+# Where is the book? I don't know where he is.
+# 
+# Où est Émilie? Elle est au café.
+# Where's Emily? Where's Emily? She's at the coffee shop.
+# 
+# Où sont vos filles? Elles sont au café.
+# Where are your daughters? They're at the coffee shop.
+# 
+# Où sont vos fils? Ils sont au café.
+# Where are your sons? They're at the café.
+# 
+# Où est Mlle Courtois? Elle est au café.
+# Where is Miss Courtois? She's at the coffee shop.
+# 
+# Où sont les enfants? Ils sont au café.
+# Where are the children? They're at the café.
+# 
+# Où est votre fils? Il est au café.
+# Where is your son? Where is he? He's at the coffee shop.
+# 
+# Où sont Janine et sa sœur? Elles sont au café.
+# Where are Janine and her sister? They're at the coffee shop.
+# 
+# Où sont votre père et votre frère? Ils sont au café.
+# Where are your father and brother? They're at the café.
+# 
+# Où sont vos parents? Ils sont au café.
+# Where are your parents? They're at the café.
+# 
+# Où est votre amie Janine? Elle est ici.
+# Where is your friend Janine? She's here. She's here.
+# 
+# Où est votre frère? Il est ici.
+# Where is your brother? He is here.
+# 
+# Où sont vos parents? Ils sont ici.
+# Where are your parents? They are here.
+# 
+# Où est Mlle Courtois? Elle est ici.
+# Where is Miss Courtois? She's here. She's here.
+# 
+# Où sont les livres? Ils sont ici.
+# Where are the books? They are here.
+# 
+# Où est le café? Il est ici.
+# Where's the coffee? He is here.
+# 
+# Où est votre sœur? Elle est ici.
+# Where is your sister? She's here. She's here.
+# 
+# Où est le livre? Il est ici.
+# Where is the book? He is here.
+# 
+# Où sont vos frères? Ils sont ici.
+# Where are your brothers? They are here.
+# 
+# Où sont vos sœurs? Elles sont ici.
+# Where are your sisters? They are here.
+# 
+# Où est votre fils? Il est ici.
+# Where is your son? Where is he? He is here.
+# 
+# Sophie et Théo sont toujours ici. 
+# Sophie and Théo are still here.
+# 
+# Est-ce que Sophie et Théo sont toujours ici? 
+# Are Sophie and Théo still here?
+# 
+# Le restaurant est près d'ici. 
+# The restaurant is nearby.
+# 
+# Est-ce que le restaurant est près d'ici? 
+# Is the restaurant nearby?
+# 
+# Vous allez au Café de Paris. 
+# You are going to the Paris Café.
+# 
+# Est-ce que vous allez au Café de Paris? 
+# Are you going to the Paris Café?
+# 
+# Est-ce qu'il est pressé? 
+# Is he in a hurry?
+# 
+# Elles sont ici. 
+# They are here.
+# 
+# Est-ce qu'elles sont ici? 
+# Are they here?
+# 
+# Ce cahier appartient à Paul. Ce cahier lui  appartient.
+# This notebook belongs to Paul. This notebook belongs to him.
+# 
+# Je pense  à Julien  tous les jours. J'y  pense  tous les jours.
+# I think about Julien every day. I think about it every day.
+# 
+# Elle parle souvent de  son enfance. Elle en parle souvent.
+# She often talks about her childhood. She talks about it a lot.
+# 
+# Laurent revient de  Londres. Laurent en revient.
+# Laurent is back from London. Laurent comes back from it.
+# 
+# Combien de  tomates voulez vous? J'en veux 1 kilo.
+# How many tomatoes do you want? I want a kilo of it.
+# 
+# Ils parleront de  Vincent  au prochain conseil. Ils parleront de lui.
+# They'll talk about Vincent at the next council meeting. They'll talk about him.
+# 
+# Il a une envie de  soupe. Il en  a envie.
+# He wants soup. He wants to.
+# 
+# J'ai deux dictionnaires. Moi j'en ai deux également.
+# I have two dictionaries. I have two too.
+# 
+# Est-ce qu'elle t'a emmenée à la piscine ? Oui, elle m'y a emmenée.
+# Did she take you to the pool? Yes, she took me there.
+# 
 Est-ce que tu as parlé de ceci à Michel ? Oui, je lui en ai parlé.
 Have you talked to Michel about this? Yes, I talked to him about it.
 
