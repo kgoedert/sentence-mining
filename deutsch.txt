@@ -5991,3 +5991,93 @@ The woman is writing to the faithful (female) employees.
 
 Der Mitarbeiter schreibt den alten Kollegen. 
 The (male) employee is writing to the former (male) colleagues.
+
+Die Kinder danken den jungen Lehrern.
+The children thank the young teachers.
+
+Die Kinder danken den netten Polizisten.
+The children thank the nice policemen.
+
+Die Kinder danken den lieben Eltern.
+The children thank the dear parents.
+
+Die Kinder danken den alten Lehrern.
+The children thank the old teachers.
+
+Die Kinder danken den großen Jungen.
+The children thank the big boys.
+
+Die Kinder danken den alten Eltern.
+The children thank the old parents.
+
+Die Kinder danken den großen Kollegen.
+The children thank their big colleagues.
+
+Die Kinder danken den jungen Kollegen.
+The children thank the young colleagues.
+
+Die Müllers vertrauen den alten Polizisten nicht.
+The Müllers do not trust the old policemen.
+
+Die Müllers vertrauen den anderen Eltern nicht.
+The Müllers do not trust the other parents.
+
+Die Müllers vertrauen den alten Verkäufern nicht.
+The Müllers do not trust the old shop assistants.
+
+Die Müllers vertrauen den anderen Verkäufern nicht.
+The Müllers don't trust the other sellers.
+
+Die Müllers vertrauen den jungen Polizisten nicht.
+The Müllers do not trust the young policemen.
+
+Die Müllers vertrauen den anderen Männern nicht.
+The Müllers don't trust the other men.
+
+Die Müllers vertrauen den jungen Männern nicht.
+The Müllers do not trust the young men.
+
+Das Kind dankt den netten Polizisten.
+The child thanks the nice policemen.
+
+Das Kind dankt den netten Eltern.
+The child thanks the nice parents.
+
+Das Kind dankt den alten Eltern
+The child thanks the old parents.
+
+Das Kind dankt den alten Lehrern.
+The child thanks the old teachers.
+
+Das Kind dankt den jungen Lehrern.
+The child thanks the young teachers.
+
+Das Kind dankt den jungen Kollegen.
+The child thanks the young colleagues.
+
+Das Kind dankt den großen Kollegen.
+The child thanks the big colleagues.
+
+Das Kind dankt den großen Jungen.
+The child thanks the big boys.
+
+Herr Müller vertraut den anderen Eltern nicht.
+Mr. Müller does not trust the other parents.
+
+Herr Müller vertraut den anderen Verkäufern nicht.
+Mr. Müller does not trust the other salesmen.
+
+Herr Müller vertraut den alten Verkäufern nicht.
+Mr. Müller does not trust the old salesmen.
+
+Herr Müller vertraut den alten Polizisten nicht.
+Mr. Müller does not trust the old policemen.
+
+Herr Müller vertraut den jungen Polizisten nicht.
+Mr. Müller does not trust the young policemen.
+
+Herr Müller vertraut den jungen Männern nicht.
+Mr. Müller does not trust the young men.
+
+Herr Müller vertraut den anderen Männern nicht.
+Mr. Müller does not trust the other men.
