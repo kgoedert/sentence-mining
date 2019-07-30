@@ -6081,3 +6081,81 @@ Mr. Müller does not trust the young men.
 
 Herr Müller vertraut den anderen Männern nicht.
 Mr. Müller does not trust the other men.
+
+Ein Bier ohne Eis, bitte. 
+A beer, please, without ice.
+
+Ein Glas Wasser mit Eis, bitte. 
+A glass of water, please, with ice.
+
+Ein Wasser ohne Kohlensäure, bitte. 
+A water please, not carbonated (no gas).
+
+Ein stilles Wasser, bitte. 
+A water please, without gas.
+
+Ein Glas Wein, bitte. 
+A glass of wine, please.
+
+Ein Wienerschnitzel, bitte. 
+A Wienerschnitzel, please.
+
+Ein Brötchen, bitte. 
+A roll, please.
+
+Eine Brezel, bitte. 
+A pretzel, please.
+
+Einen Moment, bitte. 
+Just a moment, please.
+
+Die Rechnung, bitte. 
+The bill, please.
+
+Wo ist die Toilette bitte? 
+Where is the restroom, please?
+
+Die Toilette ist geradeaus, dann links. 
+The restroom is straight ahead, then to the left.
+
+Der Fahrstuhl ist geradeaus, dann rechts. 
+The elevator is straight ahead, then to the right.
+
+Die Treppe ist den Flur entlang auf der rechten Seite. 
+The stairs are down the hallway on the right side.
+
+Der Hörsaal ist an der Kreuzung. 
+The auditorium is at the intersection.
+
+Die Gepäckausgabe ist die Rolltreppe hinunter, dann gerade aus.
+The baggage claim is down the stairs and straight ahead.
+
+Die Sicherheitskontrolle ist rechts. 
+The security checkpoint is to the right.
+
+Halle B ist links. 
+Concourse B is to the left.
+
+Nehmen Sie bitte den nächsten Zug. 
+Please take the next train.
+
+Nehmen Sie bitte das nächste Schiff. 
+Please take the next boat.
+
+Nehmen Sie bitte den nächsten Platz. 
+Please take the next spot.
+
+Nehmen Sie bitte den ersten Sitz. 
+Please take the first seat.
+
+Nehmen Sie bitte den letzten Tisch. 
+Please take the last table.
+
+Nehmen Sie bitte dieses Ticket. 
+Please take this ticket.
+
+Nehmen Sie bitte diese Karte. 
+Please take this card.
+
+Nehmen Sie bitte die nächste Gabel. 
+Please take the next fork.
