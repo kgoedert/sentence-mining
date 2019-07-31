@@ -6159,3 +6159,87 @@ Please take this card.
 
 Nehmen Sie bitte die nächste Gabel. 
 Please take the next fork.
+
+Er ist mir sympathisch. 
+I like him.
+
+Sie ist mir sympathisch. 
+I like her.
+
+Sie sind mir sympathisch. 
+I like them.
+
+Ihr seid mir sympathisch. 
+I like you all.
+
+Er ist ihr sympathisch. 
+She likes him.
+
+Sie ist ihm sympathisch. 
+He likes her.
+
+Was ist dir passiert? 
+What happened to you?
+
+Ihm ist nichts passiert. 
+Nothing happened to him.
+
+Mir ist etwas Gutes passiert. 
+Something good happened to me.
+
+Ist Ihnen etwas Schlimmes passiert? 
+Did something bad happen to you?
+
+Was wird uns wohl passieren? 
+What will happen to us?
+
+Der Katze ist nichts passiert. 
+Nothing happened to the cat.
+
+Dem Hund ist nichts passiert. 
+Nothing happened to the dog
+
+Das macht mir Spaß. 
+I like this. (der Spaß)
+
+Das macht mir keinen Spaß. 
+I don't like this.
+
+Fußball macht ihm Spaß. 
+He likes soccer. (der Fußball)
+
+Tanzen macht ihr Spaß. 
+She likes dancing. (das Tanzen)
+
+Schwimmen macht uns Spaß. 
+We like swimming. (das Schwimmen)
+
+Hausaufgaben machen uns Spaß. 
+We like homework. (die Hausaufgabe)
+
+Macht euch das Spaß? 
+Do you (plural) like this?
+
+Das ist mir egal. 
+I don't care.
+
+Das ist mir recht. 
+I'm fine with that.
+
+Das tut ihm gut. 
+That does him good.
+
+Das tut ihr weh. 
+That hurts her.
+
+Wir sind einverstanden. 
+We agree.
+
+Er findet die Idee gut. 
+He likes the idea.
+
+Das ist in Ordnung. 
+That is fine.
+
+Sie hält das für eine gute Idee. 
+She thinks this is a good idea.
