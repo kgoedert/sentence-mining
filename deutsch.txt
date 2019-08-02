@@ -6405,3 +6405,129 @@ Are you sleeping?
 
 Du vergisst immer alles!
 You always forget everything!
+
+Hunde sind Haustiere.
+Dogs are pets.
+
+Viele Menschen haben Hunde.
+Many people have dogs.
+
+Hunde sind unsere besten Freunde.
+Dogs are our best friends.
+
+Wir streicheln sie.
+We pet them.
+
+Wir spielen mit ihnen.
+We play with them.
+
+Wir gehen mit ihnen spazieren.
+We go for a walk with them.
+
+Wir füttern sie.
+We feed them.
+
+Das sind meine Hunde.
+These are my dogs.
+
+Sie haben schwarzes Fell.
+They have black fur.
+
+I mag Hunde.
+I like dogs.
+
+Mögte ihr Hunde?
+Do you like dogs?
+
+Hunde sind toll.
+Dogs are great.
+
+Ich gehe jeden Tag mit meinen Hunden spazieren.
+I go for a walk with my dogs every day.
+
+Sie lieben Spazieregänge.
+They love walks.
+
+Das Wohnzimmer hat drei Fenster.
+The living room has three windows.
+
+Das Badezimmer hat eine Badewanne.
+The bathroom has a bathtub.
+
+Die Küche ist schön.
+The kitchen is nice.
+
+Das Arbeitszimmer ist möbliert.
+The office is furnished.
+
+Das Esszimmer ist groẞ.
+The dinning room is big.
+
+Das Schlafzimmer ist schön.
+The bedroom is nice.
+
+Das Kinderzimmer ist unordentlich.
+The children's room is messy.
+
+Das Gäste-WC hat ein Waschbecken.
+The guest toilet has a sink.
+
+Der Keller ist dunkel.
+The basement is dark.
+
+Ich habe ein Fahrrad.
+I have a bike.
+
+Du hast ein Auto.
+You have a car.
+
+Er hat ein Motorrad.
+He has a motorcycle.
+
+Wir haben ein Haus.
+We have a house.
+
+Ihr habt eine Wohnung.
+You guys have an appartment.
+
+Sie haben einen Balkon.
+They hava a balcony.
+
+Sie haben eine Idee.
+You have an idea.
+
+Hast du ein Auto?
+Do you have a car?
+
+Hat sie Zeit?
+Does she have time?
+
+Hast du einen Nachbarn?
+Do you have a neighbor?
+
+Habt ihr einen Plan?
+Do you guys have a plan?
+
+Haben Sie ein Buch?
+Do you have a book?
+
+Hat sie eine Tasse?
+Does she have a cup?
+
+Hast du einen Bruder?
+Do you have a brother?
+
+Hat er eine Schwester?
+Does she have a sister?
+
+Wer hat einen Plan?
+Who has a plan?
+
+Wer hat eine Idee?
+Who has an idea?
+
+Wann hat er Zeit?
+When does he have time?
+
+Wann haben Sie den Termin?
+When do you have an appointment?
