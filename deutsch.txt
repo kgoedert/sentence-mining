@@ -2785,6 +2785,51 @@ I am self-employed.
 Ich bin arbeitslos.
 I am unemployed.
 
+Das ist ein Tisch.
+This is a table.
+
+Der Tisch ist rund.
+The table is round.
+
+Das ist ein Haus.
+This is a house.
+
+Der Tisch ist rund. Er ist rund.
+The table is round. It is round.
+
+Das Haus ist groẞ. Es ist groẞ.
+The house is big. It is big.
+
+Das sind Autos.
+These are cars.
+
+Die Autos sind schnell. Sie sind schnell.
+The cars are fast. They are fast.
+
+Das sind Bücher.
+These are books.
+
+Die Bücher sind alt. Sie sind alt.
+The books are old. They are old.
+
+Das ist ein Laptop.
+This is a laptop.
+
+Der Laptop ist kaputt. Er ist kapput.
+The laptop is broken. It is broken.
+
+Das ist ein Buch.
+This is a book.
+
+Das Buch ist interessant. Es ist interessant.
+The book is interesting. It is interesting.
+
+Das sind Unterlagen.
+These are documents.
+
+Die Unterlagen sind wichtig. Sie sind wichtig.
+The documents are important. They are important.
+
 Schauen Sie mal, die Haltestelle ist da. Ich sehe die Haltestelle nicht.
 Look, the station is there. I don't see the stop.
 
@@ -6243,3 +6288,120 @@ That is fine.
 
 Sie hält das für eine gute Idee. 
 She thinks this is a good idea.
+
+Das ist eine Armbanduhr.
+This is a watch.
+
+Das ist eine Uhr.
+This is a watch.
+
+Die Uhr ist teuer. Sie ist teuer.
+The watch is expensive. It is expensive.
+
+Das ist eine Hose.
+This is a pair of pants.
+
+Die Hose ist schön. Sie ist schön.
+The pants are nice. They is nice.
+
+Das ist eine Brille.
+These are glasses.
+
+Die Brille ist schick. Sie ist schick.
+The glasses are trendy. They are trendy.
+
+Das sind Koffer.
+These are suitcases.
+
+Die Koffer sind schwer. Sie sind schwer.
+The suitcases are heavy. They are heavy.
+
+Das sind Parkplätze.
+These are parking lots.
+
+Die Parkplätze sind frei. Sie sind frei.
+The parking lots are available. They are available.
+
+Das ist eine Frau.
+This is a woman.
+
+Die Frau ist beschäftigt. Sie ist beschäftigt.
+The woman is busy. She is busy.
+
+Das ist ein Mann.
+This is a man.
+
+Der Mann ist müde. Er ist müde.
+The man is tired. He is tired.
+
+Das sind Kinder.
+These are children.
+
+Die Kinder sind hungrig. Sie sind hungrig.
+The children are hungry. They are hungry.
+
+Das ist die Küche.
+This is the kitchen.
+
+Die Küche ist sauber. Sie ist sauber.
+The kitchen is clean. It is clean.
+
+Das ist der Nachbar.
+This is the neighbor.
+
+Der Nachbar ist wütend. Er ist wütend.
+The neighbor is angry. He is angry.
+
+Das ist das Kabel.
+This is the cable.
+
+Das Kabel ist lang. Es ist lang.
+The cable is long. It is long.
+
+Er fährt mit dem Auto zum Supermarkt.
+He is driving to the supermarket.
+
+Er nimmt seinen Regenschirm und geht.
+He takes his umbrella and leaves.
+
+Sie läuft jeden Tag sieben Kilometer.
+Every day, she runs seven kilometers.
+
+Hilfst du mir morgen?
+Are you helping me tomorrow?
+
+Sie isst nicht sehr viel.
+She doesn't eat very much.
+
+Er wäscht jeden Samstag seine Wäsche.
+Every Saturday, he does his laundry.
+
+Treffen du dich morgen mit Sebastian?
+Are going to meet up with Sebastian tomorrow?
+
+Siehst du das?
+Do you see that?
+
+Sprichst du Deutsch?
+Do you speak german?
+
+Der Bus hält.
+The bus stops.
+
+Er hält mein Glas.
+He is holding my glass.
+
+Sie liest die Zeitung.
+She is reading the newspaper.
+
+Sie trägt ein Kleid.
+She is wearing a dress.
+
+Michael trägt die Kisten nach oben.
+Michael is carrying the boxes upstairs.
+
+Schläfst du?
+Are you sleeping?
+
+Du vergisst immer alles!
+You always forget everything!
