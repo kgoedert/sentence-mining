@@ -2542,9 +2542,6 @@
 # Afeito a unas seis personas todas las mañanas.
 # I shave about six people every morning.
 # 
-# Rut viste a los niños después de desanuyar.
-# Rut dresses the kids after having breakfast.
-# 
 # Ayer quemamos unos troncos en la chimenea.
 # Yesterday we burned some logs in the fireplace.
 # 
@@ -9819,3 +9816,6 @@ According to the communiqué, the attacks would have taken place between two and
 
 Según la Agencia Nueva Voz, el Primer Ministro habría dimitido esta mañana.
 According to the New Voice Agency, the Prime Minister had resigned this morning.
+
+Rut viste a los niños después de desayunar.
+Rut dresses the kids after having breakfast.
