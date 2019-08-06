@@ -2498,6 +2498,15 @@
 # Look, the train is here. I don't see the train.
 #
 
+Wir entscheiden gemeinsam.
+We make decisions together.
+
+Gehen sie gemeinsam?
+Will they go together?
+
+Wir laufen gemeinsam.
+We run together.
+
 Ich bin zurzeit beschäftigt.
 I'm busy at the moment.
 

@@ -2542,9 +2542,6 @@
 # Afeito a unas seis personas todas las mañanas.
 # I shave about six people every morning.
 # 
-# Rut viste a los niños después de desanuyar.
-# Rut dresses the kids after having breakfast.
-# 
 # Ayer quemamos unos troncos en la chimenea.
 # Yesterday we burned some logs in the fireplace.
 # 
@@ -2678,326 +2675,326 @@
 # What day is today?
 # 
 # Es martes.
-# It is tuesday.
+# # It is tuesday.
+# # 
+# # En mi clase somos veintidós.
+# # We are twenty two in my class.
+# # 
+# # ¿Cuánto es esto?
+# # How much is this?
+# # 
+# Son sesenta euros.
+# Sixty euros.
 # 
-# En mi clase somos veintidós.
-# We are twenty two in my class.
+# Es la una.
+# It's one o'clock.
 # 
-# ¿Cuánto es esto?
-# How much is this?
+# Son las dos.
+# It's two o'clock.
 # 
-Son sesenta euros.
-Sixty euros.
-
-Es la una.
-It's one o'clock.
-
-Son las dos.
-It's two o'clock.
-
-¿Dónde es la fiesta?
-Where is the party?
-
-El partido es a las diez.
-The match is at ten.
-
-¿De dónde son ustedes?
-Where are you from?
-
-Somos de Santander.
-We are from Santander.
-
-Esta silla es de plástico.
-This chair is made of plastic.
-
-Ese coche es de Eduardo.
-That is Eduardo's car.
-
-Estoy en Sevilla.
-I am in Seville.
-
-¿Dónde están mis llaves?
-Where are my keys?
-
-Están encima de la televisión.
-They are on top of the tv.
-
-Luis está en la cama. Está enfermo.
-Luis is in bed. He's sick.
-
-Mis padres están en Caracas.
-My parents are in Caracas.
-
-¿Dónde está Monterrey?
-Where is Monterrey?
-
-Está en el norte de México.
-It is in nothern Mexico.
-
-¿Está Miguel?
-Is Miguel at home?
-
-Estamos aburridos.
-We are bored.
-
-¿Cómo está hoy, Monica?
-How are you today, Monica?
-
-Estoy un poco cansada.
-I am a little bit tired.
-
-La casa está sucia.
-The house is dirty.
-
-La sopa está caliente.
-The soup is hot.
-
-El jefe está de mal humor hoy.
-The boss is in a bad mood today.
-
-Las tiendas están abiertas.
-The shops are open.
-
-Las tiendas están cerradas.
-The shops are closed.
-
-¿Saliste anoche?
-Did you go out last night?
-
-No, me quedé en casa. Vi un poco la tele.
-No, I stayed at home. I watched some tv.
-
-Cervantes nació en Alcatá de Henares en 1547.
-Cervantes was born in Alcatá de Henares in 1547.
-
-Anoche no salimos. Nos quedamos en casa a descansar.
-Last night we did not go out. We stayed at home resting.
-
-Mis padres viveron en Quito desde 1990 hasta 2001.
-My parents lived in Quito from 1990 to 2001.
-
-La Primera Guerra Mundial empezó en 1914 y acabó en 1918.
-The First World War started in 1914 and ended in 1918.
-
-De joven, viví cuatro años en México.
-When I was young, I lived four years in Mexico.
-
-Cuando acabó la película, encendieran las luces.
-When the movie ended, they turned on the lights.
-
-El profesor entró en el aula, abrió el libro y empezó a explicar.
-The teacher came in the room, opened up the book and started explaining.
-
-María es muy activa.
-María is very active.
-
-Julián es alegre.
-Julián is happy.
-
-El hielo es frío.
-The ice is cold.
-
-Hoy está cansada.
-Today she is tired.
-
-Hoy no está alegre.
-Today he is not happy.
-
-Este café está frío.
-This coffee is cold.
-
-Esta planta está muerta.
-This plant is dead.
-
-Sofia es delgada.
-Sofia is thin.
-
-Ana es muy elegante.
-Ana is very elegant.
-
-La boda es en la iglesia de Santa Marta, a las cinco.
-The wedding is at Santa Marta's church at five.
-
-Estás muy elegante con ese vestido.
-You are very elegant with that dress.
-
-La iglesia de Santa Marta está en la Plaza de Córdoba.
-Santa Marta's church is at Córdoda square.
-
-Este perro es muy malo.
-This dog is very bad.
-
-Pepe está malo.
-Pepe is sick.
-
-Es tarde. Tengo sueño.
-It is late. I am sleepy.
-
-Adela y Jorge no tienen hijos.
-Adela and Jorge don't have children.
-
-Tengo un ordenador nuevo.
-I have a new computer.
-
-Luis no tiene coche.
-Luis doesn't have a car.
-
-¿Tienes un lápiz?
-Do you have a pencil?
-
-Sí, pero lo necesito.
-Yes, but I need it.
-
-Cristina tiene siete hermanos.
-Cristina has seven siblings.
-
-¿Cuántos hijos tenéis?
-How many children do you have?
-
-No tenemos hijos.
-We don't have children.
-
-Mis abuelos tienen noventa años.
-My grandparents are ninety years old.
-
-Enrique tiene los ojos verdes.
-Enrique has green eyes.
-
-Mi casa no tiene jardín.
-My house does not have a garden.
-
-Tienes mala cara.
-You look bad.
-
-¿Tienes fiebre?
-Do you have a fever?
-
-¿Tenéis frío?
-Are you cold?
-
-No, tenemos miedo.
-No, we are afraid.
-
-Hay un vaso en la mesa.
-There is a vasa on the table.
-
-Hay cinco alumnos en clase.
-There are five students in class.
-
-No hay leche.
-There is no milk.
-
-Hay un pájaro en el balcón.
-There is a bird on the balcony.
-
-¿Hay un hotel por aquí?
-Is there a hotel around here?
-
-Hay uno en la calle Arenal.
-There is one in Arenal street.
-
-Hay naranjas en la nevera.
-There are oranges in the fridge.
-
-En mi calle hay muchos árboles.
-In my street there are a lot of trees.
-
-¿Hay muchos cines en tu barrio?
-Are there a lot of cinemas in your neighborhood?
-
-Hay tres.
-There are three.
-
-¿Cuántos chicos hay en tu clase?
-How many boys there are in your class?
-
-No hay ningún hotel en esta calle.
-There are no hotels in this street.
-
-En Santa Marta no hay aeropuerto.
-In Santa Marta there are no airports.
-
-En mi calle no hay árboles.
-In my street there are no trees.
-
-En mi barrio no hay muchos bares.
-In my neighborhood there are not many bars.
-
-Hay agua en el suelo.
-There is water on the floor.
-
-No hay mucha mantequilla.
-There is not much butter.
-
-¿Hay pan? No hay mucho.
-Is there bread? There is not much.
-
-¿Cuánta leche hay en la nevera?
-How much milk is there on the fridge?
-
-¿Hay una frutería por aqui?
-Is there a grocerie around here?
-
-Perdone, ¿dónde hay un buzón?
-Excuse, where is there a mailbox?
-
-Hay un señor que quiere hablar con usted.
-There is a gentleman that wants to talk to you.
-
-Hay un restaurante nuevo en el barrio.
-There is a new restaurant in the neighborhood.
-
-Hay un cine el la calle Monterrey.
-There is a movie theater in Monterrey street.
-
-En Madrid hay muchos museos.
-In Madrid there are a lot of museums.
-
-Perdone, ¿dónde hay una farmacia?
-Excuse me, where there is a pharmacy?
-
-¿Dónde hay un restaurante?
-Where there is a restaurant?
-
-Está en la recepción.
-He is at the reception.
-
-Está en la calle Apodaca.
-It is in Apodaca street.
-
-El cine América está en la calle Monterrey.
-The América movie theater is at Monterrey street.
-
-¿Marta, dónde está la farmacia de tu tía?
-Marta, where is your aunt's pharmacy?
-
-¿Dónde está casa Pepe?
-Where is casa Pepe?
-
-¿Dónde está la parada de autobús más próxima?
-Where is the closest bus stop?
-
-¿Dónde están mis herramientas?
-Where are my tools?
-
-El supermercado está en la plaza.
-The supermarket is at the square.
-
-Los bares están en el centro.
-The bars are at the center.
-
-Perdone, ¿trabaja usted aquí?
-Excuse me, do you work here?
-
-La semana pasada le pedí dinero a Nuria.
-Last week I asked Nuria for money.
-
-Pepi y Lolo se divirtieron mucho en mi fiesta.
-Pepi and Lolo had a great time at my party.
-
-Los niños durmieron diez horas anoche.
-The kids slept ten hours last night.
-
+# ¿Dónde es la fiesta?
+# Where is the party?
+# 
+# El partido es a las diez.
+# The match is at ten.
+# 
+# ¿De dónde son ustedes?
+# Where are you from?
+# 
+# Somos de Santander.
+# We are from Santander.
+# 
+# Esta silla es de plástico.
+# This chair is made of plastic.
+# 
+# Ese coche es de Eduardo.
+# That is Eduardo's car.
+# 
+# Estoy en Sevilla.
+# I am in Seville.
+# 
+# ¿Dónde están mis llaves?
+# Where are my keys?
+# 
+# Están encima de la televisión.
+# They are on top of the tv.
+# 
+# Luis está en la cama. Está enfermo.
+# Luis is in bed. He's sick.
+# 
+# Mis padres están en Caracas.
+# My parents are in Caracas.
+# 
+# ¿Dónde está Monterrey?
+# Where is Monterrey?
+# 
+# Está en el norte de México.
+# It is in nothern Mexico.
+# 
+# ¿Está Miguel?
+# Is Miguel at home?
+# 
+# Estamos aburridos.
+# We are bored.
+# 
+# ¿Cómo está hoy, Monica?
+# How are you today, Monica?
+# 
+# Estoy un poco cansada.
+# I am a little bit tired.
+# 
+# La casa está sucia.
+# The house is dirty.
+# 
+# La sopa está caliente.
+# The soup is hot.
+# 
+# El jefe está de mal humor hoy.
+# The boss is in a bad mood today.
+# 
+# Las tiendas están abiertas.
+# The shops are open.
+# 
+# Las tiendas están cerradas.
+# The shops are closed.
+# 
+# ¿Saliste anoche?
+# Did you go out last night?
+# 
+# No, me quedé en casa. Vi un poco la tele.
+# No, I stayed at home. I watched some tv.
+# 
+# Cervantes nació en Alcatá de Henares en 1547.
+# Cervantes was born in Alcatá de Henares in 1547.
+# 
+# Anoche no salimos. Nos quedamos en casa a descansar.
+# Last night we did not go out. We stayed at home resting.
+# 
+# Mis padres viveron en Quito desde 1990 hasta 2001.
+# My parents lived in Quito from 1990 to 2001.
+# 
+# La Primera Guerra Mundial empezó en 1914 y acabó en 1918.
+# The First World War started in 1914 and ended in 1918.
+# 
+# De joven, viví cuatro años en México.
+# When I was young, I lived four years in Mexico.
+# 
+# Cuando acabó la película, encendieran las luces.
+# When the movie ended, they turned on the lights.
+# 
+# El profesor entró en el aula, abrió el libro y empezó a explicar.
+# The teacher came in the room, opened up the book and started explaining.
+# 
+# María es muy activa.
+# María is very active.
+# 
+# Julián es alegre.
+# Julián is happy.
+# 
+# El hielo es frío.
+# The ice is cold.
+# 
+# Hoy está cansada.
+# Today she is tired.
+# 
+# Hoy no está alegre.
+# Today he is not happy.
+# 
+# Este café está frío.
+# This coffee is cold.
+# 
+# Esta planta está muerta.
+# This plant is dead.
+# 
+# Sofia es delgada.
+# Sofia is thin.
+# 
+# Ana es muy elegante.
+# Ana is very elegant.
+# 
+# La boda es en la iglesia de Santa Marta, a las cinco.
+# The wedding is at Santa Marta's church at five.
+# 
+# Estás muy elegante con ese vestido.
+# You are very elegant with that dress.
+# 
+# La iglesia de Santa Marta está en la Plaza de Córdoba.
+# Santa Marta's church is at Córdoda square.
+# 
+# Este perro es muy malo.
+# This dog is very bad.
+# 
+# Pepe está malo.
+# Pepe is sick.
+# 
+# Es tarde. Tengo sueño.
+# It is late. I am sleepy.
+# 
+# Adela y Jorge no tienen hijos.
+# Adela and Jorge don't have children.
+# 
+# Tengo un ordenador nuevo.
+# I have a new computer.
+# 
+# Luis no tiene coche.
+# Luis doesn't have a car.
+# 
+# ¿Tienes un lápiz?
+# Do you have a pencil?
+# 
+# Sí, pero lo necesito.
+# Yes, but I need it.
+# 
+# Cristina tiene siete hermanos.
+# Cristina has seven siblings.
+# 
+# ¿Cuántos hijos tenéis?
+# How many children do you have?
+# 
+# No tenemos hijos.
+# We don't have children.
+# 
+# Mis abuelos tienen noventa años.
+# My grandparents are ninety years old.
+# 
+# Enrique tiene los ojos verdes.
+# Enrique has green eyes.
+# 
+# Mi casa no tiene jardín.
+# My house does not have a garden.
+# 
+# Tienes mala cara.
+# You look bad.
+# 
+# ¿Tienes fiebre?
+# Do you have a fever?
+# 
+# ¿Tenéis frío?
+# Are you cold?
+# 
+# No, tenemos miedo.
+# No, we are afraid.
+# 
+# Hay un vaso en la mesa.
+# There is a vasa on the table.
+# 
+# Hay cinco alumnos en clase.
+# There are five students in class.
+# 
+# No hay leche.
+# There is no milk.
+# 
+# Hay un pájaro en el balcón.
+# There is a bird on the balcony.
+# 
+# ¿Hay un hotel por aquí?
+# Is there a hotel around here?
+# 
+# Hay uno en la calle Arenal.
+# There is one in Arenal street.
+# 
+# Hay naranjas en la nevera.
+# There are oranges in the fridge.
+# 
+# En mi calle hay muchos árboles.
+# In my street there are a lot of trees.
+# 
+# ¿Hay muchos cines en tu barrio?
+# Are there a lot of cinemas in your neighborhood?
+# 
+# Hay tres.
+# There are three.
+# 
+# ¿Cuántos chicos hay en tu clase?
+# How many boys there are in your class?
+# 
+# No hay ningún hotel en esta calle.
+# There are no hotels in this street.
+# 
+# En Santa Marta no hay aeropuerto.
+# In Santa Marta there are no airports.
+# 
+# En mi calle no hay árboles.
+# In my street there are no trees.
+# 
+# En mi barrio no hay muchos bares.
+# In my neighborhood there are not many bars.
+# 
+# Hay agua en el suelo.
+# There is water on the floor.
+# 
+# No hay mucha mantequilla.
+# There is not much butter.
+# 
+# ¿Hay pan? No hay mucho.
+# Is there bread? There is not much.
+# 
+# ¿Cuánta leche hay en la nevera?
+# How much milk is there on the fridge?
+# 
+# ¿Hay una frutería por aqui?
+# Is there a grocerie around here?
+# 
+# Perdone, ¿dónde hay un buzón?
+# Excuse, where is there a mailbox?
+# 
+# Hay un señor que quiere hablar con usted.
+# There is a gentleman that wants to talk to you.
+# 
+# Hay un restaurante nuevo en el barrio.
+# There is a new restaurant in the neighborhood.
+# 
+# Hay un cine el la calle Monterrey.
+# There is a movie theater in Monterrey street.
+# 
+# En Madrid hay muchos museos.
+# In Madrid there are a lot of museums.
+# 
+# Perdone, ¿dónde hay una farmacia?
+# Excuse me, where there is a pharmacy?
+# 
+# ¿Dónde hay un restaurante?
+# Where there is a restaurant?
+# 
+# Está en la recepción.
+# He is at the reception.
+# 
+# Está en la calle Apodaca.
+# It is in Apodaca street.
+# 
+# El cine América está en la calle Monterrey.
+# The América movie theater is at Monterrey street.
+# 
+# ¿Marta, dónde está la farmacia de tu tía?
+# Marta, where is your aunt's pharmacy?
+# 
+# ¿Dónde está casa Pepe?
+# Where is casa Pepe?
+# 
+# ¿Dónde está la parada de autobús más próxima?
+# Where is the closest bus stop?
+# 
+# ¿Dónde están mis herramientas?
+# Where are my tools?
+# 
+# El supermercado está en la plaza.
+# The supermarket is at the square.
+# 
+# Los bares están en el centro.
+# The bars are at the center.
+# 
+# Perdone, ¿trabaja usted aquí?
+# Excuse me, do you work here?
+# 
+# La semana pasada le pedí dinero a Nuria.
+# Last week I asked Nuria for money.
+# 
+# Pepi y Lolo se divirtieron mucho en mi fiesta.
+# Pepi and Lolo had a great time at my party.
+# 
+# Los niños durmieron diez horas anoche.
+# The kids slept ten hours last night.
+# 
 La madre de Clara murió hace dos meses.
 Clara's mother died two months ago.
 
@@ -9820,6 +9817,7 @@ According to the communiqué, the attacks would have taken place between two and
 Según la Agencia Nueva Voz, el Primer Ministro habría dimitido esta mañana.
 According to the New Voice Agency, the Prime Minister had resigned this morning.
 
+<<<<<<< HEAD
 ¿Me acompañas al súper? Te acompañaría, pero tengo que ir al dentista con mi madre.
 Will you walk me to the supermarket? I would go with you, but I have to go to the dentist with my mother.
 
@@ -9894,3 +9892,6 @@ Adolfo knew Egypt very well. He had lived in Cairo for many years.
 
 Habría vivido en El Cairo, pero no hablaba ni una palabra de árabe.
 He would have lived in Cairo, but he didn't speak a word of Arabic.
+
+Rut viste a los niños después de desayunar.
+Rut dresses the kids after having breakfast.
