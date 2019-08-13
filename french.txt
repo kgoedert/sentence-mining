@@ -6000,3 +6000,126 @@ He is eighteen years old.
 
 Il a dix-neuf ans.
 He is nineteen years old.
+
+Ils ont cinq livres.
+They have five pounds.
+
+Ils ont trois filles.
+They have three daughters.
+
+Ils ont dix livres.
+They have ten pounds.
+
+Ils ont cinq classes.
+They have five classes.
+
+Ils ont huit livres.
+They have eight pounds.
+
+Ils ont un livre.
+They have a book.
+
+Ils ont sept francs.
+They have seven francs.
+
+Ils ont deux livres.
+They have two books.
+
+Ils ont vingt euros.
+They have twenty euros.
+
+Ils ont six livres.
+They have six pounds.
+
+Il a neuf ans.
+He's nine years old.
+
+Il a neuf euros.
+He has nine euros.
+
+Il a neuf livres.
+He has nine books.
+
+Il a sept ans.
+He's seven years old.
+
+Il a sept euros.
+He has seven euros.
+
+Il a un an.
+He's a year old.
+
+Il a un euro.
+He has one euro.
+
+Il a dix-sept ans.
+He is seventeen years old.
+
+Il a dix-sept euros.
+He has seventeen euros.
+
+Il a huit euros.
+He has eight euros.
+
+Il a neuf ans.
+He's nine years old.
+
+Il a neuf euros.
+He has nine euros.
+
+Il a neuf amis.
+He has nine friends.
+
+Il a neuf livres.
+He has nine books.
+
+Il a neuf étages.
+It has nine floors.
+
+Il a neuf chambres.
+It has nine rooms.
+
+Il a neuf ans.
+He's nine years old.
+
+Il a cinq ans.
+He's five years old.
+
+Il a cinq euros.
+He has five euros.
+
+Il a cinq amis.
+He has five friends.
+
+Il a cinq fiches.
+He has five cards.
+
+Il a cinq sœurs.
+He has five sisters.
+
+Il a cinq étages.
+It has five floors.
+
+Il a cinq livres.
+He has five pounds.
+
+Il a dix ans.
+He's ten years old.
+
+Il a dix euros.
+He has ten euros.
+
+Il a dix étages.
+It has ten floors.
+
+Il a dix livres.
+He has ten pounds.
+
+Il a dix hôtels.
+He has ten hotels.
+
+Il a dix euros.
+He has ten euros.
+
+Il a dix enfants.
+He has ten children.
