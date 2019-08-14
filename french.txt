@@ -6123,3 +6123,96 @@ He has ten euros.
 
 Il a dix enfants.
 He has ten children.
+
+Est-ce qu'il est dix heures? Non, il est onze heures.
+Is it ten o'clock? No, it's eleven o'clock.
+
+Est-ce que vous avez neuf fiches? Non, j'ai dix fiches.
+Do you have nine cards? No, I have ten cards.
+
+Est-ce que vous avez sept fiches? Non, j'ai huit fiches.
+Do you have seven cards? No, I have eight cards.
+
+Est-ce qu'il est sept heures? Non, il est huit heures.
+Is it seven o'clock? No, it's eight o'clock.
+
+Est-ce qu'il est une heure? Non, il est deux heures.
+Is it one o'clock? No, it's two o'clock.
+
+Est-ce qu'il déjeune à midi? Non, il déjeune à une heure.
+Does he have lunch at noon? No, he has lunch at one o'clock.
+
+Est-ce que vous avez quatre livres? Non, j'ai cinq livres.
+Do you have four books? No, I have five books.
+
+Est-ce qu'il y a six livres? Non, il y a sept livres.
+Are there six books? No, there are seven books.
+
+Est-ce que vous avez sept euros? Non, j'ai huit euros.
+Do you have seven euros? No, I have eight euros.
+
+Est-ce que votre fille a huit enfants? Non, elle a neuf enfants.
+Does your daughter have eight children? No, she has nine children.
+
+Est-ce que c'est la chambre quatre? Non, c'est la chambre cinq.
+Is this room four? No, this is room five.
+
+J'ai la chambre neuf. Et vous? J'ai la chambre dix.
+I have room nine. What about you? I have room ten.
+
+J'ai quatre sœurs. Et vous? J'ai cinq sœurs.
+I have four sisters. What about you? I have five sisters.
+
+J'ai dix-huit ans. Et vous? J'ai dix-neuf ans.
+I'm eighteen years old. What about you? I'm nineteen years old.
+
+J'arrive à six heures. Et vous? J'arrive à sept heures.
+I'll be there at six o'clock. What about you? I arrive at seven o'clock.
+
+J'ai huit heures de travail. Et vous? J'ai neuf heures de travail.
+I have eight hours of work. What about you? I have nine hours of work.
+
+J'arrive à dix heures. Et vous? J'arrive à onze heures.
+I'll be there at ten o'clock. What about you? I arrive at eleven o'clock.
+
+J'ai deux fiches. Et vous? J'ai trois fiches.
+I have two cards. What about you? I have three cards.
+
+J'ai la chambre six. Et vous? J'ai la chambre sept.
+I have room six. What about you? I have room seven.
+
+J'ai six euros. Et vous? J'ai sept euros.
+I have six euros. What about you? I have seven euros.
+
+J'ai cinq euros. Et vous? J'ai six euros.
+I have five euros. What about you? I have six euros.
+
+Il se réveille à sept heures. Et vous? Je me réveille à six heures.
+He wakes up at seven o'clock. What about you? I wake up at six o'clock.
+
+Il a trois frères. Et vous? J'ai deux frères.
+He has three brothers. What about you? I have two brothers.
+
+Il a cinq bagages. Et vous? J'ai quatre bagages.
+He has five pieces of luggage. What about you? I have four bags.
+
+Il a huit fils. Et vous? J'ai sept fils.
+He has eight sons. What about you? I have seven sons.
+
+Il arrive à neuf heures. Et vous? J'arrive à huit heures.
+He arrives at nine o'clock. What about you? I'll be there at eight o'clock.
+
+Il a six classes. Et vous? J'ai cinq classes.
+It has six classes. What about you? I have five classes.
+
+Il a dix-huit euros. Et vous? J'ai dix-sept euros.
+He has eighteen euros. What about you? I have seventeen euros.
+
+Il a la chambre douze. Et vous? J'ai la chambre onze.
+He has room twelve. What about you? I have room eleven.
+
+Il a quinze euros. Et vous? J'ai quatorze euros.
+He has fifteen euros. What about you? I have fourteen euros.
+
+Il a onze heures de travail. Et vous? J'ai dix heures de travail.
+He has eleven hours of work. What about you? I have ten hours of work.
