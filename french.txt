@@ -3189,316 +3189,316 @@
 # 
 # Ils parleront de  Vincent  au prochain conseil. Ils parleront de lui.
 # They'll talk about Vincent at the next council meeting. They'll talk about him.
+# # 
+# # Il a une envie de  soupe. Il en  a envie.
+# # He wants soup. He wants to.
+# # 
+# # J'ai deux dictionnaires. Moi j'en ai deux également.
+# # I have two dictionaries. I have two too.
+# # 
+# # Est-ce qu'elle t'a emmenée à la piscine ? Oui, elle m'y a emmenée.
+# # Did she take you to the pool? Yes, she took me there.
+# # 
+# Est-ce que tu as parlé de ceci à Michel ? Oui, je lui en ai parlé.
+# Have you talked to Michel about this? Yes, I talked to him about it.
 # 
-# Il a une envie de  soupe. Il en  a envie.
-# He wants soup. He wants to.
+# Vous avez envie de chocolat ? Oui, nous en avons envie !
+# Do you want some chocolate? Yes, we want to!
 # 
-# J'ai deux dictionnaires. Moi j'en ai deux également.
-# I have two dictionaries. I have two too.
+# Vous parlez de la dernière exposition du Musée d'Art Moderne? Non, nous n'en parlons pas.
+# Are you talking about the latest exhibition at the Museum of Modern Art? No, we don't talk about it.
 # 
-# Est-ce qu'elle t'a emmenée à la piscine ? Oui, elle m'y a emmenée.
-# Did she take you to the pool? Yes, she took me there.
+# Vous parlez du patron ? Oui, nous parlons de lui.
+# Are you talking about the boss? Yes, we're talking about him.
 # 
-Est-ce que tu as parlé de ceci à Michel ? Oui, je lui en ai parlé.
-Have you talked to Michel about this? Yes, I talked to him about it.
-
-Vous avez envie de chocolat ? Oui, nous en avons envie !
-Do you want some chocolate? Yes, we want to!
-
-Vous parlez de la dernière exposition du Musée d'Art Moderne? Non, nous n'en parlons pas.
-Are you talking about the latest exhibition at the Museum of Modern Art? No, we don't talk about it.
-
-Vous parlez du patron ? Oui, nous parlons de lui.
-Are you talking about the boss? Yes, we're talking about him.
-
-Vous parlez de son nouveau projet ? Non, nous n’en parlons pas.
-Are you talking about his new project? No, we don't talk about it.
-
-Vous revenez du cinéma ? Oui, nous en revenons à l’instant.
-You just got back from the movies? Yes, we're just coming back from that.
-
-Je dois aller faire les courses. Est-ce qu’il reste du lait? Non, il n’en reste plus.
-I have to go shopping. Is there any milk left? No, there's no more left.
-
-Est-ce que tu as acheté une poêle hier ? Oui, j’en ai acheté une pour faire les crêpes.
-Did you buy a frying pan yesterday? Yes, I bought one to make the pancakes.
-
-Est-ce que vous avez des enfants ? Oui, j’en ai 2. 
-Do you have children? Yes, I have two. 
-
-Est-ce que vous participerez au tournoi de football dimanche? Oui, bien sûr, nous y participerons et nous gagnerons!
-Will you be participating in the football tournament on Sunday? Yes, of course, we will participate and we will win!
-
-Est-ce que vous vous intéressez à l'art moderne? Non, nous ne nous y intéressons pas du tout!
-Are you interested in modern art? No, we are not interested at all!
-
-Tu pars où pendant les vacances? Je pars en Australie. Et tu y vas à quelle période? J'y vais à Noël. Et toi, tu vas où?
-Where are you going on holiday? I'm going to Australia. And when do you go there? I'm going there for Christmas. Where are you going?
-
-Moi, je vais aux Etats-Unis! C'est super! Tu y vas avec qui? J'y vais avec ma famille
-I'm going to the United States! That's great! That's great! Who are you going with? I'm going with my family
-
-Quand vas-tu à la banque? J'y vais ce matin.
-When do you go to the bank? I'm going this morning.
-
-Avec qui vas-tu au cinéma? J'y vais avec mes amis.
-Who are you going to the movies with? I'm going with my friends.
-
-Pourquoi vas-tu à l'aéroport? J'y vais pour aller chercher mes parents qui reviennent de vacances. 
-Why are you going to the airport? I'm going to pick up my parents who are coming back from vacation. 
-
-Comment vas-tu aux Halles? J'y vais en métro.
-How are you doing in Les Halles? I'm going by subway.
-
-Comment pars-tu en Corse? J'y vais en bateau.
-How do you get to Corsica? I'm going by boat.
-
-Quand vas-tu à Cuba? J'y vais en décembre.
-When are you going to Cuba? I'm going in December.
-
-Tu penseras à faire les courses? Oui, j'y penserai.
-Will you think about shopping? Yes, I'll think about it.
-
-Tu achèteras du pain alors s'il te plaît? Non, je n'en achèterai pas car il en reste.
-Will you buy some bread then, please? No, I won't buy any because there's still some left.
-
-Tu as acheté du pain? Non, je n'en ai pas acheté car il en restait. 
-Did you buy bread? No, I didn't buy any because there were still some left. 
-
-Tu vas penser à faire les courses? Oui, je vais y penser!
-Are you going to think about shopping? Yes, I'll think about it!
-
-Tu vas acheter du pain? Non, je ne vais pas en acheter car il en reste.
-Are you going to buy bread? No, I'm not going to buy any because there are still some left.
-
-Vous parlez souvent de votre travail ? Oui, j'en parle souvent.
-Do you often talk about your work? Yes, I talk about it often.
-
-Et vous avez besoin de cet ordinateur pour travailler ? Oui, j'en ai besoin tous les jours.
-And you need this computer to work? Yes, I need it every day.
-
-Il est très fier de sa fille, il en est fier depuis longtemps.
-He is very proud of his daughter, he has been proud of her for a long time.
-
-Elle est triste d'appendre cette nouvelle. Elle en est triste.
-She is sad to hear this news. She is sad about it.
-
-Tu viens de l'école ? Oui, j'en viens.
-Are you from school? Yes, I just came from there.
-
-Vous mangez de la salade ? Oui, j'en mange tous les jours.
-Do you eat salad? Yes, I eat it every day.
-
-Tu bois du vin ? Oui, j'en bois de temps en temps.
-Do you drink wine? Yes, I drink it from time to time.
-
-Il y a du pain dans le placard ? Oui, il y en a.
-Is there any bread in the closet? Yes, there are some.
-
-Vous avez beaucoup de CD ? Oui, j'en ai 400. 
-Do you have a lot of CDs? Yes, I have 400. 
-
-Tu as des amis ? Oui, j'en ai beaucoup.
-Do you have any friends? Yes, I have a lot of them.
-
-Paul habite à Marseille. Il y habite depuis 2 ans.
-Paul lives in Marseille. He has been living there for two years.
-
-Elle est venue chez moi. Elle y est depuis 30 minutes.
-She came to my house. She's been there for 30 minutes.
-
-Elle pense à ses vacances, elle y pense depuis 3 mois.
-She's been thinking about her vacation, she's been thinking about it for three months.
-
-Tu t'intéresses à la littérature ? Oui, je m'y intéresse beaucoup.
-Are you interested in literature? Yes, I'm very interested in it.
-
-Tu t'intéresses à ce garçon ? Oui, je m'intéresse à lui.
-Are you interested in this boy? Yes, I'm interested in him.
-
-Il pense à ses projets et il y pense tout le temps !
-He thinks about his projects and he thinks about them all the time!
-
-Vous partez au Canada ?  – Oui, on y va souvent !
-Are you going to Canada?  - Yes, we go there often!
-
-Elle a un jardin et elle y cultive des légumes.
-She has a garden and grows vegetables there.
-
-Tu veux de l’eau ? Il y en a à la cuisine
-Do you want some water? There are some in the kitchen.
-
-Tu participes au concours ?  – Non je n’y participe pas.
-Are you in the contest?  - No, I'm not participating.
-
-Vous parlez français. 
-You speak French.
-
-Vous parlez français?
-Do you speak French?
-
-Vous avez des nouvelles. Avez-vous des nouvelles?
-You have some news. Do you have any news?
-
-Ils sont en vacances. Sont-ils en vacances?
-They're on vacation. Are they on vacation?
-
-Il est à Lyon maintenant. Est-il à Lyon maintenant?
-He's in Lyon now. Is he in Lyon now?
-
-Nous allons au café. Allons-nous au café?
-We're going to the café. Shall we go to the coffee shop?
-
-Il va bien. Va-t-il bien?
-He's fine. Is he all right?
-
-Elle va bien. Va-t-elle bien?
-She's fine. Is she all right?
-
-Vos parents sont-ils toujours en vacances?
-Are your parents still on vacation?
-
-Le restaurant est-il bon? 
-Is the restaurant good?
-
-Où est-ce que nous allons? 
-Where are we going?
-
-Est-ce que vous voulez le livre?
-Do you want the book?
-
-Est-ce que vous traduisez le livre?
-Do you translate the book?
-
-Est-ce que vous avez le livre?
-Do you have the book?
-
-Est-ce que vous fermez le livre?
-Are you closing the book?
-
-Est-ce que vous ouvrez le livre?
-Are you opening the book?
-
-Est-ce que vous lisez le livre?
-Are you reading the book?
-
-Est-ce que vous demandez le livre?
-Are you asking for the book?
-
-Vous voulez le livre?
-Do you want the book?
-
-Vous traduisez le livre?
-Do you translate the book?
-
-Vous avez le livre?
-Do you have the book?
-
-Vous fermez le livre?
-Are you closing the book?
-
-Vous ouvrez le livre?
-Are you opening the book?
-
-Vous lisez le livre?
-Are you reading the book?
-
-Vous demandez le livre?
-Are you asking for the book?
-
-Voulez-vous le livre?
-Do you want the book?
-
-Traduisez-vous le livre?
-Do you translate the book?
-
-Avez-vous le livre?
-Do you have the book?
-
-Fermez-vous le livre?
-Are you closing the book?
-
-Ouvrez-vous le livre?
-Do you open the book?
-
-Lisez-vous le livre?
-Are you reading the book?
-
-Demandez-vous le livre?
-Are you asking for the book?
-
-Est-ce qu'ils sont pressés?
-Are they in a hurry?
-
-Est-ce qu'elle est pressée?
-Is she in a hurry?
-
-Est-ce qu'elles sont pressées?
-Are they in a hurry?
-
-Est-ce que nous sommes pressés?
-Are we in a hurry?
-
-Est-ce que vous êtes pressé?
-Are you in a hurry?
-
-Il est pressé?
-Is he in a hurry?
-
-Ils sont pressés?
-Are they in a hurry?
-
-Elle est pressée?
-Is she in a hurry?
-
-Elles sont pressées?
-Are they in a hurry?
-
-Nous sommes pressés?
-Are we in a hurry?
-
-Vous êtes pressé?
-Are you in a hurry?
-
-Est-il pressé?
-Is he in a hurry?
-
-Sont-ils pressés?
-Are they in a hurry?
-
-Est-elle pressée?
-Is she in a hurry?
-
-Sont-elles pressées?
-Are they in a hurry?
-
-Sommes-nous pressés?
-Are we in a hurry?
-
-Êtes-vous pressé?
-Are you in a hurry?
-
-Est-ce que vous êtes au café?
-Are you at the café?
-
-Est-ce que vous allez au café?
-Are you going to the coffee shop?
-
-Est-ce qu'elles sont au café?
-Are they at the coffee shop?
-
-Est-ce qu'il est au café?
-Is he at the coffee shop?
-
-Est-ce que nous allons au café?
-Are we going to the coffee shop?
-
-Est-ce qu'elle est au café?
-Is she at the coffee shop?
-
-Est-ce qu'elle va au café?
-Is she going to the coffee shop?
-
+# Vous parlez de son nouveau projet ? Non, nous n’en parlons pas.
+# Are you talking about his new project? No, we don't talk about it.
+# 
+# Vous revenez du cinéma ? Oui, nous en revenons à l’instant.
+# You just got back from the movies? Yes, we're just coming back from that.
+# 
+# Je dois aller faire les courses. Est-ce qu’il reste du lait? Non, il n’en reste plus.
+# I have to go shopping. Is there any milk left? No, there's no more left.
+# 
+# Est-ce que tu as acheté une poêle hier ? Oui, j’en ai acheté une pour faire les crêpes.
+# Did you buy a frying pan yesterday? Yes, I bought one to make the pancakes.
+# 
+# Est-ce que vous avez des enfants ? Oui, j’en ai 2. 
+# Do you have children? Yes, I have two. 
+# 
+# Est-ce que vous participerez au tournoi de football dimanche? Oui, bien sûr, nous y participerons et nous gagnerons!
+# Will you be participating in the football tournament on Sunday? Yes, of course, we will participate and we will win!
+# 
+# Est-ce que vous vous intéressez à l'art moderne? Non, nous ne nous y intéressons pas du tout!
+# Are you interested in modern art? No, we are not interested at all!
+# 
+# Tu pars où pendant les vacances? Je pars en Australie. Et tu y vas à quelle période? J'y vais à Noël. Et toi, tu vas où?
+# Where are you going on holiday? I'm going to Australia. And when do you go there? I'm going there for Christmas. Where are you going?
+# 
+# Moi, je vais aux Etats-Unis! C'est super! Tu y vas avec qui? J'y vais avec ma famille
+# I'm going to the United States! That's great! That's great! Who are you going with? I'm going with my family
+# 
+# Quand vas-tu à la banque? J'y vais ce matin.
+# When do you go to the bank? I'm going this morning.
+# 
+# Avec qui vas-tu au cinéma? J'y vais avec mes amis.
+# Who are you going to the movies with? I'm going with my friends.
+# 
+# Pourquoi vas-tu à l'aéroport? J'y vais pour aller chercher mes parents qui reviennent de vacances. 
+# Why are you going to the airport? I'm going to pick up my parents who are coming back from vacation. 
+# 
+# Comment vas-tu aux Halles? J'y vais en métro.
+# How are you doing in Les Halles? I'm going by subway.
+# 
+# Comment pars-tu en Corse? J'y vais en bateau.
+# How do you get to Corsica? I'm going by boat.
+# 
+# Quand vas-tu à Cuba? J'y vais en décembre.
+# When are you going to Cuba? I'm going in December.
+# 
+# Tu penseras à faire les courses? Oui, j'y penserai.
+# Will you think about shopping? Yes, I'll think about it.
+# 
+# Tu achèteras du pain alors s'il te plaît? Non, je n'en achèterai pas car il en reste.
+# Will you buy some bread then, please? No, I won't buy any because there's still some left.
+# 
+# Tu as acheté du pain? Non, je n'en ai pas acheté car il en restait. 
+# Did you buy bread? No, I didn't buy any because there were still some left. 
+# 
+# Tu vas penser à faire les courses? Oui, je vais y penser!
+# Are you going to think about shopping? Yes, I'll think about it!
+# 
+# Tu vas acheter du pain? Non, je ne vais pas en acheter car il en reste.
+# Are you going to buy bread? No, I'm not going to buy any because there are still some left.
+# 
+# Vous parlez souvent de votre travail ? Oui, j'en parle souvent.
+# Do you often talk about your work? Yes, I talk about it often.
+# 
+# Et vous avez besoin de cet ordinateur pour travailler ? Oui, j'en ai besoin tous les jours.
+# And you need this computer to work? Yes, I need it every day.
+# 
+# Il est très fier de sa fille, il en est fier depuis longtemps.
+# He is very proud of his daughter, he has been proud of her for a long time.
+# 
+# Elle est triste d'appendre cette nouvelle. Elle en est triste.
+# She is sad to hear this news. She is sad about it.
+# 
+# Tu viens de l'école ? Oui, j'en viens.
+# Are you from school? Yes, I just came from there.
+# 
+# Vous mangez de la salade ? Oui, j'en mange tous les jours.
+# Do you eat salad? Yes, I eat it every day.
+# 
+# Tu bois du vin ? Oui, j'en bois de temps en temps.
+# Do you drink wine? Yes, I drink it from time to time.
+# 
+# Il y a du pain dans le placard ? Oui, il y en a.
+# Is there any bread in the closet? Yes, there are some.
+# 
+# Vous avez beaucoup de CD ? Oui, j'en ai 400. 
+# Do you have a lot of CDs? Yes, I have 400. 
+# 
+# Tu as des amis ? Oui, j'en ai beaucoup.
+# Do you have any friends? Yes, I have a lot of them.
+# 
+# Paul habite à Marseille. Il y habite depuis 2 ans.
+# Paul lives in Marseille. He has been living there for two years.
+# 
+# Elle est venue chez moi. Elle y est depuis 30 minutes.
+# She came to my house. She's been there for 30 minutes.
+# 
+# Elle pense à ses vacances, elle y pense depuis 3 mois.
+# She's been thinking about her vacation, she's been thinking about it for three months.
+# 
+# Tu t'intéresses à la littérature ? Oui, je m'y intéresse beaucoup.
+# Are you interested in literature? Yes, I'm very interested in it.
+# 
+# Tu t'intéresses à ce garçon ? Oui, je m'intéresse à lui.
+# Are you interested in this boy? Yes, I'm interested in him.
+# 
+# Il pense à ses projets et il y pense tout le temps !
+# He thinks about his projects and he thinks about them all the time!
+# 
+# Vous partez au Canada ?  – Oui, on y va souvent !
+# Are you going to Canada?  - Yes, we go there often!
+# 
+# Elle a un jardin et elle y cultive des légumes.
+# She has a garden and grows vegetables there.
+# 
+# Tu veux de l’eau ? Il y en a à la cuisine
+# Do you want some water? There are some in the kitchen.
+# 
+# Tu participes au concours ?  – Non je n’y participe pas.
+# Are you in the contest?  - No, I'm not participating.
+# 
+# Vous parlez français. 
+# You speak French.
+# 
+# Vous parlez français?
+# Do you speak French?
+# 
+# Vous avez des nouvelles. Avez-vous des nouvelles?
+# You have some news. Do you have any news?
+# 
+# Ils sont en vacances. Sont-ils en vacances?
+# They're on vacation. Are they on vacation?
+# 
+# Il est à Lyon maintenant. Est-il à Lyon maintenant?
+# He's in Lyon now. Is he in Lyon now?
+# 
+# Nous allons au café. Allons-nous au café?
+# We're going to the café. Shall we go to the coffee shop?
+# 
+# Il va bien. Va-t-il bien?
+# He's fine. Is he all right?
+# 
+# Elle va bien. Va-t-elle bien?
+# She's fine. Is she all right?
+# 
+# Vos parents sont-ils toujours en vacances?
+# Are your parents still on vacation?
+# 
+# Le restaurant est-il bon? 
+# Is the restaurant good?
+# 
+# Où est-ce que nous allons? 
+# Where are we going?
+# 
+# Est-ce que vous voulez le livre?
+# Do you want the book?
+# 
+# Est-ce que vous traduisez le livre?
+# Do you translate the book?
+# 
+# Est-ce que vous avez le livre?
+# Do you have the book?
+# 
+# Est-ce que vous fermez le livre?
+# Are you closing the book?
+# 
+# Est-ce que vous ouvrez le livre?
+# Are you opening the book?
+# 
+# Est-ce que vous lisez le livre?
+# Are you reading the book?
+# 
+# Est-ce que vous demandez le livre?
+# Are you asking for the book?
+# 
+# Vous voulez le livre?
+# Do you want the book?
+# 
+# Vous traduisez le livre?
+# Do you translate the book?
+# 
+# Vous avez le livre?
+# Do you have the book?
+# 
+# Vous fermez le livre?
+# Are you closing the book?
+# 
+# Vous ouvrez le livre?
+# Are you opening the book?
+# 
+# Vous lisez le livre?
+# Are you reading the book?
+# 
+# Vous demandez le livre?
+# Are you asking for the book?
+# 
+# Voulez-vous le livre?
+# Do you want the book?
+# 
+# Traduisez-vous le livre?
+# Do you translate the book?
+# 
+# Avez-vous le livre?
+# Do you have the book?
+# 
+# Fermez-vous le livre?
+# Are you closing the book?
+# 
+# Ouvrez-vous le livre?
+# Do you open the book?
+# 
+# Lisez-vous le livre?
+# Are you reading the book?
+# 
+# Demandez-vous le livre?
+# Are you asking for the book?
+# 
+# Est-ce qu'ils sont pressés?
+# Are they in a hurry?
+# 
+# Est-ce qu'elle est pressée?
+# Is she in a hurry?
+# 
+# Est-ce qu'elles sont pressées?
+# Are they in a hurry?
+# 
+# Est-ce que nous sommes pressés?
+# Are we in a hurry?
+# 
+# Est-ce que vous êtes pressé?
+# Are you in a hurry?
+# 
+# Il est pressé?
+# Is he in a hurry?
+# 
+# Ils sont pressés?
+# Are they in a hurry?
+# 
+# Elle est pressée?
+# Is she in a hurry?
+# 
+# Elles sont pressées?
+# Are they in a hurry?
+# 
+# Nous sommes pressés?
+# Are we in a hurry?
+# 
+# Vous êtes pressé?
+# Are you in a hurry?
+# 
+# Est-il pressé?
+# Is he in a hurry?
+# 
+# Sont-ils pressés?
+# Are they in a hurry?
+# 
+# Est-elle pressée?
+# Is she in a hurry?
+# 
+# Sont-elles pressées?
+# Are they in a hurry?
+# 
+# Sommes-nous pressés?
+# Are we in a hurry?
+# 
+# Êtes-vous pressé?
+# Are you in a hurry?
+# 
+# Est-ce que vous êtes au café?
+# Are you at the café?
+# 
+# Est-ce que vous allez au café?
+# Are you going to the coffee shop?
+# 
+# Est-ce qu'elles sont au café?
+# Are they at the coffee shop?
+# 
+# Est-ce qu'il est au café?
+# Is he at the coffee shop?
+# 
+# Est-ce que nous allons au café?
+# Are we going to the coffee shop?
+# 
+# Est-ce qu'elle est au café?
+# Is she at the coffee shop?
+# 
+# Est-ce qu'elle va au café?
+# Is she going to the coffee shop?
+# 
 Est-ce qu'il va au café?
 Does he go to the coffee shop?
 
