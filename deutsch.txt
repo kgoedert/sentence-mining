@@ -2498,6 +2498,27 @@
 # Look, the train is here. I don't see the train.
 #
 
+Sesamöl im Wok erhitzen und Butter zerlassen
+Heat the sesame oil in the wok and melt the butter.
+
+Entferne unnötige Worte!
+Remove unnecessary words!
+
+Entferne diese Computerdatei!
+Please delete this file.
+
+Bitte entferne den Kommentar.
+Please delete the comment.
+
+Sind die Taxis im Einsatz?
+Are the taxis being used?
+
+Tom hat einen Buckel.
+Tom has a hunch.
+
+Die Katze machte einen Buckel.
+The cat arched its back.
+
 Wir entscheiden gemeinsam.
 We make decisions together.
 

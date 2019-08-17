@@ -9817,7 +9817,6 @@ According to the communiqué, the attacks would have taken place between two and
 Según la Agencia Nueva Voz, el Primer Ministro habría dimitido esta mañana.
 According to the New Voice Agency, the Prime Minister had resigned this morning.
 
-<<<<<<< HEAD
 ¿Me acompañas al súper? Te acompañaría, pero tengo que ir al dentista con mi madre.
 Will you walk me to the supermarket? I would go with you, but I have to go to the dentist with my mother.
 
