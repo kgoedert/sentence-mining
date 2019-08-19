@@ -6670,3 +6670,69 @@ When does he have time?
 
 Wann haben Sie den Termin?
 When do you have an appointment?
+
+Der große Hund macht mir Angst. 
+The big dog scares me.
+
+Das scharfe Messer macht ihm Angst. 
+The sharp knife scares him.
+
+Der Hund macht dem Kind Angst. 
+The dog scares the child.
+
+Die Schlangen machen uns Angst. 
+The snakes scare us.
+
+Mein kleiner Bruder liebt mich. 
+My little brother loves me.
+
+Ich liebe meine Arbeit. 
+I love my job.
+
+Ich liebe klassische Musik. 
+I love classical music.
+
+Ich liebe gute Literatur. 
+I love good literature.
+
+Wir sind gut angekommen. 
+We arrived without incident.
+
+Wir sind rechtzeitig abgefahren. 
+We departed on time.
+
+Der Zug hatte wegen Schnee Verspätung. 
+The train had a delay due to snow. (der Schnee)
+
+Das Spiel wurde wegen Regen unterbrochen. 
+The game was interrupted due to rain. (der Regen)
+
+Wir sind spät angekommen. 
+We arrived late.
+
+Ich bin müde. 
+I am tired.
+
+Ich muss in's Bett. 
+I have to go to bed. (das Bett)
+
+Ich habe Hunger. 
+I am hungry. (der Hunger)
+
+Ich möchte etwas essen. 
+I would like to eat something.
+
+Ich habe Durst. 
+I am thirsty. (der Durst)
+
+Ich möchte etwas trinken. 
+I would like to drink something.
+
+Ich habe viel zu erledigen. 
+I have a lot to do.
+
+Ich muss los. 
+I have to go.
+
+Was ist los? 
+What is going on?
