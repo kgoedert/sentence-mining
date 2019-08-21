@@ -6835,3 +6835,69 @@ Don't take it too seriously.
 
 Das sagt mir nichts. 
 I don't know anything about that.
+
+Das Pferd des Mannes. 
+The horse of the man.
+
+Das Spielzeug des Kindes. 
+The toy of the child.
+
+Das Haus der Frau. 
+The house of the woman.
+
+Der Arbeitstisch des Chefs. 
+The desk of the (male) boss.
+
+Der Arbeitstisch der Chefin. 
+The desk of the (female) boss.
+
+Das Zimmer der Kinder 
+The room of the children.
+
+Das Fahrrad des kleinen Mädchens. 
+The bicycle of the little girl.
+
+Der Käfig des bunten Vogels. 
+The cage of the colorful bird.
+
+Das Auto des großen Polizisten. 
+The car of the tall policeman.
+
+Das Auto der kleinen Polizistin. 
+The car of the small policewoman.
+
+Der Apfel des großen Jungen. 
+The apple of the tall boy.
+
+Der Hund der kleinen Kinder. 
+The dog of the small children.
+
+Das Pferd eines Mannes. 
+The horse of a man.
+
+Das Spielzeug eines Kindes. 
+The toy of a child.
+
+Das Haus einer Frau. 
+The house of a woman.
+
+Der Arbeitstisch eines Chefs. 
+The desk of a (male) boss.
+
+Der Arbeitstisch einer Chefin. 
+The desk of a (female) boss.
+
+Das Fahrrad eines kleinen Mädchens. 
+The bicycle of a little girl.
+
+Der Käfig eines bunten Vogels. 
+The cage of a colorful bird.
+
+Das Auto eines großen Polizisten. 
+The car of a tall policeman.
+
+Das Auto einer kleinen Polizistin. 
+The car of a small policewoman.
+
+Der Apfel eines großen Jungen. 
+The apple of a tall boy
