@@ -2824,6 +2824,84 @@ The wall has various colors.
 Sie hat ein dunkelrotes Kleid an.
 She is wearing a dark red dress.
 
+Ich rufe meine Freundin an.
+I am calling my friend.
+
+Der Hund sieht den Ball.
+The dog sees the ball.
+
+Das Kind sieht den Hund.
+The child sees the dog.
+
+Der Hund sieht einen Ball.
+The dog sees a ball.
+
+Das Kind sieht einen Hund.
+The child sees a dog.
+
+Ich habe einen Hund.
+I have a dog.
+
+Ich lade dich zu meiner Hochzeit ein.
+I am inviting you to my wedding.
+
+Ich lade euch zu meiner Hochzeit ein.
+I am inviting you guys to my wedding.
+
+Ich lade sie zu meiner Hochzeit ein.
+I am inviting her to my wedding.
+
+Ich lade ihn zu meiner Hochzeit ein.
+I am inviting him to my wedding.
+
+Ich habe meine Geheimzahl vergessen. Ich habe sie vergessen.
+I forgot my PIN. I forgot it.
+
+Ich habe meinen Schlussel verloren. Ich habe ihn verloren.
+I lost my keys. I lost it.
+
+Der Installateur repariert die Waschmaschine. Der Installateur repariert sie.
+The plumber is repairing the washing machine. The plumber is repairing it. 
+
+Ich hole meinen Groẞvater vom Banhof ab. Ich hole ihn vom Banhof ab.
+I am picking up my grandfather from the train station. I am picking him up from the train station.
+
+Ich habe die Kinder auf dem Spielplatz gesehen. Ich habe sie auf dem Spielplatz gesehen.
+I saw the kids on the playground. I saw them on the playground.
+
+Ich habe den Zug verpasst. Ich habe ihn verpasst.
+I missed the train. I missed it.
+
+Ich habe Sie gestern angerufen.
+I called you yesterday.
+
+Ich habe dich gestern angerufen.
+I called you yesterday.
+
+Er ruft mich an.
+He calls me.
+
+Sie ruft dich an.
+She calls you.
+
+Wir rufen ihn an.
+We call him.
+
+Wir kennen es.
+We know it.
+
+Sie sieht uns.
+She sees us.
+
+Er sieht euch.
+He sees you guys.
+
+Er beobachtet sie.
+He observes him.
+
+Ich sehe Sie.
+I see you.
+
 Zisch ab, du Idiot!
 Buzz off, you idiot!
 
