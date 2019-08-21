@@ -2497,7 +2497,6 @@
 # Schauen Sie mal, der Zug ist da. Ich sehe den Zug nicht.
 # Look, the train is here. I don't see the train.
 #
-
 Sesamöl im Wok erhitzen und Butter zerlassen
 Heat the sesame oil in the wok and melt the butter.
 
@@ -2632,6 +2631,198 @@ Are you fucking stupid?
 
 Niemand wird dich anstellen.
 Nobody's going to hire you.
+
+Ich bin 28 Jahre alt.
+I am 28 years old.
+
+Wie alt sind Sie?
+How old are you?
+
+Er ist traurig.
+He is sad.
+
+Wir sind konzentriert.
+We are focused.
+
+Ihr seid interessiert.
+You guys are interested.
+
+Ist er am Flughafen?
+Is he at the airport?
+
+Ist sie am Bahnhof?
+Is she at the train station?
+
+Sind Sie im Auto?
+Are you in the car?
+
+Bist du auf dem Balkon?
+Are you on the balcony?
+
+Wo bist du?
+Where are you?
+
+Warum bist du hier?
+Why are you here?
+
+Ich esse einen Salat.
+I am eating a salad.
+
+Du isst einen Apfel.
+You are eating an apple.
+
+Er isst Katoffelauflauf.
+He is eating potato casserole.
+
+Sie isst ein Butterbrot.
+She is eating a sandwich.
+
+Wir essen Spaghetti.
+We are eating spaghetti.
+
+Ihr esst ein Stück Kuchen.
+You guys are eating a piece of cake.
+
+Sie essen Pudding.
+They are eating pudding.
+
+Sie essen eine Banane.
+You are eating a banana.
+
+Bananen sind gelb.
+Bananas are yellow.
+
+Sie trägt eine gelbe Hose.
+She is wearing yellow pants.
+
+Schee ist weiẞ.
+Snow is white.
+
+Er trägt ein weiẞes Hemd.
+He is wearing a white shirt.
+
+Sie hat rote Schuhe an.
+She is wearing red shoes.
+
+Sie trägt rote Schuhe.
+She is wearing red shoes.
+
+Schweine sind rosa.
+Pigs are light pink.
+
+Nicht alle Mädchen mögen die Farbe rosa.
+Not all girls like the color light pink.
+
+Bäume sind grün.
+Trees are green.
+
+Sie trägt einen grünen Schal.
+She is wearing a green scarf.
+
+Das Spielzeugauto ist blau.
+The toy car is blue.
+
+Sie trägt ein blaues T-Shirt.
+She is wearing a blue t-shirt.
+
+Manche Blumen sind lila.
+Some flowers are purple.
+
+Sie trägt eine lilafarbene Hose.
+She is wearing purple pants.
+
+Möhren sing orange.
+Carrots are orange.
+
+Sie trägt orangefarbene Socken.
+She is wearing orange socks.
+
+Alles in ihrem Kleiderschrank ist schwarz.
+Everything in her wardrobe is black.
+
+Sie mag schwarze Klamotten.
+She likes black clothes.
+
+Die Wände sind beige.
+The walls are beige.
+
+Sie braucht beigefarbene Schuhe.
+She needs beige shoes.
+
+Das Pferd ist braun.
+The horse is brown.
+
+Er trägt braune Schuhe.
+He is wearing brown shoes.
+
+Sie hat einen pinken Badeanzug.
+She has a pink swimsuit.
+
+Sie hat einen pinkfarbene Badeanzug.
+She has a pink swimsuit.
+
+Ihre Lieblingsfarbe ist pink.
+Her favorite color is pink.
+
+Der Himmel ist grau.
+The sky is gray.
+
+Er trägt ein graues Hemd.
+He is wearing a gray dress shirt.
+
+Ihre Schuhe sind hellblau.
+Her shoes are light blue.
+
+Sein Hemd ist hellgrün.
+His dress shirt is light green.
+
+Meine Ohrringe sind dunkelblau.
+My earrings are dark blue.
+
+Die Blätter sind dunkelgrün.
+The leaves are dark green.
+
+Die Blütten sind lila.
+The blossoms are purple.
+
+Sie trägt bunte Klamotten.
+She is wearing colorful clothes.
+
+Das Zimmer ist sehr bunt.
+The room is very colorful.
+
+Wasser ist farblos.
+Water is colorless.
+
+Ihre Hose ist blau-weiẞ.
+Her pants are blue and white.
+
+Ein Zebra ist schwarz-weiß gestreift.
+A zebra is black and white striped.
+
+Die Bluse ist blau mit weiẞen Punkten.
+The blouse is blue with white dots.
+
+Heute ist der Himmel blau und die Sonne scheint.
+Today, the sky is blue and the sun is shining.
+
+Ein Regenbogen hat viele Farben.
+A rainbow has a lot of colors.
+
+Rot ist die Farbe der Liebe.
+Red is the color of love.
+
+Sie hat eine Silberfarbene Uhr an.
+She is wearing a silver watch.
+
+Sie hat goldfarbene Ohrringe an.
+She is wearing golden earrings.
+
+Die Wand hat verschiedene Farben.
+The wall has various colors.
+
+Sie hat ein dunkelrotes Kleid an.
+She is wearing a dark red dress.
 
 Zisch ab, du Idiot!
 Buzz off, you idiot!
