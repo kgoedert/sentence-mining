@@ -2902,6 +2902,165 @@ He observes him.
 Ich sehe Sie.
 I see you.
 
+Er fährt durch den Tunnel.
+He is driving through the tunnel.
+
+Susie ging den Weg entlang.
+Susie walked along the path.
+
+Der Kuchen ist für meine Nachbarin.
+The cake is for my neighbor.
+
+David ist gegen einen Baum gefahren.
+David drove against the tree.
+
+Ohne unser Navi sind wir aufgeschmissen.
+Without our GPS, we are screwed.
+
+Joachim fuhr um die Kurve.
+Joachim drove around the bend.
+
+Bis nächsten Dienstag!
+See you next tuesday!
+
+Wir gehen den Fluss entlang.
+We are walking along the river.
+
+Ich fahre durch die Stadt.
+I am driving through the city.
+
+Ich habe eine Überraschung für dich.
+I have a surprise for you.
+
+Ich kann ohne dich nicht leben.
+I can't live without you.
+
+Die Erde dreht sich um die Sonne.
+The Earth rotates around the sun.
+
+Gegen ihn habe ich keine Chance.
+Against him, I don't stand a chance.
+
+Durch den Bösencrash hat der reichste Chinese 15 millon dollar verloren.
+Due to the stock market crash, the richest chinese man lost 15 million dollars.
+
+Ich packe meinen Koffer aus.
+I am unpacking my suitcase.
+
+Ich sehe dein Auto.
+I see your car.
+
+Er sucht seinen Schlüssel.
+He is looking for his key.
+
+Sie sucht ihr Handy.
+Sie is looking for her cell phone.
+
+Ich bewundere eueren Mut.
+I admire your courage.
+
+Ich beantwortet Ihre Frage.
+I am answering your question.
+
+Ich finde diese Jacke schön.
+I find this jacket nice.
+
+Ich finde deinen Vorschlag gut.
+I find your suggestion good.
+
+Den Rock finde ich schön, aber die Bluse nicht.
+I like the skirt, but I don't like the blouse.
+
+Ich finde die Vorhänge hässlich.
+I find the curtains ugly.
+
+Wie findest du das?
+What do you think of that?
+
+Was meinst du dazu?
+What's your opinion on that?
+
+Ich finde das nicht schlecht.
+I think that's not bad.
+
+Ich finde das gut.
+I think that's good.
+
+Ich finde das nicht gut.
+I think that's not good.
+
+Ich finde das scheiẞe.
+I think that's crap.
+
+Er kommt uns nie besuchen. Wir finden das nicht gut.
+He never comes to visit us. We don't like that.
+
+Ich finde Falafel lecker.
+I like falafel.
+
+Ich finde ihn nett.
+I find him nice.
+
+Findest du diese Stiefel schön?
+Do you like these boots?
+
+Wie findest du diese Schuhe?
+What do you think of these shoes?
+
+Sie findet die Software nicht so gut.
+She doesn't really like the software.
+
+Ich finde ihre Stimme toll.
+I think her voice is great.
+
+Finde ihr die Methode gut?
+Do you guys like the method?
+
+Ich fand das Buch total spannend.
+I thought that the book was fascinating.
+
+Wie fandest du den Film?
+What do you think of the movie?
+
+Wie fanden Sie die Veranstaltung?
+What did you think of the event?
+
+Wie findest du deutsche Filme?
+What do you think of german movies?
+
+Ich finde, dass er qualifiziert genug ist.
+I think that he is qualified enough.
+
+Ich finde das Deutsche eine schöne Sprache ist.
+I think that german is a beautiful language.
+
+Ich finde ihn attraktiv.
+I think that he is attractive.
+
+Findest du sie attraktiv?
+Do you think she is attractive?
+
+Ich finde, dass das entsetzlich klingt.
+I think that sounds appalling.
+
+Mirko findet das seltsam.
+Mirko thinks that is strange.
+
+Michael findet Nadine süẞ.
+Michael thinks that Nadine is cute.
+
+Findet ihr das lustig?
+Do you guys think that's funny?
+
+Was findest du an ihm?
+What do you see in him?
+
+Findest du mich zu klein?
+Do you think I'm too short?
+
+Wir finden die Idee nicht schlecht.
+We think die idea is not bad.           <---- jenny
+
 Zisch ab, du Idiot!
 Buzz off, you idiot!
 
@@ -3063,6 +3222,9 @@ Klaus is downstairs.
 
 Stephanie ist hier.
 Stephanie is here.
+
+Bis nächste Woche ist er in China.
+Until next week, he is in China.
 
 Ist Klaus da?
 Is Klaus there?
