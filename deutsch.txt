@@ -7170,3 +7170,57 @@ The car of a small policewoman.
 
 Der Apfel eines großen Jungen. 
 The apple of a tall boy
+
+Ich sehe das Pferd des Kindes.
+I see the child's horse.
+
+Ich sehe das Pferd des Polizisten.
+I see the policeman's horse.
+
+Ich sehe das Pferd der Frau.
+I see the woman's horse.
+
+Ich sehe das Pferd der Kinder.
+I see the children's horse.
+
+Ich sehe das Pferd der Polizistin.
+I see the policewoman's horse.
+
+Ich sehe das Pferd des Mädchens.
+I see the girl's horse.
+
+Markus hört das Pferd eines Polizisten.
+Markus hears a policeman's horse.
+
+Markus hört das Pferd einer Frau.
+Markus hears a woman's horse.
+
+Markus hört das Pferd eines Kindes.
+Markus hears a child's horse.
+
+Markus hört das Pferd eines Mädchens.
+Markus hears a girl's horse.
+
+Markus hört das Pferd einer Polizistin.
+Markus hears the horse of a policewoman.
+
+Das Haus gehört der Chefin. Das Haus der Chefin.
+The house belongs to the boss. The boss's house.
+
+Das Auto gehört dem Mann. Das Auto des Mannes.
+The car belongs to the man. The man's car.
+
+Das Spielzeug gehört dem Kind. Das Spielzeug des Kindes.
+The toy belongs to the child. The child's toy.
+
+Der Arbeitstisch gehört der Chefin. Der Arbeitstisch der Chefin.
+The work table belongs to the boss. The work table of the boss.
+
+Der Stift gehört dem Kollegen. Der Stift des Kollegen.
+The pen belongs to the colleague. The colleague's pencil.
+
+Das Boot gehört dem Freund. Das Boot des Freundes.
+The boat belongs to the friend. The friend's boat.
+
+Das Kleid gehört der Mutter. Das Kleid der Mutter.
+The dress belongs to the mother. The mother's dress.
