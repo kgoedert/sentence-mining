@@ -7386,3 +7386,75 @@ The boat belongs to the friend. The friend's boat.
 
 Das Kleid gehört der Mutter. Das Kleid der Mutter.
 The dress belongs to the mother. The mother's dress.
+
+Es ist mir warm. 
+I feel warm.
+
+Es ist mir kühl. 
+I feel a little cold.
+
+Es ist mir heiß. 
+I feel hot.
+
+Es ist mir kalt. 
+I feel cold.
+
+Es geht mir gut. 
+I am doing well.
+
+Es ist mir unbequem. 
+I am uncomfortable.
+
+Es ist ihr bequem. 
+It is comfortable for her.
+
+Ich bin ihm begegnet. 
+I met him by chance.
+
+Das tut mir weh. 
+That hurts me.
+
+Ich putze mir die Zähne. 
+I am brushing my teeth. (der Zahn)
+
+Ich habe mir den Arm gebrochen. 
+I broke my arm.
+
+Ich habe mir den Zahn gebrochen. 
+I broke my tooth.
+
+Ich habe mir das Bein gebrochen. 
+I broke my leg.
+
+Wann ist unsere Ankunft? 
+When is our arrival?
+
+Wann ist unser Abflug? 
+When is our departure? (for a flight)
+
+Wann ist unsere Abfahrt? 
+When is our departure? (for ground transportation)
+
+Wann kommen wir an? 
+When do we arrive?
+
+Wann fahren wir ab? 
+When do we depart?
+
+Leider haben wir eine Verspätung um dreißig Minuten. 
+Unfortunately, we have a delay of thirty minutes.
+
+Leider ist der Flug gestrichen. 
+Unfortunately, the flight has been cancelled.
+
+Bitte steigen Sie ein. 
+Please board.
+
+Bitte steigen Sie aus. 
+Please exit.
+
+Ihre Flugkarte, bitte. 
+Your plane ticket, please.
+
+Ihre Bordkarte, bitte. 
+Your boarding pass, please.
