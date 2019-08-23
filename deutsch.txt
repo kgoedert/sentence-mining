@@ -3059,7 +3059,223 @@ Findest du mich zu klein?
 Do you think I'm too short?
 
 Wir finden die Idee nicht schlecht.
-We think die idea is not bad.           <---- jenny
+We think die idea is not bad.
+
+Ich danke Ihnen für Ihr Verständnis.
+I thank you for your understanding.
+
+Danke für Ihre Hilfe.
+Thank you for your help.
+
+Ich danke dir für deine Hilfe.
+I thank you for your help.
+
+Danke für die Beratung.
+Thank you for the advice.
+
+Danke für das Geschenk.
+Thank you for the present.
+
+Danke für das Geld.
+Thank you for the money.
+
+Vielen Dank im Vorhaus.
+Thank you very much in advance.
+
+Ich habe Hunger.
+I am hungry.
+
+Ich bin hungrig.
+I am hungry.
+
+Ich habe Durst.
+I am thirsty.
+
+Ich bin durstig.
+I am thirsty.
+
+Ich bin satt.
+I am full.
+
+Hast du Hunger?
+Are you hungry?
+
+Haben Sie Hunger?
+Are you hungry?
+
+Möchten Sie etwas essen?
+Would you like to eat something?
+
+Möchtest du etwas essen?
+Would you like to eat something?
+
+Möchten Sie etwas trinken?
+Would you like to drink something?
+
+Möchtest du etwas trinken?
+Would you like to drink something?
+
+Entschuldigung. Ich suche den Banhof.
+Excuse me. I am looking for the train station.
+
+Entschuldigung. Ich suche die Tankstelle.
+Excuse me. I am looking for the gas station.
+
+Entschuldigung. Ich suche einen Geldautomaten.
+Excuse me. I am looking for an ATM.
+
+Entschuldigung. Ich suche die U-Bahn Haltestelle.
+Excuse me. I am looking for the subway station.
+
+Entschuldigung. Ich suche die Innenstadt.
+Excuse me. I am looking for the city center.
+
+Entschuldigung. Könnten Sie mir bitte helfen?
+Excuse me. Could you please help me?
+
+Entschuldigung. Ich habe eine Frage.
+Excuse me. I have a question.
+
+Entschuldigung. Wie viel kostet das?
+Excuse me. How much is this?
+
+Kann ich bar zahlen?
+Can I pay cash?
+
+Kann ich mit Karte zahlen?
+Can I pay with my credit card?
+
+Entschuldigung, können Sie mir die Uhrzeit sagen?
+Excuse me, can you tell me what time it is?
+
+Entschuldigung, wie viel Uhr ist es?
+Excuse me, what time is it?
+
+Herzlichen Glückwunsch zum Geburtstag!
+Happy Birthday!
+
+Alles Gute zum Geburtstag!
+All the best for your birthday!
+
+Wo arbeiten Sie?
+Where do you work?
+
+Ich arbeite in Köln.
+I work in Cologne.
+
+Arbeitest du auch in Köln?
+Do you also work in Cologne?
+
+Wir arbeiten in München.
+We work in Munich.
+
+Arbeitet ihr auch in München?
+Do you guys also work in Munich?
+
+I miete eine Wohnung.
+I am renting an apartment.
+
+Mietest du auch eine Wohnung?
+Are you also renting an apartment?
+
+Ich schneide die Tomaten.
+I am cutting the tomatoes.
+
+Schneidest du die Zwiebeln?
+Are you cutting the onions?
+
+Er schneidet die Zwiebeln.
+He is cutting the onions.
+
+Er weint.
+He is crying.
+
+Warum weint er?
+Why is he crying?
+
+Er weint, weil er die Zwiebeln schneidet.
+He is crying because he is cutting the onions.
+
+Er redet mit dem Chef.
+He is talking to the boss.
+
+Redest du mit Lisa?
+Are you talking to Lisa?
+
+Sie redet nicht so viel.
+She doesn't talk that much.
+
+Morgen heiratet er.
+Tomorrow he is getting married.
+
+Sie heiratet in Berlin.
+She is getting married in Berlin.
+
+Er flirtet mit der Kellnerin.
+He is flirting with the waitress.
+
+Flirtest du mit der Kellnerin?
+Are you flirting with the waitress?
+
+Warten Sie auf den Zug?
+Are you waiting for the train?
+
+Worauf wartet ihr?
+What are you guys waiting for?
+
+Worauf wartest du?
+What are you waiting for?
+
+Er faltet die Wäsche.
+He is folding the laundry.
+
+Sie started den Motor.
+She is starting the engine.
+
+Das Kind hustet.
+The child is coughing.
+
+Ich gebe dem Mädchen den Apfel.
+I am giving the apple to the girl.
+
+Ich zeige dem Mädchen das Buch.
+I am showing the book to the girl.
+
+Ich erzähle den Kindern die Geschichte.
+I am telling the kids the story.
+
+Wir zeigen den Mitarbeitern das neue Büro.
+We are showing the new office to the employees.
+
+Er gibt der Frau das Geld.
+He gives the money to the woman.
+
+Ich gebe der Frau das Portemonnaie.
+I give the wallet to the woman.
+
+Er gibt dem Kind den Schlüssel.
+He gives the key to the child.
+
+Wir geben dem Mann das Geld.
+We give the money to the man.
+
+Ich gebe den Kindern das Buch.
+I give the book to the children.
+
+Sie zeigt einem Gast die Suite.
+She is showing the suite to a guest.
+
+Er zeigt einem Kunden das Produkt.
+He shows the product to a customer.
+
+Sie gibt einer Mitarbeiterin den USB-Stick.
+She gives the pen drive to an employee.
+
+Sie gibt einem Kind ein Stück Schokolade.
+She gives a piece of chocolate to a child.
+
+Ich gebe einem Passante einen Flyer.
+I am giving a flyer to a passer-by.  <--- jenny
 
 Zisch ab, du Idiot!
 Buzz off, you idiot!
