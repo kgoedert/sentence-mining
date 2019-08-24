@@ -2632,9 +2632,6 @@
 # Soy yo.
 # It is me.
 # 
-# ¿Qué horas ess, por favor?
-# What time is it, please?
-# 
 # Son las cinco.
 # Five o'clock.
 # 
@@ -9894,3 +9891,6 @@ He would have lived in Cairo, but he didn't speak a word of Arabic.
 
 Rut viste a los niños después de desayunar.
 Rut dresses the kids after having breakfast.
+
+¿Qué horas es, por favor?
+What time is it, please?
