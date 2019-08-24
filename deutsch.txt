@@ -2496,310 +2496,307 @@
 # 
 # Schauen Sie mal, der Zug ist da. Ich sehe den Zug nicht.
 # Look, the train is here. I don't see the train.
-#
-Sesamöl im Wok erhitzen und Butter zerlassen
-Heat the sesame oil in the wok and melt the butter.
-
-Entferne unnötige Worte!
-Remove unnecessary words!
-
-Entferne diese Computerdatei!
-Please delete this file.
-
-Bitte entferne den Kommentar.
-Please delete the comment.
-
-Sind die Taxis im Einsatz?
-Are the taxis being used?
-
-Tom hat einen Buckel.
-Tom has a hunch.
-
-Die Katze machte einen Buckel.
-The cat arched its back.
-
-Wir entscheiden gemeinsam.
-We make decisions together.
-
-Gehen sie gemeinsam?
-Will they go together?
-
-Wir laufen gemeinsam.
-We run together.
-
-Ich bin zurzeit beschäftigt.
-I'm busy at the moment.
-
-Was macht er zurzeit?
-What is he doing now?
-
-Tom ist zurzeit arbeitslos.
-Tom is out of work at this time.
-
-Zurzeit schlafen sie alle.
-Right now they're all sleeping.
-
-Er arbeitet zurzeit nicht viel.
-He's not working much at the moment.
-
-Versetz dich in meine Lage.
-Put yourself in my place.
-
-Hilf mir, diesen Stein zu versetzen.
-Help me move this stone.
-
-Nancy konnte den Schreibtisch nicht allein versetzen.
-Nancy couldn't move the desk herself.
-
-Er spähte über den Zaun 
-He peered over the fence
-
-Der Hund schnupperte an ihrer Tasche.
-The dog sniffed (at) her bag.
-
-Klapp dein Buch zu.
-Close your book.
-
-Tom begann zu keuchen.
-Tom began gasping.
-
-In seiner großmütigen Art hat er mir verziehen.
-Magnanimous as he is, he forgave me.
-
-Das ist die einzige Alternative.
-This is the only alternative.
-
-Das war seine einzige Hoffnung.
-This was his one and only hope.
-
-Er ist ihr einziges Kind.
-He is the only child they have.
-
-Entweder Caesar oder nichts.
-It is either Cesar or nothing.
-
-Entweder alle oder gar keiner.
-Either all or none.
-
-Entweder gehen die oder ich!
-Either they go, or I go!
-
-Ich bin entrüstet.
-I'm outraged.
-
-Grace trug einen entrüsteten Blick.
-Grace wore an indignant look.
-
-Auf der Karte sind die Kirchen mit einem Kreuz eingezeichnet.
-Churches are designated on the map with crosses.
-
-Tom ist durchschnittlich.
-Tom is average.
-
-Meine Schulnoten waren durchschnittlich.
-My school grades were average.
-
-Ihr musikalisches Talent war durchschnittlich.
-Her musical talent was indifferent.
-
-Sie übergab ihm einen Schlüssel.
-She handed out a key to him.
-
-Danke für die Auskunft.
-Thank you for the information.
-
-Wo ist die Auskunft?
-Where's the information desk?
-
-Das macht Sinn.
-That makes sense.
-
-Das hat keinen Sinn.
-This makes no sense.
-
-Ziegelsteine werden aus Lehm gebrannt.
-Bricks are fired out of clay.
-
-Tom ist bescheuert.
-Tom's crazy.
-
-Das ist so bescheuert!
-This is so dumb.
-
-Sind Sie völlig bescheuert?
-Are you fucking stupid?
-
-Niemand wird dich anstellen.
-Nobody's going to hire you.
-
-Ich bin 28 Jahre alt.
-I am 28 years old.
-
-Wie alt sind Sie?
-How old are you?
-
-Er ist traurig.
-He is sad.
-
-Wir sind konzentriert.
-We are focused.
-
-Ihr seid interessiert.
-You guys are interested.
-
-Ist er am Flughafen?
-Is he at the airport?
-
-Ist sie am Bahnhof?
-Is she at the train station?
-
-Sind Sie im Auto?
-Are you in the car?
-
-Bist du auf dem Balkon?
-Are you on the balcony?
-
-Wo bist du?
-Where are you?
-
-Warum bist du hier?
-Why are you here?
-
-Ich esse einen Salat.
-I am eating a salad.
-
-Du isst einen Apfel.
-You are eating an apple.
-
-Er isst Katoffelauflauf.
-He is eating potato casserole.
-
-Sie isst ein Butterbrot.
-She is eating a sandwich.
-
-Wir essen Spaghetti.
-We are eating spaghetti.
-
-Ihr esst ein Stück Kuchen.
-You guys are eating a piece of cake.
-
-Sie essen Pudding.
-They are eating pudding.
-
-Sie essen eine Banane.
-You are eating a banana.
-
-Bananen sind gelb.
-Bananas are yellow.
-
-Sie trägt eine gelbe Hose.
-She is wearing yellow pants.
-
-Schee ist weiẞ.
-Snow is white.
-
-Er trägt ein weiẞes Hemd.
-He is wearing a white shirt.
-
-Sie hat rote Schuhe an.
-She is wearing red shoes.
-
-Sie trägt rote Schuhe.
-She is wearing red shoes.
-
-Schweine sind rosa.
-Pigs are light pink.
-
-Nicht alle Mädchen mögen die Farbe rosa.
-Not all girls like the color light pink.
-
-Bäume sind grün.
-Trees are green.
-
-Sie trägt einen grünen Schal.
-She is wearing a green scarf.
-
-Das Spielzeugauto ist blau.
-The toy car is blue.
-
-Sie trägt ein blaues T-Shirt.
-She is wearing a blue t-shirt.
-
-Manche Blumen sind lila.
-Some flowers are purple.
-
-Sie trägt eine lilafarbene Hose.
-She is wearing purple pants.
-
-Möhren sing orange.
-Carrots are orange.
-
-Sie trägt orangefarbene Socken.
-She is wearing orange socks.
-
-Alles in ihrem Kleiderschrank ist schwarz.
-Everything in her wardrobe is black.
-
-Sie mag schwarze Klamotten.
-She likes black clothes.
-
-Die Wände sind beige.
-The walls are beige.
-
-Sie braucht beigefarbene Schuhe.
-She needs beige shoes.
-
-Das Pferd ist braun.
-The horse is brown.
-
-Er trägt braune Schuhe.
-He is wearing brown shoes.
-
-Sie hat einen pinken Badeanzug.
-She has a pink swimsuit.
-
-Sie hat einen pinkfarbene Badeanzug.
-She has a pink swimsuit.
-
-Ihre Lieblingsfarbe ist pink.
-Her favorite color is pink.
-
-Der Himmel ist grau.
-The sky is gray.
-
-Er trägt ein graues Hemd.
-He is wearing a gray dress shirt.
-
-Ihre Schuhe sind hellblau.
-Her shoes are light blue.
-
-Sein Hemd ist hellgrün.
-His dress shirt is light green.
-
-Meine Ohrringe sind dunkelblau.
-My earrings are dark blue.
-
-Die Blätter sind dunkelgrün.
-The leaves are dark green.
-
-Die Blütten sind lila.
-The blossoms are purple.
-
-Sie trägt bunte Klamotten.
-She is wearing colorful clothes.
-
-Das Zimmer ist sehr bunt.
-The room is very colorful.
-
-Wasser ist farblos.
-Water is colorless.
-
-Ihre Hose ist blau-weiẞ.
-Her pants are blue and white.
-
-Ein Zebra ist schwarz-weiß gestreift.
-A zebra is black and white striped.
-
+# #
+# Entferne unnötige Worte!
+# Remove unnecessary words!
+# 
+# Entferne diese Computerdatei!
+# Please delete this file.
+# 
+# Bitte entferne den Kommentar.
+# Please delete the comment.
+# 
+# Sind die Taxis im Einsatz?
+# Are the taxis being used?
+# 
+# Tom hat einen Buckel.
+# Tom has a hunch.
+# 
+# Die Katze machte einen Buckel.
+# The cat arched its back.
+# 
+# Wir entscheiden gemeinsam.
+# We make decisions together.
+# 
+# Gehen sie gemeinsam?
+# Will they go together?
+# 
+# Wir laufen gemeinsam.
+# We run together.
+# 
+# Ich bin zurzeit beschäftigt.
+# I'm busy at the moment.
+# 
+# Was macht er zurzeit?
+# What is he doing now?
+# 
+# Tom ist zurzeit arbeitslos.
+# Tom is out of work at this time.
+# 
+# Zurzeit schlafen sie alle.
+# Right now they're all sleeping.
+# 
+# Er arbeitet zurzeit nicht viel.
+# He's not working much at the moment.
+# 
+# Versetz dich in meine Lage.
+# Put yourself in my place.
+# 
+# Hilf mir, diesen Stein zu versetzen.
+# Help me move this stone.
+# 
+# Nancy konnte den Schreibtisch nicht allein versetzen.
+# Nancy couldn't move the desk herself.
+# 
+# Er spähte über den Zaun 
+# He peered over the fence
+# 
+# Der Hund schnupperte an ihrer Tasche.
+# The dog sniffed (at) her bag.
+# 
+# Klapp dein Buch zu.
+# Close your book.
+# 
+# Tom begann zu keuchen.
+# Tom began gasping.
+# 
+# In seiner großmütigen Art hat er mir verziehen.
+# Magnanimous as he is, he forgave me.
+# 
+# Das ist die einzige Alternative.
+# This is the only alternative.
+# 
+# Das war seine einzige Hoffnung.
+# This was his one and only hope.
+# 
+# Er ist ihr einziges Kind.
+# He is the only child they have.
+# 
+# Entweder Caesar oder nichts.
+# It is either Cesar or nothing.
+# 
+# Entweder alle oder gar keiner.
+# Either all or none.
+# 
+# Entweder gehen die oder ich!
+# Either they go, or I go!
+# 
+# Ich bin entrüstet.
+# I'm outraged.
+# 
+# Grace trug einen entrüsteten Blick.
+# Grace wore an indignant look.
+# 
+# Auf der Karte sind die Kirchen mit einem Kreuz eingezeichnet.
+# Churches are designated on the map with crosses.
+# 
+# Tom ist durchschnittlich.
+# Tom is average.
+# 
+# Meine Schulnoten waren durchschnittlich.
+# My school grades were average.
+# 
+# Ihr musikalisches Talent war durchschnittlich.
+# Her musical talent was indifferent.
+# 
+# Sie übergab ihm einen Schlüssel.
+# She handed out a key to him.
+# 
+# Danke für die Auskunft.
+# Thank you for the information.
+# 
+# Wo ist die Auskunft?
+# Where's the information desk?
+# 
+# Das macht Sinn.
+# That makes sense.
+# 
+# Das hat keinen Sinn.
+# This makes no sense.
+# 
+# Ziegelsteine werden aus Lehm gebrannt.
+# Bricks are fired out of clay.
+# 
+# Tom ist bescheuert.
+# Tom's crazy.
+# 
+# Das ist so bescheuert!
+# This is so dumb.
+# 
+# Sind Sie völlig bescheuert?
+# Are you fucking stupid?
+# 
+# Niemand wird dich anstellen.
+# Nobody's going to hire you.
+# 
+# Ich bin 28 Jahre alt.
+# I am 28 years old.
+# 
+# Wie alt sind Sie?
+# How old are you?
+# 
+# Er ist traurig.
+# He is sad.
+# 
+# Wir sind konzentriert.
+# We are focused.
+# 
+# Ihr seid interessiert.
+# You guys are interested.
+# 
+# Ist er am Flughafen?
+# Is he at the airport?
+# 
+# Ist sie am Bahnhof?
+# Is she at the train station?
+# 
+# Sind Sie im Auto?
+# Are you in the car?
+# 
+# Bist du auf dem Balkon?
+# Are you on the balcony?
+# 
+# Wo bist du?
+# Where are you?
+# 
+# Warum bist du hier?
+# Why are you here?
+# 
+# Ich esse einen Salat.
+# I am eating a salad.
+# 
+# Du isst einen Apfel.
+# You are eating an apple.
+# 
+# Er isst Katoffelauflauf.
+# He is eating potato casserole.
+# 
+# Sie isst ein Butterbrot.
+# She is eating a sandwich.
+# 
+# Wir essen Spaghetti.
+# We are eating spaghetti.
+# 
+# Ihr esst ein Stück Kuchen.
+# You guys are eating a piece of cake.
+# 
+# Sie essen Pudding.
+# They are eating pudding.
+# 
+# Sie essen eine Banane.
+# You are eating a banana.
+# 
+# Bananen sind gelb.
+# Bananas are yellow.
+# 
+# Sie trägt eine gelbe Hose.
+# She is wearing yellow pants.
+# 
+# Schee ist weiẞ.
+# Snow is white.
+# 
+# Er trägt ein weiẞes Hemd.
+# He is wearing a white shirt.
+# 
+# Sie hat rote Schuhe an.
+# She is wearing red shoes.
+# 
+# Sie trägt rote Schuhe.
+# She is wearing red shoes.
+# 
+# Schweine sind rosa.
+# Pigs are light pink.
+# 
+# Nicht alle Mädchen mögen die Farbe rosa.
+# Not all girls like the color light pink.
+# 
+# Bäume sind grün.
+# Trees are green.
+# 
+# Sie trägt einen grünen Schal.
+# She is wearing a green scarf.
+# 
+# Das Spielzeugauto ist blau.
+# The toy car is blue.
+# 
+# Sie trägt ein blaues T-Shirt.
+# She is wearing a blue t-shirt.
+# 
+# Manche Blumen sind lila.
+# Some flowers are purple.
+# 
+# Sie trägt eine lilafarbene Hose.
+# She is wearing purple pants.
+# 
+# Möhren sing orange.
+# Carrots are orange.
+# 
+# Sie trägt orangefarbene Socken.
+# She is wearing orange socks.
+# 
+# Alles in ihrem Kleiderschrank ist schwarz.
+# Everything in her wardrobe is black.
+# 
+# Sie mag schwarze Klamotten.
+# She likes black clothes.
+# 
+# Die Wände sind beige.
+# The walls are beige.
+# 
+# Sie braucht beigefarbene Schuhe.
+# She needs beige shoes.
+# 
+# Das Pferd ist braun.
+# The horse is brown.
+# 
+# Er trägt braune Schuhe.
+# He is wearing brown shoes.
+# 
+# Sie hat einen pinken Badeanzug.
+# She has a pink swimsuit.
+# 
+# Sie hat einen pinkfarbene Badeanzug.
+# She has a pink swimsuit.
+# 
+# Ihre Lieblingsfarbe ist pink.
+# Her favorite color is pink.
+# 
+# Der Himmel ist grau.
+# The sky is gray.
+# 
+# Er trägt ein graues Hemd.
+# He is wearing a gray dress shirt.
+# 
+# Ihre Schuhe sind hellblau.
+# Her shoes are light blue.
+# 
+# Sein Hemd ist hellgrün.
+# His dress shirt is light green.
+# 
+# Meine Ohrringe sind dunkelblau.
+# My earrings are dark blue.
+# 
+# Die Blätter sind dunkelgrün.
+# The leaves are dark green.
+# 
+# Die Blütten sind lila.
+# The blossoms are purple.
+# 
+# Sie trägt bunte Klamotten.
+# She is wearing colorful clothes.
+# 
+# Das Zimmer ist sehr bunt.
+# The room is very colorful.
+# 
+# Wasser ist farblos.
+# Water is colorless.
+# 
+# Ihre Hose ist blau-weiẞ.
+# Her pants are blue and white.
+# 
+# Ein Zebra ist schwarz-weiß gestreift.
+# A zebra is black and white striped.
+# 
 Die Bluse ist blau mit weiẞen Punkten.
 The blouse is blue with white dots.
 
