@@ -2497,7 +2497,6 @@
 # Schauen Sie mal, der Zug ist da. Ich sehe den Zug nicht.
 # Look, the train is here. I don't see the train.
 #
-
 Sesamöl im Wok erhitzen und Butter zerlassen
 Heat the sesame oil in the wok and melt the butter.
 
@@ -2632,6 +2631,651 @@ Are you fucking stupid?
 
 Niemand wird dich anstellen.
 Nobody's going to hire you.
+
+Ich bin 28 Jahre alt.
+I am 28 years old.
+
+Wie alt sind Sie?
+How old are you?
+
+Er ist traurig.
+He is sad.
+
+Wir sind konzentriert.
+We are focused.
+
+Ihr seid interessiert.
+You guys are interested.
+
+Ist er am Flughafen?
+Is he at the airport?
+
+Ist sie am Bahnhof?
+Is she at the train station?
+
+Sind Sie im Auto?
+Are you in the car?
+
+Bist du auf dem Balkon?
+Are you on the balcony?
+
+Wo bist du?
+Where are you?
+
+Warum bist du hier?
+Why are you here?
+
+Ich esse einen Salat.
+I am eating a salad.
+
+Du isst einen Apfel.
+You are eating an apple.
+
+Er isst Katoffelauflauf.
+He is eating potato casserole.
+
+Sie isst ein Butterbrot.
+She is eating a sandwich.
+
+Wir essen Spaghetti.
+We are eating spaghetti.
+
+Ihr esst ein Stück Kuchen.
+You guys are eating a piece of cake.
+
+Sie essen Pudding.
+They are eating pudding.
+
+Sie essen eine Banane.
+You are eating a banana.
+
+Bananen sind gelb.
+Bananas are yellow.
+
+Sie trägt eine gelbe Hose.
+She is wearing yellow pants.
+
+Schee ist weiẞ.
+Snow is white.
+
+Er trägt ein weiẞes Hemd.
+He is wearing a white shirt.
+
+Sie hat rote Schuhe an.
+She is wearing red shoes.
+
+Sie trägt rote Schuhe.
+She is wearing red shoes.
+
+Schweine sind rosa.
+Pigs are light pink.
+
+Nicht alle Mädchen mögen die Farbe rosa.
+Not all girls like the color light pink.
+
+Bäume sind grün.
+Trees are green.
+
+Sie trägt einen grünen Schal.
+She is wearing a green scarf.
+
+Das Spielzeugauto ist blau.
+The toy car is blue.
+
+Sie trägt ein blaues T-Shirt.
+She is wearing a blue t-shirt.
+
+Manche Blumen sind lila.
+Some flowers are purple.
+
+Sie trägt eine lilafarbene Hose.
+She is wearing purple pants.
+
+Möhren sing orange.
+Carrots are orange.
+
+Sie trägt orangefarbene Socken.
+She is wearing orange socks.
+
+Alles in ihrem Kleiderschrank ist schwarz.
+Everything in her wardrobe is black.
+
+Sie mag schwarze Klamotten.
+She likes black clothes.
+
+Die Wände sind beige.
+The walls are beige.
+
+Sie braucht beigefarbene Schuhe.
+She needs beige shoes.
+
+Das Pferd ist braun.
+The horse is brown.
+
+Er trägt braune Schuhe.
+He is wearing brown shoes.
+
+Sie hat einen pinken Badeanzug.
+She has a pink swimsuit.
+
+Sie hat einen pinkfarbene Badeanzug.
+She has a pink swimsuit.
+
+Ihre Lieblingsfarbe ist pink.
+Her favorite color is pink.
+
+Der Himmel ist grau.
+The sky is gray.
+
+Er trägt ein graues Hemd.
+He is wearing a gray dress shirt.
+
+Ihre Schuhe sind hellblau.
+Her shoes are light blue.
+
+Sein Hemd ist hellgrün.
+His dress shirt is light green.
+
+Meine Ohrringe sind dunkelblau.
+My earrings are dark blue.
+
+Die Blätter sind dunkelgrün.
+The leaves are dark green.
+
+Die Blütten sind lila.
+The blossoms are purple.
+
+Sie trägt bunte Klamotten.
+She is wearing colorful clothes.
+
+Das Zimmer ist sehr bunt.
+The room is very colorful.
+
+Wasser ist farblos.
+Water is colorless.
+
+Ihre Hose ist blau-weiẞ.
+Her pants are blue and white.
+
+Ein Zebra ist schwarz-weiß gestreift.
+A zebra is black and white striped.
+
+Die Bluse ist blau mit weiẞen Punkten.
+The blouse is blue with white dots.
+
+Heute ist der Himmel blau und die Sonne scheint.
+Today, the sky is blue and the sun is shining.
+
+Ein Regenbogen hat viele Farben.
+A rainbow has a lot of colors.
+
+Rot ist die Farbe der Liebe.
+Red is the color of love.
+
+Sie hat eine Silberfarbene Uhr an.
+She is wearing a silver watch.
+
+Sie hat goldfarbene Ohrringe an.
+She is wearing golden earrings.
+
+Die Wand hat verschiedene Farben.
+The wall has various colors.
+
+Sie hat ein dunkelrotes Kleid an.
+She is wearing a dark red dress.
+
+Ich rufe meine Freundin an.
+I am calling my friend.
+
+Der Hund sieht den Ball.
+The dog sees the ball.
+
+Das Kind sieht den Hund.
+The child sees the dog.
+
+Der Hund sieht einen Ball.
+The dog sees a ball.
+
+Das Kind sieht einen Hund.
+The child sees a dog.
+
+Ich habe einen Hund.
+I have a dog.
+
+Ich lade dich zu meiner Hochzeit ein.
+I am inviting you to my wedding.
+
+Ich lade euch zu meiner Hochzeit ein.
+I am inviting you guys to my wedding.
+
+Ich lade sie zu meiner Hochzeit ein.
+I am inviting her to my wedding.
+
+Ich lade ihn zu meiner Hochzeit ein.
+I am inviting him to my wedding.
+
+Ich habe meine Geheimzahl vergessen. Ich habe sie vergessen.
+I forgot my PIN. I forgot it.
+
+Ich habe meinen Schlussel verloren. Ich habe ihn verloren.
+I lost my keys. I lost it.
+
+Der Installateur repariert die Waschmaschine. Der Installateur repariert sie.
+The plumber is repairing the washing machine. The plumber is repairing it. 
+
+Ich hole meinen Groẞvater vom Banhof ab. Ich hole ihn vom Banhof ab.
+I am picking up my grandfather from the train station. I am picking him up from the train station.
+
+Ich habe die Kinder auf dem Spielplatz gesehen. Ich habe sie auf dem Spielplatz gesehen.
+I saw the kids on the playground. I saw them on the playground.
+
+Ich habe den Zug verpasst. Ich habe ihn verpasst.
+I missed the train. I missed it.
+
+Ich habe Sie gestern angerufen.
+I called you yesterday.
+
+Ich habe dich gestern angerufen.
+I called you yesterday.
+
+Er ruft mich an.
+He calls me.
+
+Sie ruft dich an.
+She calls you.
+
+Wir rufen ihn an.
+We call him.
+
+Wir kennen es.
+We know it.
+
+Sie sieht uns.
+She sees us.
+
+Er sieht euch.
+He sees you guys.
+
+Er beobachtet sie.
+He observes him.
+
+Ich sehe Sie.
+I see you.
+
+Er fährt durch den Tunnel.
+He is driving through the tunnel.
+
+Susie ging den Weg entlang.
+Susie walked along the path.
+
+Der Kuchen ist für meine Nachbarin.
+The cake is for my neighbor.
+
+David ist gegen einen Baum gefahren.
+David drove against the tree.
+
+Ohne unser Navi sind wir aufgeschmissen.
+Without our GPS, we are screwed.
+
+Joachim fuhr um die Kurve.
+Joachim drove around the bend.
+
+Bis nächsten Dienstag!
+See you next tuesday!
+
+Wir gehen den Fluss entlang.
+We are walking along the river.
+
+Ich fahre durch die Stadt.
+I am driving through the city.
+
+Ich habe eine Überraschung für dich.
+I have a surprise for you.
+
+Ich kann ohne dich nicht leben.
+I can't live without you.
+
+Die Erde dreht sich um die Sonne.
+The Earth rotates around the sun.
+
+Gegen ihn habe ich keine Chance.
+Against him, I don't stand a chance.
+
+Durch den Bösencrash hat der reichste Chinese 15 millon dollar verloren.
+Due to the stock market crash, the richest chinese man lost 15 million dollars.
+
+Ich packe meinen Koffer aus.
+I am unpacking my suitcase.
+
+Ich sehe dein Auto.
+I see your car.
+
+Er sucht seinen Schlüssel.
+He is looking for his key.
+
+Sie sucht ihr Handy.
+Sie is looking for her cell phone.
+
+Ich bewundere eueren Mut.
+I admire your courage.
+
+Ich beantwortet Ihre Frage.
+I am answering your question.
+
+Ich finde diese Jacke schön.
+I find this jacket nice.
+
+Ich finde deinen Vorschlag gut.
+I find your suggestion good.
+
+Den Rock finde ich schön, aber die Bluse nicht.
+I like the skirt, but I don't like the blouse.
+
+Ich finde die Vorhänge hässlich.
+I find the curtains ugly.
+
+Wie findest du das?
+What do you think of that?
+
+Was meinst du dazu?
+What's your opinion on that?
+
+Ich finde das nicht schlecht.
+I think that's not bad.
+
+Ich finde das gut.
+I think that's good.
+
+Ich finde das nicht gut.
+I think that's not good.
+
+Ich finde das scheiẞe.
+I think that's crap.
+
+Er kommt uns nie besuchen. Wir finden das nicht gut.
+He never comes to visit us. We don't like that.
+
+Ich finde Falafel lecker.
+I like falafel.
+
+Ich finde ihn nett.
+I find him nice.
+
+Findest du diese Stiefel schön?
+Do you like these boots?
+
+Wie findest du diese Schuhe?
+What do you think of these shoes?
+
+Sie findet die Software nicht so gut.
+She doesn't really like the software.
+
+Ich finde ihre Stimme toll.
+I think her voice is great.
+
+Finde ihr die Methode gut?
+Do you guys like the method?
+
+Ich fand das Buch total spannend.
+I thought that the book was fascinating.
+
+Wie fandest du den Film?
+What do you think of the movie?
+
+Wie fanden Sie die Veranstaltung?
+What did you think of the event?
+
+Wie findest du deutsche Filme?
+What do you think of german movies?
+
+Ich finde, dass er qualifiziert genug ist.
+I think that he is qualified enough.
+
+Ich finde das Deutsche eine schöne Sprache ist.
+I think that german is a beautiful language.
+
+Ich finde ihn attraktiv.
+I think that he is attractive.
+
+Findest du sie attraktiv?
+Do you think she is attractive?
+
+Ich finde, dass das entsetzlich klingt.
+I think that sounds appalling.
+
+Mirko findet das seltsam.
+Mirko thinks that is strange.
+
+Michael findet Nadine süẞ.
+Michael thinks that Nadine is cute.
+
+Findet ihr das lustig?
+Do you guys think that's funny?
+
+Was findest du an ihm?
+What do you see in him?
+
+Findest du mich zu klein?
+Do you think I'm too short?
+
+Wir finden die Idee nicht schlecht.
+We think die idea is not bad.
+
+Ich danke Ihnen für Ihr Verständnis.
+I thank you for your understanding.
+
+Danke für Ihre Hilfe.
+Thank you for your help.
+
+Ich danke dir für deine Hilfe.
+I thank you for your help.
+
+Danke für die Beratung.
+Thank you for the advice.
+
+Danke für das Geschenk.
+Thank you for the present.
+
+Danke für das Geld.
+Thank you for the money.
+
+Vielen Dank im Vorhaus.
+Thank you very much in advance.
+
+Ich habe Hunger.
+I am hungry.
+
+Ich bin hungrig.
+I am hungry.
+
+Ich habe Durst.
+I am thirsty.
+
+Ich bin durstig.
+I am thirsty.
+
+Ich bin satt.
+I am full.
+
+Hast du Hunger?
+Are you hungry?
+
+Haben Sie Hunger?
+Are you hungry?
+
+Möchten Sie etwas essen?
+Would you like to eat something?
+
+Möchtest du etwas essen?
+Would you like to eat something?
+
+Möchten Sie etwas trinken?
+Would you like to drink something?
+
+Möchtest du etwas trinken?
+Would you like to drink something?
+
+Entschuldigung. Ich suche den Banhof.
+Excuse me. I am looking for the train station.
+
+Entschuldigung. Ich suche die Tankstelle.
+Excuse me. I am looking for the gas station.
+
+Entschuldigung. Ich suche einen Geldautomaten.
+Excuse me. I am looking for an ATM.
+
+Entschuldigung. Ich suche die U-Bahn Haltestelle.
+Excuse me. I am looking for the subway station.
+
+Entschuldigung. Ich suche die Innenstadt.
+Excuse me. I am looking for the city center.
+
+Entschuldigung. Könnten Sie mir bitte helfen?
+Excuse me. Could you please help me?
+
+Entschuldigung. Ich habe eine Frage.
+Excuse me. I have a question.
+
+Entschuldigung. Wie viel kostet das?
+Excuse me. How much is this?
+
+Kann ich bar zahlen?
+Can I pay cash?
+
+Kann ich mit Karte zahlen?
+Can I pay with my credit card?
+
+Entschuldigung, können Sie mir die Uhrzeit sagen?
+Excuse me, can you tell me what time it is?
+
+Entschuldigung, wie viel Uhr ist es?
+Excuse me, what time is it?
+
+Herzlichen Glückwunsch zum Geburtstag!
+Happy Birthday!
+
+Alles Gute zum Geburtstag!
+All the best for your birthday!
+
+Wo arbeiten Sie?
+Where do you work?
+
+Ich arbeite in Köln.
+I work in Cologne.
+
+Arbeitest du auch in Köln?
+Do you also work in Cologne?
+
+Wir arbeiten in München.
+We work in Munich.
+
+Arbeitet ihr auch in München?
+Do you guys also work in Munich?
+
+I miete eine Wohnung.
+I am renting an apartment.
+
+Mietest du auch eine Wohnung?
+Are you also renting an apartment?
+
+Ich schneide die Tomaten.
+I am cutting the tomatoes.
+
+Schneidest du die Zwiebeln?
+Are you cutting the onions?
+
+Er schneidet die Zwiebeln.
+He is cutting the onions.
+
+Er weint.
+He is crying.
+
+Warum weint er?
+Why is he crying?
+
+Er weint, weil er die Zwiebeln schneidet.
+He is crying because he is cutting the onions.
+
+Er redet mit dem Chef.
+He is talking to the boss.
+
+Redest du mit Lisa?
+Are you talking to Lisa?
+
+Sie redet nicht so viel.
+She doesn't talk that much.
+
+Morgen heiratet er.
+Tomorrow he is getting married.
+
+Sie heiratet in Berlin.
+She is getting married in Berlin.
+
+Er flirtet mit der Kellnerin.
+He is flirting with the waitress.
+
+Flirtest du mit der Kellnerin?
+Are you flirting with the waitress?
+
+Warten Sie auf den Zug?
+Are you waiting for the train?
+
+Worauf wartet ihr?
+What are you guys waiting for?
+
+Worauf wartest du?
+What are you waiting for?
+
+Er faltet die Wäsche.
+He is folding the laundry.
+
+Sie started den Motor.
+She is starting the engine.
+
+Das Kind hustet.
+The child is coughing.
+
+Ich gebe dem Mädchen den Apfel.
+I am giving the apple to the girl.
+
+Ich zeige dem Mädchen das Buch.
+I am showing the book to the girl.
+
+Ich erzähle den Kindern die Geschichte.
+I am telling the kids the story.
+
+Wir zeigen den Mitarbeitern das neue Büro.
+We are showing the new office to the employees.
+
+Er gibt der Frau das Geld.
+He gives the money to the woman.
+
+Ich gebe der Frau das Portemonnaie.
+I give the wallet to the woman.
+
+Er gibt dem Kind den Schlüssel.
+He gives the key to the child.
+
+Wir geben dem Mann das Geld.
+We give the money to the man.
+
+Ich gebe den Kindern das Buch.
+I give the book to the children.
+
+Sie zeigt einem Gast die Suite.
+She is showing the suite to a guest.
+
+Er zeigt einem Kunden das Produkt.
+He shows the product to a customer.
+
+Sie gibt einer Mitarbeiterin den USB-Stick.
+She gives the pen drive to an employee.
+
+Sie gibt einem Kind ein Stück Schokolade.
+She gives a piece of chocolate to a child.
+
+Ich gebe einem Passante einen Flyer.
+I am giving a flyer to a passer-by.  <--- jenny
 
 Zisch ab, du Idiot!
 Buzz off, you idiot!
@@ -2794,6 +3438,9 @@ Klaus is downstairs.
 
 Stephanie ist hier.
 Stephanie is here.
+
+Bis nächste Woche ist er in China.
+Until next week, he is in China.
 
 Ist Klaus da?
 Is Klaus there?
@@ -6736,3 +7383,294 @@ I have to go.
 
 Was ist los? 
 What is going on?
+
+Wie läuft es an der Uni? 
+How are things going at the univesity?
+
+Es läuft gut an der Uni. 
+Things are going well at the university.
+
+Wie läuft es an der Arbeit? 
+How are things going at work?
+
+Es läuft schlecht an der Arbeit. 
+Things are going poorly at work.
+
+Wie läuft es im Geschäft? 
+How is business going?
+
+Es läuft sehr gut im Geschäft. 
+Things are going very well in the business.
+
+Wie läuft es in der Abteilung? 
+How is your department going?
+
+Es läuft glatt in der Abteilung. 
+Things are going smoothly in the department.
+
+Meine Nase läuft. 
+My nose is running.
+
+Der Motor läuft. 
+The motor is running.
+
+Wie steht's? 
+How are things going? (colloquial)
+
+Wie steht es mit dem Angebot? 
+What is the status with the offer?
+
+Wie steht es mit dem Vertrag? 
+What is the status with the contract?
+
+Wer ist da? 
+Who is there?
+
+Der Mann ist da 
+The man is here.
+
+Wen sehe ich? 
+Whom do I see?
+
+Ich sehe den Mann 
+I see the man.
+
+Wem gebe ich das Brot? 
+To whom do I give the bread?
+
+Ich gebe dem Mann das Brot. 
+I give the bread to the man.
+
+Wo kommt die Butter hin? 
+Where does the butter go?
+
+Wo kommt der Teller hin? 
+Where does the plate go?
+
+Wo kommt das Glas hin? 
+Where does the glass go?
+
+Wo kommt der Löffel hin? 
+Where does the spoon go?
+
+Wo kommt das Messer hin? 
+Where does the knife go?
+
+Wo kommt die Gabel hin? 
+Where does the fork go?
+
+Wo kommt der Koffer hin? 
+Where does the suitcase go?
+
+Das macht mir nichts aus. 
+That does not bother me.
+
+Das bedeutet ihm überhaupt nichts. 
+That means absolutely nothing to him.
+
+Das bedeutet ihr sehr viel. 
+That means a lot to her.
+
+Das macht mir keine Sorge. 
+That does not worry me.
+
+Mach dir keine Sorgen. 
+Don't worry.
+
+Mach dir nichts daraus. 
+Don't take it too seriously.
+
+Das sagt mir nichts. 
+I don't know anything about that.
+
+Das Pferd des Mannes. 
+The horse of the man.
+
+Das Spielzeug des Kindes. 
+The toy of the child.
+
+Das Haus der Frau. 
+The house of the woman.
+
+Der Arbeitstisch des Chefs. 
+The desk of the (male) boss.
+
+Der Arbeitstisch der Chefin. 
+The desk of the (female) boss.
+
+Das Zimmer der Kinder 
+The room of the children.
+
+Das Fahrrad des kleinen Mädchens. 
+The bicycle of the little girl.
+
+Der Käfig des bunten Vogels. 
+The cage of the colorful bird.
+
+Das Auto des großen Polizisten. 
+The car of the tall policeman.
+
+Das Auto der kleinen Polizistin. 
+The car of the small policewoman.
+
+Der Apfel des großen Jungen. 
+The apple of the tall boy.
+
+Der Hund der kleinen Kinder. 
+The dog of the small children.
+
+Das Pferd eines Mannes. 
+The horse of a man.
+
+Das Spielzeug eines Kindes. 
+The toy of a child.
+
+Das Haus einer Frau. 
+The house of a woman.
+
+Der Arbeitstisch eines Chefs. 
+The desk of a (male) boss.
+
+Der Arbeitstisch einer Chefin. 
+The desk of a (female) boss.
+
+Das Fahrrad eines kleinen Mädchens. 
+The bicycle of a little girl.
+
+Der Käfig eines bunten Vogels. 
+The cage of a colorful bird.
+
+Das Auto eines großen Polizisten. 
+The car of a tall policeman.
+
+Das Auto einer kleinen Polizistin. 
+The car of a small policewoman.
+
+Der Apfel eines großen Jungen. 
+The apple of a tall boy
+
+Ich sehe das Pferd des Kindes.
+I see the child's horse.
+
+Ich sehe das Pferd des Polizisten.
+I see the policeman's horse.
+
+Ich sehe das Pferd der Frau.
+I see the woman's horse.
+
+Ich sehe das Pferd der Kinder.
+I see the children's horse.
+
+Ich sehe das Pferd der Polizistin.
+I see the policewoman's horse.
+
+Ich sehe das Pferd des Mädchens.
+I see the girl's horse.
+
+Markus hört das Pferd eines Polizisten.
+Markus hears a policeman's horse.
+
+Markus hört das Pferd einer Frau.
+Markus hears a woman's horse.
+
+Markus hört das Pferd eines Kindes.
+Markus hears a child's horse.
+
+Markus hört das Pferd eines Mädchens.
+Markus hears a girl's horse.
+
+Markus hört das Pferd einer Polizistin.
+Markus hears the horse of a policewoman.
+
+Das Haus gehört der Chefin. Das Haus der Chefin.
+The house belongs to the boss. The boss's house.
+
+Das Auto gehört dem Mann. Das Auto des Mannes.
+The car belongs to the man. The man's car.
+
+Das Spielzeug gehört dem Kind. Das Spielzeug des Kindes.
+The toy belongs to the child. The child's toy.
+
+Der Arbeitstisch gehört der Chefin. Der Arbeitstisch der Chefin.
+The work table belongs to the boss. The work table of the boss.
+
+Der Stift gehört dem Kollegen. Der Stift des Kollegen.
+The pen belongs to the colleague. The colleague's pencil.
+
+Das Boot gehört dem Freund. Das Boot des Freundes.
+The boat belongs to the friend. The friend's boat.
+
+Das Kleid gehört der Mutter. Das Kleid der Mutter.
+The dress belongs to the mother. The mother's dress.
+
+Es ist mir warm. 
+I feel warm.
+
+Es ist mir kühl. 
+I feel a little cold.
+
+Es ist mir heiß. 
+I feel hot.
+
+Es ist mir kalt. 
+I feel cold.
+
+Es geht mir gut. 
+I am doing well.
+
+Es ist mir unbequem. 
+I am uncomfortable.
+
+Es ist ihr bequem. 
+It is comfortable for her.
+
+Ich bin ihm begegnet. 
+I met him by chance.
+
+Das tut mir weh. 
+That hurts me.
+
+Ich putze mir die Zähne. 
+I am brushing my teeth. (der Zahn)
+
+Ich habe mir den Arm gebrochen. 
+I broke my arm.
+
+Ich habe mir den Zahn gebrochen. 
+I broke my tooth.
+
+Ich habe mir das Bein gebrochen. 
+I broke my leg.
+
+Wann ist unsere Ankunft? 
+When is our arrival?
+
+Wann ist unser Abflug? 
+When is our departure? (for a flight)
+
+Wann ist unsere Abfahrt? 
+When is our departure? (for ground transportation)
+
+Wann kommen wir an? 
+When do we arrive?
+
+Wann fahren wir ab? 
+When do we depart?
+
+Leider haben wir eine Verspätung um dreißig Minuten. 
+Unfortunately, we have a delay of thirty minutes.
+
+Leider ist der Flug gestrichen. 
+Unfortunately, the flight has been cancelled.
+
+Bitte steigen Sie ein. 
+Please board.
+
+Bitte steigen Sie aus. 
+Please exit.
+
+Ihre Flugkarte, bitte. 
+Your plane ticket, please.
+
+Ihre Bordkarte, bitte. 
+Your boarding pass, please.
