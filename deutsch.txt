@@ -2728,9 +2728,6 @@
 # Sie trägt eine lilafarbene Hose.
 # She is wearing purple pants.
 # 
-# Möhren sing orange.
-# Carrots are orange.
-# 
 # Sie trägt orangefarbene Socken.
 # She is wearing orange socks.
 # 
@@ -3272,7 +3269,70 @@ Sie gibt einem Kind ein Stück Schokolade.
 She gives a piece of chocolate to a child.
 
 Ich gebe einem Passante einen Flyer.
-I am giving a flyer to a passer-by.  <--- jenny
+I am giving a flyer to a passer-by.
+
+Ich gebe dir den USB-Stick.
+I give you the pen drive.
+
+Er hat mir den Bericht gegeben
+He gave me the report.
+
+Er zeigt ihm das Büro.
+He is showing him the office.
+
+Er erzählt uns eine Geschichte.
+He is telling us a story.
+
+Ich habe Ihnen eine E-mail geschickt.
+I sent you an email.
+
+Ich leihe euch mein Auto.
+I am lending you guys my car.
+
+Uns geht es gut.
+We are doing fine.
+
+Wie geht es ihm?
+How is he doing?
+
+Wie geht es ihr?
+How is she doing?
+
+Wie geht es ihnen?
+How are they doing?
+
+Mir ist langweilig.
+I am bored.
+
+Ist dir langweilig?
+Are you bored?
+
+Mir ist kalt.
+I am cold.
+
+Mir ist heiß.
+I am hot.
+
+Ist Ihnen heiß?
+Are you hot? (com calor)
+
+Mir ist schlecht.
+I am nauseous.
+
+Mir ist übel.
+I am nauseous.
+
+Ich gebe meinem Chef den Bericht.
+I give my boss the report.
+
+Hast du deinem Mann eine Krawatte geschenckt?
+Did you give your husband a tie? (as a present)
+
+Möhren sind orange.
+Carrots are orange.
+
+Er erklärt seinen Kindern die Matheaufgabe.
+He explains the math problem to his kids.           <--- jenny
 
 Zisch ab, du Idiot!
 Buzz off, you idiot!
