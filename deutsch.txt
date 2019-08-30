@@ -3995,7 +3995,7 @@ Wir steigen aus dem Zug aus.
 We are getting off the train.
 
 Wir kaufen heute ein.
-We are going grocery shopping today.
+We are going grocery shopping today.        <---- jenny
 
 Zisch ab, du Idiot!
 Buzz off, you idiot!
