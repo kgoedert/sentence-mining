@@ -3905,7 +3905,97 @@ Mir ist kalt.
 I am cold.
 
 Mir ist heiẞ.
-I am hot.                   <---- jenny
+I am hot.         
+
+Mir ist übel.
+I am nauseous.
+
+Es geht mir besser.
+I am doing better.
+
+Wie geht es euch?
+How are you guys?
+
+Den Kindern ist langweilig.
+The children are bored.
+
+Ich fahre mit dem Auto nach Berlin.
+I am driving to Berlin by car.
+
+Ich fahre mit dem Zug nach Hamburg.
+I am taking the train to Hamburg.
+
+Ich fahre mit der S-Bahn nach Köln.
+I am taking the tram to Cologne.
+
+Ich fahre mit der U-Bahn zum Neumarkt.
+I am taking the subway to Neumarkt.
+
+Ich fahre mit dem Fahrrad zum Supermarkt.
+I am going to the supermaket by bike.
+
+Ich gehe zu Fuẞ.
+I am going on foot.
+
+Ich fliege nach Brasilien.
+I am flying to Brazil.
+
+Ich fahre nach Bonn.
+I driving to Bonn.
+
+Wohin fliegst du?
+Where are you flying to?
+
+Gehst du zu Fuẞ oder fährst du mit dem Fahrrad?
+Are you going on foot or are you going by bike?
+
+Ich sage den Termin ab.
+I am canceling the appointment.
+
+Ich hole meine Tochter vom Schwimmunterricht ab.
+I am picking up my daughter from swimming class.
+
+Der Zug fährt ab.
+The train is departing.
+
+Der Zug fährt gleich ab.
+The train is about to depart.
+
+Er fasst immer meinen Arm an.
+He always touches my arm.
+
+Er kommt morgen Abend an.
+He arrives tomorrow night.
+
+Ich rufe meinen Vater an.
+I am calling my father.
+
+Wir fangen mit dem Unterricht an.
+We are starting with the class.
+
+Sie wacht gerade auf.
+She is waking up.
+
+Sie räumt das Wohnzimmer auf.
+She is cleaning up the living room.
+
+Wir hören jetzt auf.
+We are going to stop now.
+
+Ich mache das Licht aus.
+I am turning off the light.
+
+Er lacht mich aus.
+He is laughing at me.
+
+Sie steigt aus dem Auto aus.
+She is getting out of the car.
+
+Wir steigen aus dem Zug aus.
+We are getting off the train.
+
+Wir kaufen heute ein.
+We are going grocery shopping today.
 
 Zisch ab, du Idiot!
 Buzz off, you idiot!
