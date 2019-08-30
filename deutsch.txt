@@ -3745,6 +3745,168 @@ We are booking our hotel.
 Du siehst deinen Fehler.
 You see your mistake.
 
+Ich verstehe sein Problem.
+I understand his problem.
+
+Ich brauche ihren Bericht.
+I need your report.
+
+Ich suche meinen Schlüssel.
+I am looking for my keys.
+
+Ich kenne sie.
+I know them.
+
+Ich sehe ihn.
+I see him.
+
+Das Auto ist schnell. Ich mag es.
+The car is fast. I like it.
+
+Der Koffer ist schwer. Er trägt ihn.
+The suitcase is heavy. He is carrying it.
+
+Die Tür ist zu. Ich mache sie auf.
+The door is closed. I am opening it.
+
+Die Tür ist geschlossen. Ich öffne sie.
+The door is closed. I am opening it.
+
+Kennst du sie?
+Do you know her?
+
+Sie magt mich nicht.
+She doesn't like me.
+
+Verhsteht ihr ihn?
+Do you understand him?
+
+Er kennt dich nicht.
+He doesn't know you.
+
+Die Leute hören Sie nicht.
+The people don't hear you.
+
+Ich gehe nicht ohne dich.
+I am not leaving without you.
+
+Die Blumen sind für Sie.
+The flowers are for you.
+
+Er wohnt um die Ecke.
+He lives around the corner.
+
+Er trinkt Kaffee ohne Zucker.
+He drinks coffee without sugar.
+
+Sie spielen gegen die deutsche Mannschaft.
+They are playing against the german team.
+
+Wir gehen den Fluss entlang.
+We are walking along the river.
+
+Wir fahren durch den Stadt.
+We are driving through the city.
+
+Er läuft um den See.
+He is running around the lake.
+
+Ich schreibe meinem Chef eine E-mail.
+I am writing my boss an email.
+
+Ich schenke meiner Schwester ein Buch.
+I am giving my sister a book.
+
+Ich leihe dem Mädchen mein Fahrrad.
+I am loaning my bike to a girl.
+
+Ich erzähle den Kindern eine Geschichte.
+I am telling the children a story.
+
+Ich zeige meinen Freunden die Stadt.
+I am showing my friends the city.
+
+Ich erkläre den Studenten die Grammatik.
+I am explaining teh grammar to the students.
+
+Er wünscht seiner Freundin eine schöne Reise.
+He is wishing his girlfriend a nice trip.
+
+Ich empfehle ihnen ein Hotel.
+I am recommending a hotel to them.
+
+Er trägt mir den Koffer.
+He is carrying the suitcase for me.
+
+Sie öffnet ihm die Tür.
+She is opening the door to him.
+
+Sie macht ihm die Tür auf.
+She is opening the door to him.
+
+Ich schicke euch ein Paket.
+I am sending you guys a package.
+
+Das Auto gefällt mir.
+The car is appealing to me.
+
+Ich helfe ihr.
+I am helping her.
+
+Ich vertraue euch.
+I trust you guys.
+
+Die Hose passt mir nicht.
+The pants don't fit me.
+
+Der Koffer gehört ihm.
+The suitcase belongs to him.
+
+Schmeckt ihm die Suppe?
+Does he like the soup?
+
+Mir passiert nichts.
+Nothing is going to happen to me.
+
+Mein Arm tut weh.
+My arm hurts.
+
+Ich folge dir.
+I am following you.
+
+Nach dem Film gehe ich nach Hause.
+After the movie, I am going home.
+
+Ich gehe mit ihr nach Hause.
+I going home with her.
+
+Er trinkt aus der Flasche.
+He is drinking from the bottle.
+
+Er ist beim Artzt.
+He is at the doctor's.
+
+He is standing across from me.
+Er steht mir gegenüber.
+
+Der Brief ist von meiner Tante.
+The letter is from my aunt.
+
+Alle kommen auẞer dir.
+Everyone is coming except for you.
+
+Ich fahre zu meinen Eltern.
+I am driving to my parents.
+
+Mir ist langweiling.
+I am bored.
+
+Mir ist kalt.
+I am cold.
+
+Mir ist heiẞ.
+I am hot.                   <---- jenny
+
 Zisch ab, du Idiot!
 Buzz off, you idiot!
 
