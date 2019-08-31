@@ -2984,323 +2984,323 @@
 # Excuse me, do you work here?
 # 
 # La semana pasada le pedí dinero a Nuria.
-# Last week I asked Nuria for money.
+# # Last week I asked Nuria for money.
+# # 
+# # Pepi y Lolo se divirtieron mucho en mi fiesta.
+# # Pepi and Lolo had a great time at my party.
+# # 
+# # Los niños durmieron diez horas anoche.
+# # The kids slept ten hours last night.
+# # 
+# La madre de Clara murió hace dos meses.
+# Clara's mother died two months ago.
 # 
-# Pepi y Lolo se divirtieron mucho en mi fiesta.
-# Pepi and Lolo had a great time at my party.
+# El verano pasado un tormenta destruyó la iglesia del pueblo.
+# Last summer a storm destroyed the church of the village.
 # 
-# Los niños durmieron diez horas anoche.
-# The kids slept ten hours last night.
+# Los gatos huyeron cuando vieron al perro.
+# The cats ran away when they saw the dog.
 # 
-La madre de Clara murió hace dos meses.
-Clara's mother died two months ago.
-
-El verano pasado un tormenta destruyó la iglesia del pueblo.
-Last summer a storm destroyed the church of the village.
-
-Los gatos huyeron cuando vieron al perro.
-The cats ran away when they saw the dog.
-
-¿Qué hiciste el domingo?
-What did you do on sunday?
-
-Estuve en casa con amigos.
-I stayed home with friends.
-
-El año pasado hice varios viajes a América del Sur.
-Last year I did a lot of trips to South America.
-
-El domingo hubo una fiesta en casa de Emilia.
-Sunday there was a party at Emilia's house.
-
-Pato no quiso venir.
-Pato didn't want to come.
-
-Los abuelos de Beatriz tuvieron diez hijos.
-Beatriz's grandparents had ten kids.
-
-Hace unos años traduje un libro sobre Goya.
-Some years ago I translated a book about Goya.
-
-Alicia fue directora de un banco durante cuatro años.
-Alicia was a director at a bank for four years.
-
-Antonio fue a Puerto Rico en 2001.
-Antonio went to Puerto Rico in 2001.
-
-La civilización maya fue muy pacífica.
-The mayan civilization was very peaceful.
-
-¿Adónde fuisteis el verano pasado?
-Where did you go last summer?
-
-A Cuba. Fueron unas vacaciones fantásticas.
-To Cuba. The vacations where great.
-
-Hoy he tenido un día agotador.
-Today I had a tiring day.
-
-Me he levantado temprano y he dado cuatro clases por la mañana.
-I woke up early and gave four classes in the morning.
-
-Hoy he comido paella.
-Today I ate paella.
-
-Pues nosostras hemos comido pescado.
-Well, we ate seafood.
-
-Me he levantado tarde.
-I woke up late.
-
-Lara ha salido todas las noches esta semana.
-Lara went out every night this week.
-
-Este mes hemos ido al cine tres veces.
-This month we went to the movies three times.
-
-Este año no ha hecho muy frío.
-This year it hasn't been too cold.
-
-He estado con Carlos hace un momento.
-I was with Carlos a moment ago.
-
-Juego muy mal al golf. He aprendido hace poco.
-I play golf very badly. I learned a little while ago.
-
-¿Qué ha pasado? Ha dimitido el presidente.
-What happened? The president has resigned.
-
-He tenindo una vida intensa.
-I have had an intense life.
-
-He viajado por todo el mundo.
-I have traveled all over the world.
-
-He trabajado en una fábrica.
-I have worked at a factory.
-
-He sido actriz.
-I have been an actress.
-
-¿Habéis comido alguna sopa de tiburón?
-Have you eaten any shark soup?
-
-Los padres de Ana no han salido nunca de España.
-Ana's parents have never left Spain.
-
-En mi vida he visto algo parecido.
-In my life I have seen something similar.
-
-Hasta ahora no hemos tenido ningún problema serio.
-Until now, we haven't had any serious problem.
-
-Lo siento. No ha sonado el despertador.
-I am sorry. The alarm has not ranged.
-
-Me he roto una pierna.
-I have broken a leg.
-
-Ha llegado mamá.
-Mom has arrived.
-
-Por fin han acabado las clases.
-At last the classes have finished.
-
-Ya he terminado el cuadro.
-I have already finished the painting.
-
-¿Has acabado ya el curso?
-Have you already finished the course?
-
-¿Te ha gustado el libro que te presté?
-Have you liked the book I lent you?
-
-Todavía no le he leído.
-I haven't read it yet.
-
-No puedo jugar. Me he roto una pierna.
-I can't play. I have broken a leg.
-
-¡Hemos visto a Antonio Banderas!
-We have seen Antonio Banderas!
-
-Hace una semana vimos a Antonio Banderas en el estreno de su última película.
-A week ago we saw Antonio Banderas on his last movie premiere.
-
-Hoy he tenido dos exámenes.
-Today I have had two tests.
-
-¿Qué habéis hecho este verano?
-What have you been doing this summer?
-
-Hemos ido a la playa. Nos hemos divertido mucho.
-We have been going to the beach. We have been having a lot of fun.
-
-Ayer tuve dos exámenes.
-Yesterday I had two tests.
-
-¿Qué hiciste el verano pasado?
-What did you do last summer?
-
-Fuimos a la playa. Nos divertimos mucho.
-We went to the beach. We had a lot of fun.
-
-¿Has estado alguna vez en Cuzco?
-Have you ever been to Cuzco?
-
-No he viajado nunca de avión.
-I have never traveled by plane.
-
-He estado en Chile.
-I have been to Chile.
-
-Hace tres años estuvimos en Cuzco.
-Three years ago we were in Cuzco.
-
-El mes pasado viajé en avión por primera vez.
-Last month I traveled by plane for the first time.
-
-Ya hemos visitado La Guaira.
-We have already visited La Guaira.
-
-¿Has ya visitado La Guaira?
-Have you already visited La Guaira?
-
-Todavía no hemos visitado La Guaira.
-We have not visited La Guaira yet.
-
-El año pasado estuve en Chile.
-Last year I have been to Chile.
-
-Visitamos La Guaira el domingo pasado.
-We visited La Guaira last sunday.
-
-¿Cuándo visitasteis La Guaira?
-When have you visited La Guaira?
-
-Cuando era joven, trabajaba en un laboratorio.
-When I was young, I worked in a laboratory.
-
-Los incas cultivaban maíz y papas.
-The incas cultivated corn and potatos.
-
-Los aztecas se alimentaban de maíz y frijol.
-The aztecs fed on corn and beans.
-
-Cuando mi marido y yo éramos jóvenes, íbamos al campo todos los fines de semana.
-When me and my husband were young, we went to the country side every weekend.
-
-Cuando vivía en Buenos Aires, iba al teatro todas las semanas.
-When I lived in Buenos Aires, I went to the theater every week.
-
-Yo vi al ladrón. Era alto, tenía el pelo corto y llevava gafas de sol.
-I saw the thief. He was tall, had short hair and had sunglasses.
-
-Esta ciudad era más tranquila antes, no había tanta gente ni tanto tráfico.
-This city was calmer before, there was less people and less traffic.
-
-La semana pasada comí con Luis.
-Last week I ate with Luis.
-
-De pequeña, comía mucho chocolate.
-Since I was little, I ate a lot of chocolate.
-
-El domingo fuimos al campo.
-On sunday we went to the country side.
-
-Aquella tarde dimos un paseo por el centro.
-That afternoon we took a walk through the city center.
-
-Cuando era pequeño, íbamos siempre al campo los domingos.
-When I was little, we always went to the country side on sundays.
-
-Dábamos un paseo todas las tardes.
-We took a walk every afternoon.
-
-El verano pasado estuvimos en Managua.
-Last summer we were in Managua.
-
-Estábamos en Managua cuando comenzó la huelga.
-We were in Managua when the strike started.
-
-Ayer fuimos a la playa.
-Yesterday we went to the beach.
-
-Los ladrones entraron.
-The thieves got in.
-
-¿Vio usted el culpable?
-Did you see the suspect?
-
-Hacía mucho calor y había mucha gente.
-It was very hot and there were a lot of people.
-
-Su padre era cirujano.
-His father was a surgeon.
-
-Cuándo entró el jefe, Bruno estaba leyendo el periódico.
-When the boss came in, Bruno was reading the newspaper.
-
-Anoche te llamé a las ocho. ¿Dónde estabas?
-Last night I called you at eight. Where were you?
-
-Estaba en el jardín. Estaba regando los rosales.
-I was in the garden. I was watering the roses.
-
-Cuando llegó el presidente, yo estaba aparcando y Mar y Luis estaban cruzando la calle.
-When the president arrived, I was parking and Mar and Luis were crossing the street.
-
-Estábamos comiendo cuando llegaron los amigos de Ana.
-We were eating when Ana's friends arrived.
-
-Tenía algo de fiebre cuando me llamaste.
-I had some fever when you called me.
-
-Cuando llegué al banco, ya había cerrado.
-When I arrived at the bank, it was already closed.
-
-Ayer me encontré con Lolo y no lo reconocí. Se había afeitado la cabeza.
-Yesterday I met with Lolo and did not recognize him. He had shaved his head.
-
-Cuando llegamos a la estación, se había ido el tren.
-When we arrived at the station, the train was already gone.
-
-Cuando conocí a Teresa, ya había tenido el niño.
-When I met Teresa, I had already had the child.
-
-Cuando Helga vino a España, ¿había estudiado ya algo de español?
-When Helga came to Spain, had she already studied any spanish?
-
-Cuando Mariano y Concha se conocieron, Concha todavía no había acabado la carrera.
-When Mariano and Concha met, Concha had not finished her carreer yet.
-
-Cuando llamé a la casa de Antonio, no se había levantado todavía.
-When I called Antonio's house, he wasn't up yet.
-
-Llegaremos a Caracas a las cuatro y cuarto hora local.
-We will arrive in Caracas at four fifteen local time.
-
-Mañana lloverá en el norte.
-Tomorrow it will rain in the north.
-
-El nuevo edificio estará acabado dentro de seis meses.
-The new building will be ready in six month.
-
-Mañana te sentirás mejor.
-Tomorrow you will feel better.
-
-¿Has llamado a José?
-Have you called José?
-
-No, lo llamaré más tarde.
-No, I will call him later.
-
-No te preocupes. Pronto encontrarás trabajo.
-Don't worry. Soon you will find work.
-
-¿Habéis escrito a la abuela?
-Have you written to grandmother?
-
+# ¿Qué hiciste el domingo?
+# What did you do on sunday?
+# 
+# Estuve en casa con amigos.
+# I stayed home with friends.
+# 
+# El año pasado hice varios viajes a América del Sur.
+# Last year I did a lot of trips to South America.
+# 
+# El domingo hubo una fiesta en casa de Emilia.
+# Sunday there was a party at Emilia's house.
+# 
+# Pato no quiso venir.
+# Pato didn't want to come.
+# 
+# Los abuelos de Beatriz tuvieron diez hijos.
+# Beatriz's grandparents had ten kids.
+# 
+# Hace unos años traduje un libro sobre Goya.
+# Some years ago I translated a book about Goya.
+# 
+# Alicia fue directora de un banco durante cuatro años.
+# Alicia was a director at a bank for four years.
+# 
+# Antonio fue a Puerto Rico en 2001.
+# Antonio went to Puerto Rico in 2001.
+# 
+# La civilización maya fue muy pacífica.
+# The mayan civilization was very peaceful.
+# 
+# ¿Adónde fuisteis el verano pasado?
+# Where did you go last summer?
+# 
+# A Cuba. Fueron unas vacaciones fantásticas.
+# To Cuba. The vacations where great.
+# 
+# Hoy he tenido un día agotador.
+# Today I had a tiring day.
+# 
+# Me he levantado temprano y he dado cuatro clases por la mañana.
+# I woke up early and gave four classes in the morning.
+# 
+# Hoy he comido paella.
+# Today I ate paella.
+# 
+# Pues nosostras hemos comido pescado.
+# Well, we ate seafood.
+# 
+# Me he levantado tarde.
+# I woke up late.
+# 
+# Lara ha salido todas las noches esta semana.
+# Lara went out every night this week.
+# 
+# Este mes hemos ido al cine tres veces.
+# This month we went to the movies three times.
+# 
+# Este año no ha hecho muy frío.
+# This year it hasn't been too cold.
+# 
+# He estado con Carlos hace un momento.
+# I was with Carlos a moment ago.
+# 
+# Juego muy mal al golf. He aprendido hace poco.
+# I play golf very badly. I learned a little while ago.
+# 
+# ¿Qué ha pasado? Ha dimitido el presidente.
+# What happened? The president has resigned.
+# 
+# He tenindo una vida intensa.
+# I have had an intense life.
+# 
+# He viajado por todo el mundo.
+# I have traveled all over the world.
+# 
+# He trabajado en una fábrica.
+# I have worked at a factory.
+# 
+# He sido actriz.
+# I have been an actress.
+# 
+# ¿Habéis comido alguna sopa de tiburón?
+# Have you eaten any shark soup?
+# 
+# Los padres de Ana no han salido nunca de España.
+# Ana's parents have never left Spain.
+# 
+# En mi vida he visto algo parecido.
+# In my life I have seen something similar.
+# 
+# Hasta ahora no hemos tenido ningún problema serio.
+# Until now, we haven't had any serious problem.
+# 
+# Lo siento. No ha sonado el despertador.
+# I am sorry. The alarm has not ranged.
+# 
+# Me he roto una pierna.
+# I have broken a leg.
+# 
+# Ha llegado mamá.
+# Mom has arrived.
+# 
+# Por fin han acabado las clases.
+# At last the classes have finished.
+# 
+# Ya he terminado el cuadro.
+# I have already finished the painting.
+# 
+# ¿Has acabado ya el curso?
+# Have you already finished the course?
+# 
+# ¿Te ha gustado el libro que te presté?
+# Have you liked the book I lent you?
+# 
+# Todavía no le he leído.
+# I haven't read it yet.
+# 
+# No puedo jugar. Me he roto una pierna.
+# I can't play. I have broken a leg.
+# 
+# ¡Hemos visto a Antonio Banderas!
+# We have seen Antonio Banderas!
+# 
+# Hace una semana vimos a Antonio Banderas en el estreno de su última película.
+# A week ago we saw Antonio Banderas on his last movie premiere.
+# 
+# Hoy he tenido dos exámenes.
+# Today I have had two tests.
+# 
+# ¿Qué habéis hecho este verano?
+# What have you been doing this summer?
+# 
+# Hemos ido a la playa. Nos hemos divertido mucho.
+# We have been going to the beach. We have been having a lot of fun.
+# 
+# Ayer tuve dos exámenes.
+# Yesterday I had two tests.
+# 
+# ¿Qué hiciste el verano pasado?
+# What did you do last summer?
+# 
+# Fuimos a la playa. Nos divertimos mucho.
+# We went to the beach. We had a lot of fun.
+# 
+# ¿Has estado alguna vez en Cuzco?
+# Have you ever been to Cuzco?
+# 
+# No he viajado nunca de avión.
+# I have never traveled by plane.
+# 
+# He estado en Chile.
+# I have been to Chile.
+# 
+# Hace tres años estuvimos en Cuzco.
+# Three years ago we were in Cuzco.
+# 
+# El mes pasado viajé en avión por primera vez.
+# Last month I traveled by plane for the first time.
+# 
+# Ya hemos visitado La Guaira.
+# We have already visited La Guaira.
+# 
+# ¿Has ya visitado La Guaira?
+# Have you already visited La Guaira?
+# 
+# Todavía no hemos visitado La Guaira.
+# We have not visited La Guaira yet.
+# 
+# El año pasado estuve en Chile.
+# Last year I have been to Chile.
+# 
+# Visitamos La Guaira el domingo pasado.
+# We visited La Guaira last sunday.
+# 
+# ¿Cuándo visitasteis La Guaira?
+# When have you visited La Guaira?
+# 
+# Cuando era joven, trabajaba en un laboratorio.
+# When I was young, I worked in a laboratory.
+# 
+# Los incas cultivaban maíz y papas.
+# The incas cultivated corn and potatos.
+# 
+# Los aztecas se alimentaban de maíz y frijol.
+# The aztecs fed on corn and beans.
+# 
+# Cuando mi marido y yo éramos jóvenes, íbamos al campo todos los fines de semana.
+# When me and my husband were young, we went to the country side every weekend.
+# 
+# Cuando vivía en Buenos Aires, iba al teatro todas las semanas.
+# When I lived in Buenos Aires, I went to the theater every week.
+# 
+# Yo vi al ladrón. Era alto, tenía el pelo corto y llevava gafas de sol.
+# I saw the thief. He was tall, had short hair and had sunglasses.
+# 
+# Esta ciudad era más tranquila antes, no había tanta gente ni tanto tráfico.
+# This city was calmer before, there was less people and less traffic.
+# 
+# La semana pasada comí con Luis.
+# Last week I ate with Luis.
+# 
+# De pequeña, comía mucho chocolate.
+# Since I was little, I ate a lot of chocolate.
+# 
+# El domingo fuimos al campo.
+# On sunday we went to the country side.
+# 
+# Aquella tarde dimos un paseo por el centro.
+# That afternoon we took a walk through the city center.
+# 
+# Cuando era pequeño, íbamos siempre al campo los domingos.
+# When I was little, we always went to the country side on sundays.
+# 
+# Dábamos un paseo todas las tardes.
+# We took a walk every afternoon.
+# 
+# El verano pasado estuvimos en Managua.
+# Last summer we were in Managua.
+# 
+# Estábamos en Managua cuando comenzó la huelga.
+# We were in Managua when the strike started.
+# 
+# Ayer fuimos a la playa.
+# Yesterday we went to the beach.
+# 
+# Los ladrones entraron.
+# The thieves got in.
+# 
+# ¿Vio usted el culpable?
+# Did you see the suspect?
+# 
+# Hacía mucho calor y había mucha gente.
+# It was very hot and there were a lot of people.
+# 
+# Su padre era cirujano.
+# His father was a surgeon.
+# 
+# Cuándo entró el jefe, Bruno estaba leyendo el periódico.
+# When the boss came in, Bruno was reading the newspaper.
+# 
+# Anoche te llamé a las ocho. ¿Dónde estabas?
+# Last night I called you at eight. Where were you?
+# 
+# Estaba en el jardín. Estaba regando los rosales.
+# I was in the garden. I was watering the roses.
+# 
+# Cuando llegó el presidente, yo estaba aparcando y Mar y Luis estaban cruzando la calle.
+# When the president arrived, I was parking and Mar and Luis were crossing the street.
+# 
+# Estábamos comiendo cuando llegaron los amigos de Ana.
+# We were eating when Ana's friends arrived.
+# 
+# Tenía algo de fiebre cuando me llamaste.
+# I had some fever when you called me.
+# 
+# Cuando llegué al banco, ya había cerrado.
+# When I arrived at the bank, it was already closed.
+# 
+# Ayer me encontré con Lolo y no lo reconocí. Se había afeitado la cabeza.
+# Yesterday I met with Lolo and did not recognize him. He had shaved his head.
+# 
+# Cuando llegamos a la estación, se había ido el tren.
+# When we arrived at the station, the train was already gone.
+# 
+# Cuando conocí a Teresa, ya había tenido el niño.
+# When I met Teresa, I had already had the child.
+# 
+# Cuando Helga vino a España, ¿había estudiado ya algo de español?
+# When Helga came to Spain, had she already studied any spanish?
+# 
+# Cuando Mariano y Concha se conocieron, Concha todavía no había acabado la carrera.
+# When Mariano and Concha met, Concha had not finished her carreer yet.
+# 
+# Cuando llamé a la casa de Antonio, no se había levantado todavía.
+# When I called Antonio's house, he wasn't up yet.
+# 
+# Llegaremos a Caracas a las cuatro y cuarto hora local.
+# We will arrive in Caracas at four fifteen local time.
+# 
+# Mañana lloverá en el norte.
+# Tomorrow it will rain in the north.
+# 
+# El nuevo edificio estará acabado dentro de seis meses.
+# The new building will be ready in six month.
+# 
+# Mañana te sentirás mejor.
+# Tomorrow you will feel better.
+# 
+# ¿Has llamado a José?
+# Have you called José?
+# 
+# No, lo llamaré más tarde.
+# No, I will call him later.
+# 
+# No te preocupes. Pronto encontrarás trabajo.
+# Don't worry. Soon you will find work.
+# 
+# ¿Habéis escrito a la abuela?
+# Have you written to grandmother?
+# 
 No, le escribiremos la semana que viene.
 No, we will write her next week.
 
