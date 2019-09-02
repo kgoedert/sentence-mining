@@ -6378,3 +6378,108 @@ He's not very good.
 
 Il n'est pas très fort.
 He's not very strong.
+
+Je ne vais pas déjeuner.
+I'm not going to lunch.
+
+Nous n'allons pas déjeuner.
+We're not going to lunch.
+
+Mlle Courtois ne va pas déjeuner.
+Miss Courtois is not going to lunch.
+
+Vous n'allez pas déjeuner.
+You're not going to lunch.
+
+On ne va pas déjeuner.
+We're not going to lunch.
+
+M. Lelong ne va pas déjeuner.
+Mr. Lelong is not going to lunch.
+
+Nous n'allons pas déjeuner.
+We're not going to lunch.
+
+Je ne vais pas déjeuner.
+I'm not going to lunch.
+
+Elle ne va pas déjeuner.
+She's not going to lunch.
+
+Vous ne déjeunez pas.
+You don't have lunch.
+
+Vous n'écoutez pas.
+You're not listening.
+
+Vous ne parlez pas.
+You don't talk.
+
+Vous ne changez pas.
+You don't change.
+
+Vous ne traduisez pas.
+You don't translate.
+
+Vous ne répondez pas.
+You don't answer.
+
+Vous n'ouvrez pas.
+You don't open the door.
+
+Vous ne déjeunez pas.
+You don't have lunch.
+
+Il arrive aujourd'hui? Non, il n'arrive pas aujourd'hui.
+Is he coming in today? No, he's not coming today.
+
+Il entend bien? Non, il n'entend pas bien.
+Does he hear well? No, he can't hear well.
+
+Elle arrive ce soir? Non, elle n'arrive pas ce soir.
+Is she coming tonight? No, she's not coming tonight.
+
+Elle est en vacances? Non, elle n'est pas en vacances.
+Is she on vacation? No, she's not on vacation.
+
+Il est à l'hôtel? Non, il n'est pas à l'hôtel.
+Is he at the hotel? No, he's not at the hotel.
+
+Elle entend bien? Non, elle n'entend pas bien.
+Does she hear well? No, she can't hear well.
+
+Il a de la monnaie? Non, il n'a pas de monnaie.
+Does he have any change? No, he doesn't have any change.
+
+Il est ici? Non, il n'est pas ici.
+Is he here? Is he here? No, he's not here.
+
+Elle a les bagages? Non, elle n'a pas les bagages.
+Does she have the luggage? No, she doesn't have the luggage.
+
+Est-ce qu'elle comprend? Non, elle ne comprend pas.
+Does she understand? No, she doesn't understand.
+
+Est-ce qu'il sait? Non, il ne sait pas.
+Does he know? No, he doesn't know.
+
+Est-ce qu'elle monte? Non, elle ne monte pas.
+Is she going up? No, she's not going up.
+
+Est-ce qu'elle voit? Non, elle ne voit pas.
+Does she see? No, she can't see.
+
+Est-ce qu'il change? Non, il ne change pas.
+Is it changing? No, it doesn't change.
+
+Est-ce qu'il commence? Non, il ne commence pas.
+Is it starting? No, he's not starting.
+
+Est-ce qu'il comprend? Non, il ne comprend pas.
+Does he understand? No, he doesn't understand.
+
+Est-ce qu'il voit? Non, il ne voit pas.
+Does he see? No, he can't see.
+
+Est-ce qu'elle commence? Non, elle ne commence pas.
+Is it starting? No, it doesn't start.
