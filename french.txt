@@ -6483,3 +6483,105 @@ Does he see? No, he can't see.
 
 Est-ce qu'elle commence? Non, elle ne commence pas.
 Is it starting? No, it doesn't start.
+
+Vos amis sont heureux? Non, ils ne sont pas heureux.
+Are your friends happy? No, they're not happy.
+
+Elle arrive en retard? Non, elle n'arrive pas en retard.
+Is she late? Is she late? No, she's not late.
+
+Il est en retard? Non, il n'est pas en retard.
+Is he late? Is he late? No, he's not late.
+
+Vous êtes pressé? Non, je ne suis pas pressé.
+Are you in a hurry? No, I'm in no hurry.
+
+Il va au restaurant? Non, il ne va pas au restaurant.
+No, he doesn't go to the restaurant.
+
+Elle a la chambre douze? Non, elle n'a pas la chambre douze.
+She has room twelve? No, she doesn't have room twelve.
+
+La classe commence à huit heures? Non, elle ne commence pas à huit heures.
+Class starts at eight o'clock? No, it doesn't start at eight o'clock.
+
+Votre fille est pressée? Non, elle n'est pas pressée.
+Is your daughter in a hurry? No, she's in no hurry.
+
+M. Durand est avec eux? Non, il n'est pas avec eux.
+Is Mr. Durand with them? No, he's not with them.
+
+Elle change à Paris? Non, elle ne change pas à Paris.
+She's changing in Paris? No, it doesn't change in Paris.
+
+Elle va en vacances? Non, elle ne va pas en vacances.
+Is she going on vacation? No, she's not going on vacation.
+
+Vous allez au café? Non, je ne vais pas au café.
+Are you going to the coffee shop? No, I'm not going to the coffee shop.
+
+Elle comprend le français? Non, elle ne comprend pas le français.
+Does she understand French? No, she doesn't understand French.
+
+Le gérant est au premier étage? Non, il n'est pas au premier étage.
+Is the manager on the first floor? No, he's not on the first floor.
+
+Les bagages sont à l'hôtel? Non, ils ne sont pas à l'hôtel.
+Are the luggage at the hotel? No, they're not at the hotel.
+
+Vous êtes pressé? Non, je ne suis pas pressé.
+Are you in a hurry? No, I'm in no hurry.
+
+Les Durand sont satisfaits? Non, ils ne sont pas satisfaits.
+Are the Durands satisfied? No, they are not satisfied.
+
+Janine sait la leçon? Non, elle ne sait pas la leçon.
+Does Janine know the lesson? No, she doesn't know the lesson.
+
+Les chambres sont communicantes? Non, elles ne sont pas communicantes.
+Are the rooms connected? No, they're not communicating.
+
+C'est mon père? Non, ce n'est pas votre père.
+Is that my father? No, he's not your father.
+
+C'est ma sœur? Non, ce n'est pas votre sœur.
+Is that my sister? No, she's not your sister.
+
+C'est ma fiche? Non, ce n'est pas votre fiche.
+Is that my card? No, it's not your record.
+
+C'est ma chambre? Non, ce n'est pas votre chambre.
+Is this my room? No, this is not your room.
+
+C'est mon hôtel? Non, ce n'est pas votre hôtel.
+Is this my hotel? No, it's not your hotel.
+
+C'est mon ami? Non, ce n'est pas votre ami.
+Is he my friend? No, he's not your friend.
+
+C'est mon café? Non, ce n'est pas votre café.
+Is that my coffee? No, it's not your coffee.
+
+C'est anglais? Non, ce n'est pas anglais.
+Is that English? No, it's not English.
+
+C'est français? Non, ce n'est pas français.
+Is it French? No, it's not French.
+
+C'est bon? Non, ce n'est pas bon.
+Is it good? No, it's not good.
+
+C'est libre? Non, ce n'est pas libre.
+Is it free? No, it's not free.
+
+C'est ici? Non, ce n'est pas ici.
+Is this the place? No, it's not here.
+
+C'est parfait? Non, ce n'est pas parfait.
+Is it perfect? No, it's not perfect.
+
+C'est très bon? Non, ce n'est pas très bon.
+Is it very good? No, it's not very good.
+
+C'est fort? Non, ce n'est pas fort.
+Is it strong? No, it's not strong.
