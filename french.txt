@@ -6585,3 +6585,99 @@ Is it very good? No, it's not very good.
 
 C'est fort? Non, ce n'est pas fort.
 Is it strong? No, it's not strong.
+
+Il est pressé? Non, il n'est pas pressé.
+Is he in a hurry? No, he's in no hurry.
+
+C'est pressé? Non, ce n'est pas pressé.
+Is there a hurry? No, there's no hurry.
+
+Ils sont en vacances? Non, ils ne sont pas en vacances.
+Are they on vacation? No, they're not on vacation.
+
+Vous êtes pressé? Non, je ne suis pas pressé.
+Are you in a hurry? No, I'm in no hurry.
+
+C'est ici? Non, ce n'est pas ici.
+Is this the place? No, it's not here.
+
+C'est le restaurant? Non, ce n'est pas le restaurant.
+Is that the restaurant? No, it's not the restaurant.
+
+Il est à Paris? Non, il n'est pas à Paris.
+Is he in Paris? No, he's not in Paris.
+
+Est-ce que la chambre est jolie? Non, elle n'est pas jolie.
+Is the room pretty? No, she's not pretty.
+
+C'est bon? Non, ce n'est pas bon.
+Is it good? No, it's not good.
+
+C'est au café? Non, ce n'est pas au café.
+Is it at the coffee shop? No, it's not at the coffee shop.
+
+C'est votre chambre? Non, ce n'est pas ma chambre.
+Is this your room? No, this is not my room.
+
+Est-ce que votre ami est français? Non, il n'est pas français.
+Is your friend French? No, he's not French.
+
+Est-ce que vous avez les livres? Non, je n'ai pas les livres.
+Do you have the books? No, I don't have the books.
+
+Est-ce que vous allez en vacances? Non, je ne vais pas en vacances.
+Are you going on vacation? No, I'm not going on vacation.
+
+C'est votre chambre? Non, ce n'est pas ma chambre.
+Is this your room? No, this is not my room.
+
+C'est mon café? Non, ce n'est pas votre café.
+Is that my coffee? No, it's not your coffee.
+
+Est-ce que la voiture est dans cette direction? Non, la voiture n'est pas dans cette direction.
+Is the car in that direction? No, the car is not in that direction.
+
+Est-ce que l'aéroport est dans cette direction? Non, l'aéroport n'est pas dans cette direction.
+Is the airport in that direction? No, the airport is not in that direction.
+
+Est-ce que l'ascenseur est dans cette direction? Non, l'ascenseur n'est pas dans cette direction.
+Is the elevator in that direction? No, the elevator is not in that direction.
+
+Est-ce que les escaliers sont dans cette direction? Non, les escaliers ne sont pas dans cette direction.
+Are the stairs in that direction? No, the stairs are not in that direction.
+
+Est-ce que le restaurant est dans cette direction? Non, le restaurant n'est pas dans cette direction.
+Is the restaurant in that direction? No, the restaurant is not in that direction.
+
+Est-ce que la salle est dans cette direction? Non, la salle n'est pas dans cette direction.
+Is the room in that direction? No, the room is not in that direction.
+
+Est-ce que la chambre est dans cette direction? Non, la chambre n'est pas dans cette direction.
+Is the room in this direction? No, the room is not in that direction.
+
+Est-ce qu'il faut commencer la classe maintenant? Non, il ne faut pas commencer la classe maintenant.
+Do we have to start the class now? No, you mustn't start the class now.
+
+Est-ce qu'il faut aller à l'aéroport? Non, il ne faut pas aller à l'aéroport.
+Do we have to go to the airport? No, you don't have to go to the airport.
+
+Est-ce qu'il faut prendre l'ascenseur? Non, il ne faut pas prendre l'ascenseur.
+Do we have to take the elevator? No, you shouldn't take the elevator.
+
+Est-ce qu'il faut garder les sacs longtemps? Non, il ne faut pas garder les sacs longtemps.
+Do you have to keep the bags for a long time? No, you shouldn't keep the bags for long.
+
+Est-ce qu'il faut prendre les escaliers? Non, il ne faut pas prendre les escaliers.
+Do you have to take the stairs? No, you shouldn't take the stairs.
+
+Est-ce qu'il faut être à la gare à six heures? Non, il ne faut pas être à la gare à six heures.
+Do you have to be at the station at six o'clock? No, you don't have to be at the station at six o'clock.
+
+Est-ce qu'il faut prendre le métro? Non, il ne faut pas prendre le métro.
+Do I have to take the subway? No, you shouldn't take the subway.
+
+Est-ce qu'il faut aller à la gare le matin? Non, il ne faut pas aller à la gare le matin.
+Do you have to go to the station in the morning? No, you shouldn't go to the station in the morning.
+
+Est-ce qu'il faut prendre le petit déjeuner? Non, il ne faut pas prendre le petit déjeuner.
+Do I have to eat breakfast? No, you shouldn't have breakfast.
