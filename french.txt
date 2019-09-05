@@ -6681,3 +6681,66 @@ Do you have to go to the station in the morning? No, you shouldn't go to the sta
 
 Est-ce qu'il faut prendre le petit déjeuner? Non, il ne faut pas prendre le petit déjeuner.
 Do I have to eat breakfast? No, you shouldn't have breakfast.
+
+Nous avons de la monnaie.
+We have change.
+
+Ils ont de la monnaie.
+They have change.
+
+Il a de la monnaie.
+He has change.
+
+Elles ont de la monnaie.
+They have change.
+
+Elle a de la monnaie.
+She has change.
+
+On a de la monnaie.
+We have change.
+
+Vous avez de la monnaie.
+You have change.
+
+J'ai de la monnaie.
+I have some change.
+
+Nous avons une jolie chambre au premier étage.
+We have a nice room on the first floor.
+
+J'ai une jolie chambre au premier étage.
+I have a nice room on the first floor.
+
+Il a une jolie chambre au premier étage.
+He has a nice room on the first floor.
+
+Ils ont une jolie chambre au premier étage.
+They have a nice room on the first floor.
+
+Vous avez une jolie chambre au premier étage.
+You have a nice room on the first floor.
+
+Elle a une jolie chambre au premier étage.
+She has a nice room on the first floor.
+
+Elles ont une jolie chambre au premier étage.
+They have a nice room on the first floor.
+
+On a une jolie chambre au premier étage.
+We have a nice room on the first floor.
+
+Est-ce qu'il a des chambres communicantes?
+Does it have communicating rooms?
+
+Est-ce que vous avez des chambres communicantes?
+Do you have communicating rooms?
+
+Il n'a pas les fiches.
+He doesn't have the records.
+
+Je n'ai pas la chambre six, j'ai la chambre dix.
+I don't have room six, I have room ten.
+
+Ils n'ont pas la chambre douze, ils ont la chambre dix.
+They don't have room twelve, they have room ten.
