@@ -4007,7 +4007,322 @@ Wir steigen aus dem Zug aus.
 We are getting off the train.
 
 Wir kaufen heute ein.
-We are going grocery shopping today.        <---- jenny
+We are going grocery shopping today.
+
+Ich schlafe immer nach Mitternacht ein.
+I always fall asleep after midnight.
+
+Ich lade Maria to meinem Geburstag ein.
+I am inviting Maria to my birthday.
+
+Er bring einen Salat mit.
+He is bringing a salad.
+
+Was bringst du mit?
+What are you bringing?
+
+Was bringt ihr mit?
+What are you guys bringing?
+
+Kommst du mit?
+Are you coming along?
+
+Ich nehme meinen Laptop mit.
+I am taking my laptop along.
+
+Ich denke über meine Zukunft nach.
+I am thinking about my future.
+
+Ich drehe mich um.
+I am turning around.
+
+Der Stuhl fällt um.
+The chair is falling over.
+
+Was hast du vor?
+What are you planing?
+
+Ich habe nichts vor.
+I am not planning anything.
+
+Ich stelle mich vor.
+I am introducing myself.
+
+Er kommt heute Nachmittag vorbei.
+He is coming over this afternoon.
+
+Er geht weg.
+He is going away.
+
+Er nimmt dem Kind das Messer weg.
+He is taking the knife away from the child.
+
+Hört ihr mir zu?
+Are you guys listening to me?
+
+Ich höre euch zu.
+I am listening to you.
+
+Sie hört nie zu.
+She never listens.
+
+Ich mache die Tür zu.
+I am closing the door.
+
+Ich gebe ihm das Fahrrad zurück.
+I am giving the bike back to him.
+
+Er kommt heute Abend zurück.
+He is coming back tonight.
+
+Ich bin müde.
+I am tired.
+
+Ich bin k.o.
+I am knocked out.
+
+Ich bin platt.
+I am wiped out.
+
+Ich bin fix und fertig.
+I am beat.
+
+Ich bin erschöpft.
+I am exhausted.
+
+Ich bin kapputt.
+I am broken.
+
+Ich bin erledigt.
+I am dead beat.
+
+Ich bin todmüde.
+I am dead tired.
+
+Ich bin hundemüde.
+I am dog-tired.
+
+Ich bin alle.
+I am all used up.
+
+Ich bin geschafft.
+I am beat.
+
+Ich bin geplättet.
+I feel run down.
+
+Ich bin furchtbar müde.
+I am terribly tired.
+
+Ich bin am Ende.
+I am on the ropes.
+
+Ich muss gehen.
+I have to go.
+
+Ich muss los.
+I have to go.
+
+Ich muss arbeiten.
+I have to work
+
+Ich muss schlafen.
+I have to sleep.
+
+Ich muss kochen.
+I have to cook.
+
+Du musst aufstehen.
+You have to get up.
+
+Du musst gehen.
+You have to go.
+
+Die Familie muss umziehen.
+The family has to move.
+
+Muss du gehen?
+Do you have to go?
+
+Muss du fahren?
+Do you have to go? (by car)
+
+Muss du los?
+Do you have to go?
+
+Musst du hier bleiben?
+Do you have to stay here?
+
+Musst du tanken?
+Do you have to get gas?
+
+Du musst dich anziehen.
+You have to get dressed.
+
+Du musst dich umziehen.
+You have to change.
+
+Du musst dich beeilen.
+You have to hurry.
+
+Du musst dich rasieren.
+You have to shave.
+
+Du musst dich entspannen.
+You have to relax.
+
+Sie muss sich kämmen.
+She has to comb her hair.
+
+Sie muss sich die Zähne putzen.
+She has to brush her teeth.
+
+Sie muss sich die Schuhe ausziehen.
+She has to take off her shoes.
+
+Wir müssen uns beruhigen.
+We have to calm down.
+
+Beatrice muss ihren Hund füttern.
+Beatrice has to feed her dog.
+
+Du musst etwas essen.
+You have to eat something.
+
+Du musst etwas trinken.
+You have to drink something.
+
+Karl muss eine Stelle finden.
+Karl has to find a job.
+
+Boris muss die Koffer ins Auto tragen.
+Boris has to carry the suitcases in the car.
+
+Er muss die Wäsche waschen.
+He has to do the laundry.
+
+Sie muss das Auto waschen.
+She has to wash the car.
+
+Wir müssen das Wohnzimmer aufräumen.
+We have to clean up the room.
+
+Wir müssen das Badezimmer putzen.
+We have to clean the bathroom.
+
+Ihr müsst den Tisch decken.
+You guys have to set the table.
+
+Ihr müsst Brot kaufen.
+You guys have to buy bread.
+
+Ihr müsst Obst und Gemüse essen.
+You guys have to eat fruits and vegetables.
+
+Ich muss Jasmin anrufen.
+I have to call Jasmin.
+
+Musst du sie anrufen?
+Do you have to call her?
+
+Simon muss seiner Schwester helfen.
+Simon has to help his sister.
+
+Musst du ihr helfen?
+Do you have to help her?
+
+Paul muss seinen Eltern helfen.
+Paul has to help his parents.
+
+Du musst ihm gratulieren.
+You have to congratulate him.
+
+Du musst den Kindern Gute Nacht sagen.
+You have to say good night to the kids.
+
+Du musst den Kindern eine Gute-Nacht-Geschichte vorlesen.
+You have to read a bedtime story to the kids.
+
+Er muss seiner Frau finaziell unter die Arme greifen.
+He has to support his wife financially.
+
+Er muss den Reifen aufpumpen.
+He has to pump the tire.
+
+Er muss für das Abitur lernen.
+He has to study for the SAT.
+
+Wir müssen in der Tiefgarage parken.
+We have to park in the underground parking lot.
+
+Wir müssen ihnen beweisen, dass wir Recht haben.
+We have to prove to them that we are right.
+
+Wir müssen ihm das Schloss zeigen.
+We have to show him the castle.
+
+Ich muss meiner Gastfamilie etwas schenken.
+I have to give a present to my host family.
+
+Ich muss ihm den Zettel mit der Adresse geben.
+I have to give him the paper with the address.
+
+Musst du ihm die Unterlagen geben?
+Do you have to give him the documents?
+
+Musst du ihen helfen?
+Do you have to help them?
+
+Ich kann schwimmen.
+I can swim.
+
+Ich kann Fahrrad fahren.
+I can ride a bike.
+
+Ich kann Auto fahren.
+I can drive a car.
+
+Ich kann viel essen.
+I can eat a lot.
+
+Ich kann Motorrad fahren.
+I can ride a motorcycle.
+
+Ich kann Schlittschuh laufen.
+I can ice-skate.
+
+Ich kann klettern.
+I can climb.
+
+Kanst du segeln?
+Can you sail?
+
+Kannst du surfen?
+Can you surf?
+
+Kannst du lesen?
+Can you read?
+
+Kannst du schreiben?
+Can you write?
+
+Kannst du Deutsch sprechen?
+Can you speak german?
+
+Kannst du Deutsch?
+Can you speak german?
+
+Ja, ich kann Deutsch sprechen.
+Yes, I can speak german.
+
+Ja, ich kann Deutsch.
+Yes, I can speak german.
+
+Nein, ich kann kein Deutsch.
+No, I can't speak german.
+
+Nein, ich kann kein Deutsch sprechen.
+No, I can't speak german.                           <--- jenny
 
 Zisch ab, du Idiot!
 Buzz off, you idiot!
