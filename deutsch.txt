@@ -2794,6 +2794,57 @@
 # Ein Zebra ist schwarz-weiß gestreift.
 # A zebra is black and white striped.
 # 
+Sag mir nicht, dass ich mich abregen soll!
+Don't tell me to calm down.
+
+Hör auf, mir zu sagen, dass ich mich abregen soll!
+Stop telling me to calm down.
+
+Schmeißen Sie nichts weg!
+Don't throw anything away.
+
+Warum jucken Mückenstiche?
+Why do mosquito bites itch?
+
+Mir jucken die Augen.
+My eyes are itchy.
+
+Wir schossen feindliche Flugzeuge ab.
+We shot down enemy aircraft.
+
+Ein feindliches Schiff nähert sich.
+An enemy ship is approaching.
+
+Wische den Staub vom Regal.
+Clean the dust off the shelf.
+
+Er ist auf Staub allergisch.
+He is allergic to dust.
+
+Alles ist von Staub bedeckt.
+Everything is covered with dust.
+
+Der Hubschrauber fliegt sehr niedrig.
+The helicopter is flying very low.
+
+Sie wurden per Hubschrauber gerettet.
+They were rescued by helicopter.
+
+Ich kann einen Hubschrauber fliegen.
+I can pilot a helicopter.
+
+Ein Funken Hoffnung bestand immer noch.
+There was still a glimmer of hope left.
+
+Mein Gewissen plagt mich.
+My conscience bothers me.
+
+Tom hat kein Gewissen.
+Tom doesn't have a conscience.
+
+Ich bin dein Gewissen.
+I'm your conscience.
+
 Wir verlangen Taten!
 We demand action.
 
