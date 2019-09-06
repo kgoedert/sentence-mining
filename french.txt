@@ -6744,3 +6744,108 @@ I don't have room six, I have room ten.
 
 Ils n'ont pas la chambre douze, ils ont la chambre dix.
 They don't have room twelve, they have room ten.
+
+Ils sont à l'hôtel; ils ont la chambre douze.
+They're at the hotel; they have room twelve.
+
+Elle est à l'hôtel; elle a la chambre douze.
+She's at the hotel; she has room twelve.
+
+Il est à l'hôtel; il a la chambre douze.
+He's at the hotel; he has room twelve.
+
+Elles sont à l'hôtel; elles ont la chambre douze.
+They're at the hotel; they have room twelve.
+
+Janine est à l'hôtel; elle a la chambre douze.
+Janine is at the hotel; she has room twelve.
+
+Mes parents sont à l'hôtel; ils ont la chambre douze.
+My parents are at the hotel; they have room twelve.
+
+Mes filles sont à l'hôtel; elles ont la chambre douze.
+My daughters are at the hotel; they have room twelve.
+
+Ils sont à l'hôtel; ils ont la chambre douze.
+They're at the hotel; they have room twelve.
+
+Elle est à l'hôtel; elle a la chambre douze.
+She's at the hotel; she has room twelve.
+
+Mon frère est à l'hôtel; il a la chambre douze
+My brother is at the hotel; he has room twelve
+
+Ils n'ont pas la chambre treize, ils ont la chambre quatorze.
+They don't have room thirteen, they have room fourteen.
+
+Elle n'a pas la chambre treize, elle a la chambre quatorze.
+She doesn't have room thirteen, she has room fourteen.
+
+Janine n'a pas la chambre treize, elle a la chambre quatorze.
+Janine doesn't have room thirteen, she has room fourteen.
+
+Vos parents n'ont pas la chambre treize, ils ont la chambre quatorze.
+Your parents don't have room thirteen, they have room fourteen.
+
+On n'a pas la chambre treize, on a la chambre quatorze.
+We don't have room thirteen, we have room fourteen.
+
+Votre frère n'a pas la chambre treize, il a la chambre quatorze.
+Your brother doesn't have room thirteen, he has room fourteen.
+
+Ma sœur n'a pas la chambre treize, elle a la chambre quatorze.
+My sister doesn't have room thirteen, she has room fourteen.
+
+Vos sœurs n'ont pas la chambre treize, elles ont la chambre quatorze.
+Your sisters don't have room thirteen, they have room fourteen.
+
+Il n'a pas la chambre treize, il a la chambre quatorze.
+He doesn't have room thirteen, he has room fourteen.
+
+Il a les bagages, mais il n'a pas les fiches.
+He has the luggage, but he doesn't have the records.
+
+On a les bagages, mais on n'a pas les fiches.
+We have the luggage, but we don't have the records.
+
+J'ai les bagages, mais je n'ai pas les fiches.
+I have the luggage, but I don't have the cards.
+
+Elles ont les bagages, mais elles n'ont pas les fiches.
+They have the luggage, but they don't have the cards.
+
+Vous avez les bagages, mais vous n'avez pas les fiches.
+You have the luggage, but you don't have the records.
+
+Elle a les bagages, mais elle n'a pas les fiches.
+She has the luggage, but she doesn't have the records.
+
+Ils ont les bagages, mais ils n'ont pas les fiches.
+They have the luggage, but they don't have the cards.
+
+On a les bagages, mais on n'a pas les fiches.
+We have the luggage, but we don't have the records.
+
+Je suis à l'hôtel; j'ai la chambre douze.
+I'm at the hotel; I have room twelve.
+
+Elle est à l'hôtel; elle a la chambre douze.
+She's at the hotel; she has room twelve.
+
+Nous sommes à l'hôtel; nous avons la chambre douze.
+We are at the hotel; we have room twelve.
+
+On est à l'hôtel; on a la chambre douze.
+We're at the hotel; we have room twelve.
+
+Il est à l'hôtel; il a la chambre douze.
+He's at the hotel; he has room twelve.
+
+Elles sont à l'hôtel; elles ont la chambre douze.
+They're at the hotel; they have room twelve.
+
+Vos parents sont à l'hôtel; ils ont la chambre douze.
+Your parents are at the hotel; they have room twelve.
+
+Je suis à l'hôtel; j'ai la chambre douze.
+I'm at the hotel; I have room twelve.
