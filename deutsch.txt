@@ -4373,7 +4373,235 @@ Nein, ich kann kein Deutsch.
 No, I can't speak german.
 
 Nein, ich kann kein Deutsch sprechen.
-No, I can't speak german.                           <--- jenny
+No, I can't speak german.                         
+
+Ich kann nur ein bisschen Deutsch sprechen.
+I can only speak a little german.
+
+Ich kann nur ein bisschen Deutsch.
+I can only speak a little german.
+
+Können Sie woanders parken?
+Can you park somewhere else?
+
+Können Sie uns helfen?
+Can you help us?
+
+Können Sie hier unterschreiben?
+Can you sign here?
+
+Ich kann Sie nicht verstehen.
+I can't understand you.
+
+Ich kann Sie nicht hören.
+I can't hear you.
+
+Ich kann Sie nicht sehen.
+I can't see you.
+
+Ich kann nichts sehen.
+I can't see anything.
+
+Ich kann nichts hören.
+I can't hear anything.
+
+Sie kann uns am Wochenende nichts besuchen.
+She can't visit us on the weekend.
+
+Er kann uns erst in zwei Wochen besuchen.
+He can only visit us in two weeks.
+
+Wir können morgen mit euch nach Heidelberg fahren.
+We can go to Heidelberg with you guys tomorrow.
+
+Ich kann zu dir kommen.
+I can come to your place.
+
+Ich kann mit euch nach Hamburg fahren.
+I can go to Hamburg with you guys.
+
+Hier kann man nicht mit Kreditkarten zahlen.
+You can't pay with credit card here.
+
+Hier kann man nicht parken.
+You can't park here.
+
+Sie dürfen gehen.
+You may go.
+
+Du darfst gehen.
+You may go.
+
+Dürfen wir hier fotografieren?
+Are we allowed to take pictures here?
+
+Darf man hier parken?
+May one park here?
+
+Hier darf man nicht rauchen.
+You are not allowed to smoke here.
+
+Das darfst du nicht!
+You are not allowed to do that!
+
+Sie dürfen hereinkommen.
+You may come in.
+
+Sie dürfen reinkommen.
+You may come in.
+
+In diesem See darf man nicht schwimmen.
+You are not allowed to swim in this lake.
+
+An diesem Spiel dürfen Kinder und Erwachsene teilnehmen.
+Kids and adults are allowed to participate in this game.
+
+Darf ich eine Frage stellen?
+May I ask a question?
+
+In diesem Museum darf man nicht anfassen.
+In this museum, you are not allowed to touch anything.
+
+Dürfen wir noch ein bisschen länger aufbleiben?
+May we stay up a bit longer?
+
+Meine Kinder dürfen nur eine halbe Stunde pro Tag fernsehen.
+My kids are allowed to watch TV for only half an hour every day.
+
+Sie dürfen die Braut jetzt küssen.
+You may now kiss the bride.
+
+Darf ich ein Vorschlag machen?
+May I make a suggestion?
+
+Dürfen wir den Raum betreten?
+Are we allowed to enter the room?
+
+Wenn es brennt, darf man den Aufzug nicht benutzen.
+When there is fire, you are not allowed to use the elevator.
+
+Im Flugzeug darf man nicht rauchen.
+You are not allowed to smoke on an airplane.
+
+Du hast um 13 Uhr einen Termin beim Arzt. Das darfst du nicht vergessen!
+You have a doctor appointment at 1pm. You shouldn't forget that!
+
+Ich fahre morgen nach Berlin.
+I am driving to Berlin tomorrow.
+
+Ich habe morgen frei.
+Tomorrow is my day off.
+
+Morgen habe ich frei.
+Tomorrow is my day off.
+
+Jeden Tag jogge ich 10km.
+Every day, I jog 10km.
+
+Ich jogge jeden Tag 15km.
+Every day, I jog 15km.
+
+Auf dem Balkon steht ein Tisch.
+A table stands on the balcony.
+
+In den Sommerferien steht man oft im Stau.
+Im the summer vacations, one is often stuck in a traffic jam.
+
+Man steht in den Sommerferien oft im Stau.
+In the summer vacations, one is often stuck in a traffic jam.
+
+Morgen fliegt meine Schwester nach Thailand.
+Tomorrow, my sister flies to Thailand.
+
+Fährst du nach Berlin?
+Are you driving to Berlin?
+
+Ist er zu Hause?
+Is he at home?
+
+Sind die Kinder zu Hause?
+Are the kids at home?
+
+Fliegst du morgen nach Rom?
+Are you flying to Rome tomorrow?
+
+Backst du einen Kuchen?
+Are you baking a cake?
+
+Wo sind Sie?
+Where are you?
+
+Wohin fährst du?
+Where are you driving to?
+
+Woher kommst du?
+Where do you come from?
+
+Warum bist du zu Hause?
+Why are you at home?
+
+Ich koche.
+I am cooking.
+
+Ich arbeite morgen.
+I am working tomorrow.
+
+Ich arbeite morgen den ganzen Tag.
+I am working tomorrow all day long.
+
+Ich spreche morgen mit dem Chef.
+I am talking tomorrow with the boss.
+
+Ich bin am Samstag mit meinen Kollegen auf einer Messe.
+On Saturday I am going to be at a trade fair with my collegues.
+
+Ich fliege morgen nach Berlin.
+I am flying tomorrow to Berlin.
+
+Ich komme morgen an.
+I am arriving tomorrow.
+
+Arbeitest du am Mittwoch?
+Are you working on Wednesday?
+
+Fährst du am Wochenende mit Jacqueline nach Zürich?
+Are you driving this weekend with Jacqueline to Zürich?
+
+Am Freitag fahren wir ans Meer.
+On friday we are driving to the sea.
+
+Nach Sidney fliegen wir in November.
+To Sidney, we are flying in november.
+
+Ich schicke dem Chef eine e-mail.
+I am sending the boss an email.
+
+Sie sagt ihrem Mann die Wahrheit.
+She tells her husband the truth.
+
+Er gibt der Frau einen Kuss.
+He gives the woman a kiss.
+
+Mario nimmt seinem Bruder das Spielzeugauto weg.
+Mario takes the car away from his brother.
+
+Der Vater hat dem Kind ein Buch gegeben.
+The father gave the child a book.
+
+Wir haben den Nachbarn ein Restaurant empfohlen.
+We recommended a restaurant to the neighbors.
+
+Ich werde meiner Mutter einen Gutschein kaufen.
+I'll buy my mother a gift certificate.
+
+Sie will dir ihr neues Auto zeigen.
+She wants to show you her new car.
+
+Ich kann euch die Bücher vorbeibringen.
+I kann drop the books off at your place.
+
+Schickst du dem Chef die E-Mail?
+Are you sending the e-mail to the boss?                 <--- jenny
 
 Zisch ab, du Idiot!
 Buzz off, you idiot!
