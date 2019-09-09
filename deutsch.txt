@@ -8772,3 +8772,93 @@ Your plane ticket, please.
 
 Ihre Bordkarte, bitte. 
 Your boarding pass, please.
+
+Hier ist Ihr Schlüssel zum Zimmer. 
+Here is your key to the room.
+
+Ihr Zimmer ist geradeaus, auf der linken Seite. Your room is straight ahead, on the left.Der Fitnessraum ist in dem zweiten Obergeschoss. 
+The fitness room is on the third floor.(der Fitnessraum, das Obergeschoss)
+
+Nehmen Sie bitte den Fahrstuhl. 
+Please take the elevator. (der Fahrstuhl)
+
+Gehen Sie bitte die Treppe hoch. 
+Please go up the stairs. (die Treppe)
+
+Das Frühstückszimmer ist im Erdgeschoss. 
+The breakfast room is on the ground floor.
+
+Das Frühstück ist im Preis inbegriffen. 
+The breakfast is included in the price of the room.
+
+Die Sauna ist neben dem Fitnessraum. 
+The sauna is next to the fitness room. (die Sauna)
+
+Das Museum ist an der Ampel. 
+The museum is at the stop light. (die Ampel)
+
+Komm, wir gehen in's Wohnzimmer. 
+Come, let's go into the living room. (das Wohnzimmer)
+
+Es riecht gut in der Küche. 
+It smells good in the kitchen. (die Küche)
+
+Wir essen im Esszimmer. 
+We eat in the dining room. (das Esszimmer)
+
+Die Dusche ist in dem Badezimmer. 
+The shower is in the bathroom. (die Dusche)
+
+Die Badewanne ist in dem Badezimmer. 
+The bathtub is in the bathroom. (die Badewanne)
+
+Die Toilette ist in dem Badezimmer. 
+The toilet is in the bathroom. (die Toilette)
+
+Der Spiegel ist in dem Badezimmer. 
+The mirror is in the bathroom. (der Spiegel)
+
+Die Pflanzen stehen auf der Veranda. 
+The plants are on the patio. (die Pflanze, die Veranda)
+
+Die Couch ist im Wohnzimmer. 
+The couch is in the living room. (die Couch, das Wohnzimmer)
+
+Das Sofa ist im Wohnzimmer. 
+The sofa is in the living room. (das Sofa)
+
+Der Esstisch ist im Esszimmer. 
+The dining table is in the dining room. (der Esstisch)
+
+Das Bett ist im Schlafzimmer. 
+The bed is in the bedroom. (das Bett)
+
+Der Arbeitstisch ist im Büro. 
+The desk is in the office. (das Büro)
+
+Bitte setzen Sie sich auf die Couch. 
+Please have a seat on the couch.
+
+Zum Esstisch bitte. 
+Please come to the dining table. (der Esstisch)
+
+Lass uns auf die Veranda gehen. 
+Let's go to the patio.
+
+Die Toilette ist den Flur entlang, links. 
+The bathroom is down the hallway, to the left. (der Flur)
+
+Meine Frau kocht etwas Gutes in der Küche. 
+My wife is cooking something good in the kitchen. (die Küche)
+
+Ich gehe jetzt duschen. 
+I will go take a shower now.
+
+Er geht jetzt baden. 
+He will go take a bath now.
+
+Die Kinder gehen jetzt in's Bett. 
+The children are going to bed now.
+
+Ich möchte jetzt schlafen gehen. 
+I would like to go to sleep now.
