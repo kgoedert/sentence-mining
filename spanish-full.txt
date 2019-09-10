@@ -3070,9 +3070,6 @@
 # ¿Qué ha pasado? Ha dimitido el presidente.
 # What happened? The president has resigned.
 # 
-# He tenindo una vida intensa.
-# I have had an intense life.
-# 
 # He viajado por todo el mundo.
 # I have traveled all over the world.
 # 
@@ -10200,3 +10197,6 @@ And he wanted me to pay for the trip. Come on, man!
 
 Vamos, no me vas a decir que no sabes freír un ovo.
 Come on, you're not going to tell me you don't know how to fry an ovo.
+
+He tenido una vida intensa.
+I have had an intense life.
