@@ -9090,3 +9090,72 @@ The children are going to bed now.
 
 Ich möchte jetzt schlafen gehen. 
 I would like to go to sleep now.
+
+Es fällt mir gerade ein, dass ich spät bin. 
+It just occurred to me that I am late.
+
+Es fällt mir gerade ein, dass ich gehen muss. 
+It just occurred to me that I have to go.
+
+Es fällt mir gerade ein, wo der Schlüssel ist. 
+It just occurred to me where the key is.
+
+Es fällt mir gerade ein, was ich vergessen habe. 
+It just occurred to me what I forgot.
+
+Es fällt mir gerade ein, dass ich ihr Bescheid geben muss. 
+It just occurred to me that I have to let her know. (der Bescheid)
+
+Es fällt mir gerade ein, dass ich das Ticket bestellen soll. 
+It just occurred to me that I should order the ticket.
+
+Es fällt mir gerade ein, dass ich das Auto tanken muss. 
+It just occurred to me that I have to put gas in the car.
+
+Es fällt mir gerade ein, wann er kommt. 
+It just occurred to me when he is coming.
+
+Es fällt mir gerade ein, warum sie kommt. 
+It just occurred to me why she is coming.
+
+Es fällt mir gerade ein, wer kommt. 
+It just occurred to me who is coming.
+
+Ich freue mich, Sie kennenzulernen. 
+I am glad to meet you.
+
+Ich bin glücklich, dass ich kommen konnte. 
+I am happy that I was able to come.
+
+Er ist wütend, dass sie nicht gekommen ist. 
+He is angry that she did not come.
+
+Es stört mich, dass ich meine Arbeit nicht fertig machen konnte. 
+It bothers me that I could not finish my work.
+
+Ich bin traurig, dass ich nicht kommen kann. 
+I am sad that I cannot come.
+
+Ich bin froh, dass ich hier sein durfte. 
+I am glad that I was allowed to be here. (froh)
+
+Ich habe Frieden über die Entscheidung. 
+I have peace about the decision. (der Friede)
+
+Er hat mir sehr viel Geduld gezeigt. 
+He showed me a lot of patience. (die Geduld)
+
+Sie hat mir sehr viel Treue gezeigt. 
+She showed me a lot of faithfulness. (die Treue)
+
+Sie haben mir sehr viel Sanftmut gezeigt. 
+They showed me a lot of gentleness. (die Sanftmut)
+
+Sie hat viel Mut gezeigt, das gesagt zu haben. 
+She showed a lot of courage to have said that. (der Mut)
+
+Er scheint mit der Situation frustriert zu sein. 
+He seems to be frustrated with the situation. (die Situation)
+
+Er war von der Geschichte empört. 
+He was appalled by the story. (die Geschichte: history/story)
