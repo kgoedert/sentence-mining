@@ -9159,3 +9159,66 @@ He seems to be frustrated with the situation. (die Situation)
 
 Er war von der Geschichte empört. 
 He was appalled by the story. (die Geschichte: history/story)
+
+Wieviel kostet eine Fahrkarte nach München? 
+How much does a ticket to Munich cost?
+
+Wieviel kostet eine Fahrkarte nach Dresden? 
+How much does a ticket to Dresden cost?
+
+Gibt einen Schnellzug zum Frankfurter Flughafen? 
+Is there a fast train to the Frankfurt Airport?
+
+Die Fahrkarte kostet einhundertachtundsiebzig Euro. 
+The ticket costs one hundred seventy eight euros.
+
+Ich nehme zwei Fahrkarten nach Heidelberg. 
+I'll take two tickets to Heidelberg.
+
+Muss ich umsteigen? 
+Do I have to change trains?
+
+Ja, Sie müssen in Mannheim umsteigen. 
+Yes, you have to change trains in Mannheim.
+
+Wieviel Zeit habe ich, um umzusteigen? 
+How much time do I have to change trains?
+
+Nicht viel, nur zehn Minuten. 
+Not much, only ten minutes.
+
+Ist es ratsam, einen Platz zu reservieren? 
+Is it advisable to reserve a seat?
+
+Ja, es ist die Urlaubszeit. 
+Yes, it is the vacation season.
+
+Dann reserviere ich zwei Plätze, bitte. 
+Then I will reserve two seats, please.
+
+Ich muss in die Innenstadt. 
+I have to go downtown.
+
+Gibt es eine S- oder U-Bahn in die Innenstadt? 
+Is there a tram or subway to go downtown?
+
+Gibt es einen Bus in die Innenstadt? 
+Is there a bus that goes downtown?
+
+Wie lange dauert es mit dem Bus? 
+How long does it take with the bus?
+
+Wieviel kostet es mit der U-Bahn? 
+How much does it cost with the subway?
+
+Wo kann ich eine Fahrkarte kaufen? 
+Where can I purchase a ticket?
+
+Zwei Fahrkarten: ein Erwachsener, ein Kind, bitte. 
+Two tickets: one adult, one child, please. (der Erwachsene)
+
+Fünf Fahrkarten: zwei Erwachsene, drei Kinder, bitte. 
+Five tickets: two adults, three children, please.
+
+Ich hätte gerne eine Tageskarte, Zone drei. 
+I would like to have a day ticket covering zone three.
