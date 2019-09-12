@@ -9222,3 +9222,36 @@ Five tickets: two adults, three children, please.
 
 Ich hätte gerne eine Tageskarte, Zone drei. 
 I would like to have a day ticket covering zone three.
+
+Ihre Fahrkarte, bitte. 
+Your ticket, please. (die Fahrkarte)
+
+Ihren Fahrschein, bitte. 
+Your ticket, please. (der Fahrschein)
+
+Wo ist der Entwerter, bitte? 
+Where is the ticket validation machine?
+
+Der Entwerter ist beim Eingang der U-Bahn. 
+The validation machine is at the entrance of the subway.
+
+Man muss das Ticket auf dem Bahnsteig entwerten. 
+One must validate the ticket on the train platform.
+
+Man muss das Ticket bei dem Busfahrer kaufen und entwerten. 
+One must purchase and validate the ticket with the bus driver.
+
+Das Essen war lecker. 
+The food was tasty.
+
+Sollen wir Trinkgeld geben? 
+Should we leave a tip? (das Trinkgeld)
+
+In Deutschland ist weniger Trinkgeld üblich. 
+In Germany, a lower tip is customary.
+
+Man kann drei bis fünf Prozent geben. 
+One can give three to five percent. (das Prozent)
+
+Der Kellner freut sich immer, Trinkgeld zu bekommen. 
+The waiter is always happy about to receive a tip.(bekommen = to receive)
