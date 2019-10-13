@@ -2786,326 +2786,326 @@
 # The room is very colorful.
 # 
 # Wasser ist farblos.
-# Water is colorless.
+# # Water is colorless.
+# # 
+# # Ihre Hose ist blau-weiẞ.
+# # Her pants are blue and white.
+# # 
+# # Ein Zebra ist schwarz-weiß gestreift.
+# # A zebra is black and white striped.
+# # 
+# Sag mir nicht, dass ich mich abregen soll!
+# Don't tell me to calm down.
 # 
-# Ihre Hose ist blau-weiẞ.
-# Her pants are blue and white.
+# Hör auf, mir zu sagen, dass ich mich abregen soll!
+# Stop telling me to calm down.
 # 
-# Ein Zebra ist schwarz-weiß gestreift.
-# A zebra is black and white striped.
+# Schmeißen Sie nichts weg!
+# Don't throw anything away.
 # 
-Sag mir nicht, dass ich mich abregen soll!
-Don't tell me to calm down.
-
-Hör auf, mir zu sagen, dass ich mich abregen soll!
-Stop telling me to calm down.
-
-Schmeißen Sie nichts weg!
-Don't throw anything away.
-
-Warum jucken Mückenstiche?
-Why do mosquito bites itch?
-
-Mir jucken die Augen.
-My eyes are itchy.
-
-Wir schossen feindliche Flugzeuge ab.
-We shot down enemy aircraft.
-
-Ein feindliches Schiff nähert sich.
-An enemy ship is approaching.
-
-Wische den Staub vom Regal.
-Clean the dust off the shelf.
-
-Er ist auf Staub allergisch.
-He is allergic to dust.
-
-Alles ist von Staub bedeckt.
-Everything is covered with dust.
-
-Der Hubschrauber fliegt sehr niedrig.
-The helicopter is flying very low.
-
-Sie wurden per Hubschrauber gerettet.
-They were rescued by helicopter.
-
-Ich kann einen Hubschrauber fliegen.
-I can pilot a helicopter.
-
-Ein Funken Hoffnung bestand immer noch.
-There was still a glimmer of hope left.
-
-Mein Gewissen plagt mich.
-My conscience bothers me.
-
-Tom hat kein Gewissen.
-Tom doesn't have a conscience.
-
-Ich bin dein Gewissen.
-I'm your conscience.
-
-Wir verlangen Taten!
-We demand action.
-
-Du verlangst viel.
-You're asking a lot.
-
-Ich verlange die Wahrheit.
-I demand the truth.
-
-Durch den Nebel ist meine Brille beschlagen.
-The steam has fogged my glasses.
-
-Die Bluse ist blau mit weiẞen Punkten.
-The blouse is blue with white dots.
-
-Heute ist der Himmel blau und die Sonne scheint.
-Today, the sky is blue and the sun is shining.
-
-Ein Regenbogen hat viele Farben.
-A rainbow has a lot of colors.
-
-Rot ist die Farbe der Liebe.
-Red is the color of love.
-
-Sie hat eine Silberfarbene Uhr an.
-She is wearing a silver watch.
-
-Sie hat goldfarbene Ohrringe an.
-She is wearing golden earrings.
-
-Die Wand hat verschiedene Farben.
-The wall has various colors.
-
-Sie hat ein dunkelrotes Kleid an.
-She is wearing a dark red dress.
-
-Ich rufe meine Freundin an.
-I am calling my friend.
-
-Der Hund sieht den Ball.
-The dog sees the ball.
-
-Das Kind sieht den Hund.
-The child sees the dog.
-
-Der Hund sieht einen Ball.
-The dog sees a ball.
-
-Das Kind sieht einen Hund.
-The child sees a dog.
-
-Ich habe einen Hund.
-I have a dog.
-
-Ich lade dich zu meiner Hochzeit ein.
-I am inviting you to my wedding.
-
-Ich lade euch zu meiner Hochzeit ein.
-I am inviting you guys to my wedding.
-
-Ich lade sie zu meiner Hochzeit ein.
-I am inviting her to my wedding.
-
-Ich lade ihn zu meiner Hochzeit ein.
-I am inviting him to my wedding.
-
-Ich habe meine Geheimzahl vergessen. Ich habe sie vergessen.
-I forgot my PIN. I forgot it.
-
-Ich habe meinen Schlussel verloren. Ich habe ihn verloren.
-I lost my keys. I lost it.
-
-Der Installateur repariert die Waschmaschine. Der Installateur repariert sie.
-The plumber is repairing the washing machine. The plumber is repairing it. 
-
-Ich hole meinen Groẞvater vom Banhof ab. Ich hole ihn vom Banhof ab.
-I am picking up my grandfather from the train station. I am picking him up from the train station.
-
-Ich habe die Kinder auf dem Spielplatz gesehen. Ich habe sie auf dem Spielplatz gesehen.
-I saw the kids on the playground. I saw them on the playground.
-
-Ich habe den Zug verpasst. Ich habe ihn verpasst.
-I missed the train. I missed it.
-
-Ich habe Sie gestern angerufen.
-I called you yesterday.
-
-Ich habe dich gestern angerufen.
-I called you yesterday.
-
-Er ruft mich an.
-He calls me.
-
-Sie ruft dich an.
-She calls you.
-
-Wir rufen ihn an.
-We call him.
-
-Wir kennen es.
-We know it.
-
-Sie sieht uns.
-She sees us.
-
-Er sieht euch.
-He sees you guys.
-
-Er beobachtet sie.
-He observes him.
-
-Ich sehe Sie.
-I see you.
-
-Er fährt durch den Tunnel.
-He is driving through the tunnel.
-
-Susie ging den Weg entlang.
-Susie walked along the path.
-
-Der Kuchen ist für meine Nachbarin.
-The cake is for my neighbor.
-
-David ist gegen einen Baum gefahren.
-David drove against the tree.
-
-Ohne unser Navi sind wir aufgeschmissen.
-Without our GPS, we are screwed.
-
-Joachim fuhr um die Kurve.
-Joachim drove around the bend.
-
-Bis nächsten Dienstag!
-See you next tuesday!
-
-Wir gehen den Fluss entlang.
-We are walking along the river.
-
-Ich fahre durch die Stadt.
-I am driving through the city.
-
-Ich habe eine Überraschung für dich.
-I have a surprise for you.
-
-Ich kann ohne dich nicht leben.
-I can't live without you.
-
-Die Erde dreht sich um die Sonne.
-The Earth rotates around the sun.
-
-Gegen ihn habe ich keine Chance.
-Against him, I don't stand a chance.
-
-Durch den Bösencrash hat der reichste Chinese 15 millon dollar verloren.
-Due to the stock market crash, the richest chinese man lost 15 million dollars.
-
-Ich packe meinen Koffer aus.
-I am unpacking my suitcase.
-
-Ich sehe dein Auto.
-I see your car.
-
-Er sucht seinen Schlüssel.
-He is looking for his key.
-
-Sie sucht ihr Handy.
-Sie is looking for her cell phone.
-
-Ich bewundere eueren Mut.
-I admire your courage.
-
-Ich beantwortet Ihre Frage.
-I am answering your question.
-
-Ich finde diese Jacke schön.
-I find this jacket nice.
-
-Ich finde deinen Vorschlag gut.
-I find your suggestion good.
-
-Den Rock finde ich schön, aber die Bluse nicht.
-I like the skirt, but I don't like the blouse.
-
-Ich finde die Vorhänge hässlich.
-I find the curtains ugly.
-
-Wie findest du das?
-What do you think of that?
-
-Was meinst du dazu?
-What's your opinion on that?
-
-Ich finde das nicht schlecht.
-I think that's not bad.
-
-Ich finde das gut.
-I think that's good.
-
-Ich finde das nicht gut.
-I think that's not good.
-
-Ich finde das scheiẞe.
-I think that's crap.
-
-Er kommt uns nie besuchen. Wir finden das nicht gut.
-He never comes to visit us. We don't like that.
-
-Ich finde Falafel lecker.
-I like falafel.
-
-Ich finde ihn nett.
-I find him nice.
-
-Findest du diese Stiefel schön?
-Do you like these boots?
-
-Wie findest du diese Schuhe?
-What do you think of these shoes?
-
-Sie findet die Software nicht so gut.
-She doesn't really like the software.
-
-Ich finde ihre Stimme toll.
-I think her voice is great.
-
-Finde ihr die Methode gut?
-Do you guys like the method?
-
-Ich fand das Buch total spannend.
-I thought that the book was fascinating.
-
-Wie fandest du den Film?
-What do you think of the movie?
-
-Wie fanden Sie die Veranstaltung?
-What did you think of the event?
-
-Wie findest du deutsche Filme?
-What do you think of german movies?
-
-Ich finde, dass er qualifiziert genug ist.
-I think that he is qualified enough.
-
-Ich finde das Deutsche eine schöne Sprache ist.
-I think that german is a beautiful language.
-
-Ich finde ihn attraktiv.
-I think that he is attractive.
-
-Findest du sie attraktiv?
-Do you think she is attractive?
-
-Ich finde, dass das entsetzlich klingt.
-I think that sounds appalling.
-
-Mirko findet das seltsam.
-Mirko thinks that is strange.
-
-Michael findet Nadine süẞ.
-Michael thinks that Nadine is cute.
-
+# Warum jucken Mückenstiche?
+# Why do mosquito bites itch?
+# 
+# Mir jucken die Augen.
+# My eyes are itchy.
+# 
+# Wir schossen feindliche Flugzeuge ab.
+# We shot down enemy aircraft.
+# 
+# Ein feindliches Schiff nähert sich.
+# An enemy ship is approaching.
+# 
+# Wische den Staub vom Regal.
+# Clean the dust off the shelf.
+# 
+# Er ist auf Staub allergisch.
+# He is allergic to dust.
+# 
+# Alles ist von Staub bedeckt.
+# Everything is covered with dust.
+# 
+# Der Hubschrauber fliegt sehr niedrig.
+# The helicopter is flying very low.
+# 
+# Sie wurden per Hubschrauber gerettet.
+# They were rescued by helicopter.
+# 
+# Ich kann einen Hubschrauber fliegen.
+# I can pilot a helicopter.
+# 
+# Ein Funken Hoffnung bestand immer noch.
+# There was still a glimmer of hope left.
+# 
+# Mein Gewissen plagt mich.
+# My conscience bothers me.
+# 
+# Tom hat kein Gewissen.
+# Tom doesn't have a conscience.
+# 
+# Ich bin dein Gewissen.
+# I'm your conscience.
+# 
+# Wir verlangen Taten!
+# We demand action.
+# 
+# Du verlangst viel.
+# You're asking a lot.
+# 
+# Ich verlange die Wahrheit.
+# I demand the truth.
+# 
+# Durch den Nebel ist meine Brille beschlagen.
+# The steam has fogged my glasses.
+# 
+# Die Bluse ist blau mit weiẞen Punkten.
+# The blouse is blue with white dots.
+# 
+# Heute ist der Himmel blau und die Sonne scheint.
+# Today, the sky is blue and the sun is shining.
+# 
+# Ein Regenbogen hat viele Farben.
+# A rainbow has a lot of colors.
+# 
+# Rot ist die Farbe der Liebe.
+# Red is the color of love.
+# 
+# Sie hat eine Silberfarbene Uhr an.
+# She is wearing a silver watch.
+# 
+# Sie hat goldfarbene Ohrringe an.
+# She is wearing golden earrings.
+# 
+# Die Wand hat verschiedene Farben.
+# The wall has various colors.
+# 
+# Sie hat ein dunkelrotes Kleid an.
+# She is wearing a dark red dress.
+# 
+# Ich rufe meine Freundin an.
+# I am calling my friend.
+# 
+# Der Hund sieht den Ball.
+# The dog sees the ball.
+# 
+# Das Kind sieht den Hund.
+# The child sees the dog.
+# 
+# Der Hund sieht einen Ball.
+# The dog sees a ball.
+# 
+# Das Kind sieht einen Hund.
+# The child sees a dog.
+# 
+# Ich habe einen Hund.
+# I have a dog.
+# 
+# Ich lade dich zu meiner Hochzeit ein.
+# I am inviting you to my wedding.
+# 
+# Ich lade euch zu meiner Hochzeit ein.
+# I am inviting you guys to my wedding.
+# 
+# Ich lade sie zu meiner Hochzeit ein.
+# I am inviting her to my wedding.
+# 
+# Ich lade ihn zu meiner Hochzeit ein.
+# I am inviting him to my wedding.
+# 
+# Ich habe meine Geheimzahl vergessen. Ich habe sie vergessen.
+# I forgot my PIN. I forgot it.
+# 
+# Ich habe meinen Schlussel verloren. Ich habe ihn verloren.
+# I lost my keys. I lost it.
+# 
+# Der Installateur repariert die Waschmaschine. Der Installateur repariert sie.
+# The plumber is repairing the washing machine. The plumber is repairing it. 
+# 
+# Ich hole meinen Groẞvater vom Banhof ab. Ich hole ihn vom Banhof ab.
+# I am picking up my grandfather from the train station. I am picking him up from the train station.
+# 
+# Ich habe die Kinder auf dem Spielplatz gesehen. Ich habe sie auf dem Spielplatz gesehen.
+# I saw the kids on the playground. I saw them on the playground.
+# 
+# Ich habe den Zug verpasst. Ich habe ihn verpasst.
+# I missed the train. I missed it.
+# 
+# Ich habe Sie gestern angerufen.
+# I called you yesterday.
+# 
+# Ich habe dich gestern angerufen.
+# I called you yesterday.
+# 
+# Er ruft mich an.
+# He calls me.
+# 
+# Sie ruft dich an.
+# She calls you.
+# 
+# Wir rufen ihn an.
+# We call him.
+# 
+# Wir kennen es.
+# We know it.
+# 
+# Sie sieht uns.
+# She sees us.
+# 
+# Er sieht euch.
+# He sees you guys.
+# 
+# Er beobachtet sie.
+# He observes him.
+# 
+# Ich sehe Sie.
+# I see you.
+# 
+# Er fährt durch den Tunnel.
+# He is driving through the tunnel.
+# 
+# Susie ging den Weg entlang.
+# Susie walked along the path.
+# 
+# Der Kuchen ist für meine Nachbarin.
+# The cake is for my neighbor.
+# 
+# David ist gegen einen Baum gefahren.
+# David drove against the tree.
+# 
+# Ohne unser Navi sind wir aufgeschmissen.
+# Without our GPS, we are screwed.
+# 
+# Joachim fuhr um die Kurve.
+# Joachim drove around the bend.
+# 
+# Bis nächsten Dienstag!
+# See you next tuesday!
+# 
+# Wir gehen den Fluss entlang.
+# We are walking along the river.
+# 
+# Ich fahre durch die Stadt.
+# I am driving through the city.
+# 
+# Ich habe eine Überraschung für dich.
+# I have a surprise for you.
+# 
+# Ich kann ohne dich nicht leben.
+# I can't live without you.
+# 
+# Die Erde dreht sich um die Sonne.
+# The Earth rotates around the sun.
+# 
+# Gegen ihn habe ich keine Chance.
+# Against him, I don't stand a chance.
+# 
+# Durch den Bösencrash hat der reichste Chinese 15 millon dollar verloren.
+# Due to the stock market crash, the richest chinese man lost 15 million dollars.
+# 
+# Ich packe meinen Koffer aus.
+# I am unpacking my suitcase.
+# 
+# Ich sehe dein Auto.
+# I see your car.
+# 
+# Er sucht seinen Schlüssel.
+# He is looking for his key.
+# 
+# Sie sucht ihr Handy.
+# Sie is looking for her cell phone.
+# 
+# Ich bewundere eueren Mut.
+# I admire your courage.
+# 
+# Ich beantwortet Ihre Frage.
+# I am answering your question.
+# 
+# Ich finde diese Jacke schön.
+# I find this jacket nice.
+# 
+# Ich finde deinen Vorschlag gut.
+# I find your suggestion good.
+# 
+# Den Rock finde ich schön, aber die Bluse nicht.
+# I like the skirt, but I don't like the blouse.
+# 
+# Ich finde die Vorhänge hässlich.
+# I find the curtains ugly.
+# 
+# Wie findest du das?
+# What do you think of that?
+# 
+# Was meinst du dazu?
+# What's your opinion on that?
+# 
+# Ich finde das nicht schlecht.
+# I think that's not bad.
+# 
+# Ich finde das gut.
+# I think that's good.
+# 
+# Ich finde das nicht gut.
+# I think that's not good.
+# 
+# Ich finde das scheiẞe.
+# I think that's crap.
+# 
+# Er kommt uns nie besuchen. Wir finden das nicht gut.
+# He never comes to visit us. We don't like that.
+# 
+# Ich finde Falafel lecker.
+# I like falafel.
+# 
+# Ich finde ihn nett.
+# I find him nice.
+# 
+# Findest du diese Stiefel schön?
+# Do you like these boots?
+# 
+# Wie findest du diese Schuhe?
+# What do you think of these shoes?
+# 
+# Sie findet die Software nicht so gut.
+# She doesn't really like the software.
+# 
+# Ich finde ihre Stimme toll.
+# I think her voice is great.
+# 
+# Finde ihr die Methode gut?
+# Do you guys like the method?
+# 
+# Ich fand das Buch total spannend.
+# I thought that the book was fascinating.
+# 
+# Wie fandest du den Film?
+# What do you think of the movie?
+# 
+# Wie fanden Sie die Veranstaltung?
+# What did you think of the event?
+# 
+# Wie findest du deutsche Filme?
+# What do you think of german movies?
+# 
+# Ich finde, dass er qualifiziert genug ist.
+# I think that he is qualified enough.
+# 
+# Ich finde das Deutsche eine schöne Sprache ist.
+# I think that german is a beautiful language.
+# 
+# Ich finde ihn attraktiv.
+# I think that he is attractive.
+# 
+# Findest du sie attraktiv?
+# Do you think she is attractive?
+# 
+# Ich finde, dass das entsetzlich klingt.
+# I think that sounds appalling.
+# 
+# Mirko findet das seltsam.
+# Mirko thinks that is strange.
+# 
+# Michael findet Nadine süẞ.
+# Michael thinks that Nadine is cute.
+# 
 Findet ihr das lustig?
 Do you guys think that's funny?
 

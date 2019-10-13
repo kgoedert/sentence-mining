@@ -3491,314 +3491,314 @@
 # Is he at the coffee shop?
 # 
 # Est-ce que nous allons au café?
-# Are we going to the coffee shop?
+# # Are we going to the coffee shop?
+# # 
+# # Est-ce qu'elle est au café?
+# # Is she at the coffee shop?
+# # 
+# # Est-ce qu'elle va au café?
+# # Is she going to the coffee shop?
+# # 
+# Est-ce qu'il va au café?
+# Does he go to the coffee shop?
 # 
-# Est-ce qu'elle est au café?
+# Est-ce qu'ils sont au café?
+# Are they at the coffee shop?
+# 
+# Vous êtes au café?
+# Are you at the café?
+# 
+# Vous allez au café?
+# Are you going to the coffee shop?
+# 
+# Elles sont au café?
+# Are they at the coffee shop?
+# 
+# Il est au café?
+# Is he at the café?
+# 
+# Nous allons au café?
+# Are we going to the café?
+# 
+# Elle est au café?
 # Is she at the coffee shop?
 # 
-# Est-ce qu'elle va au café?
+# Elle va au café?
 # Is she going to the coffee shop?
 # 
-Est-ce qu'il va au café?
-Does he go to the coffee shop?
-
-Est-ce qu'ils sont au café?
-Are they at the coffee shop?
-
-Vous êtes au café?
-Are you at the café?
-
-Vous allez au café?
-Are you going to the coffee shop?
-
-Elles sont au café?
-Are they at the coffee shop?
-
-Il est au café?
-Is he at the café?
-
-Nous allons au café?
-Are we going to the café?
-
-Elle est au café?
-Is she at the coffee shop?
-
-Elle va au café?
-Is she going to the coffee shop?
-
-Il va au café?
-Is he going to the coffee shop?
-
-Ils sont au café?
-Are they at the coffee shop?
-
-Êtes-vous au café?
-Are you at the café?
-
-Allez-vous au café?
-Are you going to the coffee shop?
-
-Sont-elles au café?
-Are they at the coffee shop?
-
-Est-il au café?
-Is he at the coffee shop?
-
-Allons-nous au café?
-Shall we go to the coffee shop?
-
-Est-elle au café?
-Is she at the coffee shop?
-
-Va-t-elle au café?
-Is she going to the coffee shop?
-
-Va-t-il au café?
-Is he going to the coffee shop?
-
-Sont-ils au café?
-Are they at the coffee shop?
-
-Nous n’avons pas de beurre.	
-We don’t have any butter.
-
-Je ne mange jamais de viande.	
-I never eat meat.
-
-Il n’y a pas de timbres.	
-There aren’t any stamps.
-
-Il n’a pas d’argent.	
-He doesn’t have any money.
-
-Il n’y a pas d’horloge dans la salle.	
-There isn’t a clock in the room.
-
-J’ai reçu de beaux cadeaux.	
-I got some lovely presents.
-
-Cette région a de très jolis villages.	
-This area has some very pretty villages.
-
-Il me doit de l’argent.	
-He owes me (some) money.
-
-Je vais acheter de la farine et du beurre pour faire un gâteau.	
-I’m going to buy (some) flour and butter to make a cake.
-
-Est-ce qu’il y a des lettres pour moi?	
-Are there any letters for me?
-
-Elle ne veut pas de beurre.	
-She doesn’t want any butter.
-
-Je ne prends pas de lait.	
-I don’t take milk.
-
-j'ai besoin de sucre 
-I need some sugar
-
-il a besoin de pain 
-he needs some bread
-
-elle a besoin d'argent 
-she needs some money
-
-ils ont besoin de chaises 
-they need some chairs 
-
-Je voudrais de l’eau, s’il vous plait
-I would like some water, please
-
-Le professeur a de la patience
-The teacher has patience
-
-Voici du gâteau
-Here's some cake.
-
-J’ai des Euros
-I have some Euros
-
-Je vais acheter des pommes
-I'm going to buy some apples.
-
-Elle a des amis formidables
-She has great friends.
-
-je veux du riz 
-I want some rice
-
-je veux de l’amour
-I want some love
-
-je veux de la moutarde
-I want some mustard
-
-je veux de l’eau
-I want some water
-
-j’ai besoin d’argent
-I need some money 
-
-je ne veux pas de riz
-I don’t want any rice
-
-je ne veux pas d’amour
-I don’t want any love
-
-je ne veux pas de moutarde
-I don’t want any mustard
-
-je ne veux pas d’eau
-I don’t want any water
-
-je n’ai pas besoin d’argent
-I don’t need any money
-
-je ne veux plus de pommes.
-I don’t want anymore apples
-
-c’est de l’or
-It is gold
-
-ce n’est pas de l’or
-It is not gold
-
-je veux une pomme
-I want an apple
-
-je veux des pommes
-I want apples
-
-I need shoes
-j’ai besoin de chaussures.
-
-I want shoes
-je veux des chaussures.
-
-J’ai acheté des pantalons
-I bought some trousers
-
-J’ai acheté de nouveaux pantalons
-I bought new trousers
-
-je veux d’autres chaussures.
-I want other shoes
-
-je ne veux pas de pommes
-I don’t want any apple
-
-j’ai une voiture
-I have a car
-
-je n’ai pas de voiture.
-I have no car
-
-j’ai beaucoup d’argent
-I have a lot of money
-
-j’ai peu d’argent
-I have little money
-
-j’ai beaucoup de bananes
-I have a lot of bananas
-
-je veux plus de pommes.
-I want more apples
-
-nous avons eu peu de soleil (soleil is masculine)
-We had little sunshine
-
-beaucoup d’enfants sont venus
-Many children came
-
-beaucoup des enfants de cette école ont été malades.
-Many of  the children at this school were ill
-
-Ce monde des images, habité par les images, dans les images
-This world of images, inhabited by images, in the images
-
-Des gens super beaux avec des... peaux super lisses
-Really beautiful people with... really smooth skin
-
-Le backgammon se joue avec des dés.
-Backgammon is played with dice. 
-
-Près de trois cent mille personnes venues dès l'aube applaudir les héros des océans
-Nearly three hundred thousand people who came as early as dawn to applaud the heroes of the oceans
-
-Et j'ai toujours eu, euh... dès les, les premières fois où j'ai découvert...
-And I've always, uh... ever since I first discovered...
-
-Les épreuves commencent dès demain.
-The exams begin as early as tomorrow. 
-
-Tout de suite, en fait dès que je suis arrivée ici, euh...
-Right away, in fact as soon as I arrived here, uh...
-
-Dès lors, elle n'est jamais retournée à la maison.
-From then on, she never returned home.
-
-Le magicien a su piper des dés dès l'âge de cinq ans. 
-The magician knew how to load dice from the age of five.
-
-Tu veux celui-ci? 
-Do you want this one?
-
-Tu veux celui-là? 
-Do you want that one?
-
-Tu aimes celle-ci? 
-Do you like this one?
-
-Tu aimes celle-là? 
-Do you like that one?
-
-Je prends ceux-ci. 
-I’m taking these ones
-
-Je prends ceux-là. 
-I’m taking those ones
-
-Celles-ci sont très jolies. 
-These ones are very pretty.
-
-Celles-là sont très jolies. 
-Those ones are very pretty.
-
-On a deux voitures : celle-ci est bleue, celle-là est verte. 
-We have two cars: this one is blue, that one is green.
-
-Quelles baskets devrais-je porter : celles-ci ou celles-là ? 
-Which trainers should I wear: these or those?
-
-Tu parles de quelle maison, celle de David ? 
-Which house are you talking about, David’s?
-
-Mais si, tu connais cette chanson, c’est celle de David Guetta ! 
-You do know this song, it’s the one by David Guetta!
-
-Le professeur a dit que celui qui a triché sera puni ! 
-The teacher said that the one who cheated will be punished!
-
-Ceux qui sont riches ne sont pas forcément heureux. 
-Those who are rich aren’t necessarily happy.
-
-Ta voisine est bizarre, mais celle qui habite à côté de chez moi, elle me donne des bonbons chaque fois qu’elle me voit ! 
-Your neighbour is strange but the one who lives next door gives me sweets every time she sees me!
-
-Quelles amies? tu veux dire celles qui sont venues à la maison le mois dernier ? 
-Which friends? do you mean the ones who came to the house last month?
-
-C'est intérressant. 
-That’s interesting. 
-
-Ce sont de bonnes nouvelles.
-This is good news.
-
-Ce mouton est mignon.
-This sheep is cute.
-
+# Il va au café?
+# Is he going to the coffee shop?
+# 
+# Ils sont au café?
+# Are they at the coffee shop?
+# 
+# Êtes-vous au café?
+# Are you at the café?
+# 
+# Allez-vous au café?
+# Are you going to the coffee shop?
+# 
+# Sont-elles au café?
+# Are they at the coffee shop?
+# 
+# Est-il au café?
+# Is he at the coffee shop?
+# 
+# Allons-nous au café?
+# Shall we go to the coffee shop?
+# 
+# Est-elle au café?
+# Is she at the coffee shop?
+# 
+# Va-t-elle au café?
+# Is she going to the coffee shop?
+# 
+# Va-t-il au café?
+# Is he going to the coffee shop?
+# 
+# Sont-ils au café?
+# Are they at the coffee shop?
+# 
+# Nous n’avons pas de beurre.	
+# We don’t have any butter.
+# 
+# Je ne mange jamais de viande.	
+# I never eat meat.
+# 
+# Il n’y a pas de timbres.	
+# There aren’t any stamps.
+# 
+# Il n’a pas d’argent.	
+# He doesn’t have any money.
+# 
+# Il n’y a pas d’horloge dans la salle.	
+# There isn’t a clock in the room.
+# 
+# J’ai reçu de beaux cadeaux.	
+# I got some lovely presents.
+# 
+# Cette région a de très jolis villages.	
+# This area has some very pretty villages.
+# 
+# Il me doit de l’argent.	
+# He owes me (some) money.
+# 
+# Je vais acheter de la farine et du beurre pour faire un gâteau.	
+# I’m going to buy (some) flour and butter to make a cake.
+# 
+# Est-ce qu’il y a des lettres pour moi?	
+# Are there any letters for me?
+# 
+# Elle ne veut pas de beurre.	
+# She doesn’t want any butter.
+# 
+# Je ne prends pas de lait.	
+# I don’t take milk.
+# 
+# j'ai besoin de sucre 
+# I need some sugar
+# 
+# il a besoin de pain 
+# he needs some bread
+# 
+# elle a besoin d'argent 
+# she needs some money
+# 
+# ils ont besoin de chaises 
+# they need some chairs 
+# 
+# Je voudrais de l’eau, s’il vous plait
+# I would like some water, please
+# 
+# Le professeur a de la patience
+# The teacher has patience
+# 
+# Voici du gâteau
+# Here's some cake.
+# 
+# J’ai des Euros
+# I have some Euros
+# 
+# Je vais acheter des pommes
+# I'm going to buy some apples.
+# 
+# Elle a des amis formidables
+# She has great friends.
+# 
+# je veux du riz 
+# I want some rice
+# 
+# je veux de l’amour
+# I want some love
+# 
+# je veux de la moutarde
+# I want some mustard
+# 
+# je veux de l’eau
+# I want some water
+# 
+# j’ai besoin d’argent
+# I need some money 
+# 
+# je ne veux pas de riz
+# I don’t want any rice
+# 
+# je ne veux pas d’amour
+# I don’t want any love
+# 
+# je ne veux pas de moutarde
+# I don’t want any mustard
+# 
+# je ne veux pas d’eau
+# I don’t want any water
+# 
+# je n’ai pas besoin d’argent
+# I don’t need any money
+# 
+# je ne veux plus de pommes.
+# I don’t want anymore apples
+# 
+# c’est de l’or
+# It is gold
+# 
+# ce n’est pas de l’or
+# It is not gold
+# 
+# je veux une pomme
+# I want an apple
+# 
+# je veux des pommes
+# I want apples
+# 
+# I need shoes
+# j’ai besoin de chaussures.
+# 
+# I want shoes
+# je veux des chaussures.
+# 
+# J’ai acheté des pantalons
+# I bought some trousers
+# 
+# J’ai acheté de nouveaux pantalons
+# I bought new trousers
+# 
+# je veux d’autres chaussures.
+# I want other shoes
+# 
+# je ne veux pas de pommes
+# I don’t want any apple
+# 
+# j’ai une voiture
+# I have a car
+# 
+# je n’ai pas de voiture.
+# I have no car
+# 
+# j’ai beaucoup d’argent
+# I have a lot of money
+# 
+# j’ai peu d’argent
+# I have little money
+# 
+# j’ai beaucoup de bananes
+# I have a lot of bananas
+# 
+# je veux plus de pommes.
+# I want more apples
+# 
+# nous avons eu peu de soleil (soleil is masculine)
+# We had little sunshine
+# 
+# beaucoup d’enfants sont venus
+# Many children came
+# 
+# beaucoup des enfants de cette école ont été malades.
+# Many of  the children at this school were ill
+# 
+# Ce monde des images, habité par les images, dans les images
+# This world of images, inhabited by images, in the images
+# 
+# Des gens super beaux avec des... peaux super lisses
+# Really beautiful people with... really smooth skin
+# 
+# Le backgammon se joue avec des dés.
+# Backgammon is played with dice. 
+# 
+# Près de trois cent mille personnes venues dès l'aube applaudir les héros des océans
+# Nearly three hundred thousand people who came as early as dawn to applaud the heroes of the oceans
+# 
+# Et j'ai toujours eu, euh... dès les, les premières fois où j'ai découvert...
+# And I've always, uh... ever since I first discovered...
+# 
+# Les épreuves commencent dès demain.
+# The exams begin as early as tomorrow. 
+# 
+# Tout de suite, en fait dès que je suis arrivée ici, euh...
+# Right away, in fact as soon as I arrived here, uh...
+# 
+# Dès lors, elle n'est jamais retournée à la maison.
+# From then on, she never returned home.
+# 
+# Le magicien a su piper des dés dès l'âge de cinq ans. 
+# The magician knew how to load dice from the age of five.
+# 
+# Tu veux celui-ci? 
+# Do you want this one?
+# 
+# Tu veux celui-là? 
+# Do you want that one?
+# 
+# Tu aimes celle-ci? 
+# Do you like this one?
+# 
+# Tu aimes celle-là? 
+# Do you like that one?
+# 
+# Je prends ceux-ci. 
+# I’m taking these ones
+# 
+# Je prends ceux-là. 
+# I’m taking those ones
+# 
+# Celles-ci sont très jolies. 
+# These ones are very pretty.
+# 
+# Celles-là sont très jolies. 
+# Those ones are very pretty.
+# 
+# On a deux voitures : celle-ci est bleue, celle-là est verte. 
+# We have two cars: this one is blue, that one is green.
+# 
+# Quelles baskets devrais-je porter : celles-ci ou celles-là ? 
+# Which trainers should I wear: these or those?
+# 
+# Tu parles de quelle maison, celle de David ? 
+# Which house are you talking about, David’s?
+# 
+# Mais si, tu connais cette chanson, c’est celle de David Guetta ! 
+# You do know this song, it’s the one by David Guetta!
+# 
+# Le professeur a dit que celui qui a triché sera puni ! 
+# The teacher said that the one who cheated will be punished!
+# 
+# Ceux qui sont riches ne sont pas forcément heureux. 
+# Those who are rich aren’t necessarily happy.
+# 
+# Ta voisine est bizarre, mais celle qui habite à côté de chez moi, elle me donne des bonbons chaque fois qu’elle me voit ! 
+# Your neighbour is strange but the one who lives next door gives me sweets every time she sees me!
+# 
+# Quelles amies? tu veux dire celles qui sont venues à la maison le mois dernier ? 
+# Which friends? do you mean the ones who came to the house last month?
+# 
+# C'est intérressant. 
+# That’s interesting. 
+# 
+# Ce sont de bonnes nouvelles.
+# This is good news.
+# 
+# Ce mouton est mignon.
+# This sheep is cute.
+# 
 Lequel? Celui-ci ou celui-là?
 Which one? This one or this one?
 

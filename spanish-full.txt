@@ -2995,9 +2995,6 @@
 # La madre de Clara murió hace dos meses.
 # Clara's mother died two months ago.
 # 
-# El verano pasado un tormenta destruyó la iglesia del pueblo.
-# Last summer a storm destroyed the church of the village.
-# 
 # Los gatos huyeron cuando vieron al perro.
 # The cats ran away when they saw the dog.
 # 
@@ -10200,3 +10197,6 @@ Come on, you're not going to tell me you don't know how to fry an ovo.
 
 He tenido una vida intensa.
 I have had an intense life.
+
+El verano pasado una tormenta destruyó la iglesia del pueblo.
+Last summer a storm destroyed the church of the village.
