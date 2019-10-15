@@ -562,9 +562,6 @@
 # Me he comprado unos zapatos negros.
 # I bought myself some black shoes.
 # 
-# En Guatemala hay ruinas muy antigas.
-# In Guatemala there are very ancient ruines.
-# 
 # Antonio y Marta son altos y morenos.
 # Antonio and Marta are tall and brown.
 # 
@@ -10200,3 +10197,6 @@ I have had an intense life.
 
 El verano pasado una tormenta destruyó la iglesia del pueblo.
 Last summer a storm destroyed the church of the village.
+
+En Guatemala hay ruinas muy antigas.
+In Guatemala there are very ancient ruines.
