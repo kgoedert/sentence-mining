@@ -9385,3 +9385,50 @@ Would you like to have a piece of cake too?
 Ja, wieviel kosten sie? Drei Euro pro Stück. 
 Yes, how much do they cost? Three Euros per slice.
 
+Wie ist der Wein, und wie ist das Bier? 
+How is the wine, and how is the beer?
+
+Der Wein und das Bier sind gut. 
+The wine and the beer are good.
+
+Aber der Kaffee ist nicht gut. 
+But the coffee is not good.
+
+Und der Tee ist auch nicht gut. 
+And the tea is not good either.
+
+Ist die Milch gut? 
+Is the milk good?
+
+Ja, die Milch ist sehr gut. 
+Yes, the milk is very good.
+
+Wie ist hier das Wasser? 
+How is the water here?
+
+Das Wasser ist gut. 
+The water is good.
+
+Wie sagt man 'good bye' auf deutsch? 
+How do you say 'good bye' in German?
+
+Man sagt 'Auf Wiedersehen'. 
+You say 'Auf Wiedersehen'.
+
+Wieviel ist drei und fünf? 
+How much is three and five?
+
+Drei und fünf ist acht. 
+Three and five is eight.
+
+Wieviel ist sieben und vier? 
+How much is seven and four?
+
+Sieben und vier ist elf. 
+Seven and four is eleven.
+
+Wieviel ist zwei und zehn? 
+How much is two and ten?
+
+Zwei und zehn ist zwölf. 
+Two and ten is twelve.
