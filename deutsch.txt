@@ -9432,3 +9432,69 @@ How much is two and ten?
 
 Zwei und zehn ist zwölf. 
 Two and ten is twelve.
+
+Können Sie mir bitte sagen, wo der Flughafen ist?
+Can you please tell me where the airport is?
+
+Können Sie mir bitte sagen, wo das Restaurant ist?
+Can you please tell me where the restaurant is?
+
+Können Sie mir bitte sagen, wo die S-Bahn ist?
+Can you please tell me where the S-Bahn is?
+
+Können Sie mir bitte sagen, wo der Blumenladen ist?
+Can you please tell me where the flower shop is?
+
+Können Sie mir bitte sagen, wo das Auto ist?
+Can you please tell me where the car is?
+
+Können Sie mir bitte sagen, wo die Post ist?
+Can you please tell me where the post office is?
+
+Können Sie mir bitte sagen, wo das Haus ist?
+Can you please tell me where the house is?
+
+Können Sie mir bitte sagen, wo die U-Bahn ist?
+Can you please tell me where the subway is?
+
+Wissen Sie, wo Ihr Ehemann ist?
+Do you know where your husband is?
+
+Wissen Sie, wo Ihr Schlüssel ist?
+Do you know where your key is?
+
+Wissen Sie, wo Ihre Katze ist?
+Do you know where your cat is?
+
+Wissen Sie, wo Ihr Auto ist?
+Do you know where your car is?
+
+Wissen Sie, wo Ihre Frau ist?
+Do you know where your wife is?
+
+Wissen Sie, wo Ihr Glas ist?
+Do you know where your glass is?
+
+Wissen Sie, wo Ihre Gabel ist?
+Do you know where your fork is?
+
+Wo findet man ein Taxi?
+Where can you find a taxi?
+
+Wo findet man eine U-Bahn Station?
+Where can you find a subway station?
+
+Wo findet man ein Restaurant?
+Where can you find a restaurant?
+
+Wo findet man einen Polizisten?
+Where can you find a policeman?
+
+Wo findet man eine Post?
+Where can you find a post office?
+
+Wo findet man einen Blumenladen?
+Where can you find a flower shop?
+
+Wo findet man eine Taxi-Haltestelle?
+Where can I find a taxi stop?
