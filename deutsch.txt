@@ -9498,3 +9498,84 @@ Where can you find a flower shop?
 
 Wo findet man eine Taxi-Haltestelle?
 Where can I find a taxi stop?
+
+Das Dokument gehört dem Chef. Das Dokument des Chefs.
+The document belongs to the boss. The document of the boss.
+
+Der Ball gehört dem Kind. Der Ball des Kindes
+The ball belongs to the child. The child's ball
+
+Das Haus gehört meiner Freundin. Das Haus meiner Freundin.
+The house belongs to my girlfriend. My girlfriend's house.
+
+Die Katze gehört meinem Bruder. Die Katze meines Bruders.
+The cat belongs to my brother. My brother's cat.
+
+Der Blumenladen gehört dem Mann. Der Blumenladen des Mannes.
+The flower shop belongs to the man. The man's flower shop.
+
+Der Ehering gehört der Frau. Der Ehering der Frau.
+The wedding ring belongs to the woman. The woman's wedding ring.
+
+Das Auto gehört dem Geschäftsmann. Das Auto des Geschäftsmannes.
+The car belongs to the businessman. The businessman's car.
+
+Das Haus gehört den Eltern. Das Haus der Eltern.
+The house belongs to the parents. The parents' house.
+
+Das Geld meiner Mutter. Das Geld gehört meiner Mutter.
+My mother's money. The money belongs to my mother.
+
+Die Blumen der Frau. Die Blumen gehören der Frau.
+The woman's flowers. The flowers belong to the woman.
+
+Die Schuhe des Mannes. Die Schuhe gehören dem Mann.
+The man's shoes. The shoes belong to the man.
+
+Das Hemd des Mädchens. Das Hemd gehört dem Mädchen.
+The girl's shirt. The shirt belongs to the girl.
+
+Die Hose des Jungen. Die Hose gehört dem Jungen.
+The boy's trousers. The trousers belong to the boy.
+
+Das Baby der Schwester. Das Baby gehört der Schwester.
+The sister's baby. The baby belongs to the sister.
+
+Das Bett des Opas. Das Bett gehört dem Opa.
+The grandfather's bed. The bed belongs to the grandfather.
+
+Der Arbeitstisch des Chefs. Der Arbeitstisch gehört dem Chef.
+The boss's desk. The work table belongs to the boss.
+
+Das Büro der Chefin. Das Büro gehört der Chefin.
+The office of the boss. The office belongs to the boss.
+
+Das Büro der Sekretärin. Das Büro gehört der Sekretärin.
+The secretary's office. The office belongs to the secretary.
+
+Das Zimmer der Eltern. Das Zimmer gehört den Eltern.
+The parents' room. The room belongs to the parents.
+
+Es ist schön, Karin zu sehen.
+It is nice to see Karin.
+
+Es ist schön, Sie zu sehen.
+It's nice to see you.
+
+Es ist schön, ihn zu sehen.
+It's nice to see him.
+
+Es ist schön, uns zu sehen.
+It's nice to see us.
+
+Es ist schön, sie zu sehen.
+It's nice to see her.
+
+Es ist schön, dich zu sehen.
+It is good to see you.
+
+Es ist schön, euch zu sehen.
+It is nice to see you.
+
+Es ist schön, Markus zu sehen.
+It is nice to see Mark.
