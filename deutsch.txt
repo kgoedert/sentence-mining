@@ -9579,3 +9579,102 @@ It is nice to see you.
 
 Es ist schön, Markus zu sehen.
 It is nice to see Mark.
+
+Ich sage Christoph, was ich denke.
+I'll tell Christoph what I think.
+
+Ich sage dir, was ich denke.
+I tell you what I think.
+
+Ich sage euch, was ich denke.
+I tell you what I think.
+
+Ich sage Ihnen, was ich denke.
+I tell you what I think.
+
+Ich sage ihr, was ich denke.
+I tell her what I think.
+
+Ich sage ihm, was ich denke.
+I tell him what I think.
+
+Ich sage Carmen, was ich denke.
+I tell Carmen what I think.
+
+Wie viel kostet der große Hamburger?
+How much does the big hamburger cost?
+
+Wie viel kostet das große Steak?
+How much does the big steak cost?
+
+Wie viel kostet die große Pampelmuse?
+How much does the big grapefruit cost?
+
+Wie viel kostet der große Salat?
+How much does the big salad cost?
+
+Wie viel kostet die große Torte?
+How much does the big cake cost?
+
+Wie viel kostet der große Apfel?
+How much does the big apple cost?
+
+Wie viel kostet die große Praline?
+How much does the large praline cost?
+
+Wie viel kostet der große Berliner?
+How much does the big Berliner cost?
+
+Birgit kauft ein Haus.
+Birgit buys a house.
+
+Birgit kauft einen Hund.
+Birgit buys a dog.
+
+Birgit kauft eine Blume.
+Birgit buys a flower.
+
+Birgit kauft ein Hemd.
+Birgit buys a shirt.
+
+Birgit kauft eine Hose.
+Birgit buys a pair of trousers.
+
+Birgit kauft ein Pferd.
+Birgit buys a horse.
+
+Birgit kauft einen Wagen.
+Birgit buys a carriage.
+
+Birgit kauft eine Fahrkarte.
+Birgit buys a ticket.
+
+Ich sehe das Taxi. Da ist das Taxi.
+I see the taxi. There's the taxi.
+
+Ich sehe den Zug. Da ist der Zug.
+I see the train. There's the train.
+
+Ich sehe das Haus. Da ist das Haus.
+I see the house. There's the house.
+
+Ich sehe den Hund. Da ist der Hund.
+I see the dog. There is the dog.
+
+Ich sehe die Frau. Da ist die Frau.
+I see the woman. There is the woman.
+
+Ich sehe den Schlüssel. Da ist der Schlüssel.
+I see the key. There is the key.
+
+Ich sehe die Katze. Da ist die Katze.
+I see the cat. There is the cat.
+
+Ich sehe das Pferd. Da ist das Pferd.
+I see the horse. There is the horse.
+
+Ich sehe die Maus. Da ist die Maus.
+I see the mouse. There is the mouse.
+
+Ich sehe den Dieb. Da ist der Dieb
+I see the thief. There is the thief
