@@ -3124,6 +3124,63 @@ We trust him.
 Sie trauen einander nicht.
 They don't trust each other.
 
+Es war stockdunkel.
+It was pitch-black.
+
+Draußen war es stockdunkel.
+It was pitch black outside.
+
+Es ist im Keller stockdunkel.
+It's pitch black in the basement.
+
+Ich hörte das Laub rauschen.
+I heard the leaves rustling.
+
+Das ist ausreichend.
+That's sufficient.
+
+Das wäre ausreichend.
+That would be sufficient.
+
+Das ist mehr als ausreichend.
+It's more than enough.
+
+Tom stieg vom Dach herab.
+Tom climbed down from the roof.
+
+Ich schaue auf dich herab.
+I look down on you!
+
+Er schaut nie auf Andere herab.
+He never looks down upon others.
+
+Sie lebte etliche Jahre dort.
+She lived there for years.
+
+Tom ist seit etlichen Tagen vermisst.
+Tom went missing several days ago.
+
+Tom gebrauchte dieses Wort etliche Male.
+Tom uses that word a lot.
+
+Ich bin verschwiegen.
+I'm quiet.
+
+Tom war immer verschwiegen.
+Tom was always secretive.
+
+Tom verschwieg es Maria.
+Tom didn't tell Mary.
+
+Die Besatzung verließ das Schiff.
+The crew abandoned the ship.
+
+Die gesamte Besatzung wurde gerettet.
+All the crew were saved.
+
+Ein Teil der Besatzung ist ertrunken.
+Some of the crew were drowned.
+
 Findet ihr das lustig?
 Do you guys think that's funny?
 
@@ -4624,7 +4681,7 @@ Are you sending the e-mail to the boss?
 Bringen Sie mir die Unterlagen vorbei?
 Are you dropping the documents off at my place?
 
-Wirst du den Praktikanten den Systeme erklären?
+Wirst du den Praktikanten den Systeme erklären?         <--- jenny
 Will you explain the system to the intern?
 
 Zisch ab, du Idiot!
