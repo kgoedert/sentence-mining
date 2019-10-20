@@ -3106,6 +3106,24 @@
 # Michael findet Nadine süẞ.
 # Michael thinks that Nadine is cute.
 # 
+Ich bestätige meine Flugreservierung
+I will confirm my plane reservation.
+
+Ich kann das bestätigen.
+I can confirm this.
+
+Can anyone verify that?
+Can anyone verify this?
+
+Traue keinem!
+Trust no one.
+
+Wir trauen ihm.
+We trust him.
+
+Sie trauen einander nicht.
+They don't trust each other.
+
 Findet ihr das lustig?
 Do you guys think that's funny?
 
@@ -4601,7 +4619,13 @@ Ich kann euch die Bücher vorbeibringen.
 I kann drop the books off at your place.
 
 Schickst du dem Chef die E-Mail?
-Are you sending the e-mail to the boss?                 <--- jenny
+Are you sending the e-mail to the boss? 
+
+Bringen Sie mir die Unterlagen vorbei?
+Are you dropping the documents off at my place?
+
+Wirst du den Praktikanten den Systeme erklären?
+Will you explain the system to the intern?
 
 Zisch ab, du Idiot!
 Buzz off, you idiot!
@@ -9678,3 +9702,6 @@ I see the mouse. There is the mouse.
 
 Ich sehe den Dieb. Da ist der Dieb
 I see the thief. There is the thief
+
+
+
