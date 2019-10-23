@@ -3040,9 +3040,6 @@
 # Hoy he comido paella.
 # Today I ate paella.
 # 
-# Pues nosostras hemos comido pescado.
-# Well, we ate seafood.
-# 
 # Me he levantado tarde.
 # I woke up late.
 # 
@@ -10356,3 +10353,7 @@ Be still. Be still!
 
 Cállate, por favor. No quiero. ¡Qué te calles!
 Shut up, please. No. Shut up!
+
+
+Pues nosotras hemos comido pescado.
+Well, we ate seafood.
