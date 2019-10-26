@@ -3106,6 +3106,45 @@
 # Michael findet Nadine süẞ.
 # Michael thinks that Nadine is cute.
 # 
+Vereinbare was du magst.
+Make any arrangements you like.
+
+Beim nächsten Mal vereinbaren wir einen Treffpunkt.
+Next time we'll agree on a meeting place.
+
+Das kann ich moralisch nicht mit mir vereinbaren.
+It's against my morals.
+
+Maria trug eine Halskette.
+Mary wore a necklace.
+
+Tom schenkte Maria eine Halskette.
+Tom gave Mary a necklace.
+
+Maria legte ihre neue Halskette an.
+Mary put on her new necklace.
+
+Mary wurde auf dem Scheiterhaufen verbrannt.
+Mary was burned at the stake.
+
+Der Ketzer wurde auf dem Scheiterhaufen verbrannt.
+The heretic was burned at the stake.
+
+Der Reifen ist undicht.
+The tire leaks air.
+
+Pumpe die Reifen auf!
+Fill the tires with air.
+
+Es hat zu viele Nachteile.
+It has too many disadvantages.
+
+Jeder Vorteil hat seinen Nachteil.
+Every advantage has its disadvantage.
+
+Andererseits gibt es einige Nachteile.
+On the other hand, there are some disadvantages.
+
 Ich bestätige meine Flugreservierung
 I will confirm my plane reservation.
 

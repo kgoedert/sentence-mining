@@ -8,7 +8,7 @@ import re
 
 
 url = "https://api.soundoftext.com"
-ANKI_URL = "http://192.168.0.21:8765"
+ANKI_URL = "http://192.168.0.25:8765"
 
 def main():
     parser = argparse.ArgumentParser("Sentence Mining")

@@ -3282,322 +3282,322 @@
 # 
 # No, lo llamaré más tarde.
 # No, I will call him later.
+# # 
+# # No te preocupes. Pronto encontrarás trabajo.
+# # Don't worry. Soon you will find work.
+# # 
+# # ¿Habéis escrito a la abuela?
+# # Have you written to grandmother?
+# # 
+# No, le escribiremos la semana que viene.
+# No, we will write her next week.
 # 
-# No te preocupes. Pronto encontrarás trabajo.
-# Don't worry. Soon you will find work.
+# Iván llegará dentro de unos días.
+# Iván will arrive in a couple of days.
 # 
-# ¿Habéis escrito a la abuela?
-# Have you written to grandmother?
+# Te avisaré cuando aterricemos.
+# I will let you know when we land.
 # 
-No, le escribiremos la semana que viene.
-No, we will write her next week.
-
-Iván llegará dentro de unos días.
-Iván will arrive in a couple of days.
-
-Te avisaré cuando aterricemos.
-I will let you know when we land.
-
-El fin de semana nevará a partir de mil metros.
-In the weekend it will snow at least a thousand meters.
-
-Conocerá a una persona maravillosa y se casarán.
-You will know a wonderful person and will get married.
-
-Llegaremos a Marte en el año 2050.
-We will arrive in Mars in the year 2050.
-
-Pues yo creo que en el año 2050 habrá ciudades en la Luna.
-I believe that in the year 2050 there will be cities in the moon.
-
-¿Ha venido Amelia?
-Did Amelia come?
-
-No, vendrá más tarde.
-No, she will come later.
-
-En el futuro podremos vivir en la luna.
-In the future we will be able to live in the moon.
-
-Mañana hará buen tiempo en todo el país.
-Tomorrow the weather will be good in the whole country.
-
-¿Vas hacer tú la cena?
-Are you going to do the scene?
-
-¿Yo? No, la hará Martina.
-Me? No, Martina will do it.
-
-¿Crees qeu vendrán todos a la fiesta?
-Do you think everyone will come to the party?
-
-Estoy segura de que os querréis mucho y seréis muy felices.
-I am sure that you will love each other very much and you will be very happy.
-
-Supongo que habrá comida para todos.
-I suppose there will be food for everybody.
-
-Probablemente haremos un viaje a América este verano.
-Probably we will make a trip to America this summer.
-
-Voy a salir con unas amigas.
-I will go out with some friends.
-
-Laura y Jaime van a casarse este verano.
-Laura and Jaime will get married this summer.
-
-Laura y Jaime se van a casar este verano.
-Laura and Jaime will get married this summer.
-
-Tengo sueño. Voy a acostarme.
-I am sleepy. I will go to bed.
-
-¿Qué vas a hacer esta noche?
-What are you going to do tonight?
-
-Voy ir al cine.
-I will go to the movies.
-
-¿Van a cenar en casa?
-Are you going to have dinner at home?
-
-No, vamos a salir. Vamos ir a un restaurante.
-No, we are going to go out. We are going to a restaurant.
-
-¿Cuándo vas arreglar la televisión?
-When are you going to fix the tv?
-
-Esa niña va a caerse de la silla.
-This girl is going to fall off the chair.
-
-Va a llover.
-It is going to rain.
-
-¿Cuándo queréis casaros?
-When do you want to get married?
-
-No tenemos prisa. Ya nos casaremos.
-We are not in a hurry. We will get married soon.
-
-Vamos a casarnos este año.
-We are going to get married this year.
-
-Tendrá un accidente pero no será grave.
-He will have an accident but it will not be serious.
-
-¡Va estrellarse!
-He is going to crash.
-
-Guille se va mañana a México, pero no sabe cuándo volverá.
-Guille goes to Mexico tomorrow, but doesn't know when he will be back.
-
-Clara vuelve el próximo lunes.
-Clara is coming back next monday.
-
-Raquel y Rodolfo se casan en enero.
-Raquel and Rodolfo are getting married in january.
-
-El tren sale a las diez esta noche.
-The train leaves at ten tonight.
-
-Las noticias empienzan a las nueve.
-The news start at nine.
-
-Este verano seguramente iremos a Marbela.
-This summer we will probably go to Marbela.
-
-¡Me voy mañana a Marbela!
-I am going to Marbela tomorrow.
-
-Está buena, pero estaría mejor con menos sal.
-It is good, but it would be better with less salt.
-
-Me encantaría visitar el Amazonas.
-I would love to visit the Amazonas.
-
-Trabajaría más a gusto en casa.
-I would work better at home.
-
-¿Te gustaría ser escritora?
-Would you like to be a writer?
-
-Me gustaría ser actor.
-I would like to be an actor.
-
-Deberías hacer un curso de informática.
-You should take a computer course.
-
-Deberías conducir con más cuidado, Raúl.
-You should drive more carefully, Raúl.
-
-Yo no aceptaría la invitación.
-I wouldn't accept the invitation.
-
-Esta casa valdría más arreglada.
-This house would worth more arranged.
-
-¿Qué harás usted en mi lugar?
-What would you do in my place?
-
-Yo que ustedes saldría menos.
-I would go out less than you.
-
-¿Cuántos años tenías cuando viniste a Argentina?
-How old were you when you came to Argentina?
-
-No recuerdo. Tendría once o doce.
-I don't remenber. I should be eleven or twelve.
-
-¿Quién hizo ayer la comida?
-Who did the food yesterday?
-
-No sé. La haría Rafael.
-I don't know. It would be Rafael.
-
-La hizo Rafael.
-Rafael did it.
-
-¿Cuántas personas había anoche en el concierto?
-How many people there were in the concert last night?
-
-No sé, habría unas doscientas.
-I don't know, there were about two hundred.
-
-¿Cuántos alumnos había ayer en la clase?
-How many students there were yesterday in the class?
-
-Pasé la lista y había veintitrés.
-I passed the list and there were twenty three.
-
-¿Le importaría cerrar la ventana? Tengo frío.
-Would you mind closing the window? I am cold.
-
-¿Podrías ayudarme a mover esta caja?
-Would you help me move this box?
-
-Abre la ventana. Hace calor.
-Open the window. It is hot.
-
-Abrid el libro en la página diez.
-Open the book at page ten.
-
-Pasen ustedes, por favor.
-Come in, please.
-
-Ahora habla tú, Ismael.
-Now you speak, Ismael.
-
-Apaga la televisión y estudia.
-Turn off the tv and study.
-
-Envíe esta carta, Sr. Aguayo, por favor.
-Send this letter, mr Aguayo, please.
-
-Abra con cuidado.
-Open carefully.
-
-¡Policía! ¡Abran la puerta!
-Police! Open the door!
-
-Abre la puerta, por favor.
-Open the door, please.
-
-Coged un pastel. Están muy ricos.
-Take a cake. They are very good.
-
-Come más. Estás muy delgado.
-Eat more. You are very thin.
-
-Trabaja o tendrás problemas.
-Work or you will have trouble.
-
-¡No toques eso! Es peligroso.
-Don't touch that! It is dangerous.
-
-No abras la ventana, por favor. Tengo frío.
-Don't open the window, please. I am cold.
-
-No habléis en clase.
-Don't talk in class.
-
-No agite la botella antes de abrirla.
-Don't shake the bottle before opening it.
-
-No coma muchas grasas. Es malo para el corazón.
-Don't eat too much fat. It is bad for the heart.
-
-No bebáis agua de esa fuente. No es potable.
-Don't drink water from this fountain. It is not potable.
-
-No olviden el paraguas. Puede llover.
-Don't forget the umbrella. It may rain.
-
-Papá, ¿puedo coger el coche? No, no lo cojas. Lo necesito yo.
-Dad, can I take the car? No, don't take it. I need it.
-
-Tira toda esa basura al contenedor.
-Throw all that trash in the container.
-
-Sois muy amables todos vosotros.
-You are all very kind.
-
-Voy a México todos los veranos.
-I go to Mexico every summer.
-
-Todos mis hermanos hablan francés.
-All my brothers speak french.
-
-Deme todas esas manzanas, por favor.
-Give me all those apples, please.
-
-He conocido a un compañero tuyo.
-I met one of your friends.
-
-¿Ha venido algún alumno?
-Has any student come?
-
-Alicia no sale ningún domingo.
-Alicia does not go out on any sunday.
-
-Conozco a unos chicos que estudian quechua.
-I know some kids who study quechua.
-
-He recorrido algumas zonas de Perú.
-I have traveled to some areas of Peru.
-
-¿Alguno de vosotros conduce?
-Does any of you drive?
-
-No veo a ninguno de los niños.
-I don't see any of the kids.
-
-Uno de mis tíos vive en Caracas.
-One of my uncles lives in Caracas.
-
-Alguno de estos es mío, seguro.
-One of these is mine, for sure.
-
-¿Alguno de vosotros habla árable?
-Does any of you speak arabic?
-
-No, ninguno.
-None.
-
-Todos quieren venir a la fiesta.
-Everybody wants to come to the party.
-
-¿Has visto a alguno de mis compañeros?
-Have you seen any of my friends?
-
-No, no he visto ninguno.
-No, I have seen none.
-
-Ninguno de mis amigos ha salido.
-None of my friends has gone out.
-
-No ha salido ninguno de mis amigos.
-None of my friends has gone out.
-
+# El fin de semana nevará a partir de mil metros.
+# In the weekend it will snow at least a thousand meters.
+# 
+# Conocerá a una persona maravillosa y se casarán.
+# You will know a wonderful person and will get married.
+# 
+# Llegaremos a Marte en el año 2050.
+# We will arrive in Mars in the year 2050.
+# 
+# Pues yo creo que en el año 2050 habrá ciudades en la Luna.
+# I believe that in the year 2050 there will be cities in the moon.
+# 
+# ¿Ha venido Amelia?
+# Did Amelia come?
+# 
+# No, vendrá más tarde.
+# No, she will come later.
+# 
+# En el futuro podremos vivir en la luna.
+# In the future we will be able to live in the moon.
+# 
+# Mañana hará buen tiempo en todo el país.
+# Tomorrow the weather will be good in the whole country.
+# 
+# ¿Vas hacer tú la cena?
+# Are you going to do the scene?
+# 
+# ¿Yo? No, la hará Martina.
+# Me? No, Martina will do it.
+# 
+# ¿Crees qeu vendrán todos a la fiesta?
+# Do you think everyone will come to the party?
+# 
+# Estoy segura de que os querréis mucho y seréis muy felices.
+# I am sure that you will love each other very much and you will be very happy.
+# 
+# Supongo que habrá comida para todos.
+# I suppose there will be food for everybody.
+# 
+# Probablemente haremos un viaje a América este verano.
+# Probably we will make a trip to America this summer.
+# 
+# Voy a salir con unas amigas.
+# I will go out with some friends.
+# 
+# Laura y Jaime van a casarse este verano.
+# Laura and Jaime will get married this summer.
+# 
+# Laura y Jaime se van a casar este verano.
+# Laura and Jaime will get married this summer.
+# 
+# Tengo sueño. Voy a acostarme.
+# I am sleepy. I will go to bed.
+# 
+# ¿Qué vas a hacer esta noche?
+# What are you going to do tonight?
+# 
+# Voy ir al cine.
+# I will go to the movies.
+# 
+# ¿Van a cenar en casa?
+# Are you going to have dinner at home?
+# 
+# No, vamos a salir. Vamos ir a un restaurante.
+# No, we are going to go out. We are going to a restaurant.
+# 
+# ¿Cuándo vas arreglar la televisión?
+# When are you going to fix the tv?
+# 
+# Esa niña va a caerse de la silla.
+# This girl is going to fall off the chair.
+# 
+# Va a llover.
+# It is going to rain.
+# 
+# ¿Cuándo queréis casaros?
+# When do you want to get married?
+# 
+# No tenemos prisa. Ya nos casaremos.
+# We are not in a hurry. We will get married soon.
+# 
+# Vamos a casarnos este año.
+# We are going to get married this year.
+# 
+# Tendrá un accidente pero no será grave.
+# He will have an accident but it will not be serious.
+# 
+# ¡Va estrellarse!
+# He is going to crash.
+# 
+# Guille se va mañana a México, pero no sabe cuándo volverá.
+# Guille goes to Mexico tomorrow, but doesn't know when he will be back.
+# 
+# Clara vuelve el próximo lunes.
+# Clara is coming back next monday.
+# 
+# Raquel y Rodolfo se casan en enero.
+# Raquel and Rodolfo are getting married in january.
+# 
+# El tren sale a las diez esta noche.
+# The train leaves at ten tonight.
+# 
+# Las noticias empienzan a las nueve.
+# The news start at nine.
+# 
+# Este verano seguramente iremos a Marbela.
+# This summer we will probably go to Marbela.
+# 
+# ¡Me voy mañana a Marbela!
+# I am going to Marbela tomorrow.
+# 
+# Está buena, pero estaría mejor con menos sal.
+# It is good, but it would be better with less salt.
+# 
+# Me encantaría visitar el Amazonas.
+# I would love to visit the Amazonas.
+# 
+# Trabajaría más a gusto en casa.
+# I would work better at home.
+# 
+# ¿Te gustaría ser escritora?
+# Would you like to be a writer?
+# 
+# Me gustaría ser actor.
+# I would like to be an actor.
+# 
+# Deberías hacer un curso de informática.
+# You should take a computer course.
+# 
+# Deberías conducir con más cuidado, Raúl.
+# You should drive more carefully, Raúl.
+# 
+# Yo no aceptaría la invitación.
+# I wouldn't accept the invitation.
+# 
+# Esta casa valdría más arreglada.
+# This house would worth more arranged.
+# 
+# ¿Qué harás usted en mi lugar?
+# What would you do in my place?
+# 
+# Yo que ustedes saldría menos.
+# I would go out less than you.
+# 
+# ¿Cuántos años tenías cuando viniste a Argentina?
+# How old were you when you came to Argentina?
+# 
+# No recuerdo. Tendría once o doce.
+# I don't remenber. I should be eleven or twelve.
+# 
+# ¿Quién hizo ayer la comida?
+# Who did the food yesterday?
+# 
+# No sé. La haría Rafael.
+# I don't know. It would be Rafael.
+# 
+# La hizo Rafael.
+# Rafael did it.
+# 
+# ¿Cuántas personas había anoche en el concierto?
+# How many people there were in the concert last night?
+# 
+# No sé, habría unas doscientas.
+# I don't know, there were about two hundred.
+# 
+# ¿Cuántos alumnos había ayer en la clase?
+# How many students there were yesterday in the class?
+# 
+# Pasé la lista y había veintitrés.
+# I passed the list and there were twenty three.
+# 
+# ¿Le importaría cerrar la ventana? Tengo frío.
+# Would you mind closing the window? I am cold.
+# 
+# ¿Podrías ayudarme a mover esta caja?
+# Would you help me move this box?
+# 
+# Abre la ventana. Hace calor.
+# Open the window. It is hot.
+# 
+# Abrid el libro en la página diez.
+# Open the book at page ten.
+# 
+# Pasen ustedes, por favor.
+# Come in, please.
+# 
+# Ahora habla tú, Ismael.
+# Now you speak, Ismael.
+# 
+# Apaga la televisión y estudia.
+# Turn off the tv and study.
+# 
+# Envíe esta carta, Sr. Aguayo, por favor.
+# Send this letter, mr Aguayo, please.
+# 
+# Abra con cuidado.
+# Open carefully.
+# 
+# ¡Policía! ¡Abran la puerta!
+# Police! Open the door!
+# 
+# Abre la puerta, por favor.
+# Open the door, please.
+# 
+# Coged un pastel. Están muy ricos.
+# Take a cake. They are very good.
+# 
+# Come más. Estás muy delgado.
+# Eat more. You are very thin.
+# 
+# Trabaja o tendrás problemas.
+# Work or you will have trouble.
+# 
+# ¡No toques eso! Es peligroso.
+# Don't touch that! It is dangerous.
+# 
+# No abras la ventana, por favor. Tengo frío.
+# Don't open the window, please. I am cold.
+# 
+# No habléis en clase.
+# Don't talk in class.
+# 
+# No agite la botella antes de abrirla.
+# Don't shake the bottle before opening it.
+# 
+# No coma muchas grasas. Es malo para el corazón.
+# Don't eat too much fat. It is bad for the heart.
+# 
+# No bebáis agua de esa fuente. No es potable.
+# Don't drink water from this fountain. It is not potable.
+# 
+# No olviden el paraguas. Puede llover.
+# Don't forget the umbrella. It may rain.
+# 
+# Papá, ¿puedo coger el coche? No, no lo cojas. Lo necesito yo.
+# Dad, can I take the car? No, don't take it. I need it.
+# 
+# Tira toda esa basura al contenedor.
+# Throw all that trash in the container.
+# 
+# Sois muy amables todos vosotros.
+# You are all very kind.
+# 
+# Voy a México todos los veranos.
+# I go to Mexico every summer.
+# 
+# Todos mis hermanos hablan francés.
+# All my brothers speak french.
+# 
+# Deme todas esas manzanas, por favor.
+# Give me all those apples, please.
+# 
+# He conocido a un compañero tuyo.
+# I met one of your friends.
+# 
+# ¿Ha venido algún alumno?
+# Has any student come?
+# 
+# Alicia no sale ningún domingo.
+# Alicia does not go out on any sunday.
+# 
+# Conozco a unos chicos que estudian quechua.
+# I know some kids who study quechua.
+# 
+# He recorrido algumas zonas de Perú.
+# I have traveled to some areas of Peru.
+# 
+# ¿Alguno de vosotros conduce?
+# Does any of you drive?
+# 
+# No veo a ninguno de los niños.
+# I don't see any of the kids.
+# 
+# Uno de mis tíos vive en Caracas.
+# One of my uncles lives in Caracas.
+# 
+# Alguno de estos es mío, seguro.
+# One of these is mine, for sure.
+# 
+# ¿Alguno de vosotros habla árable?
+# Does any of you speak arabic?
+# 
+# No, ninguno.
+# None.
+# 
+# Todos quieren venir a la fiesta.
+# Everybody wants to come to the party.
+# 
+# ¿Has visto a alguno de mis compañeros?
+# Have you seen any of my friends?
+# 
+# No, no he visto ninguno.
+# No, I have seen none.
+# 
+# Ninguno de mis amigos ha salido.
+# None of my friends has gone out.
+# 
+# No ha salido ninguno de mis amigos.
+# None of my friends has gone out.
+# 
 Necesito un móvil nuevo.
 I need a new mobile.
 
