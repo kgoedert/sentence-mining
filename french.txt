@@ -6849,3 +6849,81 @@ Your parents are at the hotel; they have room twelve.
 
 Je suis à l'hôtel; j'ai la chambre douze.
 I'm at the hotel; I have room twelve.
+
+M. Lelong est ici. Est-ce qu'il a des nouvelles de Mlle Courtois?
+Mr. Lelong is here. Does he have any news of Miss Courtois?
+
+Mme Durand est ici. Est-ce qu'elle a des nouvelles de Mlle Courtois?
+Mrs. Durand is here. Does she have any news of Miss Courtois?
+
+Mon frère est ici. Est-ce qu'il a des nouvelles de Mlle Courtois?
+My brother is here. Does he have any news of Miss Courtois?
+
+Le gérant est ici. Est-ce qu'il a des nouvelles de Mlle Courtois?
+The manager is here. Does he have any news of Miss Courtois?
+
+Ils sont ici. Est-ce qu'ils ont des nouvelles de Mlle Courtois?
+They are here. Do they have any news of Miss Courtois?
+
+Elle est ici. Est-ce qu'elle a des nouvelles de Mlle Courtois?
+She's here. She's here. Does she have any news of Miss Courtois?
+
+Elles sont ici. Est-ce qu'elles ont des nouvelles de Mlle Courtois?
+They are here. Do they have any news of Miss Courtois?
+
+Il est ici. Est-ce qu'il a des nouvelles de Mlle Courtois?
+He is here. Does he have any news of Miss Courtois?
+
+Est-ce que vous êtes en vacances? Oui, je suis en vacances.
+Are you on vacation? Yes, I'm on vacation.
+
+Est-ce que vous avez une chambre? Oui, j'ai une chambre.
+Do you have a room? Yes, I have a room.
+
+Est-ce que votre ami a les fiches? Oui, il a les fiches.
+Does your friend have the cards? Yes, he has the cards.
+
+Est-ce que votre amie est en vacances? Oui, elle est en vacances.
+Is your friend on vacation? Yes, she's on vacation.
+
+Est-ce que vous avez un frère? Oui, j'ai un frère.
+Do you have a brother? Yes, I have a brother.
+
+Est-ce que vos amis sont en vacances? Oui, ils sont en vacances.
+Are your friends on vacation? Yes, they're on vacation.
+
+Est-ce que vous avez le livre? Oui, j'ai le livre.
+Do you have the book? Yes, I have the book.
+
+Est-ce que vos sœurs ont les livres? Oui, elles ont les livres.
+Do your sisters have the books? Yes, they have the books.
+
+Vous avez de la monnaie? Oui, j'ai de la monnaie.
+Do you have any change? Yes, I have change.
+
+Janine a la chambre douze? Oui, elle a la chambre douze.
+Janine has room twelve? Yes, she has room twelve.
+
+Vos amis ont les fiches? Oui, ils ont les fiches.
+Do your friends have the files? Yes, they have the cards.
+
+Le gérant a la fiche? Oui, il a la fiche.
+Does the manager have the card? Yes, he has the card.
+
+Vous êtes au café? Oui, je suis au café.
+Are you at the café? Yes, I'm at the café.
+
+Votre famille est à l'hôtel? Oui, elle est à l'hôtel.
+Is your family at the hotel? Yes, she's at the hotel.
+
+Vous avez une chambre? Oui, j'ai une chambre.
+Do you have a room? Yes, I have a room.
+
+Les enfants sont ici? Oui, ils sont ici.
+Are the children here? Yes, they are here.
+
+Les enfants ont des chambres communicantes? Oui, ils ont des chambres communicantes.
+Do the children have communicating rooms? Yes, they have communicating rooms.
+
+Janine est en vacances? Oui, elle est en vacances.
+Is Janine on vacation? Yes, she's on vacation.
