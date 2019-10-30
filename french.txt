@@ -6927,3 +6927,126 @@ Do the children have communicating rooms? Yes, they have communicating rooms.
 
 Janine est en vacances? Oui, elle est en vacances.
 Is Janine on vacation? Yes, she's on vacation.
+
+Est-ce que Janine a la chambre quatorze? Non, elle n'a pas la chambre quatorze.
+Does Janine have room fourteen? No, she doesn't have room fourteen.
+
+Est-ce que Janine est au café? Non, elle n'est pas au café.
+Is Janine at the coffee shop? No, she's not at the coffee shop.
+
+Est-ce que les enfants ont les fiches? Non, ils n'ont pas les fiches.
+Do the children have the cards? No, they don't have the cards.
+
+Est-ce que vous avez de la monnaie? Non, je n'ai pas de monnaie.
+Do you have any change? No, I don't have any change.
+
+Est-ce que vos filles ont les livres? Non, elles n'ont pas les livres.
+Do your daughters have the books? No, they don't have the books.
+
+Est-ce que vos amis sont à Paris? Non, ils ne sont pas à Paris.
+Are your friends in Paris? No, they're not in Paris.
+
+Est-ce que votre fils a le livre? Non, il n'a pas le livre.
+Does your son have the book? No, he doesn't have the book.
+
+Est-ce que votre amie a les fiches? Non, elle n'a pas les fiches.
+Does your friend have the cards? No, she doesn't have the cards.
+
+Est-ce que le restaurant est bon? Non, il n'est pas bon.
+Is the restaurant good? No, it's not good.
+
+Est-ce que vos amis ont la chambre dix? Non, ils n'ont pas la chambre dix.
+Do your friends have room ten? No, they don't have room ten.
+
+La classe commence à six heures.
+Class starts at six o'clock.
+
+La classe commence le matin.
+Class starts in the morning.
+
+La classe commence à dix heures.
+Class starts at ten o'clock.
+
+La classe commence demain.
+The class starts tomorrow.
+
+La classe commence à sept heures.
+Class starts at seven o'clock.
+
+La classe commence aujourd'hui.
+The class starts today.
+
+La classe commence à onze heures.
+Class starts at eleven o'clock.
+
+La classe commence tout de suite.
+The class starts right away.
+
+La classe commence plus tard.
+The class starts later.
+
+La classe commence cet après-midi.
+Class starts this afternoon.
+
+La classe commence maintenant.
+The class starts now.
+
+À quelle heure est-ce que nous devons aller à l'hôtel?
+What time do we have to go to the hotel?
+
+À quelle heure est-ce que nous devons aller à l'aéroport?
+What time do we have to go to the airport?
+
+À quelle heure est-ce que nous devons arriver à l'aéroport?
+What time should we arrive at the airport?
+
+Quand est-ce que nous devons arriver à l'aéroport?
+When do we have to arrive at the airport?
+
+Quand est-ce que nous devons arriver à la gare?
+When do we have to arrive at the station?
+
+Quand est-ce que nous devons être à la gare?
+When do we have to be at the station?
+
+Pourquoi est-ce que nous devons être à la gare?
+Why do we have to be at the station?
+
+Pourquoi est-ce que nous devons être à l'hôtel?
+Why do we have to be at the hotel?
+
+Pourquoi est-ce que nous devons aller à l'hôtel?
+Why do we have to go to a hotel?
+
+À quelle heure est-ce que nous devons aller à l'hôtel?
+What time do we have to go to the hotel?
+
+C'est de l'autre côté de l'ascenseur.
+It's on the other side of the elevator.
+
+C'est de l'autre côté de l'hôtel.
+It's on the other side of the hotel.
+
+C'est de l'autre côté du restaurant.
+It's on the other side of the restaurant.
+
+C'est de l'autre côté des escaliers.
+It's on the other side of the stairs.
+
+C'est de l'autre côté de la porte.
+It's on the other side of the door.
+
+C'est de l'autre côté de la voiture.
+It's on the other side of the car.
+
+C'est de l'autre côté de la chambre.
+It's on the other side of the room.
+
+C'est de l'autre côté des bagages.
+It's on the other side of the luggage.
+
+C'est de l'autre côté des sacs.
+It's on the other side of the bags.
+
+C'est de l'autre côté de la gare.
+It's on the other side of the station.
