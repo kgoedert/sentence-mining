@@ -6849,3 +6849,417 @@ Your parents are at the hotel; they have room twelve.
 
 Je suis à l'hôtel; j'ai la chambre douze.
 I'm at the hotel; I have room twelve.
+
+M. Lelong est ici. Est-ce qu'il a des nouvelles de Mlle Courtois?
+Mr. Lelong is here. Does he have any news of Miss Courtois?
+
+Mme Durand est ici. Est-ce qu'elle a des nouvelles de Mlle Courtois?
+Mrs. Durand is here. Does she have any news of Miss Courtois?
+
+Mon frère est ici. Est-ce qu'il a des nouvelles de Mlle Courtois?
+My brother is here. Does he have any news of Miss Courtois?
+
+Le gérant est ici. Est-ce qu'il a des nouvelles de Mlle Courtois?
+The manager is here. Does he have any news of Miss Courtois?
+
+Ils sont ici. Est-ce qu'ils ont des nouvelles de Mlle Courtois?
+They are here. Do they have any news of Miss Courtois?
+
+Elle est ici. Est-ce qu'elle a des nouvelles de Mlle Courtois?
+She's here. She's here. Does she have any news of Miss Courtois?
+
+Elles sont ici. Est-ce qu'elles ont des nouvelles de Mlle Courtois?
+They are here. Do they have any news of Miss Courtois?
+
+Il est ici. Est-ce qu'il a des nouvelles de Mlle Courtois?
+He is here. Does he have any news of Miss Courtois?
+
+Est-ce que vous êtes en vacances? Oui, je suis en vacances.
+Are you on vacation? Yes, I'm on vacation.
+
+Est-ce que vous avez une chambre? Oui, j'ai une chambre.
+Do you have a room? Yes, I have a room.
+
+Est-ce que votre ami a les fiches? Oui, il a les fiches.
+Does your friend have the cards? Yes, he has the cards.
+
+Est-ce que votre amie est en vacances? Oui, elle est en vacances.
+Is your friend on vacation? Yes, she's on vacation.
+
+Est-ce que vous avez un frère? Oui, j'ai un frère.
+Do you have a brother? Yes, I have a brother.
+
+Est-ce que vos amis sont en vacances? Oui, ils sont en vacances.
+Are your friends on vacation? Yes, they're on vacation.
+
+Est-ce que vous avez le livre? Oui, j'ai le livre.
+Do you have the book? Yes, I have the book.
+
+Est-ce que vos sœurs ont les livres? Oui, elles ont les livres.
+Do your sisters have the books? Yes, they have the books.
+
+Vous avez de la monnaie? Oui, j'ai de la monnaie.
+Do you have any change? Yes, I have change.
+
+Janine a la chambre douze? Oui, elle a la chambre douze.
+Janine has room twelve? Yes, she has room twelve.
+
+Vos amis ont les fiches? Oui, ils ont les fiches.
+Do your friends have the files? Yes, they have the cards.
+
+Le gérant a la fiche? Oui, il a la fiche.
+Does the manager have the card? Yes, he has the card.
+
+Vous êtes au café? Oui, je suis au café.
+Are you at the café? Yes, I'm at the café.
+
+Votre famille est à l'hôtel? Oui, elle est à l'hôtel.
+Is your family at the hotel? Yes, she's at the hotel.
+
+Vous avez une chambre? Oui, j'ai une chambre.
+Do you have a room? Yes, I have a room.
+
+Les enfants sont ici? Oui, ils sont ici.
+Are the children here? Yes, they are here.
+
+Les enfants ont des chambres communicantes? Oui, ils ont des chambres communicantes.
+Do the children have communicating rooms? Yes, they have communicating rooms.
+
+Janine est en vacances? Oui, elle est en vacances.
+Is Janine on vacation? Yes, she's on vacation.
+
+Est-ce que Janine a la chambre quatorze? Non, elle n'a pas la chambre quatorze.
+Does Janine have room fourteen? No, she doesn't have room fourteen.
+
+Est-ce que Janine est au café? Non, elle n'est pas au café.
+Is Janine at the coffee shop? No, she's not at the coffee shop.
+
+Est-ce que les enfants ont les fiches? Non, ils n'ont pas les fiches.
+Do the children have the cards? No, they don't have the cards.
+
+Est-ce que vous avez de la monnaie? Non, je n'ai pas de monnaie.
+Do you have any change? No, I don't have any change.
+
+Est-ce que vos filles ont les livres? Non, elles n'ont pas les livres.
+Do your daughters have the books? No, they don't have the books.
+
+Est-ce que vos amis sont à Paris? Non, ils ne sont pas à Paris.
+Are your friends in Paris? No, they're not in Paris.
+
+Est-ce que votre fils a le livre? Non, il n'a pas le livre.
+Does your son have the book? No, he doesn't have the book.
+
+Est-ce que votre amie a les fiches? Non, elle n'a pas les fiches.
+Does your friend have the cards? No, she doesn't have the cards.
+
+Est-ce que le restaurant est bon? Non, il n'est pas bon.
+Is the restaurant good? No, it's not good.
+
+Est-ce que vos amis ont la chambre dix? Non, ils n'ont pas la chambre dix.
+Do your friends have room ten? No, they don't have room ten.
+
+La classe commence à six heures.
+Class starts at six o'clock.
+
+La classe commence le matin.
+Class starts in the morning.
+
+La classe commence à dix heures.
+Class starts at ten o'clock.
+
+La classe commence demain.
+The class starts tomorrow.
+
+La classe commence à sept heures.
+Class starts at seven o'clock.
+
+La classe commence aujourd'hui.
+The class starts today.
+
+La classe commence à onze heures.
+Class starts at eleven o'clock.
+
+La classe commence tout de suite.
+The class starts right away.
+
+La classe commence plus tard.
+The class starts later.
+
+La classe commence cet après-midi.
+Class starts this afternoon.
+
+La classe commence maintenant.
+The class starts now.
+
+À quelle heure est-ce que nous devons aller à l'hôtel?
+What time do we have to go to the hotel?
+
+À quelle heure est-ce que nous devons aller à l'aéroport?
+What time do we have to go to the airport?
+
+À quelle heure est-ce que nous devons arriver à l'aéroport?
+What time should we arrive at the airport?
+
+Quand est-ce que nous devons arriver à l'aéroport?
+When do we have to arrive at the airport?
+
+Quand est-ce que nous devons arriver à la gare?
+When do we have to arrive at the station?
+
+Quand est-ce que nous devons être à la gare?
+When do we have to be at the station?
+
+Pourquoi est-ce que nous devons être à la gare?
+Why do we have to be at the station?
+
+Pourquoi est-ce que nous devons être à l'hôtel?
+Why do we have to be at the hotel?
+
+Pourquoi est-ce que nous devons aller à l'hôtel?
+Why do we have to go to a hotel?
+
+À quelle heure est-ce que nous devons aller à l'hôtel?
+What time do we have to go to the hotel?
+
+C'est de l'autre côté de l'ascenseur.
+It's on the other side of the elevator.
+
+C'est de l'autre côté de l'hôtel.
+It's on the other side of the hotel.
+
+C'est de l'autre côté du restaurant.
+It's on the other side of the restaurant.
+
+C'est de l'autre côté des escaliers.
+It's on the other side of the stairs.
+
+C'est de l'autre côté de la porte.
+It's on the other side of the door.
+
+C'est de l'autre côté de la voiture.
+It's on the other side of the car.
+
+C'est de l'autre côté de la chambre.
+It's on the other side of the room.
+
+C'est de l'autre côté des bagages.
+It's on the other side of the luggage.
+
+C'est de l'autre côté des sacs.
+It's on the other side of the bags.
+
+C'est de l'autre côté de la gare.
+It's on the other side of the station.
+
+Vous allez à l'hôtel ce soir?
+Are you going to the hotel tonight?
+
+Où est votre famille?
+Where is your family?
+
+Combien de chambres avez-vous?
+How many rooms do you have?
+
+Vous déjeunez avec votre famille à une heure?
+Do you have lunch with your family at one o'clock?
+
+Où est-ce que vous allez déjeuner?
+Where are you going to have lunch?
+
+À quelle heure est-ce que la classe commence?
+What time does the class start?
+
+À quelle heure est-ce que vous êtes libre?
+What time are you available?
+
+Est-ce que vous avez la monnaie pour vingt euros?
+Do you have change for twenty euros?
+
+Est-ce que vous avez plusieurs sœurs?
+Do you have several sisters?
+
+Est-ce que vous avez plusieurs frères?
+Do you have several brothers?
+
+À quelle heure est-ce qu'on va déjeuner?
+What time are we going to lunch?
+
+Est-ce que vous allez au restaurant?
+Do you go to the restaurant?
+
+Est-ce que vous allez changer de chambre?
+Are you going to change rooms?
+
+Pourquoi est-ce que vous allez changer de chambre?
+Why are you going to change rooms?
+
+Demandez s'il a des amis ici. Vous avez des amis ici?
+Ask if he has any friends here. Do you have any friends here?
+
+J'ai plusieurs amis.
+I have several friends.
+
+J'ai un ami français.
+I have a French friend.
+
+Mon ami est en vacances.
+My friend is on vacation.
+
+Vous avez une fiche?
+Do you have a card?
+
+Vous allez remplir la fiche?
+Are you going to fill out the form?
+
+Vous êtes seul?
+Are you alone?
+
+Vous êtes à l'hôtel?
+Are you at the hotel?
+
+Vous êtes libre le soir?
+Are you free in the evening?
+
+Ma chambre est petite mais très jolie.
+My room is small but very nice.
+
+Elle me convient tout à fait.
+She's fine with me.
+
+Ma famille n'est pas ici.
+My family is not here.
+
+Où est-ce que vous allez déjeuner?
+Where are you going to have lunch?
+
+La femme de chambre est très jolie
+The maid is very pretty.
+
+Je vais déjeuner à une heure et quart.
+I'm going to lunch at 1:15.
+
+Comment allez-vous?
+How are you doing? How are you?
+
+Je vais dans ma chambre.
+I'm going to my room.
+
+Ma chambre est au premier étage.
+My room is on the first floor.
+
+Avez-vous la chambre douze?
+Do you have room twelve?
+
+Je n'ai pas la monnaie pour vingt euros.
+I don't have change for twenty euros.
+
+Nous avons une jolie chambre au premier étage.
+We have a nice room on the first floor.
+
+Je voudrais une jolie chambre au premier étage.
+I would like a nice room on the first floor.
+
+Ils ont une jolie chambre au premier étage.
+They have a nice room on the first floor.
+
+Voici une jolie chambre au premier étage.
+This is a nice room on the first floor.
+
+Vous avez une jolie chambre au premier étage.
+You have a nice room on the first floor.
+
+Il y a une jolie chambre au premier étage.
+There's a nice room on the first floor.
+
+C'est une jolie chambre au premier étage.
+It's a nice room on the first floor.
+
+Est-ce qu'il a la monnaie pour cent euros?
+Does he have change for a hundred euros?
+
+Est-ce qu'ils ont la monnaie pour cent euros?
+Do they have change for a hundred euros?
+
+Est-ce que vous voulez la monnaie pour cent euros?
+Do you want change for a hundred euros?
+
+Est-ce qu'elle a la monnaie pour cent euros?
+Does she have change for a hundred euros?
+
+Est-ce que nous avons la monnaie pour cent euros?
+Do we have change for a hundred euros?
+
+Est-ce qu'elles ont la monnaie pour cent euros?
+Do they have change for a hundred euros?
+
+Est-ce que vous avez la monnaie pour cent euros?
+Do you have change for a hundred euros?
+
+Il en a plusieurs de libres aujourd'hui.
+There are several of them available today.
+
+On en a plusieurs de libres aujourd'hui.
+We have several of them available today.
+
+Ils en ont plusieurs de libres aujourd'hui.
+They have several of them available today.
+
+Elle en a plusieurs de libres aujourd'hui.
+She has several of them available today.
+
+J'en ai plusieurs de libres aujourd'hui.
+I have several of them available today.
+
+Vous en avez plusieurs de libres aujourd'hui.
+You have several of them available today.
+
+Nous en avons plusieurs de libres aujourd'hui.
+We have several of them available today.
+
+Il est à l'hôtel; il a une jolie chambre.
+He's at the hotel; he has a nice room.
+
+Elles sont à l'hôtel; elles ont une jolie chambre.
+They're at the hotel; they have a nice room.
+
+Nous sommes à l'hôtel; nous avons une jolie chambre.
+We're at the hotel; we have a nice room.
+
+Je suis à l'hôtel; j'ai une jolie chambre.
+I'm at the hotel; I have a nice room.
+
+Elle est à l'hôtel; elle a une jolie chambre.
+She's at the hotel; she has a nice room.
+
+Ils sont à l'hôtel; ils ont une jolie chambre.
+They're at the hotel; they have a nice room.
+
+Vous êtes à l'hôtel; vous avez une jolie chambre.
+You're at the hotel; you have a nice room.
+
+Il est à l'hôtel; il a une jolie chambre.
+He's at the hotel; he has a nice room.
+
+Je ne suis pas libre; j'ai plusieurs choses à faire.
+I'm not free; I have several things to do.
+
+Nous ne sommes pas libres; nous avons plusieurs choses à faire.
+We are not free; we have several things to do.
+
+Ils ne sont pas libres; ils ont plusieurs choses à faire.
+They are not free; they have several things to do.
+
+Elle n'est pas libre; elle a plusieurs choses à faire.
+She is not free; she has several things to do.
+
+Vous n'êtes pas libre; vous avez plusieurs choses à faire.
+You are not free; you have several things to do.
+
+Il n'est pas libre; il a plusieurs choses à faire.
+He is not free; he has several things to do.
+
+Ils ne sont pas libres; ils ont plusieurs choses à faire.
+They are not free; they have several things to do.
+
+Je ne suis pas libre; j'ai plusieurs choses à faire.
+I'm not free; I have several things to do.
