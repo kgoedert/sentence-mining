@@ -7134,3 +7134,132 @@ Where are you going to have lunch?
 
 La femme de chambre est très jolie
 The maid is very pretty.
+
+Je vais déjeuner à une heure et quart.
+I'm going to lunch at 1:15.
+
+Comment allez-vous?
+How are you doing? How are you?
+
+Je vais dans ma chambre.
+I'm going to my room.
+
+Ma chambre est au premier étage.
+My room is on the first floor.
+
+Avez-vous la chambre douze?
+Do you have room twelve?
+
+Je n'ai pas la monnaie pour vingt euros.
+I don't have change for twenty euros.
+
+Nous avons une jolie chambre au premier étage.
+We have a nice room on the first floor.
+
+Je voudrais une jolie chambre au premier étage.
+I would like a nice room on the first floor.
+
+Ils ont une jolie chambre au premier étage.
+They have a nice room on the first floor.
+
+Voici une jolie chambre au premier étage.
+This is a nice room on the first floor.
+
+Vous avez une jolie chambre au premier étage.
+You have a nice room on the first floor.
+
+Il y a une jolie chambre au premier étage.
+There's a nice room on the first floor.
+
+C'est une jolie chambre au premier étage.
+It's a nice room on the first floor.
+
+Est-ce qu'il a la monnaie pour cent euros?
+Does he have change for a hundred euros?
+
+Est-ce qu'ils ont la monnaie pour cent euros?
+Do they have change for a hundred euros?
+
+Est-ce que vous voulez la monnaie pour cent euros?
+Do you want change for a hundred euros?
+
+Est-ce qu'elle a la monnaie pour cent euros?
+Does she have change for a hundred euros?
+
+Est-ce que nous avons la monnaie pour cent euros?
+Do we have change for a hundred euros?
+
+Est-ce qu'elles ont la monnaie pour cent euros?
+Do they have change for a hundred euros?
+
+Est-ce que vous avez la monnaie pour cent euros?
+Do you have change for a hundred euros?
+
+Il en a plusieurs de libres aujourd'hui.
+There are several of them available today.
+
+On en a plusieurs de libres aujourd'hui.
+We have several of them available today.
+
+Ils en ont plusieurs de libres aujourd'hui.
+They have several of them available today.
+
+Elle en a plusieurs de libres aujourd'hui.
+She has several of them available today.
+
+J'en ai plusieurs de libres aujourd'hui.
+I have several of them available today.
+
+Vous en avez plusieurs de libres aujourd'hui.
+You have several of them available today.
+
+Nous en avons plusieurs de libres aujourd'hui.
+We have several of them available today.
+
+Il est à l'hôtel; il a une jolie chambre.
+He's at the hotel; he has a nice room.
+
+Elles sont à l'hôtel; elles ont une jolie chambre.
+They're at the hotel; they have a nice room.
+
+Nous sommes à l'hôtel; nous avons une jolie chambre.
+We're at the hotel; we have a nice room.
+
+Je suis à l'hôtel; j'ai une jolie chambre.
+I'm at the hotel; I have a nice room.
+
+Elle est à l'hôtel; elle a une jolie chambre.
+She's at the hotel; she has a nice room.
+
+Ils sont à l'hôtel; ils ont une jolie chambre.
+They're at the hotel; they have a nice room.
+
+Vous êtes à l'hôtel; vous avez une jolie chambre.
+You're at the hotel; you have a nice room.
+
+Il est à l'hôtel; il a une jolie chambre.
+He's at the hotel; he has a nice room.
+
+Je ne suis pas libre; j'ai plusieurs choses à faire.
+I'm not free; I have several things to do.
+
+Nous ne sommes pas libres; nous avons plusieurs choses à faire.
+We are not free; we have several things to do.
+
+Ils ne sont pas libres; ils ont plusieurs choses à faire.
+They are not free; they have several things to do.
+
+Elle n'est pas libre; elle a plusieurs choses à faire.
+She is not free; she has several things to do.
+
+Vous n'êtes pas libre; vous avez plusieurs choses à faire.
+You are not free; you have several things to do.
+
+Il n'est pas libre; il a plusieurs choses à faire.
+He is not free; he has several things to do.
+
+Ils ne sont pas libres; ils ont plusieurs choses à faire.
+They are not free; they have several things to do.
+
+Je ne suis pas libre; j'ai plusieurs choses à faire.
+I'm not free; I have several things to do.
