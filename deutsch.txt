@@ -3106,6 +3106,36 @@
 # Michael findet Nadine süẞ.
 # Michael thinks that Nadine is cute.
 # 
+Ich wurde verhört.
+I was interrogated.
+
+Tom wurde vom FBI verhört.
+Tom was questioned by the FBI.
+
+Er weiß, wie man Leute verhört.
+He knows how to interrogate people.
+
+Das Ehepaar unterhält sich.
+The couple is talking.
+
+Wir haben uns unterhalten.
+We talked.
+
+Ich unterhalte mich gern.
+I like talking.
+
+Er ist der leibhaftige Teufel.
+He is the devil incarnate.
+
+Lass es mich anders ausdrücken.
+Let me put it in another way.
+
+So kann man es ausdrücken.
+So you can express it.
+
+Tom kann sich gut ausdrücken.
+Tom is well-spoken.
+
 Vereinbare was du magst.
 Make any arrangements you like.
 
