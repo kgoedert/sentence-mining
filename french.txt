@@ -3670,12 +3670,6 @@
 # je veux des pommes
 # I want apples
 # 
-# I need shoes
-# j’ai besoin de chaussures.
-# 
-# I want shoes
-# je veux des chaussures.
-# 
 # J’ai acheté des pantalons
 # I bought some trousers
 # 
@@ -7263,3 +7257,6 @@ They are not free; they have several things to do.
 
 Je ne suis pas libre; j'ai plusieurs choses à faire.
 I'm not free; I have several things to do.
+
+je veux des chaussures
+I want shoes
