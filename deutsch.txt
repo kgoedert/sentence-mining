@@ -9829,5 +9829,77 @@ I see the mouse. There is the mouse.
 Ich sehe den Dieb. Da ist der Dieb
 I see the thief. There is the thief
 
+Wo liegt mein Buch? Ihr Buch liegt da.
+Where's my book? Your book is there.
 
+Wo steht mein Glas? Ihr Glas steht da.
+Where is my glass? Your glass is there.
 
+Wo ist der Bahnhof? Der Bahnhof ist da.
+Where is the train station? The station is there.
+
+Wo liegt meine Katze? Ihre Katze liegt da.
+Where is my cat? Your cat is lying there.
+
+Wo steht mein Wein? Ihr Wein steht da.
+Where is my wine? Your wine is there.
+
+Wo ist die Taxi-Haltestelle? Die Taxi-Haltestelle ist da.
+Where is the taxi stop? The taxi stop is there.
+
+Wo liegt meine Brieftasche? Ihre Brieftasche liegt da.
+Where is my wallet? Your wallet is there.
+
+Wo steht mein Auto? Ihr Auto steht da.
+Where is my car? Your car is there.
+
+Wo liegt mein Bleistift? Ihr Bleistift liegt da.
+Where is my pencil? Your pencil is there.
+
+Richard versteht den Satz.
+Richard understands the sentence.
+
+Richard versteht die Lehrerin.
+Richard understands the teacher.
+
+Richard versteht das Wort.
+Richard understands the word.
+
+Richard versteht den Lehrer.
+Richard understands the teacher.
+
+Richard versteht die Sprache.
+Richard understands the language.
+
+Richard versteht deutsch.
+Richard understands German.
+
+Richard versteht die Regel.
+Richard understands the rule.
+
+Richard versteht englisch.
+Richard understands English.
+
+Richard versteht das Schild.
+Richard understands the sign.
+
+Richard versteht griechisch.
+Richard understands Greek.
+
+Richard versteht den Hund.
+Richard understands the dog.
+
+Richard versteht französisch.
+Richard understands French.
+
+Richard versteht die Katze.
+Richard understands the cat.
+
+Richard versteht italienisch.
+Richard understands Italian.
+
+Richard versteht das Buch.
+Richard understands the book.
+
+Richard versteht spanisch.
+Richard understands Spanish.
