@@ -9903,3 +9903,156 @@ Richard understands the book.
 
 Richard versteht spanisch.
 Richard understands Spanish.
+
+Das Geld gehört ihrem Bruder.
+The money belongs to her brother.
+
+Das Geld gehört ihrer Oma.
+The money belongs to her grandmother.
+
+Das Geld gehört ihren Freunden.
+The money belongs to her friends.
+
+Das Geld gehört ihrem Vater.
+The money belongs to her father.
+
+Das Geld gehört ihren Eltern.
+The money belongs to her parents.
+
+Das Geld gehört ihrer Schwester.
+The money belongs to her sister.
+
+Das Geld gehört ihrem Opa.
+The money belongs to her grandfather.
+
+Das Geld gehört ihrer Tante.
+The money belongs to her aunt.
+
+Das Geld gehört ihren Großeltern.
+The money belongs to her grandparents.
+
+Das Geld gehört ihrem Freund.
+The money belongs to her boyfriend.
+
+Das Geld gehört ihrer Kollegin.
+The money belongs to her colleague.
+
+Das Geld gehört ihren Kindern.
+The money belongs to her children.
+
+Hier ist das Buch seines Vaters.
+Here is his father's book.
+
+Hier ist das Buch seiner Oma.
+Here is his grandmother's book.
+
+Hier ist das Buch seiner Eltern.
+Here is his parents' book.
+
+Hier ist das Buch seines Bruders.
+Here is his brother's book.
+
+Hier ist das Buch seiner Tante.
+Here is his aunt's book.
+
+Hier ist das Buch seines Onkels.
+Here is his uncle's book.
+
+Hier ist das Buch seiner Großeltern.
+Here is the book of his grandparents.
+
+Hier ist das Buch seines Freundes.
+Here is his friend's book.
+
+Hier ist das Buch seiner Schwester.
+Here is his sister's book.
+
+Hier ist das Buch seines Opas.
+Here is his grandfather's book.
+
+Hier ist das Buch seiner Freundin.
+Here is his girlfriend's book.
+
+Ich verstehe den Text nicht.
+I don't understand the text.
+
+Ich verstehe das Wort nicht.
+I do not understand the word.
+
+Ich verstehe den Satz nicht
+I do not understand the sentence.
+
+Ich verstehe Frau Müller nicht.
+I don't understand Mrs. Müller.
+
+Ich verstehe die Regel nicht.
+I do not understand the rule.
+
+Ich verstehe das Schild nicht.
+I do not understand the sign.
+
+Ich verstehe die Großeltern nicht.
+I do not understand the grandparents.
+
+Ich verstehe den Absatz nicht.
+I do not understand the paragraph.
+
+Ich verstehe Herrn Kunz nicht.
+I do not understand Mr Kunz.
+
+Ich verstehe die Kinder nicht.
+I do not understand the children.
+
+Ich verstehe den Chef nicht.
+I do not understand the boss.
+
+Ich wünsche Ihnen einen schönen Tag.
+Have a nice day.
+
+Ich wünsche Ihnen eine schöne Woche.
+I wish you a nice week.
+
+Ich wünsche Ihnen einen schönen Urlaub.
+I wish you a nice holiday.
+
+Ich wünsche Ihnen ein schönes Frühstück.
+I wish you a nice breakfast.
+
+Ich wünsche Ihnen einen schönen Abend.
+I wish you a nice evening.
+
+Ich wünsche Ihnen eine schöne Fahrt.
+I wish you a nice journey.
+
+Ich wünsche Ihnen einen schönen Feiertag.
+I wish you a nice holiday.
+
+Ich wünsche Ihnen ein schönes Essen.
+I wish you a nice meal.
+
+Ich wünsche Ihnen einen schönen Geburtstag
+I wish you a nice birthday.
+
+Kommen Sie, ich kaufe Ihnen einen Wein.
+Come on, I'll buy you some wine.
+
+Kommen Sie, ich kaufe Ihnen ein Bier.
+Come on, I'll buy you a beer.
+
+Kommen Sie, ich kaufe Ihnen einen Hamburger.
+Come on, I'll buy you a hamburger.
+
+Kommen Sie, ich kaufe Ihnen ein Steak.
+Come on, I'll buy you a steak.
+
+Kommen Sie, ich kaufe Ihnen eine Wurst.
+Come on, I'll buy you a sausage.
+
+Kommen Sie, ich kaufe Ihnen ein Sandwich.
+Come on, I'll buy you a sandwich.
+
+Kommen Sie, ich kaufe Ihnen einen Orangensaft.
+Come on, I'll buy you an orange juice.
+
+Kommen Sie, ich kaufe Ihnen ein Eis.
+Come on, I'll buy you an ice cream.
