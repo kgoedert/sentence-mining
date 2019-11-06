@@ -10056,3 +10056,96 @@ Come on, I'll buy you an orange juice.
 
 Kommen Sie, ich kaufe Ihnen ein Eis.
 Come on, I'll buy you an ice cream.
+
+Ich sehe die graue Maus. Da ist die graue Maus.
+I see the gray mouse. There is the gray mouse.
+
+Ich sehe das weiße Haus. Da ist das weiße Haus.
+I see the white house. There is the white house.
+
+Ich sehe den schwarzen Hund. Da ist der schwarze Hund.
+I see the black dog. There is the black dog.
+
+Ich sehe die braune Katze. Da ist die braune Katze.
+I see the brown cat. There is the brown cat.
+
+Ich sehe das schwarze Pferd. Da ist das schwarze Pferd.
+I see the black horse. There is the black horse.
+
+Ich sehe den großen Schlüssel. Da ist der große Schlüssel.
+I see the big key. There is the big key.
+
+Ich sehe die schöne Frau. Da ist die schöne Frau.
+I see the beautiful woman. There is the beautiful woman.
+
+Ich sehe den schnellen Zug. Da ist der schnelle Zug.
+I see the fast train. There is the fast train.
+
+Ich sehe das gelbe Taxi. Da ist das gelbe Taxi.
+I see the yellow taxi. There is the yellow taxi.
+
+Ich sehe den großen Dieb. Da ist der große Dieb.
+I see the big thief. There's the big thief.
+
+Sehen Sie das gelbe Taxi?
+Do you see the yellow taxi?
+
+Sehen Sie den großen Mann?
+Do you see the big man?
+
+Sehen Sie die schöne Frau?
+Do you see the beautiful woman?
+
+Sehen Sie den weißen Hund?
+Do you see the white dog?
+
+Sehen Sie das weiße Haus?
+Do you see the white house?
+
+Sehen Sie die schwarze Katze?
+Do you see the black cat?
+
+Sehen Sie das schnelle Pferd?
+Do you see the fast horse?
+
+Sie die graue Maus?
+Do you see the grey mouse?
+
+Sie die offene Tür?
+Do you see the open door?
+
+Sehen Sie die geschlossene Tür?
+Do you see the closed door?
+
+Sehen Sie den freien Tisch?
+Do you see the free table?
+
+Sehen Sie den freien Platz?
+Do you see the free place?
+
+Sie möchte eine gelbe Bluse haben.
+She wants a yellow blouse.
+
+Sie möchte eine kleine Wohnung haben.
+She wants to have a small apartment.
+
+Sie möchte ein schnelles Auto haben.
+She wants a fast car.
+
+Sie möchte einen reichen Mann haben.
+She wants to have a rich man.
+
+Sie möchte eine gute Arbeit haben.
+She wants a good job.
+
+Sie möchte ein braunes Pferd haben.
+She wants a brown horse.
+
+Sie möchte einen schönen Urlaub haben.
+She wants to have a nice holiday.
+
+Sie möchte eine schöne Zeit haben.
+She wants to have a good time.
+
+Sie möchte ein kaltes Wasser haben
+She wants to have cold water.
