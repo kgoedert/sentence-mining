@@ -10149,3 +10149,129 @@ She wants to have a good time.
 
 Sie möchte ein kaltes Wasser haben
 She wants to have cold water.
+
+Die Katze gehört dem älteren Opa.
+The cat belongs to the older grandpa.
+
+Die Katze gehört der älteren Kollegin.
+The cat belongs to the older colleague.
+
+Die Katze gehört dem älteren Bruder.
+The cat belongs to the older brother.
+
+Die Katze gehört den älteren Kindern.
+The cat belongs to the older children.
+
+Die Katze gehört der älteren Oma.
+The cat belongs to the older grandma.
+
+Die Katze gehört dem älteren Freund.
+The cat belongs to the older friend.
+
+Die Katze gehört den älteren Großeltern.
+The cat belongs to the older grandparents.
+
+Die Katze gehört dem älteren Vater.
+The cat belongs to the older father.
+
+Die Katze gehört der älteren Schwester.
+The cat belongs to the older sister.
+
+Die Katze gehört den älteren Freunden.
+The cat belongs to the older friends.
+
+Die Katze gehört der älteren Tante.
+The cat belongs to the older aunt.
+
+Wie viel kostet ein großer Apfel?
+How much does a big apple cost?
+
+Wie viel kostet ein großes Steak?
+How much does a large steak cost?
+
+Wie viel kostet ein großer Berliner?
+How much does a big Berliner cost?
+
+Wie viel kostet eine große Pampelmuse?
+How much does a large grapefruit cost?
+
+Wie viel kostet ein großer Hamburger?
+How much does a large hamburger cost?
+
+Wie viel kostet ein großes Auto?
+How much does a large car cost?
+
+Wie viel kostet eine große Torte?
+How much does a large cake cost?
+
+Wie viel kostet ein großer Salat?
+How much does a large salad cost?
+
+Wie viel kostet ein großes Haus?
+How much does a large house cost?
+
+Wie viel kostet eine große Praline?
+How much does a large praline cost?
+
+Das Pferd gehört meinem anderen Freund.
+The horse belongs to my other friend.
+
+Das Pferd gehört meiner anderen Tante.
+The horse belongs to my other aunt.
+
+Das Pferd gehört meinem anderen Bruder.
+The horse belongs to my other brother.
+
+Das Pferd gehört meiner anderen Oma.
+The horse belongs to my other grandma.
+
+Das Pferd gehört meinen anderen Freunden.
+The horse belongs to my other friends.
+
+Das Pferd gehört meinem anderen Kollegen.
+The horse belongs to my other colleague.
+
+Das Pferd gehört meinen anderen Kindern.
+The horse belongs to my other children.
+
+Das Pferd gehört meiner anderen Schwester.
+The horse belongs to my other sister.
+
+Das Pferd gehört meinem anderen Opa.
+The horse belongs to my other grandpa.
+
+Das Pferd gehört meinen anderen Großeltern.
+The horse belongs to my other grandparents.
+
+Das Pferd gehört meiner anderen Kollegin.
+The horse belongs to my other colleague.
+
+Da ist die graue Maus. Ich sehe die graue Maus.
+There is the grey mouse. I see the grey mouse.
+
+Da ist der große Schlüssel. Ich sehe den großen Schlüssel.
+There is the big key. I see the big key.
+
+Da ist das schnelle Pferd. Ich sehe das schnelle Pferd.
+There is the fast horse. I see the fast horse.
+
+Da ist die schöne Frau. Ich sehe die schöne Frau.
+There is the beautiful woman. I see the beautiful woman.
+
+Da ist das kleine Haus. Ich sehe das kleine Haus.
+There is the little house. I see the little house.
+
+Da ist der große Dieb. Ich sehe den großen Dieb.
+There is the big thief. I see the big thief.
+
+Da ist das gelbe Taxi. Ich sehe das gelbe Taxi.
+There is the yellow taxi. I see the yellow taxi.
+
+Da ist der lange Zug. Ich sehe den langen Zug.
+There is the long train. I see the long train.
+
+Da ist die schlafende Katze. Ich sehe die schlafende Katze.
+There is the sleeping cat. I see the sleeping cat.
+
+Da ist der schlafende Hund. Ich sehe den schlafenden Hund.
+There is the sleeping dog. I see the sleeping dog.
