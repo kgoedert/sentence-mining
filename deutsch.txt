@@ -10275,3 +10275,60 @@ There is the sleeping cat. I see the sleeping cat.
 
 Da ist der schlafende Hund. Ich sehe den schlafenden Hund.
 There is the sleeping dog. I see the sleeping dog.
+
+Ich komme bald.
+I'll be there soon.
+
+Markus kommt bald.
+Markus is coming soon.
+
+Wir kommen bald.
+We will come soon.
+
+Sophie kommt bald.
+Sophie is coming soon.
+
+Sie kommen bald.
+They will come soon.
+
+Markus & Sophie kommen bald.
+Markus & Sophie are coming soon.
+
+Ihr kommt bald.
+You are coming soon.
+
+Ich komme bald.
+I will come soon.
+
+Johannes spricht gut deutsch.
+Johannes speaks good German.
+
+Johannes spricht kein deutsch.
+Johannes does not speak German.
+
+Ich spreche kein deutsch.
+I don't speak German.
+
+Ich spreche sehr gut deutsch.
+I speak German very well.
+
+Susanna und Christoph sprechen sehr gut deutsch.
+Susanna and Christoph speak German very well.
+
+Susanna und Christoph sprechen perfekt deutsch.
+Susanna and Christoph speak perfect German.
+
+Ihr sprecht perfekt deutsch.
+You speak perfect German.
+
+Ihr sprecht ein bisschen deutsch.
+You speak a little German.
+
+Wir sprechen ein bisschen deutsch.
+We speak a little German.
+
+Wir sprechen schon deutsch.
+We already speak German.
+
+Sie sprechen schon deutsch.
+You already speak German.
