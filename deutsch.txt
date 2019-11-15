@@ -3250,8 +3250,18 @@ He'll rip my head off.
 Sie hat ihn angeblich umgebracht.
 She allegedly killed him.
 
-Er ist angeblich sehr reich.            <--- leech
+Er ist angeblich sehr reich.           
 They say he's very rich.
+
+Dennoch bist du ein Mensch.
+Even so, you are a human.
+
+Eine Lösung gibt es dennoch.
+There is a solution though.
+
+Dennoch bin ich unwahrscheinlich stolz.     <---- leech
+Nevertheless, I'm extremely proud.
+
 
 Ich wurde verhört.
 I was interrogated.
