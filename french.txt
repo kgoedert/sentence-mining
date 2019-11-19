@@ -7332,3 +7332,51 @@ Are the rooms pretty? Yes, they're pretty.
 
 Avez-vous une jolie chambre? Oui, j'ai une jolie chambre.
 Do you have a nice room? Yes, I have a nice room.
+
+Vous avez la monnaie pour dix euros?
+Can you get change for ten euros?
+
+Il a la monnaie pour dix euros?
+Does he have change for ten euros?
+
+Ils ont la monnaie pour dix euros?
+Do they have change for ten euros?
+
+Vous voulez la monnaie pour dix euros?
+Do you want change for ten euros?
+
+Elle a la monnaie pour dix euros?
+Does she have change for ten euros?
+
+Nous avons la monnaie pour dix euros?
+We have change for ten euros?
+
+Elles ont la monnaie pour dix euros?
+Can they get change for ten euros?
+
+Vous avez la monnaie pour dix euros?
+Can you get change for ten euros?
+
+Vous voulez des livres à cent euros?
+Do you want books for a hundred euros?
+
+Elles ont des livres à cent euros?
+Do they have books for a hundred euros?
+
+Il a des livres à cent euros?
+Does he have books for a hundred euros?
+
+Vous avez des livres à cent euros?
+Do you have books for a hundred euros?
+
+Nous avons des livres à cent euros?
+We have books at a hundred euros?
+
+Elle a des livres à cent euros?
+Does she have books for a hundred euros?
+
+Ils ont des livres à cent euros?
+Do they have books for a hundred euros?
+
+Vous voulez des livres à cent euros?
+Do you want books for a hundred euros?
