@@ -3700,9 +3700,6 @@
 # je veux plus de pommes.
 # I want more apples
 # 
-# nous avons eu peu de soleil (soleil is masculine)
-# We had little sunshine
-# 
 # beaucoup d’enfants sont venus
 # Many children came
 # 
@@ -7476,3 +7473,6 @@ Who's he coming with?
 
 Mais le restaurant n'est pas ici.
 But the restaurant is not here.
+
+nous avons eu peu de soleil
+We had little sunshine
