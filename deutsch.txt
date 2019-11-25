@@ -4907,8 +4907,38 @@ Are you sending the e-mail to the boss?
 Bringen Sie mir die Unterlagen vorbei?
 Are you dropping the documents off at my place?
 
-Wirst du den Praktikanten den Systeme erklären?         <--- jenny
+Wirst du den Praktikanten den Systeme erklären?       
 Will you explain the system to the intern?
+
+Kann sie mir den Vertrag schicken?
+Can she send me the contract?
+
+Wann geben Sie mir das Buch zurück?
+When are you giving the book back to me?
+
+Wer hat dem Kunden den Vertrag geschickt?
+Who sent the contract to the client?
+
+Ich shicke dem Chef eine E-mail. Ich schicke ihm eine E-mail. Ich schicke sie dem Chef. Ich shicke sie ihm.
+I am sending an email to the boss. I am sending him an email. I am sending it to the boss. I am sending it to him.
+
+Er gibt seinen Kindern die Bücher. Er gibt ihnen die Bücher. Er gibt sie seinen Kindern. Er gibt sie ihnen.
+He gives the books to his kids. He gives the books to them. He gives them to his kids. He gives them to them.
+
+Er zeigt der Frau das Auto. Er zeigt ihr das Auto. Er zeigt es der Frau. Er zeigt es ihr.
+He shows the car to the woman. He shows the car to her. He shows it to the woman. He shows it to her.
+
+Könntest du mir einen Gefallen tun?
+Could you do me a favor?
+
+Könnten Sie mir bitte einen Gefallen tun?
+Could you please do me a favor?
+
+Kannst du mir ein gutes Restaurant empfehlen?
+Could you recommend a good restaurant to me?
+
+Könntest du mir etwas Geld leihen?                      <<<---- jenny
+Could you lend me some money?
 
 Zisch ab, du Idiot!
 Buzz off, you idiot!
