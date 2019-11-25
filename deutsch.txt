@@ -10489,3 +10489,153 @@ We already speak German.
 
 Sie sprechen schon deutsch.
 You already speak German.
+
+Hans trinkt gerne Wein
+Hans likes to drink wine
+
+Hans und Franz trinken gerne Wein.
+Hans and Franz like to drink wine.
+
+Hans und Franz trinken gerne Limonade.
+Hans and Franz like to drink lemonade.
+
+Ihr trinkt gerne Limonade.
+You like lemonade.
+
+Ihr trinkt gerne Wasser.
+You like to drink water.
+
+Sie trinken gerne Wasser.
+You like to drink water.
+
+Sie trinken gerne Bier.
+They like to drink beer.
+
+Suse trinkt gerne Bier.
+Suse likes to drink beer.
+
+Suse trinkt gerne Weißwein.
+Suse likes to drink white wine.
+
+Ich trinke gerne Weißwein.
+I like to drink white wine.
+
+Ich trinke gerne Rotwein.
+I like to drink red wine.
+
+Kochen Sie Kartoffeln?
+Do you cook potatoes?
+
+Kochen Sie Nudeln?
+Do you cook pasta?
+
+Kocht Markus Nudeln?
+Does Markus cook noodles?
+
+Kocht Markus Eier?
+Does Markus boil eggs?
+
+Kochen Markus und Katharina Eier?
+Do Markus and Katharina cook eggs?
+
+Kochen Markus und Katharina Wasser?
+Do Markus and Katharina boil water?
+
+Kocht ihr Wasser?
+Do you boil water?
+
+Kocht ihr Kartoffeln?
+Do you boil potatoes?
+
+Meine Schwester und ich fahren nächste Woche.
+My sister and I are leaving next week.
+
+Meine Schwester und ich fahren nächsten Monat.
+My sister and I are going next month.
+
+Der Chef fährt nächsten Monat.
+The boss is leaving next month.
+
+Der Chef fährt morgen.
+The boss is leaving tomorrow.
+
+Der Chef und sein Kollege fahren morgen.
+The boss and his colleague are leaving tomorrow.
+
+Der Chef und sein Kollege fahren heute.
+The boss and his colleague are leaving today.
+
+Meine Mutter fährt heute.
+My mother is leaving today.
+
+Meine Mutter fährt heute nicht.
+My mother is not driving today.
+
+Ihr fahrt heute nicht.
+You are not leaving today.
+
+Ihr fahrt morgen nicht.
+You are not leaving tomorrow.
+
+Ich fahre morgen nicht.
+I am not going tomorrow.
+
+Ich fahre nie.
+I never drive.
+
+Unsere Familie isst heute keine Spaghetti, sondern morgen.
+Our family doesn't eat spaghetti today, but tomorrow.
+
+Unsere Familie isst heute keinen Salat, sondern morgen.
+Our family doesn't eat salad today, but tomorrow.
+
+Jan und Birgit essen heute keinen Salat, sondern morgen.
+Jan and Birgit do not eat salad today, but tomorrow.
+
+Jan und Birgit essen heute keine Hamburger, sondern morgen.
+Jan and Birgit don't eat hamburgers today, but tomorrow.
+
+Ihr esst heute keine Hamburger, sondern morgen.
+You are not eating hamburgers today, but tomorrow.
+
+Ihr esst heute keine Eier, sondern morgen.
+You are not eating eggs today, but tomorrow.
+
+Ich esse heute keine Eier, sondern morgen.
+I am not eating eggs today, but tomorrow.
+
+Ich esse heute keine Wurst, sondern morgen.
+I am not eating sausage today, but tomorrow.
+
+Was sehen Sie?
+What do you see?
+
+Was sieht er?
+What does he see?
+
+Was seht ihr?
+What do you see?
+
+Was sehen wir?
+What do we see?
+
+Was sehe ich?
+What do I see?
+
+Was sieht sie? 
+What does she see? 
+
+Hören Sie den Lärm?
+Do you hear the noise?
+
+Hört Markus den Lärm?
+Does Markus hear the noise?
+
+Hört Ihr den Lärm?
+Do you hear the noise?
+
+Hören Sie den Lärm?
+Do you hear the noise?
+
+Hört Mutter den Lärm?
+Does mother hear the noise?
