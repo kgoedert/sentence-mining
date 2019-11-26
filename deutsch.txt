@@ -10669,3 +10669,96 @@ Do you hear the noise?
 
 Hört Mutter den Lärm?
 Does mother hear the noise?
+
+Meine Mutter und ich danken Ihnen herzlich.
+My mother and I thank you very much.
+
+Katharina dankt Ihnen herzlich.
+Katharina thanks you very much.
+
+Wir danken Ihnen herzlich.
+Thank you very much.
+
+Ich danke Ihnen herzlich.
+Thank you very much.
+
+Johannes dankt Ihnen herzlich.
+Johannes thanks you warmly.
+
+Mein Bruder und meine Schwester danken Ihnen herzlich.
+My brother and sister thank you very much.
+
+Mein Bruder und ich helfen Ihnen gerne.
+My brother and I will be happy to help you.
+
+Mein Bruder und ich helfen Ihnen nicht.
+My brother and I will not help you.
+
+Meine Schwester hilft Ihnen nicht.
+My sister does not help you.
+
+Meine Schwester hilft Ihnen doch.
+My sister will help you.
+
+Wir helfen Ihnen doch.
+We will help you.
+
+Wir helfen Ihnen viel.
+We help you a lot.
+
+Susanne hilft Ihnen viel
+Susanne helps you a lot
+
+Markus gibt dem Mädchen einen Ball.
+Markus gives the girl a ball.
+
+Markus gibt dem Mädchen ein Spielzeug.
+Markus gives the girl a toy.
+
+Markus gibt dem Jungen ein Spielzeug.
+Markus gives the boy a toy.
+
+Markus und Susanne geben dem Jungen ein Spielzeug.
+Markus and Susanne give the boy a toy.
+
+Markus und Susanne geben dem Jungen eine Katze.
+Markus and Susanne give the boy a cat.
+
+Markus und Susanne geben der Frau eine Katze.
+Markus and Susanne give the woman a cat.
+
+Ihr gebt der Frau eine Katze.
+You give the woman a cat.
+
+Ihr gebt der Frau eine Blume.
+You give the woman a flower.
+
+Sophie sagt überhaupt nichts.
+Sophie says nothing at all.
+
+Sophie sagt gar nichts.
+Sophie says nothing.
+
+Markus und Katharina sagen gar nichts.
+Markus and Katharina say nothing.
+
+Markus und Katharina sagen doch nichts.
+Markus and Katharina say nothing.
+
+Ich sage doch nichts.
+I don't say anything.
+
+Ich sage wohl nichts.
+I probably don't say anything.
+
+Ihr sagt wohl nichts.
+You probably say nothing.
+
+Ihr sagt aber nichts.
+But you say nothing.
+
+Wir sagen aber nichts.
+But we say nothing.
+
+Wir sagen ja nichts.
+We say nothing.
