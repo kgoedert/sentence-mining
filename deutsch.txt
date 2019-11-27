@@ -10762,3 +10762,90 @@ But we say nothing.
 
 Wir sagen ja nichts.
 We say nothing.
+
+Geht Sophie? Ja, Sophie geht
+Is Sophie going? Yes, Sophie goes
+
+Gehen Sie? Ja, ich gehe.
+Are you leaving? Yes, I'm going.
+
+Geht Markus? Ja, Markus geht.
+Is Markus going? Yes, Markus is going.
+
+Gehen wir? Ja, wir gehen.
+Are we going? Yes, we are going.
+
+Geht ihr? Ja, wir gehen.
+Are you going? Yes, we are going.
+
+Gehen die Eltern? Ja, die Eltern gehen.
+Are the parents going? Yes, the parents are going.
+
+Geht Susanne? Ja, Susanne geht.
+Is Susanne going? Yes, Susanne is going.
+
+Gehen Sie? Ja, wir gehen.
+Are you going? Yes, we are going.
+
+Kommt er alleine? Nein, er und seine Schwester kommen zusammen.
+Is he coming alone? No, he and his sister come together.
+
+Fährt Mutter alleine? Nein, Mutter und ihre Schwester fahren zusammen.
+Is mother driving alone? No, mother and her sister go together.
+
+Geht Markus alleine? Nein, Markus und seine Schwester gehen zusammen.
+Does Markus go alone? No, Markus and his sister go together.
+
+Arbeitet Sophie alleine? Nein, Sophie und ihre Schwester arbeiten zusammen.
+Does Sophie work alone? No, Sophie and her sister work together.
+
+Bleibt der Bruder alleine? Nein, der Bruder und seine Schwester bleiben zusammen.
+Does the brother stay alone? No, the brother and his sister stay together.
+
+Kommt Maria alleine? Nein, Maria und ihre Schwester kommen zusammen.
+Is Maria coming alone? No, Maria and her sister come together.
+
+Isst Elmar alleine? Nein, Elmar und seine Schwester essen zusammen.
+Does Elmar eat alone? No, Elmar and his sister eat together.
+
+Gehen Markus und Susanna heute? Nein, nur Markus geht heute.
+Are Markus and Susanna going today? No, only Markus leaves today.
+
+Essen Katharina und Jan heute? Nein, nur Katharina isst heute.
+Are Katharina and Jan eating today? No, only Katharina eats today.
+
+Arbeiten Johannes und Karin heute? Nein, nur Johannes arbeitet heute.
+Are Johannes and Karin working today? No, only Johannes works today.
+
+Kommen Mutter und Vater heute? Nein, nur Mutter kommt heute.
+Are mother and father coming today? No, only mother is coming today.
+
+Fahren Christoph und Birgit heute? Nein, nur Christoph fährt heute.
+Do Christoph and Birgit drive today? No, only Christoph is driving today.
+
+Gehen Sophie und Hans heute? Nein, nur Sophie geht heute.
+Are Sophie and Hans leaving today? No, only Sophie leaves today.
+
+Bleiben Georg und Heidi heute? Nein, nur Georg bleibt heute.
+Will Georg and Heidi stay today? No, only Georg stays today.
+
+Gehen Sie jetzt? Ja, ich gehe jetzt.
+Are you leaving now? Yes, I am leaving now.
+
+Kommen Sie nächste Woche? Ja, ich komme nächste Woche.
+Are you coming next week? Yes, I will come next week.
+
+Arbeiten Sie heute morgen? Ja, ich arbeite heute morgen.
+Are you working this morning? Yes, I'm working this morning.
+
+Fahren Sie heute abend? Ja, ich fahre heute abend.
+Are you going tonight? Yes, I am leaving tonight.
+
+Bleiben Sie die kommende Woche? Ja, ich bleibe die kommende Woche.
+Are you staying next week? Yes, I will stay the coming week.
+
+Essen Sie jetzt? Ja, ich esse jetzt.
+Are you eating now? Yes, I am eating now.
+
+Schreiben Sie einen Brief? Ja, ich schreibe einen Brief?
+Are you writing a letter? Yes, I am writing a letter?
