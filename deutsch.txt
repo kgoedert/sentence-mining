@@ -10849,3 +10849,66 @@ Are you eating now? Yes, I am eating now.
 
 Schreiben Sie einen Brief? Ja, ich schreibe einen Brief?
 Are you writing a letter? Yes, I am writing a letter?
+
+Helfen Sie mir heute? Ja, ich helfe Ihnen heute.
+Will you help me today? Yes, I will help you today.
+
+Schreiben Sie mir einen Brief? Ja, ich schreibe Ihnen einen Brief.
+Will you write me a letter? Yes, I will write you a letter.
+
+Schicken Sie mir das Paket? Ja, ich schicke Ihnen das Paket.
+Will you send me the parcel? Yes, I will send you the package.
+
+Geben Sie mir das Dokument? Ja, ich gebe Ihnen das Dokument.
+Will you give me the document? Yes, I will give you the document.
+
+Schreiben Sie mir eine Notiz? Ja, ich schreibe Ihnen eine Notiz.
+Will you write me a note? Yes, I'll write you a note.
+
+Schicken Sie mir ein Geschenk? Ja, ich schicke Ihnen ein Geschenk.
+Will you send me a gift? Yes, I will send you a gift.
+
+Geben Sie mir noch eine Chance? Ja, ich gebe Ihnen noch eine Chance.
+Will you give me another chance? Yes, I will give you another chance.
+
+Sagen Sie mir, was ist? Ja, ich sage Ihnen, was ist.
+Tell me, what is it? Yes, I'll tell you what is.
+
+Sagen Sie mir, wo die Post ist? Ja, ich sage Ihnen, wo die Post ist.
+Tell me where the mail is? Yes, I'll tell you where the mail is.
+
+Sagen Sie mir, wann Karin kommt? Ja, ich sage Ihnen, wann Karin kommt.
+Will you tell me when Karin is coming? Yes, I'll tell you when Karin is coming.
+
+Sagen Sie mir, was Markus meint? Ja, ich sage Ihnen, was Markus meint.
+Tell me what Markus means? Yes, I will tell you what Markus means.
+
+Sagen Sie mir, wo Sophie ist? Ja, ich sage Ihnen, wo Sophie ist.
+Tell me where Sophie is? Yes, I will tell you where Sophie is.
+
+Sagen Sie mir, was Elmar macht? Ja, ich sage Ihnen, was Elmar macht.
+Tell me what Elmar is doing? Yes, I will tell you what Elmar does.
+
+Sagen Sie mir, wann Suse fertig ist? Ja, ich sage Ihnen, wann Suse fertig ist.
+Will you tell me when Suse is finished? Yes, I'll tell you when Suse is finished.
+
+Erklären Sie mir, wo die Post ist? Ja, ich erkläre Ihnen, wo die Post ist.
+Will you tell me where the mail is? Yes, I'll tell you where the mail is.
+
+Sagen Sie mir, was ich tun soll? Ja, ich sage Ihnen, was Sie tun sollen.
+Will you tell me what to do? Yes, I'll tell you what to do.
+
+Erklären Sie mir, wie ich dahin komme? Ja, ich erkläre Ihnen, wie Sie dahin kommen.
+Will you tell me how to get there? Yes, I'll tell you how to get there.
+
+Sagen Sie mir, wann ich ankomme? Ja, ich sage Ihnen, wann Sie ankommen.
+Will you tell me when I will arrive? Yes, I will tell you when you will arrive.
+
+Erklären Sie mir, wie ich das Restaurant finde? Ja, ich erkläre Ihnen, wie Sie das Restaurant finden.
+Will you tell me how to find the restaurant? Yes, I'll tell you how to find the restaurant.
+
+Sagen Sie mir, warum ich das machen soll? Ja, ich sage Ihnen, warum Sie das machen sollen.
+Tell me why I should do that? Yes, I'll tell you why you should do it.
+
+Erklären Sie mir, wie ich das tun soll? Ja, ich erkläre Ihnen, wie Sie das tun sollen.
+Are you telling me how to do that? Yes, I'll tell you how to do that.
