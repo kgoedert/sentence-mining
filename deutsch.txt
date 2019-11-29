@@ -10912,3 +10912,54 @@ Tell me why I should do that? Yes, I'll tell you why you should do it.
 
 Erklären Sie mir, wie ich das tun soll? Ja, ich erkläre Ihnen, wie Sie das tun sollen.
 Are you telling me how to do that? Yes, I'll tell you how to do that.
+
+Wir erklären ihm, was er machen soll.
+We'll tell him what to do.
+
+Wir erklären ihm, wo seine Frau ist.
+We explain to him where his wife is.
+
+Wir erklären ihm, was er sagen soll.
+We explain to him what he should say.
+
+Wir erklären ihm, wo die Post ist.
+We explain to him where the mail is.
+
+Wir erklären ihm, was zu tun ist.
+We explain to him what to do.
+
+Wir erklären ihm, wo der Hund schläft.
+We explain to him where the dog sleeps.
+
+Wir erklären ihm, was wir wollen.
+We explain to him what we want.
+
+Wir erklären ihm, wo das Problem liegt
+We explain to him where the problem lies.
+
+Markus zeigt ihr, wo der Bleistift liegt.
+Markus shows her where the pencil is.
+
+Markus zeigt ihr, was sie tun soll.
+Mark shows her what to do.
+
+Markus zeigt ihr, wie sie es machen soll.
+Mark shows her how to do it.
+
+Markus zeigt ihr, wo ihr Büro ist.
+Markus shows her where her office is.
+
+Markus zeigt ihr, was er tut.
+Markus shows her what he is doing.
+
+Markus zeigt ihr, wie sie es sagen soll.
+Markus shows her how to say it.
+
+Markus zeigt ihr, wo die S-Bahn ist.
+Markus shows her where the S-Bahn is.
+
+Markus zeigt ihr, was los ist.
+Markus shows her what's going on.
+
+Markus zeigt ihr, wie sie arbeiten soll.
+Markus shows her how to work.
