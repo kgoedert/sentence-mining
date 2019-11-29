@@ -4937,8 +4937,26 @@ Could you please do me a favor?
 Kannst du mir ein gutes Restaurant empfehlen?
 Could you recommend a good restaurant to me?
 
-Könntest du mir etwas Geld leihen?                      <<<---- jenny
+Könntest du mir etwas Geld leihen?                     
 Could you lend me some money?
+
+Soll ich dir meine Urlaubsfotos zeigen?
+Should I show you my vacation photos?
+
+Kannst du mir ein Bier bringen?
+Can you get me a beer?
+
+Kannst du mir win Glas Wein bringen?
+Can you get a glass of wine?
+
+Kannst du mir einen Kaffee bringen?
+Can you bring me a coffee?
+
+Warum hast du mir das nicht gesagt?
+Why didn't you tell me that?
+
+Ich wünsche die alles Gut zum Geburtstag.
+I wish you all the best for your birthday.
 
 Zisch ab, du Idiot!
 Buzz off, you idiot!
