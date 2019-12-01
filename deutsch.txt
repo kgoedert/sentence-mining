@@ -3099,189 +3099,252 @@
 # 
 # Ich finde, dass das entsetzlich klingt.
 # I think that sounds appalling.
+# # 
+# # Mirko findet das seltsam.
+# # Mirko thinks that is strange.
+# # 
+# # Michael findet Nadine süẞ.
+# # Michael thinks that Nadine is cute.
+# # 
+# Demokratie ist die Diktatur der Mehrheit.
+# Democracy is the dictatorship of the majority.
 # 
-# Mirko findet das seltsam.
-# Mirko thinks that is strange.
+# Die Mehrheit der Engländer ist konservativ.
+# Most Englishmen are conservative.
 # 
-# Michael findet Nadine süẞ.
-# Michael thinks that Nadine is cute.
+# Die Mehrheit der Menschen mögen Huhn.
+# Most people like chicken.
 # 
-Demokratie ist die Diktatur der Mehrheit.
-Democracy is the dictatorship of the majority.
+# Da ist die Klingel.
+# There's the bell.
+# 
+# Hast du die Klingel gehört?
+# Did you hear the bell?
+# 
+# Ich füllte den Kübel mit Wasser.
+# I filled the pail with water.
+# 
+# Der Kübel hat ein Loch im Boden.
+# There's a hole in the bottom of the bucket.
+# 
+# Ihr könnt es irgendwohin abstellen.
+# You can put it anywhere.
+# 
+# Wo kann ich mein Gepäck abstellen?
+# Where can I put my luggage?
+# 
+# Darf ich hier mein Auto abstellen?
+# Can I park here?
+# 
+# Der Ausschuss hat zehn Mitglieder.
+# The committee has ten members.
+# 
+# Der Ausschuss nahm den Plan an.
+# The committee adopted the plan.
+# 
+# Der Ausschuss tagt zweimal im Monat.
+# The committee meets twice a month.
+# 
+# Bitte streichen Sie unseren Auftrag.
+# Please cancel our order.
+# 
+# Der Auftrag kam gerade telefonisch herein.
+# This order has just come in over the phone.
+# 
+# Die Firma konnte meinen Auftrag nicht ausführen.
+# The company couldn't fill my order.
+# 
+# Wir hörten ein Geräusch.
+# We heard a noise.
+# 
+# Das Geräusch kenne ich.
+# I know that sound.
+# 
+# Ich höre keine Geräusche.
+# I didn't hear any sounds.
+# 
+# Es hat keinen Zweck.
+# It's pointless.
+# 
+# Es dient unserem Zweck.
+# It serves our purpose.
+# 
+# Was ist ihr Zweck?
+# What's their purpose?
+# 
+# Tom sieht bleich aus.
+# Tom looks pale.
+# 
+# Sein Gesicht wurde bleich.
+# His face turned pale.
+# 
+# Sie sieht immer bleich aus.
+# She always looks pale.
+# 
+# Es ist beleidigend.
+# This is offensive.
+# 
+# Beleidige mich nicht!
+# Don't insult me.
+# 
+# Tom ist beleidigend.
+# Tom is offensive.
+# 
+# Lernt diese Namen auswendig.
+# Learn these names by heart.
+# 
+# Lerne dieses Gedicht auswendig.
+# Commit this poem to memory.
+# 
+# Sag es bitte auswendig.
+# Please say it by heart.
+# 
+# Er isst ausschließlich Obst.
+# He eats nothing but fruit.
+# 
+# Ich lerne ausschließlich in der Bibliothek.
+# I only study in the library.
+# 
+# Wie kannst du das aushalten?
+# How can you stand it?
+# 
+# Kannst du den Krach aushalten?
+# Can you put up with the noise?
+# 
+# Ich konnte es nicht aushalten.
+# I couldn't stand it.
+# 
+# Wann schließen Sie?
+# When do you close?
+# 
+# Nicht die Augen schließen!
+# Don't close your eyes.
+# 
+# Wir schließen den Laden.
+# We are closing the store.
+# 
+# Tom war aufdringlich.
+# Tom was pushy.
+# 
+# Ich möchte nicht aufdringlich erscheinen.
+# I don't want to seem pushy.
+# 
+# Ich hoffe, ich wirke nicht aufdringlich.
+# I hope I'm not intruding.
+# 
+# Tom ließ sein Haus weiß anstreichen.
+# Tom had his house painted white.
+# 
+# An deiner Stelle würde ich es blau anstreichen.
+# If I were you, I would paint it blue.
+# 
+# Tom ist ziemlich angeberisch.
+# Tom is fairly pretentious.
+# 
+# Wir müssen dieses Haus abreißen.
+# We must tear down this house.
+# 
+# Er wird mir den Kopf abreißen.
+# He'll rip my head off.
+# 
+# Sie hat ihn angeblich umgebracht.
+# She allegedly killed him.
+# 
+# Er ist angeblich sehr reich.           
+# They say he's very rich.
+# 
+# Dennoch bist du ein Mensch.
+# Even so, you are a human.
+# 
+# Eine Lösung gibt es dennoch.
+# There is a solution though.
+# 
+# Dennoch bin ich unwahrscheinlich stolz.
+# Nevertheless, I'm extremely proud.
+# 
+# Tom schrie sich heiser.
+# Tom shouted himself hoarse.
+# 
+# Ich bin ein wenig heiser.
+# I'm a bit hoarse.
+# 
+# Warum ist Tom heute heiser?
+# Why is Tom hoarse today?
+# 
+# Ich kann vor lauter Rauschen nichts verstehen.
+# I can't hear anything because of the noise.
+# 
+# Aussehen ist alles.
+# Looks are everything.
+# 
+# Dein Aussehen gefällt mir.
+# I like the way you look.
+# 
+# Das Aussehen ist wichtig.          
+# Looks are important.
+# 
+# Nicht jeder ist verlogen.
+# Not everyone is dishonest.
+# 
+# Was für ein verlogener Kerl!
+# What a dishonest fellow!
+# 
+# Sogar Tom grinste.
+# Even Tom grinned.
+# 
+# Ich arbeite sogar sonntags.
+# I work even on Sunday.
+# 
+# Sogar wir sind Leute.
+# Even we are people.
+# 
+# Ich freue mich drauf.
+# I'm looking forward to it.
+# 
+# Ich freue mich riesig.
+# I'm over the moon.
+# 
+# Tom wird sich freuen.
+# Tom will be happy.
+# 
+# Passt auf; überall lauern Gefahren!
+# Be careful! Danger lurks everywhere!
+# 
+# Glaubst du, wir finden Ersatz für Tom?
+# Do you think we can find someone to replace Tom?
+# 
+# Geld ist kein Ersatz für die Gesundheit.
+# You cannot substitute money for health.
+# 
+# Der Gestank widerte uns an.
+# The bad smell disgusted us.
+# 
+# Ich finde diesen Gestank widerlich.
+# This smell disgusts me.
+# 
+Ich kann diesen Gestank nicht ertragen.
+I can't put up with this smell.
 
-Die Mehrheit der Engländer ist konservativ.
-Most Englishmen are conservative.
+Wir betreten den Klassenraum.
+We enter the classroom.
 
-Die Mehrheit der Menschen mögen Huhn.
-Most people like chicken.
+Er hat das Zimmer betreten.
+He came into the room.
 
-Da ist die Klingel.
-There's the bell.
+Betrete das Zimmer nach mir.
+Come into the room after me.
 
-Hast du die Klingel gehört?
-Did you hear the bell?
+Das ist sehr aufschlussreich.
+This is very telling.
 
-Ich füllte den Kübel mit Wasser.
-I filled the pail with water.
+Tom ist aufschlussreich.
+Tom is insightful.
 
-Der Kübel hat ein Loch im Boden.
-There's a hole in the bottom of the bucket.
+Das war eine aufschlussreiche Erfahrung.
+It was an eye-opening experience.
 
-Ihr könnt es irgendwohin abstellen.
-You can put it anywhere.
-
-Wo kann ich mein Gepäck abstellen?
-Where can I put my luggage?
-
-Darf ich hier mein Auto abstellen?
-Can I park here?
-
-Der Ausschuss hat zehn Mitglieder.
-The committee has ten members.
-
-Der Ausschuss nahm den Plan an.
-The committee adopted the plan.
-
-Der Ausschuss tagt zweimal im Monat.
-The committee meets twice a month.
-
-Bitte streichen Sie unseren Auftrag.
-Please cancel our order.
-
-Der Auftrag kam gerade telefonisch herein.
-This order has just come in over the phone.
-
-Die Firma konnte meinen Auftrag nicht ausführen.
-The company couldn't fill my order.
-
-Wir hörten ein Geräusch.
-We heard a noise.
-
-Das Geräusch kenne ich.
-I know that sound.
-
-Ich höre keine Geräusche.
-I didn't hear any sounds.
-
-Es hat keinen Zweck.
-It's pointless.
-
-Es dient unserem Zweck.
-It serves our purpose.
-
-Was ist ihr Zweck?
-What's their purpose?
-
-Tom sieht bleich aus.
-Tom looks pale.
-
-Sein Gesicht wurde bleich.
-His face turned pale.
-
-Sie sieht immer bleich aus.
-She always looks pale.
-
-Es ist beleidigend.
-This is offensive.
-
-Beleidige mich nicht!
-Don't insult me.
-
-Tom ist beleidigend.
-Tom is offensive.
-
-Lernt diese Namen auswendig.
-Learn these names by heart.
-
-Lerne dieses Gedicht auswendig.
-Commit this poem to memory.
-
-Sag es bitte auswendig.
-Please say it by heart.
-
-Er isst ausschließlich Obst.
-He eats nothing but fruit.
-
-Ich lerne ausschließlich in der Bibliothek.
-I only study in the library.
-
-Wie kannst du das aushalten?
-How can you stand it?
-
-Kannst du den Krach aushalten?
-Can you put up with the noise?
-
-Ich konnte es nicht aushalten.
-I couldn't stand it.
-
-Wann schließen Sie?
-When do you close?
-
-Nicht die Augen schließen!
-Don't close your eyes.
-
-Wir schließen den Laden.
-We are closing the store.
-
-Tom war aufdringlich.
-Tom was pushy.
-
-Ich möchte nicht aufdringlich erscheinen.
-I don't want to seem pushy.
-
-Ich hoffe, ich wirke nicht aufdringlich.
-I hope I'm not intruding.
-
-Tom ließ sein Haus weiß anstreichen.
-Tom had his house painted white.
-
-An deiner Stelle würde ich es blau anstreichen.
-If I were you, I would paint it blue.
-
-Tom ist ziemlich angeberisch.
-Tom is fairly pretentious.
-
-Wir müssen dieses Haus abreißen.
-We must tear down this house.
-
-Er wird mir den Kopf abreißen.
-He'll rip my head off.
-
-Sie hat ihn angeblich umgebracht.
-She allegedly killed him.
-
-Er ist angeblich sehr reich.           
-They say he's very rich.
-
-Dennoch bist du ein Mensch.
-Even so, you are a human.
-
-Eine Lösung gibt es dennoch.
-There is a solution though.
-
-Dennoch bin ich unwahrscheinlich stolz.
-Nevertheless, I'm extremely proud.
-
-Tom schrie sich heiser.
-Tom shouted himself hoarse.
-
-Ich bin ein wenig heiser.
-I'm a bit hoarse.
-
-Warum ist Tom heute heiser?
-Why is Tom hoarse today?
-
-Ich kann vor lauter Rauschen nichts verstehen.
-I can't hear anything because of the noise.
-
-Aussehen ist alles.
-Looks are everything.
-
-Dein Aussehen gefällt mir.
-I like the way you look.
-
-Das Aussehen ist wichtig.           <---- leech
-Looks are important.
+Tom würde hier nicht mehr aufkreuzen.           <<<---- leech
+Tom won't show up here again.
 
 Ich wurde verhört.
 I was interrogated.
