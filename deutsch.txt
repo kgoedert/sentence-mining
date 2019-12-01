@@ -4927,8 +4927,56 @@ Are you sending the e-mail to the boss?
 Bringen Sie mir die Unterlagen vorbei?
 Are you dropping the documents off at my place?
 
-Wirst du den Praktikanten den Systeme erklären?         <--- jenny
+Wirst du den Praktikanten den Systeme erklären?       
 Will you explain the system to the intern?
+
+Kann sie mir den Vertrag schicken?
+Can she send me the contract?
+
+Wann geben Sie mir das Buch zurück?
+When are you giving the book back to me?
+
+Wer hat dem Kunden den Vertrag geschickt?
+Who sent the contract to the client?
+
+Ich shicke dem Chef eine E-mail. Ich schicke ihm eine E-mail. Ich schicke sie dem Chef. Ich shicke sie ihm.
+I am sending an email to the boss. I am sending him an email. I am sending it to the boss. I am sending it to him.
+
+Er gibt seinen Kindern die Bücher. Er gibt ihnen die Bücher. Er gibt sie seinen Kindern. Er gibt sie ihnen.
+He gives the books to his kids. He gives the books to them. He gives them to his kids. He gives them to them.
+
+Er zeigt der Frau das Auto. Er zeigt ihr das Auto. Er zeigt es der Frau. Er zeigt es ihr.
+He shows the car to the woman. He shows the car to her. He shows it to the woman. He shows it to her.
+
+Könntest du mir einen Gefallen tun?
+Could you do me a favor?
+
+Könnten Sie mir bitte einen Gefallen tun?
+Could you please do me a favor?
+
+Kannst du mir ein gutes Restaurant empfehlen?
+Could you recommend a good restaurant to me?
+
+Könntest du mir etwas Geld leihen?                     
+Could you lend me some money?
+
+Soll ich dir meine Urlaubsfotos zeigen?
+Should I show you my vacation photos?
+
+Kannst du mir ein Bier bringen?
+Can you get me a beer?
+
+Kannst du mir win Glas Wein bringen?
+Can you get a glass of wine?
+
+Kannst du mir einen Kaffee bringen?
+Can you bring me a coffee?
+
+Warum hast du mir das nicht gesagt?
+Why didn't you tell me that?
+
+Ich wünsche die alles Gut zum Geburtstag.
+I wish you all the best for your birthday.
 
 Zisch ab, du Idiot!
 Buzz off, you idiot!
@@ -10509,3 +10557,447 @@ We already speak German.
 
 Sie sprechen schon deutsch.
 You already speak German.
+
+Hans trinkt gerne Wein
+Hans likes to drink wine
+
+Hans und Franz trinken gerne Wein.
+Hans and Franz like to drink wine.
+
+Hans und Franz trinken gerne Limonade.
+Hans and Franz like to drink lemonade.
+
+Ihr trinkt gerne Limonade.
+You like lemonade.
+
+Ihr trinkt gerne Wasser.
+You like to drink water.
+
+Sie trinken gerne Wasser.
+You like to drink water.
+
+Sie trinken gerne Bier.
+They like to drink beer.
+
+Suse trinkt gerne Bier.
+Suse likes to drink beer.
+
+Suse trinkt gerne Weißwein.
+Suse likes to drink white wine.
+
+Ich trinke gerne Weißwein.
+I like to drink white wine.
+
+Ich trinke gerne Rotwein.
+I like to drink red wine.
+
+Kochen Sie Kartoffeln?
+Do you cook potatoes?
+
+Kochen Sie Nudeln?
+Do you cook pasta?
+
+Kocht Markus Nudeln?
+Does Markus cook noodles?
+
+Kocht Markus Eier?
+Does Markus boil eggs?
+
+Kochen Markus und Katharina Eier?
+Do Markus and Katharina cook eggs?
+
+Kochen Markus und Katharina Wasser?
+Do Markus and Katharina boil water?
+
+Kocht ihr Wasser?
+Do you boil water?
+
+Kocht ihr Kartoffeln?
+Do you boil potatoes?
+
+Meine Schwester und ich fahren nächste Woche.
+My sister and I are leaving next week.
+
+Meine Schwester und ich fahren nächsten Monat.
+My sister and I are going next month.
+
+Der Chef fährt nächsten Monat.
+The boss is leaving next month.
+
+Der Chef fährt morgen.
+The boss is leaving tomorrow.
+
+Der Chef und sein Kollege fahren morgen.
+The boss and his colleague are leaving tomorrow.
+
+Der Chef und sein Kollege fahren heute.
+The boss and his colleague are leaving today.
+
+Meine Mutter fährt heute.
+My mother is leaving today.
+
+Meine Mutter fährt heute nicht.
+My mother is not driving today.
+
+Ihr fahrt heute nicht.
+You are not leaving today.
+
+Ihr fahrt morgen nicht.
+You are not leaving tomorrow.
+
+Ich fahre morgen nicht.
+I am not going tomorrow.
+
+Ich fahre nie.
+I never drive.
+
+Unsere Familie isst heute keine Spaghetti, sondern morgen.
+Our family doesn't eat spaghetti today, but tomorrow.
+
+Unsere Familie isst heute keinen Salat, sondern morgen.
+Our family doesn't eat salad today, but tomorrow.
+
+Jan und Birgit essen heute keinen Salat, sondern morgen.
+Jan and Birgit do not eat salad today, but tomorrow.
+
+Jan und Birgit essen heute keine Hamburger, sondern morgen.
+Jan and Birgit don't eat hamburgers today, but tomorrow.
+
+Ihr esst heute keine Hamburger, sondern morgen.
+You are not eating hamburgers today, but tomorrow.
+
+Ihr esst heute keine Eier, sondern morgen.
+You are not eating eggs today, but tomorrow.
+
+Ich esse heute keine Eier, sondern morgen.
+I am not eating eggs today, but tomorrow.
+
+Ich esse heute keine Wurst, sondern morgen.
+I am not eating sausage today, but tomorrow.
+
+Was sehen Sie?
+What do you see?
+
+Was sieht er?
+What does he see?
+
+Was seht ihr?
+What do you see?
+
+Was sehen wir?
+What do we see?
+
+Was sehe ich?
+What do I see?
+
+Was sieht sie? 
+What does she see? 
+
+Hören Sie den Lärm?
+Do you hear the noise?
+
+Hört Markus den Lärm?
+Does Markus hear the noise?
+
+Hört Ihr den Lärm?
+Do you hear the noise?
+
+Hören Sie den Lärm?
+Do you hear the noise?
+
+Hört Mutter den Lärm?
+Does mother hear the noise?
+
+Meine Mutter und ich danken Ihnen herzlich.
+My mother and I thank you very much.
+
+Katharina dankt Ihnen herzlich.
+Katharina thanks you very much.
+
+Wir danken Ihnen herzlich.
+Thank you very much.
+
+Ich danke Ihnen herzlich.
+Thank you very much.
+
+Johannes dankt Ihnen herzlich.
+Johannes thanks you warmly.
+
+Mein Bruder und meine Schwester danken Ihnen herzlich.
+My brother and sister thank you very much.
+
+Mein Bruder und ich helfen Ihnen gerne.
+My brother and I will be happy to help you.
+
+Mein Bruder und ich helfen Ihnen nicht.
+My brother and I will not help you.
+
+Meine Schwester hilft Ihnen nicht.
+My sister does not help you.
+
+Meine Schwester hilft Ihnen doch.
+My sister will help you.
+
+Wir helfen Ihnen doch.
+We will help you.
+
+Wir helfen Ihnen viel.
+We help you a lot.
+
+Susanne hilft Ihnen viel
+Susanne helps you a lot
+
+Markus gibt dem Mädchen einen Ball.
+Markus gives the girl a ball.
+
+Markus gibt dem Mädchen ein Spielzeug.
+Markus gives the girl a toy.
+
+Markus gibt dem Jungen ein Spielzeug.
+Markus gives the boy a toy.
+
+Markus und Susanne geben dem Jungen ein Spielzeug.
+Markus and Susanne give the boy a toy.
+
+Markus und Susanne geben dem Jungen eine Katze.
+Markus and Susanne give the boy a cat.
+
+Markus und Susanne geben der Frau eine Katze.
+Markus and Susanne give the woman a cat.
+
+Ihr gebt der Frau eine Katze.
+You give the woman a cat.
+
+Ihr gebt der Frau eine Blume.
+You give the woman a flower.
+
+Sophie sagt überhaupt nichts.
+Sophie says nothing at all.
+
+Sophie sagt gar nichts.
+Sophie says nothing.
+
+Markus und Katharina sagen gar nichts.
+Markus and Katharina say nothing.
+
+Markus und Katharina sagen doch nichts.
+Markus and Katharina say nothing.
+
+Ich sage doch nichts.
+I don't say anything.
+
+Ich sage wohl nichts.
+I probably don't say anything.
+
+Ihr sagt wohl nichts.
+You probably say nothing.
+
+Ihr sagt aber nichts.
+But you say nothing.
+
+Wir sagen aber nichts.
+But we say nothing.
+
+Wir sagen ja nichts.
+We say nothing.
+
+Geht Sophie? Ja, Sophie geht
+Is Sophie going? Yes, Sophie goes
+
+Gehen Sie? Ja, ich gehe.
+Are you leaving? Yes, I'm going.
+
+Geht Markus? Ja, Markus geht.
+Is Markus going? Yes, Markus is going.
+
+Gehen wir? Ja, wir gehen.
+Are we going? Yes, we are going.
+
+Geht ihr? Ja, wir gehen.
+Are you going? Yes, we are going.
+
+Gehen die Eltern? Ja, die Eltern gehen.
+Are the parents going? Yes, the parents are going.
+
+Geht Susanne? Ja, Susanne geht.
+Is Susanne going? Yes, Susanne is going.
+
+Gehen Sie? Ja, wir gehen.
+Are you going? Yes, we are going.
+
+Kommt er alleine? Nein, er und seine Schwester kommen zusammen.
+Is he coming alone? No, he and his sister come together.
+
+Fährt Mutter alleine? Nein, Mutter und ihre Schwester fahren zusammen.
+Is mother driving alone? No, mother and her sister go together.
+
+Geht Markus alleine? Nein, Markus und seine Schwester gehen zusammen.
+Does Markus go alone? No, Markus and his sister go together.
+
+Arbeitet Sophie alleine? Nein, Sophie und ihre Schwester arbeiten zusammen.
+Does Sophie work alone? No, Sophie and her sister work together.
+
+Bleibt der Bruder alleine? Nein, der Bruder und seine Schwester bleiben zusammen.
+Does the brother stay alone? No, the brother and his sister stay together.
+
+Kommt Maria alleine? Nein, Maria und ihre Schwester kommen zusammen.
+Is Maria coming alone? No, Maria and her sister come together.
+
+Isst Elmar alleine? Nein, Elmar und seine Schwester essen zusammen.
+Does Elmar eat alone? No, Elmar and his sister eat together.
+
+Gehen Markus und Susanna heute? Nein, nur Markus geht heute.
+Are Markus and Susanna going today? No, only Markus leaves today.
+
+Essen Katharina und Jan heute? Nein, nur Katharina isst heute.
+Are Katharina and Jan eating today? No, only Katharina eats today.
+
+Arbeiten Johannes und Karin heute? Nein, nur Johannes arbeitet heute.
+Are Johannes and Karin working today? No, only Johannes works today.
+
+Kommen Mutter und Vater heute? Nein, nur Mutter kommt heute.
+Are mother and father coming today? No, only mother is coming today.
+
+Fahren Christoph und Birgit heute? Nein, nur Christoph fährt heute.
+Do Christoph and Birgit drive today? No, only Christoph is driving today.
+
+Gehen Sophie und Hans heute? Nein, nur Sophie geht heute.
+Are Sophie and Hans leaving today? No, only Sophie leaves today.
+
+Bleiben Georg und Heidi heute? Nein, nur Georg bleibt heute.
+Will Georg and Heidi stay today? No, only Georg stays today.
+
+Gehen Sie jetzt? Ja, ich gehe jetzt.
+Are you leaving now? Yes, I am leaving now.
+
+Kommen Sie nächste Woche? Ja, ich komme nächste Woche.
+Are you coming next week? Yes, I will come next week.
+
+Arbeiten Sie heute morgen? Ja, ich arbeite heute morgen.
+Are you working this morning? Yes, I'm working this morning.
+
+Fahren Sie heute abend? Ja, ich fahre heute abend.
+Are you going tonight? Yes, I am leaving tonight.
+
+Bleiben Sie die kommende Woche? Ja, ich bleibe die kommende Woche.
+Are you staying next week? Yes, I will stay the coming week.
+
+Essen Sie jetzt? Ja, ich esse jetzt.
+Are you eating now? Yes, I am eating now.
+
+Schreiben Sie einen Brief? Ja, ich schreibe einen Brief?
+Are you writing a letter? Yes, I am writing a letter?
+
+Helfen Sie mir heute? Ja, ich helfe Ihnen heute.
+Will you help me today? Yes, I will help you today.
+
+Schreiben Sie mir einen Brief? Ja, ich schreibe Ihnen einen Brief.
+Will you write me a letter? Yes, I will write you a letter.
+
+Schicken Sie mir das Paket? Ja, ich schicke Ihnen das Paket.
+Will you send me the parcel? Yes, I will send you the package.
+
+Geben Sie mir das Dokument? Ja, ich gebe Ihnen das Dokument.
+Will you give me the document? Yes, I will give you the document.
+
+Schreiben Sie mir eine Notiz? Ja, ich schreibe Ihnen eine Notiz.
+Will you write me a note? Yes, I'll write you a note.
+
+Schicken Sie mir ein Geschenk? Ja, ich schicke Ihnen ein Geschenk.
+Will you send me a gift? Yes, I will send you a gift.
+
+Geben Sie mir noch eine Chance? Ja, ich gebe Ihnen noch eine Chance.
+Will you give me another chance? Yes, I will give you another chance.
+
+Sagen Sie mir, was ist? Ja, ich sage Ihnen, was ist.
+Tell me, what is it? Yes, I'll tell you what is.
+
+Sagen Sie mir, wo die Post ist? Ja, ich sage Ihnen, wo die Post ist.
+Tell me where the mail is? Yes, I'll tell you where the mail is.
+
+Sagen Sie mir, wann Karin kommt? Ja, ich sage Ihnen, wann Karin kommt.
+Will you tell me when Karin is coming? Yes, I'll tell you when Karin is coming.
+
+Sagen Sie mir, was Markus meint? Ja, ich sage Ihnen, was Markus meint.
+Tell me what Markus means? Yes, I will tell you what Markus means.
+
+Sagen Sie mir, wo Sophie ist? Ja, ich sage Ihnen, wo Sophie ist.
+Tell me where Sophie is? Yes, I will tell you where Sophie is.
+
+Sagen Sie mir, was Elmar macht? Ja, ich sage Ihnen, was Elmar macht.
+Tell me what Elmar is doing? Yes, I will tell you what Elmar does.
+
+Sagen Sie mir, wann Suse fertig ist? Ja, ich sage Ihnen, wann Suse fertig ist.
+Will you tell me when Suse is finished? Yes, I'll tell you when Suse is finished.
+
+Erklären Sie mir, wo die Post ist? Ja, ich erkläre Ihnen, wo die Post ist.
+Will you tell me where the mail is? Yes, I'll tell you where the mail is.
+
+Sagen Sie mir, was ich tun soll? Ja, ich sage Ihnen, was Sie tun sollen.
+Will you tell me what to do? Yes, I'll tell you what to do.
+
+Erklären Sie mir, wie ich dahin komme? Ja, ich erkläre Ihnen, wie Sie dahin kommen.
+Will you tell me how to get there? Yes, I'll tell you how to get there.
+
+Sagen Sie mir, wann ich ankomme? Ja, ich sage Ihnen, wann Sie ankommen.
+Will you tell me when I will arrive? Yes, I will tell you when you will arrive.
+
+Erklären Sie mir, wie ich das Restaurant finde? Ja, ich erkläre Ihnen, wie Sie das Restaurant finden.
+Will you tell me how to find the restaurant? Yes, I'll tell you how to find the restaurant.
+
+Sagen Sie mir, warum ich das machen soll? Ja, ich sage Ihnen, warum Sie das machen sollen.
+Tell me why I should do that? Yes, I'll tell you why you should do it.
+
+Erklären Sie mir, wie ich das tun soll? Ja, ich erkläre Ihnen, wie Sie das tun sollen.
+Are you telling me how to do that? Yes, I'll tell you how to do that.
+
+Wir erklären ihm, was er machen soll.
+We'll tell him what to do.
+
+Wir erklären ihm, wo seine Frau ist.
+We explain to him where his wife is.
+
+Wir erklären ihm, was er sagen soll.
+We explain to him what he should say.
+
+Wir erklären ihm, wo die Post ist.
+We explain to him where the mail is.
+
+Wir erklären ihm, was zu tun ist.
+We explain to him what to do.
+
+Wir erklären ihm, wo der Hund schläft.
+We explain to him where the dog sleeps.
+
+Wir erklären ihm, was wir wollen.
+We explain to him what we want.
+
+Wir erklären ihm, wo das Problem liegt
+We explain to him where the problem lies.
+
+Markus zeigt ihr, wo der Bleistift liegt.
+Markus shows her where the pencil is.
+
+Markus zeigt ihr, was sie tun soll.
+Mark shows her what to do.
+
+Markus zeigt ihr, wie sie es machen soll.
+Mark shows her how to do it.
+
+Markus zeigt ihr, wo ihr Büro ist.
+Markus shows her where her office is.
+
+Markus zeigt ihr, was er tut.
+Markus shows her what he is doing.
+
+Markus zeigt ihr, wie sie es sagen soll.
+Markus shows her how to say it.
+
+Markus zeigt ihr, wo die S-Bahn ist.
+Markus shows her where the S-Bahn is.
+
+Markus zeigt ihr, was los ist.
+Markus shows her what's going on.
+
+Markus zeigt ihr, wie sie arbeiten soll.
+Markus shows her how to work.
