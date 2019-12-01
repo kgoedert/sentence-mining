@@ -3259,9 +3259,29 @@ Even so, you are a human.
 Eine Lösung gibt es dennoch.
 There is a solution though.
 
-Dennoch bin ich unwahrscheinlich stolz.     <---- leech
+Dennoch bin ich unwahrscheinlich stolz.
 Nevertheless, I'm extremely proud.
 
+Tom schrie sich heiser.
+Tom shouted himself hoarse.
+
+Ich bin ein wenig heiser.
+I'm a bit hoarse.
+
+Warum ist Tom heute heiser?
+Why is Tom hoarse today?
+
+Ich kann vor lauter Rauschen nichts verstehen.
+I can't hear anything because of the noise.
+
+Aussehen ist alles.
+Looks are everything.
+
+Dein Aussehen gefällt mir.
+I like the way you look.
+
+Das Aussehen ist wichtig.           <---- leech
+Looks are important.
 
 Ich wurde verhört.
 I was interrogated.

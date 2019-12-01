@@ -3781,222 +3781,222 @@
 # Quelles amies? tu veux dire celles qui sont venues à la maison le mois dernier ? 
 # Which friends? do you mean the ones who came to the house last month?
 # 
-# C'est intérressant. 
-# That’s interesting. 
+# # C'est intérressant. 
+# # That’s interesting. 
+# # 
+# # Ce sont de bonnes nouvelles.
+# # This is good news.
+# # 
+# # Ce mouton est mignon.
+# # This sheep is cute.
+# # 
+# Lequel? Celui-ci ou celui-là?
+# Which one? This one or this one?
 # 
-# Ce sont de bonnes nouvelles.
-# This is good news.
+# Je parle de celui du milieu. Les autres sont trop grands!
+# I'm talking about the one in the middle. The others are too big!
 # 
-# Ce mouton est mignon.
-# This sheep is cute.
+# Les moutons dans le pré sont ceux du berger.
+# The sheep in the meadow are those of the shepherd.
 # 
-Lequel? Celui-ci ou celui-là?
-Which one? This one or this one?
-
-Je parle de celui du milieu. Les autres sont trop grands!
-I'm talking about the one in the middle. The others are too big!
-
-Les moutons dans le pré sont ceux du berger.
-The sheep in the meadow are those of the shepherd.
-
-Les moutons dans le pré sont ceux que garde le berger.
-The sheep in the meadow are the ones the shepherd guards.
-
-C’est lui qui garde les moutons.
-He's the one who watches the sheep.
-
-Ce sont eux qui sont gardés par le berger.
-They are the ones who are guarded by the shepherd.
-
-Je trouve ceci très intéressant. 
-I find this very interesting. 
-
-Cela est bien dit.
-That is well said.
-
-Quelle fille l'a fait, celle-ci ou celle-là ?
-Which girl did it, this one or that one?
-
-Je ne sais pas si je veux ceux-ci ou ceux-là.
-I don't know if I want these or those.
-
-Quel film veux-tu voir ? Celui de la France ou celui du Canada ?
-Which film do you want to see? The one from France or Canada?
-
-Je ne peux pas décider entre ces deux robes. Celle de soie est plus jolie mais aussi plus chère que celle de coton.
-I can't decide between these two dresses. The silk one is prettier but also more expensive than the cotton one.
-
-Celui qui a menti sera puni.
-He who / Whoever lied will be punished.
-
-Ceux qui sont polis recevront un cadeau.
-Those who are polite will receive a gift.
-
-Vos amis sont-ils toujours en vacances?
-Are your friends still on vacation?
-
-Vos amies sont-elles toujours en vacances?
-Are your friends still on vacation?
-
-Votre amie est-elle toujours en vacances?
-Is your friend still on vacation?
-
-Votre ami est-il toujours en vacances?
-Is your friend still on vacation?
-
-Votre sœur est-elle toujours en vacances?
-Is your sister still on vacation?
-
-Votre frère est-il toujours en vacances?
-Is your brother still on vacation?
-
-Les enfants sont-ils toujours en vacances?
-Are the children still on holiday?
-
-Vos filles sont-elles toujours en vacances?
-Are your daughters still on vacation?
-
-Vos fils sont-ils toujours en vacances?
-Are your sons still on vacation?
-
-Mme Lelong est-elle toujours en vacances?
-Is Mrs. Lelong still on vacation?
-
-Votre frère et votre sœur sont-ils toujours en vacances?
-Are your brother and sister still on vacation?
-
-Votre sœur et Janine sont-elles toujours en vacances?
-Are your sister and Janine still on vacation?
-
-Vous allez à Paris. Est-ce que vous allez à Paris?
-You're going to Paris. Are you going to Paris?
-
-Vous allez au restaurant. Est-ce que vous allez au restaurant?
-You go to the restaurant. Do you go to the restaurant?
-
-Vous parlez français. Est-ce que vous parlez français?
-You speak French. Do you speak French?
-
-Vous traduisez le livre. Est-ce que vous traduisez le livre?
-You translate the book. Do you translate the book?
-
-Vous fermez la porte. Est-ce que vous fermez la porte?
-You close the door. Are you closing the door?
-
-Vous répétez la phrase. Est-ce que vous répétez la phrase?
-You repeat the sentence. Do you repeat the sentence?
-
-Vous lisez la leçon. Est-ce que vous lisez la leçon?
-You read the lesson. Are you reading the lesson?
-
-Vous répondez en français. Est-ce que vous répondez en français?
-You answer in French. Do you answer in French?
-
-Vous écoutez la phrase. Est-ce que vous écoutez la phrase?
-You're listening to the sentence. Are you listening to the sentence?
-
-Vous ouvrez la porte. Est-ce que vous ouvrez la porte?
-You open the door. Are you opening the door?
-
-Vous avez des nouvelles. Est-ce que vous avez des nouvelles?
-You have some news. Do you have any news?
-
-Vous êtes heureux. Vous êtes heureux?
-You are happy. Are you happy now?
-
-Vous êtes pressé. Vous êtes pressé?
-You're in a hurry. Are you in a hurry?
-
-Vous êtes français. Vous êtes français?
-You are French. Are you French?
-
-Vous êtes près d'ici. Vous êtes près d'ici?
-You're close to here. Are you near here?
-
-Vous êtes en retard. Vous êtes en retard?
-You're late for work. Are you late for work?
-
-Vous êtes anglais. Vous êtes anglais?
-You are English. Are you English?
-
-Vous êtes au café. Vous êtes au café?
-You're at the café. Are you at the café?
-
-Vous êtes M. Lelong. Vous êtes M. Lelong?
-You are Mr. Lelong. Are you Mr. Lelong?
-
-Ils sont ensemble. Est-ce qu'ils sont ensemble?
-They are together. Are they together?
-
-Elles sont ensemble. Est-ce qu'elles sont ensemble?
-They are together. Are they together?
-
-Ils sont heureux. Est-ce qu'ils sont heureux?
-They are happy. Are they happy?
-
-Il est heureux. Est-ce qu'il est heureux?
-He is happy. Is he happy? Is he happy?
-
-Elle est ici. Est-ce qu'elle est ici?
-She's here. She's here. Is she here? Is she here?
-
-Elles sont ici. Est-ce qu'elles sont ici?
-They are here. Are they here?
-
-Ils sont ici. Est-ce qu'ils sont ici?
-They are here. Are they here?
-
-Il est anglais. Est-ce qu'il est anglais?
-He is English. Is he English?
-
-Ils sont anglais. Est-ce qu'ils sont anglais?
-They are English. Are they English?
-
-Il va au café. Il va au café?
-He's going to the coffee shop. Is he going to the coffee shop?
-
-Elle va à Lyon. Elle va à Lyon?
-She's going to Lyon. She's going to Lyon?
-
-Ils sont pressés. Ils sont pressés?
-They're in a hurry. Are they in a hurry?
-
-Elle est pressée. Elle est pressée?
-She's in a hurry. Is she in a hurry?
-
-Il est français. Il est français?
-He is French. Is he French?
-
-Ils sont français. Ils sont français?
-They are French. Are they French?
-
-Il sait la leçon. Il sait la leçon?
-He knows the lesson. Does he know the lesson?
-
-Elle sait la leçon. Elle sait la leçon?
-She knows the lesson. Does she know the lesson?
-
-Il va déjeuner. Il va déjeuner?
-He's going to lunch. Is he going to lunch?
-
-Elle va déjeuner. Elle va déjeuner?
-She's going to lunch. Is she going to lunch?
-
-Mon père et ma mère sont à Biarritz. Est-ce qu'ils sont toujours en vacances?
-My father and mother are in Biarritz. Are they still on vacation?
-
-Mon frère est à Biarritz. Est-ce qu'il est toujours en vacances?
-My brother is in Biarritz. Is he still on vacation?
-
-Ma sœur est à Biarritz. Est-ce qu'elle est toujours en vacances?
-My sister is in Biarritz. Is she still on vacation?
-
-Les sœurs de Janine sont à Biarritz. Est-ce qu'elles sont toujours en vacances?
-Janine's sisters are in Biarritz. Are they still on vacation?
-
-Mlle Courtois est à Biarritz. Est-ce qu'elle est toujours en vacances?
-Miss Courtois is in Biarritz. Is she still on vacation?
-
+# Les moutons dans le pré sont ceux que garde le berger.
+# The sheep in the meadow are the ones the shepherd guards.
+# 
+# C’est lui qui garde les moutons.
+# He's the one who watches the sheep.
+# 
+# Ce sont eux qui sont gardés par le berger.
+# They are the ones who are guarded by the shepherd.
+# 
+# Je trouve ceci très intéressant. 
+# I find this very interesting. 
+# 
+# Cela est bien dit.
+# That is well said.
+# 
+# Quelle fille l'a fait, celle-ci ou celle-là ?
+# Which girl did it, this one or that one?
+# 
+# Je ne sais pas si je veux ceux-ci ou ceux-là.
+# I don't know if I want these or those.
+# 
+# Quel film veux-tu voir ? Celui de la France ou celui du Canada ?
+# Which film do you want to see? The one from France or Canada?
+# 
+# Je ne peux pas décider entre ces deux robes. Celle de soie est plus jolie mais aussi plus chère que celle de coton.
+# I can't decide between these two dresses. The silk one is prettier but also more expensive than the cotton one.
+# 
+# Celui qui a menti sera puni.
+# He who / Whoever lied will be punished.
+# 
+# Ceux qui sont polis recevront un cadeau.
+# Those who are polite will receive a gift.
+# 
+# Vos amis sont-ils toujours en vacances?
+# Are your friends still on vacation?
+# 
+# Vos amies sont-elles toujours en vacances?
+# Are your friends still on vacation?
+# 
+# Votre amie est-elle toujours en vacances?
+# Is your friend still on vacation?
+# 
+# Votre ami est-il toujours en vacances?
+# Is your friend still on vacation?
+# 
+# Votre sœur est-elle toujours en vacances?
+# Is your sister still on vacation?
+# 
+# Votre frère est-il toujours en vacances?
+# Is your brother still on vacation?
+# 
+# Les enfants sont-ils toujours en vacances?
+# Are the children still on holiday?
+# 
+# Vos filles sont-elles toujours en vacances?
+# Are your daughters still on vacation?
+# 
+# Vos fils sont-ils toujours en vacances?
+# Are your sons still on vacation?
+# 
+# Mme Lelong est-elle toujours en vacances?
+# Is Mrs. Lelong still on vacation?
+# 
+# Votre frère et votre sœur sont-ils toujours en vacances?
+# Are your brother and sister still on vacation?
+# 
+# Votre sœur et Janine sont-elles toujours en vacances?
+# Are your sister and Janine still on vacation?
+# 
+# Vous allez à Paris. Est-ce que vous allez à Paris?
+# You're going to Paris. Are you going to Paris?
+# 
+# Vous allez au restaurant. Est-ce que vous allez au restaurant?
+# You go to the restaurant. Do you go to the restaurant?
+# 
+# Vous parlez français. Est-ce que vous parlez français?
+# You speak French. Do you speak French?
+# 
+# Vous traduisez le livre. Est-ce que vous traduisez le livre?
+# You translate the book. Do you translate the book?
+# 
+# Vous fermez la porte. Est-ce que vous fermez la porte?
+# You close the door. Are you closing the door?
+# 
+# Vous répétez la phrase. Est-ce que vous répétez la phrase?
+# You repeat the sentence. Do you repeat the sentence?
+# 
+# Vous lisez la leçon. Est-ce que vous lisez la leçon?
+# You read the lesson. Are you reading the lesson?
+# 
+# Vous répondez en français. Est-ce que vous répondez en français?
+# You answer in French. Do you answer in French?
+# 
+# Vous écoutez la phrase. Est-ce que vous écoutez la phrase?
+# You're listening to the sentence. Are you listening to the sentence?
+# 
+# Vous ouvrez la porte. Est-ce que vous ouvrez la porte?
+# You open the door. Are you opening the door?
+# 
+# Vous avez des nouvelles. Est-ce que vous avez des nouvelles?
+# You have some news. Do you have any news?
+# 
+# Vous êtes heureux. Vous êtes heureux?
+# You are happy. Are you happy now?
+# 
+# Vous êtes pressé. Vous êtes pressé?
+# You're in a hurry. Are you in a hurry?
+# 
+# Vous êtes français. Vous êtes français?
+# You are French. Are you French?
+# 
+# Vous êtes près d'ici. Vous êtes près d'ici?
+# You're close to here. Are you near here?
+# 
+# Vous êtes en retard. Vous êtes en retard?
+# You're late for work. Are you late for work?
+# 
+# Vous êtes anglais. Vous êtes anglais?
+# You are English. Are you English?
+# 
+# Vous êtes au café. Vous êtes au café?
+# You're at the café. Are you at the café?
+# 
+# Vous êtes M. Lelong. Vous êtes M. Lelong?
+# You are Mr. Lelong. Are you Mr. Lelong?
+# 
+# Ils sont ensemble. Est-ce qu'ils sont ensemble?
+# They are together. Are they together?
+# 
+# Elles sont ensemble. Est-ce qu'elles sont ensemble?
+# They are together. Are they together?
+# 
+# Ils sont heureux. Est-ce qu'ils sont heureux?
+# They are happy. Are they happy?
+# 
+# Il est heureux. Est-ce qu'il est heureux?
+# He is happy. Is he happy? Is he happy?
+# 
+# Elle est ici. Est-ce qu'elle est ici?
+# She's here. She's here. Is she here? Is she here?
+# 
+# Elles sont ici. Est-ce qu'elles sont ici?
+# They are here. Are they here?
+# 
+# Ils sont ici. Est-ce qu'ils sont ici?
+# They are here. Are they here?
+# 
+# Il est anglais. Est-ce qu'il est anglais?
+# He is English. Is he English?
+# 
+# Ils sont anglais. Est-ce qu'ils sont anglais?
+# They are English. Are they English?
+# 
+# Il va au café. Il va au café?
+# He's going to the coffee shop. Is he going to the coffee shop?
+# 
+# Elle va à Lyon. Elle va à Lyon?
+# She's going to Lyon. She's going to Lyon?
+# 
+# Ils sont pressés. Ils sont pressés?
+# They're in a hurry. Are they in a hurry?
+# 
+# Elle est pressée. Elle est pressée?
+# She's in a hurry. Is she in a hurry?
+# 
+# Il est français. Il est français?
+# He is French. Is he French?
+# 
+# Ils sont français. Ils sont français?
+# They are French. Are they French?
+# 
+# Il sait la leçon. Il sait la leçon?
+# He knows the lesson. Does he know the lesson?
+# 
+# Elle sait la leçon. Elle sait la leçon?
+# She knows the lesson. Does she know the lesson?
+# 
+# Il va déjeuner. Il va déjeuner?
+# He's going to lunch. Is he going to lunch?
+# 
+# Elle va déjeuner. Elle va déjeuner?
+# She's going to lunch. Is she going to lunch?
+# 
+# Mon père et ma mère sont à Biarritz. Est-ce qu'ils sont toujours en vacances?
+# My father and mother are in Biarritz. Are they still on vacation?
+# 
+# Mon frère est à Biarritz. Est-ce qu'il est toujours en vacances?
+# My brother is in Biarritz. Is he still on vacation?
+# 
+# Ma sœur est à Biarritz. Est-ce qu'elle est toujours en vacances?
+# My sister is in Biarritz. Is she still on vacation?
+# 
+# Les sœurs de Janine sont à Biarritz. Est-ce qu'elles sont toujours en vacances?
+# Janine's sisters are in Biarritz. Are they still on vacation?
+# 
+# Mlle Courtois est à Biarritz. Est-ce qu'elle est toujours en vacances?
+# Miss Courtois is in Biarritz. Is she still on vacation?
+# 
 Mon frère et ma sœur sont à Biarritz. Est-ce qu'ils sont toujours en vacances?
 My brother and sister are in Biarritz. Are they still on vacation?
 
