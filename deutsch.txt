@@ -4958,6 +4958,9 @@ Why didn't you tell me that?
 Ich wünsche die alles Gut zum Geburtstag.
 I wish you all the best for your birthday.
 
+Er hat mir nicht die Wahrheit gesagt.               <<<<------jenny
+He didn't tell me the truth.
+
 Zisch ab, du Idiot!
 Buzz off, you idiot!
 
