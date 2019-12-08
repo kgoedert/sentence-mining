@@ -3823,9 +3823,6 @@
 # Quel film veux-tu voir ? Celui de la France ou celui du Canada ?
 # Which film do you want to see? The one from France or Canada?
 # 
-# Je ne peux pas décider entre ces deux robes. Celle de soie est plus jolie mais aussi plus chère que celle de coton.
-# I can't decide between these two dresses. The silk one is prettier but also more expensive than the cotton one.
-# 
 # Celui qui a menti sera puni.
 # He who / Whoever lied will be punished.
 # 
@@ -7548,3 +7545,9 @@ Fine, that's 102 euros.
 
 Où est-ce que je peux réserver mes places? 
 Where can I reserve my seats?
+
+Je ne peux pas décider entre ces deux robes. 
+I can't decide between these two dresses.
+
+Celle de soie est plus jolie mais aussi plus chère que celle de coton.
+The silk one is prettier but also more expensive than the cotton one.
