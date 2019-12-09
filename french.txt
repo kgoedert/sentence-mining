@@ -7549,12 +7549,6 @@ Fine, that's 102 euros.
 Où est-ce que je peux réserver mes places? 
 Where can I reserve my seats?
 
-Je ne peux pas décider entre ces deux robes. 
-I can't decide between these two dresses.
-
-Celle de soie est plus jolie mais aussi plus chère que celle de coton.
-The silk one is prettier but also more expensive than the cotton one.
-
 Au dernier guichet à gauche.
 At the last window on the left.
 
@@ -7563,3 +7557,18 @@ I'd like to reserve two seats for Lille.
 
 Vos billets, s'il vous plaît.
 Your tickets, please
+
+Vous partez par quel train? Par celui de dix-neuf heures trente.
+What train are you taking? The 7:30 p.m. train.
+
+Je peux vous donner deux places côté fenêtre.
+I can give you two window seats.
+
+Dans un compartiment pour non-fumeurs?
+In a non-smoking compartment?
+
+Je ne peux pas décider entre ces deux robes. 
+I can't decide between these two dresses.
+
+Celle de soie est plus jolie mais aussi plus chère que celle de coton.
+The silk one is prettier but also more expensive than the cotton one.
