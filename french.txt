@@ -7548,3 +7548,12 @@ Fine, that's 102 euros.
 
 Où est-ce que je peux réserver mes places? 
 Where can I reserve my seats?
+
+Au dernier guichet à gauche.
+At the last window on the left.
+
+Je voudrais réserver deux places pour Lille. 
+I'd like to reserve two seats for Lille.
+
+Vos billets, s'il vous plaît.
+Your tickets, please
