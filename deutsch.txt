@@ -5137,8 +5137,14 @@ How long do you have to work today?
 Wie lange ist er schon krank?
 How long has he been sick already?
 
-Wie spät ist es?                            <<<------- jenny
+Wie spät ist es?                            
 What time is it?
+
+Wer ist das?
+Who is that?
+
+Wer ist der Chef?
+Who is the boss?
 
 Zisch ab, du Idiot!
 Buzz off, you idiot!
