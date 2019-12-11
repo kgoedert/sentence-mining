@@ -7593,3 +7593,36 @@ You can have them insured over there.
 
 Non, ce n'est pas la peine.
 No, it's not necessary.
+
+Demandez si le train de 7 heures 20 est en retard.
+Ask if the 7:20 train is late.
+
+Demandez si on peut acheter des places côté fenêtre.
+Ask if one can purchase seats next to the window.
+
+Si vous voulez.
+If you wish.
+
+Je ne sais pas si les livres sont ici.
+I do not know if the books are here.
+
+Demandez s'il achète des places pour Nice.
+Ask he is purchasing two seats for Nice.
+
+Où est M. Santerre? Il est à la gare.
+Qu'est-ce qu'il veut? Il veut des billets.
+Combien de billets est-ce qu'il veut? Il veut deux billets.
+Pour Paris? Non, pour Lille.
+Est-ce qu'il va prendre des allers-retours? Non, il va prendre des allers simples seulement.
+Est-ce qu'il part le 5 juillet? Non, il part le 6 juillet.
+Où est-ce qu'il va? Il va à Lille.
+Qu'est-ce qu'il va faire au dernier guichet à gauche? Il va réserver les places.
+Quel train est-ce qu'il va prendre? Il va prendre celui de 19 heures 30.
+Combien de places côté fenêtre est-ce qu'il va acheter? Il va acheter deux places côté fenêtre.
+Dans quel compartiment? Dans un compartiment pour non-fumeurs.
+Ça fait combien? Ça fait cinq euros.
+Pour où est-ce qu'il va faire enregistrer ses bagages? Il va faire enregistrer ses bagages pour Lille.
+Est-ce qu'il a plusieurs boîtes? Non, il a une seule boîte.
+Combien de valises est-ce qu'il a? Il a une valise.
+Est-ce que sa valise est verte? Non, elle n'est pas verte.
+Est-ce qu'il va faire assurer les bagages? Non, ce n'est pas la peine.
