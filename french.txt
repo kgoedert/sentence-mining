@@ -7610,19 +7610,172 @@ Demandez s'il achète des places pour Nice.
 Ask he is purchasing two seats for Nice.
 
 Où est M. Santerre? Il est à la gare.
+Where is Mr. Santerre? He's at the station.
+
 Qu'est-ce qu'il veut? Il veut des billets.
+What does he want? He wants tickets.
+
 Combien de billets est-ce qu'il veut? Il veut deux billets.
+How many tickets does he want? He wants two tickets.
+
 Pour Paris? Non, pour Lille.
+For Paris? No, for Lille.
+
 Est-ce qu'il va prendre des allers-retours? Non, il va prendre des allers simples seulement.
+Is he going to take a round trip? No, he's going to take one-way tickets only.
+
 Est-ce qu'il part le 5 juillet? Non, il part le 6 juillet.
+Does he leave on July 5th? No, he leaves on July 6th.
+
 Où est-ce qu'il va? Il va à Lille.
+Where is he going? Where is he going? He's going to Lille.
+
 Qu'est-ce qu'il va faire au dernier guichet à gauche? Il va réserver les places.
+What's he gonna do at the last window on the left? He's going to book the tickets.
+
 Quel train est-ce qu'il va prendre? Il va prendre celui de 19 heures 30.
+What train is he going to take? He's going to take the 7:30.
+
 Combien de places côté fenêtre est-ce qu'il va acheter? Il va acheter deux places côté fenêtre.
+How many places on the window side will he buy? He's going to buy two tickets on the window side.
+
 Dans quel compartiment? Dans un compartiment pour non-fumeurs.
+In which compartment? In a non-smoking compartment.
+
 Ça fait combien? Ça fait cinq euros.
+How many is that? That's five euros.
+
 Pour où est-ce qu'il va faire enregistrer ses bagages? Il va faire enregistrer ses bagages pour Lille.
+Where is he going to check in his luggage? He's going to check his luggage in for Lille.
+
 Est-ce qu'il a plusieurs boîtes? Non, il a une seule boîte.
+Does he have several boxes? No, he only has one box.
+
 Combien de valises est-ce qu'il a? Il a une valise.
+How many suitcases does he have? He has a suitcase.
+
 Est-ce que sa valise est verte? Non, elle n'est pas verte.
+Is his suitcase green? No, it's not green.
+
 Est-ce qu'il va faire assurer les bagages? Non, ce n'est pas la peine.
+Will he insure the luggage? No, you don't have to.
+
+Je peux vous donner deux places côté fenêtre.
+I can give you two places on the window side.
+
+On peut vous donner deux places côté fenêtre.
+We can give you two places on the window side.
+
+Je vais vous donner deux places côté fenêtre.
+I'll give you two places on the window side.
+
+Nous allons vous donner deux places côté fenêtre.
+We'll give you two places on the window side.
+
+Je voudrais vous donner deux places côté fenêtre.
+I would like to give you two places on the window side.
+
+Il va vous donner deux places côté fenêtre.
+He's going to give you two places on the window side.
+
+Je dois vous donner deux places côté fenêtre.
+I have to give you two places on the window side.
+
+Elle va vous donner deux places côté fenêtre.
+She'll give you two places on the window side.
+
+Je peux vous donner deux places côté fenêtre.
+I can give you two places on the window side.
+
+Pour quelle date?
+For what date?
+
+Pour quel jour?
+For what day?
+
+Pour quel après-midi?
+For what afternoon?
+
+Pour quelle heure?
+For what time?
+
+Pour quel mois?
+For which month?
+
+Pour quel soir?
+For what evening?
+
+Pour quelle semaine?
+For what week?
+
+Pour quelle date?
+For what date?
+
+Combien de boîtes avez-vous?
+How many boxes do you have?
+
+Combien de valises avez-vous?
+How many suitcases do you have?
+
+Combien de frères avez-vous?
+How many brothers do you have?
+
+Combien de sœurs avez-vous?
+How many sisters do you have?
+
+Combien de jours avez-vous?
+How many days do you have?
+
+Combien de places avez-vous?
+How many places do you have?
+
+Combien de livres avez-vous?
+How many books do you have?
+
+Combien de cafés avez-vous?
+How many coffees do you have?
+
+Combien de chambres avez-vous?
+How many rooms do you have?
+
+Combien de monnaie avez-vous?
+How much change do you have?
+
+Combien de fiches avez-vous?
+How many cards do you have?
+
+Où est le bureau de renseignements?
+Where is the information desk?
+
+Où est le restaurant français?
+Where is the French restaurant?
+
+Où est le wagon restaurant?
+Where's the dining car?
+
+Où est la gare?
+Where is the station?
+
+Où est le wagon-lit?
+Where's the sleeping car?
+
+Où est la sœur de Janine?
+Where is Janine's sister?
+
+Où est le compartiment pour non-fumeurs?
+Where is the non-smoking compartment?
+
+Où est ma couchette?
+Where's my bunk?
+
+Où est mon billet?
+Where is my ticket?
+
+Où est la femme de chambre?
+Where's the maid?
+
+Où est mon amie Janine?
+Where is my friend Janine?
+
+Où est le bureau de renseignement
+Where is the intelligence office
