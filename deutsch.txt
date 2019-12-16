@@ -11205,3 +11205,114 @@ Markus shows her what's going on.
 
 Markus zeigt ihr, wie sie arbeiten soll.
 Markus shows her how to work.
+
+Das ist mir zu viel.
+That's too much for me.
+
+Das ist mir zu wenig.
+That is too little for me.
+
+Das ist Ihnen zu wenig. 
+That is too little for you. 
+
+Das ist Ihnen zu schnell.
+That is too fast for you.
+
+Das ist ihm zu schnell. 
+That is too fast for him. 
+
+Das ist ihm zu langsam.
+That is too slow for him.
+
+Das ist euch zu langsam.
+That is too slow for you.
+
+Das ist euch zu groß.
+That is too big for you.
+
+Das ist ihr zu groß.
+That is too big for you.
+
+Das ist ihr zu klein.
+That is too small for you.
+
+Das ist mir zu klein.
+That is too small for me.
+
+Das ist mir zu teuer.
+That is too expensive for me.
+
+Das ist uns zu teuer.
+That is too expensive for us.
+
+Das ist uns zu laut.
+That is too loud for us.
+
+Es scheint mir, dass es spät ist.
+It seems to me that it is late.
+
+Es scheint mir, dass sie früh kommt.
+It seems to me that she comes early.
+
+Es scheint mir, dass er traurig ist.
+It seems to me that he is sad.
+
+Es scheint mir, dass sie glücklich ist.
+It seems to me that she is happy.
+
+Es scheint mir, dass das Baby Hunger hat.
+It seems to me that the baby is hungry.
+
+Das Hemd scheint mir zu groß zu sein.
+The shirt seems too big to me.
+
+Das Hemd scheint mir perfekt zu sein.
+The shirt seems perfect to me.
+
+Die Hose scheint mir perfekt zu sein.
+The pants seem perfect to me.
+
+Die Hose scheint mir zu teuer zu sein.
+The pants seem too expensive to me.
+
+Der Wagen scheint mir zu teuer zu sein.
+The car seems too expensive to me.
+
+Der Wagen scheint mir klein zu sein.
+The car seems small to me.
+
+Das Haus scheint mir klein zu sein.
+The house seems small to me.
+
+Das Haus scheint mir zu viel zu sein.
+The house seems too much to me.
+
+Die Arbeit scheint mir zu viel zu sein.
+The work seems too much to me.
+
+Der Zoo kommt mir interessant vor.
+The zoo seems interesting to me.
+
+Der Zoo kommt mir groß vor.
+The zoo seems big to me.
+
+Der Bär kommt mir groß vor.
+The bear seems big to me.
+
+Der Bär kommt mir klein vor.
+The bear seems small to me.
+
+Die Giraffe kommt mir klein vor.
+The giraffe seems small to me.
+
+Die Giraffe kommt mir hungrig vor.
+The giraffe seems hungry to me.
+
+Der Löwe kommt mir hungrig vor.
+The lion seems hungry to me.
+
+Der Löwe kommt mir müde vor.
+The lion seems tired to me.
+
+Der Affe kommt mir müde vor.
+The monkey seems tired to me.
