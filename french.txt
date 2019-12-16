@@ -3989,314 +3989,314 @@
 # My brother is in Biarritz. Is he still on vacation?
 # 
 # Ma sœur est à Biarritz. Est-ce qu'elle est toujours en vacances?
-# My sister is in Biarritz. Is she still on vacation?
+# # My sister is in Biarritz. Is she still on vacation?
+# # 
+# # Les sœurs de Janine sont à Biarritz. Est-ce qu'elles sont toujours en vacances?
+# # Janine's sisters are in Biarritz. Are they still on vacation?
+# # 
+# # Mlle Courtois est à Biarritz. Est-ce qu'elle est toujours en vacances?
+# # Miss Courtois is in Biarritz. Is she still on vacation?
+# # 
+# Mon frère et ma sœur sont à Biarritz. Est-ce qu'ils sont toujours en vacances?
+# My brother and sister are in Biarritz. Are they still on vacation?
 # 
-# Les sœurs de Janine sont à Biarritz. Est-ce qu'elles sont toujours en vacances?
-# Janine's sisters are in Biarritz. Are they still on vacation?
+# Mme Lelong et Mme Courtois sont à Biarritz. Est-ce qu'elles sont toujours en vacances?
+# Mrs. Lelong and Mrs. Courtois are in Biarritz. Are they still on vacation?
 # 
-# Mlle Courtois est à Biarritz. Est-ce qu'elle est toujours en vacances?
-# Miss Courtois is in Biarritz. Is she still on vacation?
+# M. et Mme Lelong sont à Biarritz. Est-ce qu'ils sont toujours en vacances?
+# Mr. and Mrs. Lelong are in Biarritz. Are they still on vacation?
 # 
-Mon frère et ma sœur sont à Biarritz. Est-ce qu'ils sont toujours en vacances?
-My brother and sister are in Biarritz. Are they still on vacation?
-
-Mme Lelong et Mme Courtois sont à Biarritz. Est-ce qu'elles sont toujours en vacances?
-Mrs. Lelong and Mrs. Courtois are in Biarritz. Are they still on vacation?
-
-M. et Mme Lelong sont à Biarritz. Est-ce qu'ils sont toujours en vacances?
-Mr. and Mrs. Lelong are in Biarritz. Are they still on vacation?
-
-Janine est à Biarritz. Est-ce qu'elle est toujours en vacances?
-Janine is in Biarritz. Is she still on vacation?
-
-Janine va au restaurant. Janine va-t-elle au restaurant?
-Janine goes to the restaurant. Is Janine going to the restaurant?
-
-Les enfants sont en vacances. Les enfants sont-ils en vacances?
-The children are on vacation. Are the children on holiday?
-
-Vos parents sont ici. Vos parents sont-ils ici?
-Your parents are here. Are your parents here?
-
-Janine est avec eux. Janine est-elle avec eux?
-Janine is with them. Is Janine with them?
-
-Janine sait la leçon. Janine sait-elle la leçon?
-Janine knows the lesson. Does Janine know the lesson?
-
-Ma sœur va à Lyon. Ma sœur va-t-elle à Lyon?
-My sister is going to Lyon. Is my sister going to Lyon?
-
-Ma fille va avec eux. Ma fille va-t-elle avec eux?
-My daughter goes with them. Does my daughter go with them?
-
-Janine comprend la leçon. Janine comprend-elle la leçon?
-Janine understands the lesson. Does Janine understand the lesson?
-
-La classe commence à une heure. La classe commence-t-elle à une heure?
-Class starts at one o'clock. Does the class start at one o'clock?
-
-M. Lelong comprend. M. Lelong comprend-il?
-Mr. Lelong understands. Does Mr. Lelong understand?
-
-Ce mot est français. Ce mot est-il français?
-This word is French. Is this word French?
-
-Vos filles sont en retard. Vos filles sont-elles en retard?
-Your daughters are late. Are your daughters late?
-
-Le restaurant est bon. Le restaurant est-il bon?
-The restaurant is good. Is the restaurant good?
-
-Vous êtes pressé? Est-ce que vous êtes pressé?
-Are you in a hurry? Are you in a hurry?
-
-Vous êtes en vacances? Est-ce que vous êtes en vacances?
-Are you on vacation? Are you on vacation?
-
-Elle est française? Est-ce qu'elle est française?
-Is she French? Is she French?
-
-Elle sait la leçon? Est-ce qu'elle sait la leçon?
-Does she know the lesson? Does she know the lesson?
-
-Ils sont heureux? Est-ce qu'ils sont heureux?
-Are they happy? Are they happy?
-
-Vous fermez la porte? Est-ce que vous fermez la porte?
-Are you closing the door? Are you closing the door?
-
-Vous allez au café? Est-ce que vous allez au café?
-Are you going to the coffee shop? Are you going to the coffee shop?
-
-Il est en retard? Est-ce qu'il est en retard?
-Is he late? Is he late? Is he late? Is he late?
-
-Elles sont à Lyon? Est-ce qu'elles sont à Lyon?
-Are they in Lyon? Are they in Lyon?
-
-Vous répétez en français? Est-ce que vous répétez en français?
-Are you rehearsing in French? Do you repeat in French?
-
-Ils sont pressés.
-They're in a hurry.
-
-Elle est pressée.
-She's in a hurry.
-
-On est pressé.
-We're in a hurry.
-
-Elles sont pressées.
-They're in a hurry.
-
-Il est à Londres.
-He's in London.
-
-Ils sont à Londres.
-They're in London.
-
-Elle est à Londres.
-She's in London.
-
-Elles sont à Londres.
-They're in London.
-
-On est à Londres.
-We're in London.
-
-Nos amis sont à Londres.
-Our friends are in London.
-
-Janine est à Londres.
-Janine is in London.
-
-Ils sont ici.
-They are here.
-
-Ils sont à Bordeaux.
-They're in Bordeaux.
-
-Ils sont au restaurant.
-They're at the restaurant.
-
-Ils sont en vacances.
-They're on vacation.
-
-Ils sont au café.
-They're at the café.
-
-Ils sont à Lyon.
-They are in Lyon.
-
-Ils sont avec eux.
-They are with them.
-
-Il est ici.
-He is here.
-
-Il est bon.
-He's good. He's good.
-
-Il est à Marseille.
-He's in Marseille.
-
-Il est français.
-He is French.
-
-Il est près d'ici.
-He's near here.
-
-Il est fort.
-He is strong.
-
-Il est en France.
-He's in France.
-
-Il est en retard.
-He's late. He's late.
-
-Il est anglais.
-He is English.
-
-Il est en vacances.
-He's on vacation.
-
-Je suis en retard.
-I'm late for work.
-
-Je suis avec eux aujourd'hui.
-I am with them today.
-
-Je suis anglais.
-I am English.
-
-Je suis anglaise.
-I am English.
-
-Je suis en vacances aujourd'hui.
-I'm on vacation today.
-
-Je suis heureux.
-I am happy.
-
-Je suis au restaurant aujourd'hui.
-I'm at the restaurant today.
-
-Je suis au café.
-I'm at the coffee shop.
-
-Je suis à Londres aujourd'hui.
-I'm in London today.
-
-Je suis à Lyon aujourd'hui.
-I am in Lyon today.
-
-Nous sommes à Paris.
-We are in Paris.
-
-Nous sommes anglais.
-We are English.
-
-Nous sommes ici.
-We are here.
-
-Nous sommes en retard.
-We are late for work.
-
-Nous sommes heureux.
-We are happy.
-
-Nous sommes en vacances.
-We are on holiday.
-
-Nous sommes à Lyon.
-We are in Lyon.
-
-Nous sommes au restaurant.
-We're at the restaurant.
-
-Nous sommes ensemble.
-We are together.
-
-Nous sommes avec eux.
-We are with them.
-
-Vous êtes à Grenoble.
-You are in Grenoble.
-
-Vous êtes en retard.
-You're late for work.
-
-Vous êtes à Lyon aujourd'hui.
-You are in Lyon today.
-
-Vous êtes au café maintenant.
-You're at the café now.
-
-Vous êtes anglais.
-You are English.
-
-Vous êtes avec eux maintenant.
-You're with them now.
-
-Vous êtes ensemble aujourd'hui.
-You're together today.
-
-Vous êtes au restaurant.
-You are at the restaurant.
-
-Vous êtes à Paris aujourd'hui.
-You are in Paris today.
-
-Nous sommes français.
-We are French.
-
-On est français.
-We are French.
-
-M. Durand est français.
-Mr. Durand is French.
-
-Mlle. Courtois est française.
-Miss Courtois is French.
-
-Êtes-vous en retard?
-Are you late for work?
-
-Est-elle en retard?
-Is she late?
-
-Sont-ils en retard?
-Are they late?
-
-Est-il en retard?
-Is he late?
-
-Sommes-nous en retard?
-Are we late?
-
-Suis-je en retard?
-Am I late?
-
-Vous êtes français.
-You are French.
-
-Je suis français.
-I am French.
-
-Il est avec eux.
-He is with them.
-
-Mme Durand est ici.
-Mrs. Durand is here.
-
-Mme Durand est française.
-Mrs. Durand is French.
-
-Les enfants sont en retard.
-The children are late.
-
+# Janine est à Biarritz. Est-ce qu'elle est toujours en vacances?
+# Janine is in Biarritz. Is she still on vacation?
+# 
+# Janine va au restaurant. Janine va-t-elle au restaurant?
+# Janine goes to the restaurant. Is Janine going to the restaurant?
+# 
+# Les enfants sont en vacances. Les enfants sont-ils en vacances?
+# The children are on vacation. Are the children on holiday?
+# 
+# Vos parents sont ici. Vos parents sont-ils ici?
+# Your parents are here. Are your parents here?
+# 
+# Janine est avec eux. Janine est-elle avec eux?
+# Janine is with them. Is Janine with them?
+# 
+# Janine sait la leçon. Janine sait-elle la leçon?
+# Janine knows the lesson. Does Janine know the lesson?
+# 
+# Ma sœur va à Lyon. Ma sœur va-t-elle à Lyon?
+# My sister is going to Lyon. Is my sister going to Lyon?
+# 
+# Ma fille va avec eux. Ma fille va-t-elle avec eux?
+# My daughter goes with them. Does my daughter go with them?
+# 
+# Janine comprend la leçon. Janine comprend-elle la leçon?
+# Janine understands the lesson. Does Janine understand the lesson?
+# 
+# La classe commence à une heure. La classe commence-t-elle à une heure?
+# Class starts at one o'clock. Does the class start at one o'clock?
+# 
+# M. Lelong comprend. M. Lelong comprend-il?
+# Mr. Lelong understands. Does Mr. Lelong understand?
+# 
+# Ce mot est français. Ce mot est-il français?
+# This word is French. Is this word French?
+# 
+# Vos filles sont en retard. Vos filles sont-elles en retard?
+# Your daughters are late. Are your daughters late?
+# 
+# Le restaurant est bon. Le restaurant est-il bon?
+# The restaurant is good. Is the restaurant good?
+# 
+# Vous êtes pressé? Est-ce que vous êtes pressé?
+# Are you in a hurry? Are you in a hurry?
+# 
+# Vous êtes en vacances? Est-ce que vous êtes en vacances?
+# Are you on vacation? Are you on vacation?
+# 
+# Elle est française? Est-ce qu'elle est française?
+# Is she French? Is she French?
+# 
+# Elle sait la leçon? Est-ce qu'elle sait la leçon?
+# Does she know the lesson? Does she know the lesson?
+# 
+# Ils sont heureux? Est-ce qu'ils sont heureux?
+# Are they happy? Are they happy?
+# 
+# Vous fermez la porte? Est-ce que vous fermez la porte?
+# Are you closing the door? Are you closing the door?
+# 
+# Vous allez au café? Est-ce que vous allez au café?
+# Are you going to the coffee shop? Are you going to the coffee shop?
+# 
+# Il est en retard? Est-ce qu'il est en retard?
+# Is he late? Is he late? Is he late? Is he late?
+# 
+# Elles sont à Lyon? Est-ce qu'elles sont à Lyon?
+# Are they in Lyon? Are they in Lyon?
+# 
+# Vous répétez en français? Est-ce que vous répétez en français?
+# Are you rehearsing in French? Do you repeat in French?
+# 
+# Ils sont pressés.
+# They're in a hurry.
+# 
+# Elle est pressée.
+# She's in a hurry.
+# 
+# On est pressé.
+# We're in a hurry.
+# 
+# Elles sont pressées.
+# They're in a hurry.
+# 
+# Il est à Londres.
+# He's in London.
+# 
+# Ils sont à Londres.
+# They're in London.
+# 
+# Elle est à Londres.
+# She's in London.
+# 
+# Elles sont à Londres.
+# They're in London.
+# 
+# On est à Londres.
+# We're in London.
+# 
+# Nos amis sont à Londres.
+# Our friends are in London.
+# 
+# Janine est à Londres.
+# Janine is in London.
+# 
+# Ils sont ici.
+# They are here.
+# 
+# Ils sont à Bordeaux.
+# They're in Bordeaux.
+# 
+# Ils sont au restaurant.
+# They're at the restaurant.
+# 
+# Ils sont en vacances.
+# They're on vacation.
+# 
+# Ils sont au café.
+# They're at the café.
+# 
+# Ils sont à Lyon.
+# They are in Lyon.
+# 
+# Ils sont avec eux.
+# They are with them.
+# 
+# Il est ici.
+# He is here.
+# 
+# Il est bon.
+# He's good. He's good.
+# 
+# Il est à Marseille.
+# He's in Marseille.
+# 
+# Il est français.
+# He is French.
+# 
+# Il est près d'ici.
+# He's near here.
+# 
+# Il est fort.
+# He is strong.
+# 
+# Il est en France.
+# He's in France.
+# 
+# Il est en retard.
+# He's late. He's late.
+# 
+# Il est anglais.
+# He is English.
+# 
+# Il est en vacances.
+# He's on vacation.
+# 
+# Je suis en retard.
+# I'm late for work.
+# 
+# Je suis avec eux aujourd'hui.
+# I am with them today.
+# 
+# Je suis anglais.
+# I am English.
+# 
+# Je suis anglaise.
+# I am English.
+# 
+# Je suis en vacances aujourd'hui.
+# I'm on vacation today.
+# 
+# Je suis heureux.
+# I am happy.
+# 
+# Je suis au restaurant aujourd'hui.
+# I'm at the restaurant today.
+# 
+# Je suis au café.
+# I'm at the coffee shop.
+# 
+# Je suis à Londres aujourd'hui.
+# I'm in London today.
+# 
+# Je suis à Lyon aujourd'hui.
+# I am in Lyon today.
+# 
+# Nous sommes à Paris.
+# We are in Paris.
+# 
+# Nous sommes anglais.
+# We are English.
+# 
+# Nous sommes ici.
+# We are here.
+# 
+# Nous sommes en retard.
+# We are late for work.
+# 
+# Nous sommes heureux.
+# We are happy.
+# 
+# Nous sommes en vacances.
+# We are on holiday.
+# 
+# Nous sommes à Lyon.
+# We are in Lyon.
+# 
+# Nous sommes au restaurant.
+# We're at the restaurant.
+# 
+# Nous sommes ensemble.
+# We are together.
+# 
+# Nous sommes avec eux.
+# We are with them.
+# 
+# Vous êtes à Grenoble.
+# You are in Grenoble.
+# 
+# Vous êtes en retard.
+# You're late for work.
+# 
+# Vous êtes à Lyon aujourd'hui.
+# You are in Lyon today.
+# 
+# Vous êtes au café maintenant.
+# You're at the café now.
+# 
+# Vous êtes anglais.
+# You are English.
+# 
+# Vous êtes avec eux maintenant.
+# You're with them now.
+# 
+# Vous êtes ensemble aujourd'hui.
+# You're together today.
+# 
+# Vous êtes au restaurant.
+# You are at the restaurant.
+# 
+# Vous êtes à Paris aujourd'hui.
+# You are in Paris today.
+# 
+# Nous sommes français.
+# We are French.
+# 
+# On est français.
+# We are French.
+# 
+# M. Durand est français.
+# Mr. Durand is French.
+# 
+# Mlle. Courtois est française.
+# Miss Courtois is French.
+# 
+# Êtes-vous en retard?
+# Are you late for work?
+# 
+# Est-elle en retard?
+# Is she late?
+# 
+# Sont-ils en retard?
+# Are they late?
+# 
+# Est-il en retard?
+# Is he late?
+# 
+# Sommes-nous en retard?
+# Are we late?
+# 
+# Suis-je en retard?
+# Am I late?
+# 
+# Vous êtes français.
+# You are French.
+# 
+# Je suis français.
+# I am French.
+# 
+# Il est avec eux.
+# He is with them.
+# 
+# Mme Durand est ici.
+# Mrs. Durand is here.
+# 
+# Mme Durand est française.
+# Mrs. Durand is French.
+# 
+# Les enfants sont en retard.
+# The children are late.
+# 
 Janine est en retard.
 Janine's late.
 
