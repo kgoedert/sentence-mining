@@ -5180,7 +5180,7 @@ Welcher Mantel gefällt dir?
 Which coat do you like?
 
 Welche Farben gefallen dir?
-Which colors do you like?
+Which colors do you like?                   <<<<---- jenny
 
 Zisch ab, du Idiot!
 Buzz off, you idiot!
