@@ -11316,3 +11316,114 @@ The lion seems tired to me.
 
 Der Affe kommt mir müde vor.
 The monkey seems tired to me.
+
+Den Wagen finde ich gut.
+I like the car.
+
+Den Wagen finde ich schön.
+I think the car is beautiful.
+
+Die Frau finde ich schön.
+I think the woman is beautiful.
+
+Die Frau finde ich furchtbar.
+I find the woman terrible.
+
+Das Wetter finde ich furchtbar.
+I think the weather is terrible.
+
+Das Wetter finde ich angenehm.
+I find the weather pleasant.
+
+Die Reise finde ich angenehm.
+I find the journey pleasant.
+
+Die Reise finde ich zu lang.
+I find the journey too long.
+
+Den Film finde ich zu lang.
+I think the film is too long.
+
+Den Film finde ich zu kurz.
+I think the film is too short.
+
+Das Spiel finde ich zu kurz.
+I think the game is too short.
+
+Hoffentlich geht es ihm gut.
+Hopefully he is well.
+
+Leider geht es ihr nicht gut.
+Unfortunately she is not well.
+
+Natürlich kommen wir gleich.
+Of course we'll be there soon.
+
+Offenbar sieht er uns nicht.
+Apparently he doesn't see us.
+
+Offensichtlich ist es ihm egal.
+Obviously he doesn't care.
+
+Sicher liebt er sie.
+Surely he loves her.
+
+Übrigens wohnt er da.
+By the way, he lives there.
+
+Vielleicht sind sie schon zu Hause.
+Maybe they are already at home.
+
+Wahrscheinlich sind sie noch nicht zu Hause
+Probably they are not at home yet.
+
+Es geht ihm hoffentlich gut.
+I hope he's all right.
+
+Es geht ihr leider nicht gut.
+Unfortunately she is not well.
+
+Wir kommen natürlich gleich.
+Of course we will come soon.
+
+Er sieht uns offenbar nicht.
+He obviously does not see us.
+
+Es ist ihm offensichtlich egal.
+He obviously doesn't care.
+
+Sie sind vielleicht schon zu Hause.
+Maybe they are already at home.
+
+Sie sind wahrscheinlich noch nicht zu Hause.
+They are probably not at home yet.
+
+Sie sind bestimmt unterwegs.
+They are certainly on their way.
+
+Das ist mir neu.
+That is new to me.
+
+Das tut mir weh.
+That hurts me.
+
+Das ist mir egal.
+I don't care.
+
+Das tut mir gut.
+That does me good.
+
+Das ist mir recht.
+That's all right with me.
+
+Das tut mir leid.
+I am sorry for that.
+
+Das ist mir bekannt.
+I know that.
+
+Das ist mir wichtig.
+That is important to me.
+
+Das ist mir unangenehm.
+That is unpleasant for me.
