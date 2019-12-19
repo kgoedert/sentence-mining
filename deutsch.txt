@@ -11427,3 +11427,60 @@ That is important to me.
 
 Das ist mir unangenehm.
 That is unpleasant for me.
+
+Wir wollen sicherstellen, dass Markus kommt.
+We want to make sure Markus gets here.
+
+Wir wollen sicherstellen, dass Markus und Susanne kommen.
+We want to make sure that Markus and Susanne come.
+
+Wir wollen sicherstellen, dass ihr kommt.
+We want to make sure you come.
+
+Wir wollen sicherstellen, dass wir kommen.
+We want to make sure we come.
+
+Wir wollen sicherstellen, dass Rebecca kommt.
+We want to make sure Rebecca comes.
+
+Wir wollen sicherstellen, dass Sie kommen. 
+We want to make sure you come. 
+
+Wir wollen sicherstellen, dass ich komme.
+We want to make sure I come.
+
+Wir wollen sicherstellen, dass Sophie kommt.
+We want to make sure Sophie comes.
+
+Wir wollen sicherstellen, dass die Großeltern kommen.
+We want to make sure the grandparents come.
+
+Johannes soll zusehen, dass der Hund gefüttert ist.
+Johannes has to make sure that the dog is fed.
+
+Johannes soll zusehen, dass die Katze gefüttert ist.
+Johannes should see that the cat is fed.
+
+Johannes und Karin sollen zusehen, dass die Katze gefüttert ist.
+Johannes and Karin should see that the cat is fed.
+
+Johannes und Karin sollen zusehen, dass der Vogel gefüttert ist.
+Johannes and Karin are to see that the bird is fed.
+
+Ich soll zusehen, dass der Vogel gefüttert ist.
+I should see that the bird is fed.
+
+Ich soll zusehen, dass das Pferd gefüttert ist.
+I shall see that the horse is fed.
+
+Ihr sollt zusehen, dass das Pferd gefüttert ist.
+You shall see that the horse is fed.
+
+Ihr sollt zusehen, dass die Maus gefüttert ist.
+You shall see that the mouse is fed.
+
+Wir sollen zusehen, dass die Maus gefüttert ist.
+We shall see that the mouse is fed.
+
+Wir sollen zusehen, dass der Hase gefüttert ist.
+We should see that the rabbit is fed.
