@@ -11484,3 +11484,96 @@ We shall see that the mouse is fed.
 
 Wir sollen zusehen, dass der Hase gefüttert ist.
 We should see that the rabbit is fed.
+
+Das macht mich krank.
+It makes me sick.
+
+Das macht mich müde.
+It makes me tired.
+
+Das macht ihn müde.
+That makes him tired.
+
+Das macht ihn glücklich.
+That makes him happy.
+
+Das macht sie glücklich.
+That makes them happy.
+
+Das macht sie hungrig.
+It's making them hungry.
+
+Das macht euch hungrig.
+That makes you hungry.
+
+Das macht euch durstig.
+It makes you thirsty.
+
+Das macht Sie durstig.
+That makes you thirsty.
+
+Das macht Sie ärgerlich.
+That makes you angry.
+
+Das macht mich ärgerlich.
+That makes me angry.
+
+Das macht mich wütend.
+That makes me mad.
+
+Der Lärm macht mir Angst.
+The noise frightens me.
+
+Der Lärm macht dem Kind Angst.
+The noise frightens the child.
+
+Der Lärm macht ihm Angst.
+The noise frightens him.
+
+Der Lärm macht der Katze Angst.
+The noise frightens the cat.
+
+Der Lärm macht euch Angst.
+The noise frightens you.
+
+Der Lärm macht dem Pferd Angst.
+The noise frightens the horse.
+
+Der Lärm macht ihr Angst.
+That noise frightens her.
+
+Der Lärm macht der Maus Angst.
+The noise frightens the mouse.
+
+Der Lärm macht Ihnen Angst.
+The noise frightens you.
+
+Der Lärm macht dem Mädchen Angst.
+The noise frightens the girl.
+
+Sophie geht nicht hin. Doch, Sophie geht hin.
+Sophie won't go. Yes, Sophie's going.
+
+Markus kommt heute nicht. Doch, Markus kommt heute.
+Markus isn't coming today. Yes, Markus is coming today.
+
+Der Arzt schreibt keinen Brief. Doch, der Arzt schreibt den Brief.
+The doctor won't write a letter. Yes, the doctor writes the letter.
+
+Die Studenten sprechen nicht langsam. Doch, die Studenten sprechen langsam.
+The students don't speak slowly. Yes, the students speak slowly.
+
+Der Chef schickt kein Paket. Doch, der Chef schickt das Paket.
+The boss doesn't send a package. Yes, the boss sends the parcel.
+
+Christoph isst kein Gemüse. Doch, Christoph isst das Gemüse.
+Christoph doesn't eat vegetables. Yes, Christoph eats the vegetables.
+
+Die Eltern sprechen nicht laut. Doch, die Eltern sprechen laut.
+The parents don't speak loudly. Yes, the parents talk loud.
+
+Das Auto ist nicht teuer. Doch, das Auto ist teuer.
+The car is not expensive. Yes, the car is expensive.
+
+Wir bleiben nicht lange. Doch, wir bleiben lange.
+We won't stay long. Yes, we'll stay long.
