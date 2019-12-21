@@ -3343,8 +3343,77 @@ Tom is insightful.
 Das war eine aufschlussreiche Erfahrung.
 It was an eye-opening experience.
 
-Tom würde hier nicht mehr aufkreuzen.           <<<---- leech
+Tom würde hier nicht mehr aufkreuzen.          
 Tom won't show up here again.
+
+Antworte mir wenigstens.
+At least answer me.
+
+Versuch es wenigstens.
+At least try it.
+
+Du hast wenigstens geschlafen.
+At least you slept.
+
+Ich wollte ihr schmeicheln.
+I wanted to flatter her.
+
+Sie wollte mir schmeicheln.
+She wanted to flatter me.
+
+Wird das zusätzlich kosten?
+Will there be an extra charge for that?
+
+Wir brauchen zusätzliches Personal.
+We need additional staff.
+
+Wieviel zusätzliches Geld brauchen wir?
+How much more money do we need?
+
+Unsere Bemühungen waren vergeblich.
+All our efforts were in vain.
+
+Es war alles vergeblich.
+It was all in vain.
+
+Ich entwerfe gerade einen Plan.
+I'm drafting a plan.
+
+Ich muss ein neues Plakat für den Film entwerfen.
+I have to design a new poster for the movie.
+
+Was sind deine Schlussfolgerungen?
+What are your conclusions?
+
+Das ist Ihre Schlussfolgerung, nicht meine.
+That's your conclusion, not mine.
+
+Es ist die einzig mögliche Schlussfolgerung.
+It's the only possible conclusion.
+
+Das ist eine große Errungenschaft.
+It's a big achievement.
+
+Wir benutzen nur den Keller für die Aufbewahrung
+We only use our basement for storage.
+
+Er sprang über einen Graben.
+He jumped over a ditch.
+
+Haben Sie einen Fahrplan?
+Do you have a timetable?
+
+Die Züge fahren nach Fahrplan.
+The trains are running on schedule.
+
+Könnte ich einen Fahrplan haben?
+May I have a timetable?
+
+Wir verfahren dem Plan entsprechend.
+We're proceeding according to plan.
+
+Es ist ansonsten korrekt.               <<<<---- leech
+It is otherwise correct.
 
 Ich wurde verhört.
 I was interrogated.
