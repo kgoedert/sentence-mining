@@ -84,25 +84,12 @@ Rauschen
 Aussehen
 
 01/12/2019
-verständigen
-verlogen
-unvermutet
-sogar
-sich freuen
-scheuern
-lauern
-Ersatz
-Schnitte
-anrückeln
-Laut
-Gestänk
-Ausschuss
-betreten
-begeistern
-aufschlussreich
-aufkreuzen
+verständigen, verlogen, unvermutet, sogar, sich freuen, scheuern, lauern, Ersatz, Schnitte, anrückeln, Laut, Gestänk, Ausschuss, betreten, begeistern, aufschlussreich, aufkreuzen
 
 21/12/2019
 wenigstens, schmeicheln, **rückblickend**, **rasseln**, **knallen**, zusätzlich, vergeblich, entwerfen, Schlussfolgerung,
 **Rücksicht**, Errungenschaft, Aufbewahrung, Staub, Graben, Fahrplan, **Anflug**, verfahren, **ausschreiben**, anstreichen,
 ansonsten
+
+22/12/2019
+Rüssel, lauern

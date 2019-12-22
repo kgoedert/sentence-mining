@@ -3412,8 +3412,11 @@ May I have a timetable?
 Wir verfahren dem Plan entsprechend.
 We're proceeding according to plan.
 
-Es ist ansonsten korrekt.               <<<<---- leech
+Es ist ansonsten korrekt.              
 It is otherwise correct.
+
+Elefanten haben einen langen Rüssel.
+Elephants have long trunks.
 
 Ich wurde verhört.
 I was interrogated.
