@@ -3415,7 +3415,7 @@ We're proceeding according to plan.
 Es ist ansonsten korrekt.              
 It is otherwise correct.
 
-Elefanten haben einen langen Rüssel.
+Elefanten haben einen langen Rüssel.        <<<--- leech
 Elephants have long trunks.
 
 Ich wurde verhört.
