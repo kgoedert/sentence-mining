@@ -11649,3 +11649,93 @@ The car is not expensive. Yes, the car is expensive.
 
 Wir bleiben nicht lange. Doch, wir bleiben lange.
 We won't stay long. Yes, we'll stay long.
+
+Spielen macht mir Spaß.
+I enjoy playing.
+
+Spielen macht Sophie Spaß.
+Playing is fun for Sophie.
+
+Spielen macht uns Spaß.
+We have fun playing.
+
+Spielen macht dem Hund Spaß.
+Playing is fun for the dog.
+
+Spielen macht den Kindern Spaß.
+Playing is fun for the children.
+
+Spielen macht Ihnen Spaß.
+Playing is fun for you.
+
+Spielen macht der Katze Spaß.
+Playing is fun for the cat.
+
+Spielen macht ihm Spaß.
+Playing is fun for him.
+
+Spielen macht den Eltern Spaß.
+Playing is fun for parents.
+
+Spielen macht Josias Spaß.
+Playing makes Josias fun.
+
+Spielen macht ihr Spaß.
+Playing makes her fun.
+
+Spielen macht den Großeltern Spaß.
+Playing is fun for grandparents.
+
+Es ist mir heiß.
+I'm hot.
+
+Es ist mir kalt.
+I'm cold.
+
+Es ist dem Baby kalt.
+The baby's cold.
+
+Es ist dem Baby angenehm.
+It's comfortable for the baby.
+
+Es ist der Frau angenehm.
+It's comfortable for the woman.
+
+Es ist der Frau unangenehm.
+It's uncomfortable for the woman.
+
+Es ist ihm unangenehm.
+He is uncomfortable.
+
+Es ist ihm warm.
+He's warm.
+
+Es ist mir warm.
+I'm warm.
+
+Ich habe Hunger.
+I'm hungry.
+
+Ich habe Durst.
+I'm thirsty.
+
+Markus hat Durst.
+Markus is thirsty.
+
+Markus hat recht.
+Markus is right.
+
+Markus und Susanne haben recht.
+Markus and Susanne are right.
+
+Markus und Susanne haben Angst.
+Markus and Susanne are scared.
+
+Ihr habt Angst.
+You're afraid.
+
+Ihr habt Hunger.
+You're hungry.
+
+Ich habe Hunger.
+I'm hungry.
