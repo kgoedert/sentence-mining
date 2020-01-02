@@ -11739,3 +11739,87 @@ You're hungry.
 
 Ich habe Hunger.
 I'm hungry.
+
+Susanne ist durstig.
+Susanne is thirsty.
+
+Susanne ist krank.
+Susanne's sick.
+
+Ihr seid krank.
+You're sick.
+
+Ihr seid wütend.
+You're angry.
+
+Susanne und ich sind wütend.
+Susanne and I are angry.
+
+Susanne und ich sind hungrig.
+Susanne and I are hungry.
+
+Es geht mir schlecht.
+I'm not well.
+
+Es geht Ihnen schlecht.
+You are miserable.
+
+Es geht Ihnen besser.
+You are better.
+
+Es geht Elmar besser.
+Elmar's better.
+
+Es geht Elmar gut.
+Elmar's fine.
+
+Es geht dem Unternehmen gut.
+The company is fine.
+
+Es geht dem Unternehmen schlecht.
+The company is doing badly.
+
+Es geht euch schlecht.
+You're doing badly.
+
+Es geht euch gut.
+You're doing well.
+
+Es geht uns gut.
+We're doing well.
+
+Ich verstehe Sie.
+I hear you.
+
+Ich verstehe Sie auch gut.
+I understand you well, too.
+
+Ich verstehe Sie sehr gut.
+I understand you very well.
+
+Ich verstehe Sie nicht.
+I don't understand you.
+
+Ich verstehe Sie auch nicht.
+I don't understand you either.
+
+Ich verstehe Sie auch nicht gut.
+I don't understand you very well either.
+
+Verstehen Sie mich gut?
+Do you understand me well?
+
+Verstehen Sie mich auch gut?
+Do you understand me well?
+
+Verstehen Sie mich sehr gut?
+Do you understand me very well?
+
+Verstehen Sie mich nicht?
+Don't you understand me very well?
+
+Verstehen Sie mich auch nicht?
+Don't you understand me either?
+
+Verstehen Sie mich auch nicht gut?
+Don't you understand me well, either?
