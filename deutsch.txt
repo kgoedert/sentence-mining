@@ -3415,8 +3415,11 @@ We're proceeding according to plan.
 Es ist ansonsten korrekt.              
 It is otherwise correct.
 
-Elefanten haben einen langen Rüssel.        <<<--- leech
+Elefanten haben einen langen Rüssel.    
 Elephants have long trunks.
+
+Sesamöl im Wok erhitzen und Butter zerlassen.
+Heat the sesame oil in the wok and melt the butter.     <<<--- leech
 
 Ich wurde verhört.
 I was interrogated.
