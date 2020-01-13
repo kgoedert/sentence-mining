@@ -3419,7 +3419,10 @@ Elefanten haben einen langen Rüssel.
 Elephants have long trunks.
 
 Sesamöl im Wok erhitzen und Butter zerlassen.
-Heat the sesame oil in the wok and melt the butter.     <<<--- leech
+Heat the sesame oil in the wok and melt the butter.   
+
+Versau es nicht!            <<<--- leech
+Don't screw it up!
 
 Ich wurde verhört.
 I was interrogated.
