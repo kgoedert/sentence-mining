@@ -3421,8 +3421,17 @@ Elephants have long trunks.
 Sesamöl im Wok erhitzen und Butter zerlassen.
 Heat the sesame oil in the wok and melt the butter.   
 
-Versau es nicht!            <<<--- leech
+Versau es nicht!            
 Don't screw it up!
+
+Weck mich.
+Wake me up.
+
+Weck mich um acht.
+Get me up at eight.
+
+Ich muss Tom wecken.
+I have to wake Tom up.      <<<--- leech
 
 Ich wurde verhört.
 I was interrogated.
