@@ -7980,3 +7980,132 @@ Where's the maid?
 
 Où est mon amie Janine?
 Where's my friend Janine?
+
+Voilà. C'est la porte là-bas.
+There you go. That's the door over there.
+
+Voilà. C'est la porte en face.
+That's the door over there. That's the door across the street.
+
+Voilà. C'est la porte tout droit.
+That's the door. That's the door straight ahead.
+
+Voilà. C'est la porte à côté.
+That's the door right there. That's the next door.
+
+Pour quel jour?
+What's the day?
+
+Pour quel enfant?
+What child?
+
+Pour quelle classe?
+For which class?
+
+Pour quel livre?
+For which book?
+
+Pour quel frère?
+For which brother?
+
+Pour quel train?
+For which train?
+
+Pour quelle place?
+For which seat?
+
+Pour quelle chambre?
+For which room?
+
+Ils arrivent là-bas.
+They're coming there.
+
+Ils arrivent à la gare.
+They're coming to the station.
+
+Nous arrivons à la gare.
+We're coming to the station.
+
+Nous arrivons à cinq heures.
+We arrive at five o'clock.
+
+J'arrive à cinq heures.
+I arrive at five o'clock.
+
+J'arrive en face de la gare.
+I'm coming in front of the station.
+
+Elle arrive en face de la gare.
+She's coming in front of the station.
+
+Elle arrive ici.
+She's coming here.
+
+Elles arrivent ici.
+They're coming here.
+
+Deux billets pour Lille, s'il vous plaît.
+Two tickets to Lille, please.
+
+Cinq billets pour Bordeaux, s'il vous plaît.
+Five tickets to Bordeaux, please.
+
+Trois billets pour Bordeaux, s'il vous plaît.
+Three tickets to Bordeaux, please.
+
+Quatre billets pour Marseille, s'il vous plaît.
+Four tickets to Marseille, please.
+
+Quatre billets pour Nantes, s'il vous plaît.
+Four tickets to Nantes, please.
+
+Un billet pour Nantes, s'il vous plaît.
+One ticket to Nantes, please.
+
+Un billet pour Paris, s'il vous plaît.
+One ticket to Paris, please.
+
+Vous partez par quel train?
+Which train are you leaving on?
+
+Vous arrivez par quel train?
+What train are you arriving on?
+
+Vous arrivez à quelle heure?
+What time are you arriving?
+
+Vous déjeunez à quelle heure?
+What time do you have lunch?
+
+Vous déjeunez à quel hôtel?
+What hotel are you having lunch at?
+
+Vous allez à quel hôtel?
+Which hotel are you going to?
+
+Vous allez à quelle gare?
+Which station are you going to?
+
+Vous arrivez à quelle gare?
+What station are you arriving at?
+
+Nous allons réserver deux places côté fenêtre.
+We're going to reserve two window seats.
+
+Nous allons réserver trois chambres.
+We'll book three rooms.
+
+Il va prendre trois chambres.
+He's going to take three rooms.
+
+Il va prendre un billet pour Paris.
+He's going to get a ticket to Paris.
+
+Je vais vous donner un billet pour Paris.
+I'm going to give you a ticket to Paris.
+
+Je peux vous donner une place en train couchette.
+I can give you a seat on the sleeper train.
+
+Je voudrais réserver une place en train couchette.
+I'd like to reserve a seat on the sleeper train.
