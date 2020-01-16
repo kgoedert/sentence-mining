@@ -8109,3 +8109,108 @@ I can give you a seat on the sleeper train.
 
 Je voudrais réserver une place en train couchette.
 I'd like to reserve a seat on the sleeper train.
+
+Combien de boîtes avez-vous?
+How many boxes do you have?
+
+Combien de fiches voulez-vous?
+How many cards do you want?
+
+Combien de places voulez-vous?
+How many places do you want?
+
+Combien de places y a-t-il?
+How many places are there?
+
+Combien de livres y a-t-il?
+How many books are there?
+
+Combien de livres avons-nous?
+How many books do we have?
+
+Combien de billets avons-nous?
+How many tickets do we have?
+
+Combien de billets ont-ils?
+How many tickets do they have?
+
+Combien de boîtes ont-ils?
+How many boxes do they have?
+
+Où est-ce que je peux réserver mes places?
+Where can I reserve my seats?
+
+Où est-ce que je peux prendre les billets?
+Where can I pick up the tickets?
+
+Quand est-ce que je dois prendre les billets?
+When should I pick up the tickets?
+
+Quand est-ce que je dois acheter les places?
+When do I have to buy the tickets?
+
+Pourquoi est-ce que je dois acheter les places?
+Why do I have to buy the tickets?
+
+Pourquoi est-ce que je dois changer de train?
+Why do I have to change trains?
+
+Pourquoi est-ce que vous voulez changer de train?
+Why do you want to change trains?
+
+Pourquoi est-ce que vous voulez déjeuner là-bas?
+Why do you want to have lunch there?
+
+Quand est-ce que je dois déjeuner là-bas?
+When should I have lunch there?
+
+Quand est-ce que je dois réserver mes places?
+When do I have to reserve my seats?
+
+Je voudrais acheter deux places.
+I would like to buy two tickets.
+
+Elle va acheter deux places.
+She's going to buy two tickets.
+
+Elle va prendre le train.
+She's going to take the train.
+
+Nous allons prendre le train.
+We are going to take the train.
+
+Nous allons déjeuner en face.
+We're going to have lunch across the street.
+
+Je voudrais déjeuner en face.
+I'd like to have lunch across the street.
+
+Je voudrais aller à Paris.
+I'd like to go to Paris.
+
+Vous pouvez aller a Paris.
+You can go to Paris.
+
+Vous pouvez avoir une place côté fenêtre.
+You can have a window seat.
+
+Je voudrais avoir une place côté fenêtre.
+I'd like to have a window seat.
+
+Je voudrais acheter deux places.
+I'd like to buy two seats.
+
+Je voudrais acheter deux places pour Lille.
+I'd like to buy two tickets to Lille.
+
+Je voudrais acheter quatre places pour Marseille.
+I'd like to buy four tickets to Marseille.
+
+Il voudrait acheter trois places pour Paris.
+He'd like to buy three tickets to Paris.
+
+Elle voudrait acheter trois places pour Paris.
+She'd like to buy three tickets to Paris.
+
+Elle voudrait acheter trois places pour Nantes.
+She'd like to buy three tickets to Nantes.
