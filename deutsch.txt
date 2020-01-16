@@ -3431,7 +3431,16 @@ Weck mich um acht.
 Get me up at eight.
 
 Ich muss Tom wecken.
-I have to wake Tom up.      <<<--- leech
+I have to wake Tom up.      
+
+Urplötzlich gingen die Lichter an.
+All of a sudden, the lights went on.
+
+Warum ist sie so urplötzlich abgehauen?
+Why did she leave so suddenly?
+
+Urplötzlich waren Tom und ich allein.       <<<--- leech
+All of a sudden, Tom and I were alone.
 
 Ich wurde verhört.
 I was interrogated.
