@@ -3788,179 +3788,179 @@
 # Ernesto has more students than Guadalupe.
 # 
 # Pedro tiene más amigos que Antonio.
-# Pedro has more friends than Antonio.
+# # Pedro has more friends than Antonio.
+# # 
+# # Antes había menos coches que ahora.
+# # Before there were less cars than now.
+# # 
+# # Ahora tengo menos sueño.
+# # Now I feel less sleepy.
+# # 
+# Hoy no hay tanta gente como ayer.
+# Today there is less people than yesterday.
 # 
-# Antes había menos coches que ahora.
-# Before there were less cars than now.
+# No tengo tantos amigos como mi hermana.
+# I don't have as many friends as my sister.
 # 
-# Ahora tengo menos sueño.
-# Now I feel less sleepy.
+# Rodolfo tiene más vacaciones que tú, pero tú haces más viajes que él.
+# Rodolfo has more vacation days than you, but you travel more than him.
 # 
-Hoy no hay tanta gente como ayer.
-Today there is less people than yesterday.
-
-No tengo tantos amigos como mi hermana.
-I don't have as many friends as my sister.
-
-Rodolfo tiene más vacaciones que tú, pero tú haces más viajes que él.
-Rodolfo has more vacation days than you, but you travel more than him.
-
-¿Tienes tanto hambre como yo?
-Are you as hungry as me?
-
-Ahora tengo menos hambre.
-Now I am less hungry.
-
-Hoy no hay tanta gente.
-There is fewer people today.
-
-Sonia tiene cerca de cien CD.
-Sonia has about a hundred CDs.
-
-Yo tengo más.
-I have more.
-
-Pues yo no tengo tantos.
-Well, I don't have that many.
-
-Elisa tiene una gran colección de CD.
-Elisa has a huge CDs collection.
-
-Yo tengo tantos como ella.
-I have as many as her.
-
-Pide lo que quieras. Yo invito.
-Ask whatever you want. I am inviting.
-
-Sonreíd. Os voy a hacer una foto.
-Smile. I will take a picture of you.
-
-No frías toda la carne. No tengo hambre.
-Don't fry all the meat. I am not hungry.
-
-Riega las plantas todos los días.
-Water the plants everyday.
-
-No despiertes a Sonia. Está cansada.
-Don't wake Sonia up. She is tired.
-
-Cuenta hasta diez.
-Count up to ten.
-
-No muevan la mesa.
-Don't move the table.
-
-Di algo. No estés callado.
-Say something. Don't stay quiet/
-
-Haz la comida. Es tarde.
-Make the food. It is late.
-
-No hagas ruido.
-Don't make noise.
-
-Enrique, Sofia, poned la mesa.
-Enrique, Sofia, set the table.
-
-¡Sal de aquí ahora mismo!
-Get out of here right now!
-
-No salgan. Hace mucho frío.
-Don't go out. It is very cold.
-
-No tengáis miedo. No pasa nada.
-Don't be afraid. Nothing is happening.
-
-Tenga cuidado. Este cruce es peligroso.
-Be careful. This crossing is dangerous.
-
-Venid aquí.
-Come here.
-
-No vengas ahora. Estoy ocupado.
-Don't come now. I am busy.
-
-Sé amable, Lola.
-Be nice, Lola.
-
-No seáis impacientes.
-Don't be impacient.
-
-Susana, ve a comprar pan.
-Susana, go buy bread.
-
-No vayáis a casa de Martín. No está.
-Don't go to Martín's. He is not home.
-
-Traiga la cuenta, por favor.
-Bring the check, please.
-
-No traigáis nada para la fiesta.
-Don't bring anything to the party.
-
-Conduzca con cuidado, por favor.
-Drive carefully, please.
-
-¡Lávate ahora mismo!
-Go wash yourself right now!
-
-Quítase la camisa, por favor!
-Take off your shirt, please!
-
-Son las ocho. Levántate.
-It is eight o'clock. Get up.
-
-No te atrevas a ir solo.
-Don't dare to go by yourself.
-
-No se suban a la estatua, por favor.
-Don't go up the statue, please.
-
-Lávate las manos.
-Wash your hands.
-
-Mira esta lámpara. Cómprala. Es muy bonita.
-Look at this lamp. Buy it. It is very beautiful.
-
-No la compres. A mí no me gusta.
-Don't buy it. I don't like it.
-
-Préstame tu diccionario.
-Lend me your dictionary.
-
-No le prestes el tuyo, yo tengo dos.
-Don't lend him yours, I have two.
-
-Deme ese libro, por favor.
-Give me that book please.
-
-Enseñadles el mapa.
-Show them the map.
-
-Dinos la verdad.
-Tell us the truth.
-
-A Jorge le gusta tu dibujo. Regálaselo.
-Jorge likes your drawing. Give it to him.
-
-Tienes las manos sucias. Lávatelas.
-Your hands are dirty. Wash them.
-
-Este es tu despacho. Espero que trabajes a gusto.
-This is your office. I hope you work comfortably.
-
-¿Dónde está Pepe?
-Where is Pepe?
-
-No sé. Puede que esté en su habitación.
-I don't know. Maybe he is in his room.
-
-No me gusta que comáis nada antes de las comidas.
-I don't like you eating anything before meals.
-
-Puede qeu Sonia esté ahora en casa.
-Maybe Sonia is at home now.
-
+# ¿Tienes tanto hambre como yo?
+# Are you as hungry as me?
+# 
+# Ahora tengo menos hambre.
+# Now I am less hungry.
+# 
+# Hoy no hay tanta gente.
+# There is fewer people today.
+# 
+# Sonia tiene cerca de cien CD.
+# Sonia has about a hundred CDs.
+# 
+# Yo tengo más.
+# I have more.
+# 
+# Pues yo no tengo tantos.
+# Well, I don't have that many.
+# 
+# Elisa tiene una gran colección de CD.
+# Elisa has a huge CDs collection.
+# 
+# Yo tengo tantos como ella.
+# I have as many as her.
+# 
+# Pide lo que quieras. Yo invito.
+# Ask whatever you want. I am inviting.
+# 
+# Sonreíd. Os voy a hacer una foto.
+# Smile. I will take a picture of you.
+# 
+# No frías toda la carne. No tengo hambre.
+# Don't fry all the meat. I am not hungry.
+# 
+# Riega las plantas todos los días.
+# Water the plants everyday.
+# 
+# No despiertes a Sonia. Está cansada.
+# Don't wake Sonia up. She is tired.
+# 
+# Cuenta hasta diez.
+# Count up to ten.
+# 
+# No muevan la mesa.
+# Don't move the table.
+# 
+# Di algo. No estés callado.
+# Say something. Don't stay quiet/
+# 
+# Haz la comida. Es tarde.
+# Make the food. It is late.
+# 
+# No hagas ruido.
+# Don't make noise.
+# 
+# Enrique, Sofia, poned la mesa.
+# Enrique, Sofia, set the table.
+# 
+# ¡Sal de aquí ahora mismo!
+# Get out of here right now!
+# 
+# No salgan. Hace mucho frío.
+# Don't go out. It is very cold.
+# 
+# No tengáis miedo. No pasa nada.
+# Don't be afraid. Nothing is happening.
+# 
+# Tenga cuidado. Este cruce es peligroso.
+# Be careful. This crossing is dangerous.
+# 
+# Venid aquí.
+# Come here.
+# 
+# No vengas ahora. Estoy ocupado.
+# Don't come now. I am busy.
+# 
+# Sé amable, Lola.
+# Be nice, Lola.
+# 
+# No seáis impacientes.
+# Don't be impacient.
+# 
+# Susana, ve a comprar pan.
+# Susana, go buy bread.
+# 
+# No vayáis a casa de Martín. No está.
+# Don't go to Martín's. He is not home.
+# 
+# Traiga la cuenta, por favor.
+# Bring the check, please.
+# 
+# No traigáis nada para la fiesta.
+# Don't bring anything to the party.
+# 
+# Conduzca con cuidado, por favor.
+# Drive carefully, please.
+# 
+# ¡Lávate ahora mismo!
+# Go wash yourself right now!
+# 
+# Quítase la camisa, por favor!
+# Take off your shirt, please!
+# 
+# Son las ocho. Levántate.
+# It is eight o'clock. Get up.
+# 
+# No te atrevas a ir solo.
+# Don't dare to go by yourself.
+# 
+# No se suban a la estatua, por favor.
+# Don't go up the statue, please.
+# 
+# Lávate las manos.
+# Wash your hands.
+# 
+# Mira esta lámpara. Cómprala. Es muy bonita.
+# Look at this lamp. Buy it. It is very beautiful.
+# 
+# No la compres. A mí no me gusta.
+# Don't buy it. I don't like it.
+# 
+# Préstame tu diccionario.
+# Lend me your dictionary.
+# 
+# No le prestes el tuyo, yo tengo dos.
+# Don't lend him yours, I have two.
+# 
+# Deme ese libro, por favor.
+# Give me that book please.
+# 
+# Enseñadles el mapa.
+# Show them the map.
+# 
+# Dinos la verdad.
+# Tell us the truth.
+# 
+# A Jorge le gusta tu dibujo. Regálaselo.
+# Jorge likes your drawing. Give it to him.
+# 
+# Tienes las manos sucias. Lávatelas.
+# Your hands are dirty. Wash them.
+# 
+# Este es tu despacho. Espero que trabajes a gusto.
+# This is your office. I hope you work comfortably.
+# 
+# ¿Dónde está Pepe?
+# Where is Pepe?
+# 
+# No sé. Puede que esté en su habitación.
+# I don't know. Maybe he is in his room.
+# 
+# No me gusta que comáis nada antes de las comidas.
+# I don't like you eating anything before meals.
+# 
+# Puede qeu Sonia esté ahora en casa.
+# Maybe Sonia is at home now.
+# 
 Mi padre quiere que le ayude mañana.
 My father wants me to help him tomorrow.
 
