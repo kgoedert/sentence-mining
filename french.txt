@@ -8214,3 +8214,132 @@ She'd like to buy three tickets to Paris.
 
 Elle voudrait acheter trois places pour Nantes.
 She'd like to buy three tickets to Nantes.
+
+C'est ce restaurant.
+It's this restaurant.
+
+C'est ce café.
+It's this café.
+
+C'est ce billet.
+It's this ticket.
+
+C'est ce monsieur.
+It's this gentleman.
+
+C'est ce matin.
+It's this morning.
+
+C'est ce soir.
+It's tonight.
+
+C'est ce livre.
+It's this book.
+
+C'est ce train.
+That's this train.
+
+C'est ce bureau.
+It's this desk.
+
+C'est cette rue.
+It's this street.
+
+C'est cette femme.
+It's that woman.
+
+C'est cette porte.
+It's that door.
+
+C'est cette chambre.
+It's this room.
+
+C'est cette fiche.
+It's this file.
+
+C'est cette date.
+That's this date.
+
+C'est cette boîte.
+That's this box.
+
+C'est cette valise.
+It's this suitcase.
+
+C'est cette couchette.
+It's this bunk.
+
+C'est pour cet étage.
+It's for this floor.
+
+C'est pour cet ami.
+It's for this friend.
+
+C'est pour cet enfant.
+It's for that child.
+
+C'est pour cet hôtel.
+It's for this hotel.
+
+C'est pour cet après-midi.
+It's for this afternoon.
+
+C'est pour cet étage.
+It's for this floor.
+
+C'est pour ces étages.
+It's for these floors.
+
+C'est pour ces amis.
+It's for these friends.
+
+C'est pour ces enfants.
+It's for those kids.
+
+C'est pour ces hôtels.
+It's for these hotels.
+
+C'est pour ces hommes.
+It's for these men.
+
+Voulez-vous ces billets?
+Do you want these tickets?
+
+Voulez-vous ces livres?
+Do you want these books?
+
+Voulez-vous ces fiches?
+Do you want these cards?
+
+Voulez-vous ces valises?
+Do you want these suitcases?
+
+Voulez-vous ces couchettes?
+Do you want these bunks?
+
+Voulez-vous ces chambres?
+Do you want these rooms?
+
+C'est pour cette date.
+It's for that date.
+
+C'est pour cet enfant.
+It's for this child.
+
+C'est pour ces enfants.
+It's for those children.
+
+C'est pour ce matin.
+It's for this morning.
+
+C'est pour cet hôtel.
+It's for this hotel.
+
+C'est pour ces hôtels.
+It's for these hotels.
+
+C'est pour cette chambre.
+It's for this room.
+
+C'est pour ces chambres.
+It's for these rooms.
