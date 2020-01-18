@@ -3439,8 +3439,17 @@ All of a sudden, the lights went on.
 Warum ist sie so urplötzlich abgehauen?
 Why did she leave so suddenly?
 
-Urplötzlich waren Tom und ich allein.       <<<--- leech
+Urplötzlich waren Tom und ich allein.       
 All of a sudden, Tom and I were alone.
+
+Ich musste sie verhaften.
+I had to arrest her.
+
+Die Polizei könnte dich dafür verhaften.
+You could get arrested for that.
+
+Aus welchem Grund verhaften Sie mich?       <<<--- leech
+On what grounds are you arresting me?
 
 Ich wurde verhört.
 I was interrogated.
