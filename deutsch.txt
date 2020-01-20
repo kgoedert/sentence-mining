@@ -3451,8 +3451,14 @@ You could get arrested for that.
 Aus welchem Grund verhaften Sie mich?      
 On what grounds are you arresting me?
 
-Das Haus kann zwei Familien unterbringen.       <<<-- leech
+Das Haus kann zwei Familien unterbringen.      
 The house could accommodate two families.
+
+Beim nächsten Mal vereinbaren wir einen Treffpunkt.
+Next time we'll agree on a meeting place.
+
+Vereinbare was du magst.            <<<--- leech
+Make any arrangements you like.
 
 Ich wurde verhört.
 I was interrogated.
