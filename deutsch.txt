@@ -3457,8 +3457,20 @@ The house could accommodate two families.
 Beim nächsten Mal vereinbaren wir einen Treffpunkt.
 Next time we'll agree on a meeting place.
 
-Vereinbare was du magst.            <<<--- leech
+Vereinbare was du magst.            
 Make any arrangements you like.
+
+Du wirst umgehend gebraucht.
+You're needed at once.
+
+Er verlangt umgehende Vergütung.
+He demands immediate payment.
+
+Ich entschuldigte mich umgehend.
+I apologized immediately.
+
+Ich werde das sicherstellen.        <<<--- leech
+I will make sure of it.
 
 Ich wurde verhört.
 I was interrogated.
