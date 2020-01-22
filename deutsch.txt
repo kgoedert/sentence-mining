@@ -3469,8 +3469,23 @@ He demands immediate payment.
 Ich entschuldigte mich umgehend.
 I apologized immediately.
 
-Ich werde das sicherstellen.        <<<--- leech
+Ich werde das sicherstellen.     
 I will make sure of it.
+
+Der Satellitenstart wurde direkt übertragen.
+The satellite launch was broadcast live.
+
+Ihre Hochzeit wurde im Fernsehen übertragen.
+Their wedding was televised on TV.
+
+Das Konzert wurde live übertragen.
+The concert was broadcast live.
+
+Tom ist völlig übergeschnappt.
+Tom is completely nuts.
+
+Du bist völlig übergeschnappt.          <<<--- leech
+You have totally lost your mind.
 
 Ich wurde verhört.
 I was interrogated.
