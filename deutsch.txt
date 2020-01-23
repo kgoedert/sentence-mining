@@ -3484,8 +3484,26 @@ The concert was broadcast live.
 Tom ist völlig übergeschnappt.
 Tom is completely nuts.
 
-Du bist völlig übergeschnappt.          <<<--- leech
+Du bist völlig übergeschnappt.         
 You have totally lost your mind.
+
+Ich weigere mich.
+I refuse.
+
+Ich muss mich weigern.
+I must refuse.
+
+Ich weigere mich zu antworten.
+I refuse to answer.
+
+Vergewisser dich bitte.
+Please make sure.
+
+Ich vergewissere mich nur.
+I'm just making sure.
+
+Vergewissere dich, dass dir niemand folgt.          <<<-- leech
+Make sure you're not being followed.
 
 Ich wurde verhört.
 I was interrogated.
