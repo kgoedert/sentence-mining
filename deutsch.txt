@@ -3502,8 +3502,137 @@ Please make sure.
 Ich vergewissere mich nur.
 I'm just making sure.
 
-Vergewissere dich, dass dir niemand folgt.          <<<-- leech
+Vergewissere dich, dass dir niemand folgt.          
 Make sure you're not being followed.
+
+Verdreh mir nicht den Ellbogen.
+Don't twist my elbow.
+
+Hör auf, mir die Worte zu verdrehen!
+Stop twisting my words.
+
+Bist du schüchtern?
+Are you shy?
+
+Ich bin schüchtern.
+I'm shy.
+
+Maria lächelte schüchtern.
+Mary smiled shyly.
+
+Hör auf Käsebällchen auf mich zu schmeißen!
+Stop throwing cheese balls at me!
+
+Tom wurde aufgebracht.
+Tom became upset.
+
+Tom klingt aufgebracht.
+Tom sounds upset.
+
+Er ist sehr aufgebracht.
+He's very angry.
+
+Wir überprüfen das gesamte Gebiet.
+We're checking the whole area.
+
+Das gesamte Geld ist weg.
+All the money is gone.
+
+Die gesamte Stadt war ohne Strom.
+The entire city was without electricity.
+
+Rechts und links sind Gegensätze.
+Right and left are opposites.
+
+Er will künftig Arzt werden.
+He wants to be a doctor in the future.
+
+Was willst du künftig einmal werden?
+What are you going to be in the future?
+
+Ich entwerfe gerade einen Plan.
+I'm drafting a plan.
+
+Ich muss ein neues Plakat für den Film entwerfen.
+I have to design a new poster for the movie.
+
+Ich bin verschwiegen.
+I'm quiet.
+
+Tom verschwieg wichtige Informationen.
+Tom withheld some important information.
+
+Tom war immer verschwiegen.
+Tom was always secretive.
+
+Vergiss die letzte Zeile.
+Forget the last line.
+
+Schreib auf jede zweite Zeile.
+Schreibt auf jede zweite Zeile.
+
+Ich habe eine Verabredung.
+I have a date.
+
+Ich habe keine Verabredung.     
+I don't have a date.
+
+Ich will Tatsachen.
+I want facts.
+
+Meinungen sind nicht Tatsachen.
+Opinions are not facts.
+
+Das ist eine Tatsache.
+This is a fact.
+
+Sie verloren die Schlacht.
+They lost the battle.
+
+Die Schlacht geht weiter!
+The battle goes on!
+
+Wir haben die Schlacht gewonnen.
+We won the battle.
+
+Kumi bastelte eine Schachtel.
+Kumi made a box.
+
+Nimm diese Schachtel mit!
+Take away this box.
+
+Öffnest du die Schachtel?
+Did you open the box?
+
+Das ist eine große Errungenschaft.
+It's a big achievement.
+
+Die Einrichtung muss geschützt werden.
+The institution must be protected.
+
+Sie hegten keinen Verdacht.
+They suspected nothing.
+
+Tom hat keinen Verdacht.
+Tom suspects nothing.
+
+Der Gestank widerte uns an.
+The bad smell disgusted us.
+
+Ich finde diesen Gestank widerlich.
+This smell disgusts me.
+
+Ich kann diesen Gestank nicht ertragen.
+I can't put up with this smell.
+
+Der Urteil war unvermeidlich.
+The decision was unavoidable.
+
+Vorschnelle Urteile sind gefährlich.
+Quick judgements are dangerous.
+
+Traust du meinem Urteil?        <<<--- leech
+Do you trust my judgment?
 
 Ich wurde verhört.
 I was interrogated.

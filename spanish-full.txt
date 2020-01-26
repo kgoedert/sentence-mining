@@ -3958,9 +3958,6 @@
 # No me gusta que comáis nada antes de las comidas.
 # I don't like you eating anything before meals.
 # 
-# Puede qeu Sonia esté ahora en casa.
-# Maybe Sonia is at home now.
-# 
 Mi padre quiere que le ayude mañana.
 My father wants me to help him tomorrow.
 
@@ -11499,3 +11496,6 @@ It seems incredible that people saw the accident and did nothing.
 
 Sería lamentable que nos despidiéramos enfadados.
 It would be unfortunate if we said goodbye in anger.
+
+Puede que Sonia esté ahora en casa.
+Maybe Sonia is at home now.
