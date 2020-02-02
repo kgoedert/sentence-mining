@@ -3631,8 +3631,50 @@ The decision was unavoidable.
 Vorschnelle Urteile sind gefährlich.
 Quick judgements are dangerous.
 
-Traust du meinem Urteil?        <<<--- leech
+Traust du meinem Urteil?        
 Do you trust my judgment?
+
+Jeder Student hat ein Schließfach.
+Each student has a locker.
+
+Tom schlug die Tür des Schließfachs zu.
+Tom slammed the locker door shut.
+
+Das klingt gerecht.
+That sounds fair.
+
+Das ist gerecht.
+This is just.
+
+Bist du gerecht?            
+Are you fair?
+
+Schütten Sie den Wein in die Soße!
+Pour the wine into the sauce.
+
+Betreiben Sie Yoga?
+Do you do yoga?
+
+Betreibst du irgendwelche Sportarten?    
+Do you practice any sport?
+
+Niemand kann mich aufhalten.
+No one can stop me.
+
+Niemand wird mich aufhalten.
+Nobody is going to stop me.
+
+Du musst ihn aufhalten.
+You must stop him.
+
+Kannst du diesen Stein anheben?
+Can you lift this stone?
+
+Kannst du diese Box anheben?
+Can you lift this box?
+
+Mein Papa kann es nicht anheben.        <<<--- leech
+My father cannot lift it up.
 
 Ich wurde verhört.
 I was interrogated.
