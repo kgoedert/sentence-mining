@@ -8343,3 +8343,27 @@ It's for this room.
 
 C'est pour ces chambres.
 It's for these rooms.
+
+Maria apprend à monter à cheval.
+Maria is learning to hide a horse.
+
+Nous les avons invités à prendre un verre.
+We invited them to have a drink
+
+Le président du conseil d'administration tiens à vous voir cet après-midi.
+The chairman of the board wants to see you this afternoon.
+
+Nous ne sommes pas parvenus à le convaincre d'inviter Laura à se joindre à nous.
+We did not manage to convince him to invite Laura to join us.
+
+Vincent a accepté de participer à l'événement.
+Vincent has accepted to attend the event.
+
+J'ai conseillé à Elise d'aller voir un avocat.
+I advised Élise to see a lawyer.
+
+Florent se plaint toujours d'avoir trop de travail.
+Florent always complains about having too much work.
+
+Stéphanie a refusé de luir révéler le secret.
+Stéphanie refused to reveal the secret to him.
