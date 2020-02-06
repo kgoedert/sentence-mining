@@ -3682,8 +3682,20 @@ I'll cancel.
 Wir möchten diese Verhandlungen abbrechen.
 We want to break off this negotiation.
 
-Tom wollte die Schule abbrechen.        <<<-- leech
+Tom wollte die Schule abbrechen.       
 Tom wanted to drop out of school.
+
+Mein Pferd ist entlaufen.
+My horse ran away.
+
+Unser Haustier ist uns entlaufen.
+Our dog has gone away.
+
+Die Achse ist gebrochen.
+The axle is broken.
+
+Die Erde dreht sich um ihre Achse.      <<<--- leech
+The Earth rotates on its axis.
 
 Ich wurde verhört.
 I was interrogated.
