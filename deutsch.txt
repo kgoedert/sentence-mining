@@ -12102,3 +12102,78 @@ Don't you understand me either?
 
 Verstehen Sie mich auch nicht gut?
 Don't you understand me well, either?
+
+Ich habe eine Reservierung. 
+I have a reservation.
+
+Gibt es Frühstück? 
+Is there breakfast?
+
+Wann ist das Frühstück? 
+When is breakfast?
+
+Wo ist mein Zimmer, bitte? 
+Where is my room, please?
+
+Gibt es WiFi? 
+Is there Wifi?
+
+Wie ist der Nutzername? 
+What is the user name?
+
+Wie ist das Kennwort? 
+What is the password?
+
+Wie ist das Passwort? 
+What is the password?
+
+Wie heißen Sie? 
+What is your name?
+
+Die Treppe ist links. 
+The stairs are to the left.
+
+Der Fahrstuhl ist rechts. 
+The elevator is to the right.
+
+Ihr Zimmer ist geradeaus. 
+Your room is straight ahead.
+
+Hier ist Ihr Schlüssel. 
+Here is your key.
+
+Wo ist die Gepäckausgabe? 
+Where is the baggage claim?
+
+Wo ist Tor D-achtzehn? 
+Where is gate D-18?
+
+Ich habe ein Gepäckstück. 
+I have a suitcase.
+
+Wir haben vier Stücke Gepäck. 
+We have four pieces of luggage.
+
+Wir haben vier Gepäckstücke.
+We have four pieces of luggage.
+
+Wo ist die Sicherheitskontrolle? 
+Where is the security check?
+
+Wo ist der Zoll? 
+Where is customs?
+
+Wo ist die Toilette? 
+Where is the restroom?
+
+Ihren Ausweis, bitte. 
+Your ID (identification document), please.
+
+Hier ist mein Ausweis. 
+Here is my ID (identification document).
+
+Ihren Reisepass, bitte. 
+Your passport, please.
+
+Hier ist mein Reisepass. 
+Here is my passport.
