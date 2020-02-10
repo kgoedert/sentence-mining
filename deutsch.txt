@@ -3673,8 +3673,29 @@ Can you lift this stone?
 Kannst du diese Box anheben?
 Can you lift this box?
 
-Mein Papa kann es nicht anheben.        <<<--- leech
+Mein Papa kann es nicht anheben.       
 My father cannot lift it up.
+
+Ich werde abbrechen.
+I'll cancel.
+
+Wir möchten diese Verhandlungen abbrechen.
+We want to break off this negotiation.
+
+Tom wollte die Schule abbrechen.       
+Tom wanted to drop out of school.
+
+Mein Pferd ist entlaufen.
+My horse ran away.
+
+Unser Haustier ist uns entlaufen.
+Our dog has gone away.
+
+Die Achse ist gebrochen.
+The axle is broken.
+
+Die Erde dreht sich um ihre Achse.      <<<--- leech
+The Earth rotates on its axis.
 
 Ich wurde verhört.
 I was interrogated.
