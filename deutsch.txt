@@ -3694,8 +3694,20 @@ Our dog has gone away.
 Die Achse ist gebrochen.
 The axle is broken.
 
-Die Erde dreht sich um ihre Achse.      <<<--- leech
+Die Erde dreht sich um ihre Achse.    
 The Earth rotates on its axis.
+
+Ich setzte deinen Namen auf die Kachel.
+I put your name on the tile.
+
+Wettbewerb ist gut.
+Competition is good.
+
+Es gäbe keinen Wettbewerb.
+There would be no competition.
+
+Das ist kein Wettbewerb.   <<<--- leech
+It's not a competition.
 
 Ich wurde verhört.
 I was interrogated.
