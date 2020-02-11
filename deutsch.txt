@@ -3706,8 +3706,17 @@ Competition is good.
 Es gäbe keinen Wettbewerb.
 There would be no competition.
 
-Das ist kein Wettbewerb.   <<<--- leech
+Das ist kein Wettbewerb.   
 It's not a competition.
+
+Unser Kamin ist aus Backsteinen gemacht.
+Our chimney is made of bricks.
+
+Wir verfahren dem Plan entsprechend.
+We're proceeding according to plan.
+
+Ich verfahre ebenso wie Tom.        <<-- leech
+I do that the same way Tom does.
 
 Ich wurde verhört.
 I was interrogated.
