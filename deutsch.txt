@@ -12177,3 +12177,87 @@ Your passport, please.
 
 Hier ist mein Reisepass. 
 Here is my passport.
+
+Ist das mein Zug? 
+Is that my train?
+
+Wo ist Gleis fünfzehn? 
+Where is track fifteen?
+
+Hat mein Zug Verspätung? 
+Is my train late?
+
+Kommt der Zug rechtzeitig an? 
+Is the train arriving on time?
+
+Wo ist meine Haltestelle? 
+Where is my stop?
+
+Wann kommt mein Zug an? 
+When does my train arrive?
+
+Wann fährt mein Zug ab? 
+When does my train depart?
+
+Wir hätten gerne einen Tisch. 
+We would like a table.
+
+Wir sind vier Personen. 
+We are four people.
+
+Ich würde gerne bezahlen. 
+I would like to pay.
+
+Ich hätte gerne ein stilles Wasser. 
+I would like to have a still water (no bubbles/gas).
+
+Nehmen Sie Kreditkarten? 
+Do you take credit cards?
+
+Keine Nachspeise, bitte. 
+No dessert, please.
+
+Ich bin satt. 
+I am full.
+
+Ich habe Hunger. 
+I am hungry.
+
+Ich habe Durst. 
+I am thirsty.
+
+Ich würde gerne Herrn Wagner sprechen. 
+I would like to speak to Mr. Wagner.
+
+Ich würde gerne Frau Kunz sprechen. 
+I would like to speak to Ms. Kunz.
+
+Ich verbinde. 
+I will connect you.
+
+Er ist nicht da. 
+He is not here.
+
+Bitte warten Sie. 
+Please wait.
+
+Bitte legen Sie nicht auf. 
+Please do not hang up (the phone).
+
+Keiner hebt ab. 
+No one is picking up (the phone).
+
+Wollen Sie eine Nachricht hinterlassen? 
+Would you like to leave a message?
+
+Auf Wiederhören. 
+Good-bye. (formal)
+
+Tschüss. Good-bye. 
+(colloquial)
+
+Die Vorwahl lautet ... 
+The area code is ...
+
+Die Landeskennung lautet 
+The country code is ...
