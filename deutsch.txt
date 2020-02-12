@@ -3718,6 +3718,15 @@ We're proceeding according to plan.
 Ich verfahre ebenso wie Tom.        <<-- leech
 I do that the same way Tom does.
 
+Ihr zufolge, kommt er nicht.
+He is not coming, according to her.
+
+Tom zufolge verübte Maria Selbstmord.
+According to Tom, Mary committed suicide.
+
+Dem Bericht zufolge lebt er.            <<<--- leech
+According to the report, he is alive.
+
 Ich wurde verhört.
 I was interrogated.
 
