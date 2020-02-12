@@ -12291,3 +12291,75 @@ The area code is ...
 
 Die Landeskennung lautet 
 The country code is ...
+
+Wir fahren um ein Uhr. 
+We leave at one o'clock.
+
+Herr Kunz fährt um zwei Uhr. 
+Mr. Kunz leaves at two o'clock.
+
+Der Zug fährt um drei Uhr. 
+The train leaves at three o'clock.
+
+Sie treffen uns um vier Uhr. 
+You (formal) meet us at four o'clock.
+
+Herr und Frau Schneider fahren um fünf Uhr. 
+Mr. and Mrs. Schneider leave at five o'clock.
+
+Sophie trifft mich um sechs Uhr. 
+Sophie is meeting me at six o'clock.
+
+Ihr fahrt um sieben Uhr. 
+You (informal, plural) leave at seven o'clock
+
+Sie gehen um acht Uhr. 
+You (formal, plural) leave/go at eight o'clock.
+
+Wir treffen uns um neun Uhr. 
+We meet (ourselves) at nine o'clock.
+
+Herr Müller geht um zehn Uhr. 
+Mr. Müller leaves/goes at ten o'clock.
+
+Die Kinder verlassen das Haus um elf Uhr. 
+The children leave the house at eleven o'clock.
+
+Rolf geht um zwölf Uhr schwimmen. 
+Rolf goes swimming at twelve o'clock (noon).
+
+Ihr verlasst die Schule um dreizehn Uhr. 
+You (informal, plural) leave the school at one o'clock.
+
+Er verlässt die Arbeit um vierzehn Uhr. 
+He leaves work at two o'clock.
+
+Wir gehen um fünfzehn Uhr laufen. 
+We go running at three o'clock
+
+Die Kinder schwimmen gegen sechzehn Uhr. 
+The children swim at about four o'clock.
+
+Der Vater geht gegen siebzehn Uhr laufen. 
+The father goes running at about five o'clock.
+
+Die Familie geht gegen achtzehn Uhr essen. 
+The family goes to eat at about six o'clock.
+
+Die Familie kommt gegen neunzehn Uhr zurück. 
+The family comes back at around seven o'clock.
+
+Hans verlässt die Arbeit gegen zwanzig Uhr. 
+Hans leaves work at about eight o'clock.
+
+Die Kinder gehen gegen einundzwanzig Uhr schlafen. 
+The children go to sleep at about nine o'clock.
+
+Die Eltern gehen gegen zweiundzwanzig Uhr schlafen. 
+The parents go to sleep at about ten o'clock.
+
+Der Hund geht gegen dreiundzwanzig Uhr schlafen. 
+The dog goes to sleep at about eleven o'clock.
+
+Alle schlafen um vierundzwanzig Uhr. 
+Everyone is asleep at twelve o'clock (midnight).
