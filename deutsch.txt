@@ -3724,8 +3724,23 @@ He is not coming, according to her.
 Tom zufolge verübte Maria Selbstmord.
 According to Tom, Mary committed suicide.
 
-Dem Bericht zufolge lebt er.            <<<--- leech
+Dem Bericht zufolge lebt er.           
 According to the report, he is alive.
+
+Dieses Buch ist vergriffen.
+This book is out of print.
+
+Beeren sind reichhaltig an Mineralien wie Kalium.   
+Berries are high in minerals such as potassium.
+
+Sie akzeptierten meine Ansicht.
+They accepted my point of view.
+
+Ich bin derselben Ansicht.
+I'm of the same opinion. (point of view)
+
+Wir haben verschiedene Ansichten.               <<<--- leech
+We have different opinions. (point of view)
 
 Ich wurde verhört.
 I was interrogated.
