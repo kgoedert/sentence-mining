@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python sentence_to_deck.py fr "French Mining"
+python sentence_to_deck.py d3.txt fr "French Mining"

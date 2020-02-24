@@ -3739,8 +3739,17 @@ They accepted my point of view.
 Ich bin derselben Ansicht.
 I'm of the same opinion. (point of view)
 
-Wir haben verschiedene Ansichten.               <<<--- leech
+Wir haben verschiedene Ansichten.               
 We have different opinions. (point of view)
+
+Tom war anwesend.
+Tom was present.
+
+Alle Schüler sind anwesend.
+All the students are present.
+
+Er wurde hinter Gitter gebracht.        <<<--- leech
+He was thrown behind bars.
 
 Ich wurde verhört.
 I was interrogated.

@@ -3955,249 +3955,246 @@
 # No sé. Puede que esté en su habitación.
 # I don't know. Maybe he is in his room.
 # 
-# No me gusta que comáis nada antes de las comidas.
-# I don't like you eating anything before meals.
+# # No me gusta que comáis nada antes de las comidas.
+# # I don't like you eating anything before meals.
+# # 
+# Mi padre quiere que le ayude mañana.
+# My father wants me to help him tomorrow.
 # 
-Mi padre quiere que le ayude mañana.
-My father wants me to help him tomorrow.
-
-¿Puedes venir, Sonia? Quiero qeu me ayudes.
-Can you come, Sonia? I want you to help me.
-
-Juan ha tenido un accidente. ¡Ojalá no sea grave!
-Juan had an accident. Hopefully it is not serious.
-
-Es probable que el Boca Juniors gane la copa este año.
-It is likely that Boca Juniors wins the tournament this year.
-
-¿Te ha llamado Adela? No. Quizás me llame esta noche.
-Did Adela call you? No, perhaps she calls me tonight.
-
-Me gusta que seáis educados, niños.
-I would like to be polite, boys.
-
-Tengo miedo que me echen del trabajo.
-I am afraid of being fired.
-
-Espero que podáis venir a mi fiesta.
-I hope you can come to my party.
-
-Buenas noches. ¡Que durmáis bien!
-Good night. Sleep well!
-
-Esta noche puede que llegue tarde. Tengo una reunión.
-Tonight I may arrive late. I have a metting.
-
-Quizás te sientas mejor después de comer algo.
-Perhaps you feel better after eating something.
-
-No me gusta que Arturo vuelva tarde.
-I don't like Arturo coming back late.
-
-A Víctor le asombra que durmamos tanto.
-Victor is astonished that we sleep so much.
-
-Es lógico qeu Silvia no quiera ir a la fiesta. No conoce a nadie.
-It is natural that Silvia does not want to go to the party. She doesn't know anyone.
-
-Me parece bien que prefieras comer ahora. A mí también me gusta comer temprano.
-I think it's good that you prefer to eat now. I like to eat early, too.
-
-Ven, quiero que conozcas a Teresa.
-Come, I want you to meet Teresa.
-
-Es imposible que te oigan. Están muy lejos.
-It is impossible that they hear you. They are too far away.
-
-¡Ojalá no haya más guerras!
-Hopefully there will be no more wars!
-
-¿Estás esperando a Manuel?
-Are you waiting for Manuel?
-
-Sí, pero puede que no venga hoy. Tenía mucho trabajo.
-Yes, but maybe he won't come today. He had a lot of work.
-
-Siento que Alberto no vaya a tu concierto, pero no se encuentra bien.
-I am sorry that Alberto will not go to your concert, but he is not well.
-
-Luis sabe que te vas a ir a Argentina.
-Luis knows that you are going to Argentina.
-
-Es igual. No me importa que lo sepa.
-It's the same. I don't care if he knows.
-
-Es lógico que construyan más carreteras. Cada día hay más coches.
-It is natural that they build more roads. Everyday there are more cars.
-
-Me parece una vergüenza que no sepas freír un huevo.
-It is a shame that you don't know how to fry an egg.
-
-¿Estás libre este domingo?
-Are you free this sunday?
-
-Me gustaría que comiéramos juntos.
-I would like us to eat together.
-
-!Qué bien pintas!
-You paint very well!
-
-!Quién pintara como tú!
-I wish I painted like you.
-
-Ayer te llamé a casa. Quería que me ayudades a preprar el examen.
-Yesterday I called you at home. I would like to help me prepare the test.
-
-¿Estás ocupada? Me gustaría que vieras algo.
-Are you busy? I would like you to see something.
-
-¿Hacéis algo el sábado? Me gustaría qeu vinieras a casa.
-Are you doing something on saturday? I would like to come home.
-
-!Quién viviera cien años!
-I wish I lived one hundred years.
-
-¡Quén conocera el futuro!
-I wish I knew the future!
-
-El jefe prohibió que usáramos los móviles.
-The boss forbade us of using the mobiles.
-
-Mis padres querían que estudiara Derecho.
-My parents wanted me to study law.
-
-No me gustó que no me invitaran.
-I didn't like that they did not invite me.
-
-Era lógico qeu Goyo protestase por la película.
-It was natural that Goyo was going to protest for the movie.
-
-Sería mejor que llamaras a Chus. Siempre me pregunta por ti.
-You would better call Chus. He always asks me about you.
-
-Era imposible que Pedro encontrase empleo. No lo buscaba.
-It was impossible that Pedro would find a job. He was not looking.
-
-¡Quién tuviera treinta años menos!
-I wish I had thirty years less!
-
-¡Quién pudiera nadar como tú!
-I wish I swimmed like you!
-
-¡Quén fuera Spielberg!
-I wish I was Spielgerg!
-
-Cuando era pequeña, mis padres querían que fuera pianista.
-When I was little, my parents wanted me to be a pianist.
-
-Me extraño que no vinieseis a mi fiesta.
-I thought it was weird that you didn't come to my party.
-
-A mí encantaría que Salva e Marisa fueran a nuestra clase.
-I would love Salva and Marisa to come to our class.
-
-Me extrañaría que Alfonso estuviera en casa. Está siempre fuera.
-I would think it strange for Alfonso to be home. He is always out.
-
-Era lógico que estuviera triste. Se había ido Hugo.
-It was natural that she as sad. Hugo had gone.
-
-Puede que Juan supiera que había examen, pero no dijo nada.
-It was possible that Juan knew about the test, but didn't say anything.
-
-Quiero que me ayudes, Jorge.
-I want you to help me, Jorge.
-
-Hoy no deseo ver a nadie. Estoy triste.
-Today I don't want to see anyone. I am sad.
-
-Tengo ganas de que trabajen mis hijos.
-I wish my sons to work.
-
-Espero ganar.
-I hope I win.
-
-Yo también espero que ganes.
-I hope you win too.
-
-De pequeña, Elisa soñaba con ser escritora.
-Since she was little, Elisa dreamed of been I writer.
-
-¿Te gustaría ganar algo de dinero?
-Would you like to win some money?
-
-Matías, prefiro que me lo digas ahora.
-Matías, I prefer you tell it me now.
-
-Espero que haga buen tiempo el domingo.
-I hope the weather is good on sunday.
-
-Mis padres querían que fuera piloto.
-My parents wished me to be a pilot.
-
-Me gustaría que me hicieras un favor, Mario.
-I would like you to do me a favor, Mario.
-
-¡Que tengáis buen viaje!
-I wish you have a nice trip!
-
-¡Que Ángel apruebe!
-I hope Ángel approves!
-
-¡Ojalá haga buen tiempo mañana! Estou harto de lluvia.
-I hope the weather is good tomorrow! I am tired of rain.
-
-¡Ojalá fuera más joven!
-I wish I was younger!
-
-Es imposible que ganemos. Jugamos muy mal.
-It is impossible that we win. We played very badly.
-
-Era poco probable que encontrara trabajo.
-It was unlikely that he would find work.
-
-Posiblemente llueva. Hay muchas nubes.
-Probably it will rain. There are a lot of clouds.
-
-Probablemente cambie hoy el tiempo.
-Probably the weather will change today.
-
-Puede que no salga esta noche. Estoy cansado.
-Maybe I won't go out tonight. I am tired.
-
-Llama a Ángel. Quizá esté en casa.
-Call Ángel. Perhaps he is at home.
-
-Talvez haya elecciones pronto.
-Maybe there will be elections immediately.
-
-Roberto no quiere salir. 
-Roberto does not want to go out.
-
-Puede que esté cansado. Trabaja mucho.
-Maybe he is tired. He works a lot.
-
-¿Sabe dónde está el Sr. Pavon? No está en su oficina.
-Do you know where Mr Pavon is? He is not in his office.
-
-No sé, quizá en la cafetería.
-I don't know, maybe in the coffee shop.
-
-Es posible que tengan ustedes razón, pero prefiro asegurarme.
-It is possible that you are right, but I need to be sure.
-
-No me ha llamado Martina. Posiblemente me llame esta noche.
-Martina did not call me. Maybe she will call me tonight.
-
-Era poco probable que aprobara. Había estudiado muy poco.
-It was unlikely that he would pass. He had not studied a lot.
-
-¿Sabes si Pedro ha hablado con Ricardo?
-Do you know if Pedro has spoken to Ricardo?
-
-Puede que lo hiciera anoche. Regresó tarde.
-Maybe he did it last night. He came back late.
-
+# ¿Puedes venir, Sonia? Quiero qeu me ayudes.
+# Can you come, Sonia? I want you to help me.
+# 
+# Juan ha tenido un accidente. ¡Ojalá no sea grave!
+# Juan had an accident. Hopefully it is not serious.
+# 
+# Es probable que el Boca Juniors gane la copa este año.
+# It is likely that Boca Juniors wins the tournament this year.
+# 
+# ¿Te ha llamado Adela? No. Quizás me llame esta noche.
+# Did Adela call you? No, perhaps she calls me tonight.
+# 
+# Me gusta que seáis educados, niños.
+# I would like to be polite, boys.
+# 
+# Tengo miedo que me echen del trabajo.
+# I am afraid of being fired.
+# 
+# Espero que podáis venir a mi fiesta.
+# I hope you can come to my party.
+# 
+# Buenas noches. ¡Que durmáis bien!
+# Good night. Sleep well!
+# 
+# Esta noche puede que llegue tarde. Tengo una reunión.
+# Tonight I may arrive late. I have a metting.
+# 
+# Quizás te sientas mejor después de comer algo.
+# Perhaps you feel better after eating something.
+# 
+# No me gusta que Arturo vuelva tarde.
+# I don't like Arturo coming back late.
+# 
+# A Víctor le asombra que durmamos tanto.
+# Victor is astonished that we sleep so much.
+# 
+# Es lógico qeu Silvia no quiera ir a la fiesta. No conoce a nadie.
+# It is natural that Silvia does not want to go to the party. She doesn't know anyone.
+# 
+# Me parece bien que prefieras comer ahora. A mí también me gusta comer temprano.
+# I think it's good that you prefer to eat now. I like to eat early, too.
+# 
+# Ven, quiero que conozcas a Teresa.
+# Come, I want you to meet Teresa.
+# 
+# Es imposible que te oigan. Están muy lejos.
+# It is impossible that they hear you. They are too far away.
+# 
+# ¡Ojalá no haya más guerras!
+# Hopefully there will be no more wars!
+# 
+# ¿Estás esperando a Manuel?
+# Are you waiting for Manuel?
+# 
+# Sí, pero puede que no venga hoy. Tenía mucho trabajo.
+# Yes, but maybe he won't come today. He had a lot of work.
+# 
+# Siento que Alberto no vaya a tu concierto, pero no se encuentra bien.
+# I am sorry that Alberto will not go to your concert, but he is not well.
+# 
+# Luis sabe que te vas a ir a Argentina.
+# Luis knows that you are going to Argentina.
+# 
+# Es igual. No me importa que lo sepa.
+# It's the same. I don't care if he knows.
+# 
+# Es lógico que construyan más carreteras. Cada día hay más coches.
+# It is natural that they build more roads. Everyday there are more cars.
+# 
+# Me parece una vergüenza que no sepas freír un huevo.
+# It is a shame that you don't know how to fry an egg.
+# 
+# ¿Estás libre este domingo?
+# Are you free this sunday?
+# 
+# Me gustaría que comiéramos juntos.
+# I would like us to eat together.
+# 
+# !Qué bien pintas!
+# You paint very well!
+# 
+# !Quién pintara como tú!
+# I wish I painted like you.
+# 
+# Ayer te llamé a casa. Quería que me ayudades a preprar el examen.
+# Yesterday I called you at home. I would like to help me prepare the test.
+# 
+# ¿Estás ocupada? Me gustaría que vieras algo.
+# Are you busy? I would like you to see something.
+# 
+# !Quién viviera cien años!
+# I wish I lived one hundred years.
+# 
+# ¡Quén conocera el futuro!
+# I wish I knew the future!
+# 
+# El jefe prohibió que usáramos los móviles.
+# The boss forbade us of using the mobiles.
+# 
+# Mis padres querían que estudiara Derecho.
+# My parents wanted me to study law.
+# 
+# No me gustó que no me invitaran.
+# I didn't like that they did not invite me.
+# 
+# Era lógico qeu Goyo protestase por la película.
+# It was natural that Goyo was going to protest for the movie.
+# 
+# Sería mejor que llamaras a Chus. Siempre me pregunta por ti.
+# You would better call Chus. He always asks me about you.
+# 
+# Era imposible que Pedro encontrase empleo. No lo buscaba.
+# It was impossible that Pedro would find a job. He was not looking.
+# 
+# ¡Quién tuviera treinta años menos!
+# I wish I had thirty years less!
+# 
+# ¡Quién pudiera nadar como tú!
+# I wish I swimmed like you!
+# 
+# ¡Quén fuera Spielberg!
+# I wish I was Spielgerg!
+# 
+# Cuando era pequeña, mis padres querían que fuera pianista.
+# When I was little, my parents wanted me to be a pianist.
+# 
+# Me extraño que no vinieseis a mi fiesta.
+# I thought it was weird that you didn't come to my party.
+# 
+# A mí encantaría que Salva e Marisa fueran a nuestra clase.
+# I would love Salva and Marisa to come to our class.
+# 
+# Me extrañaría que Alfonso estuviera en casa. Está siempre fuera.
+# I would think it strange for Alfonso to be home. He is always out.
+# 
+# Era lógico que estuviera triste. Se había ido Hugo.
+# It was natural that she as sad. Hugo had gone.
+# 
+# Puede que Juan supiera que había examen, pero no dijo nada.
+# It was possible that Juan knew about the test, but didn't say anything.
+# 
+# Quiero que me ayudes, Jorge.
+# I want you to help me, Jorge.
+# 
+# Hoy no deseo ver a nadie. Estoy triste.
+# Today I don't want to see anyone. I am sad.
+# 
+# Tengo ganas de que trabajen mis hijos.
+# I wish my sons to work.
+# 
+# Espero ganar.
+# I hope I win.
+# 
+# Yo también espero que ganes.
+# I hope you win too.
+# 
+# De pequeña, Elisa soñaba con ser escritora.
+# Since she was little, Elisa dreamed of been I writer.
+# 
+# ¿Te gustaría ganar algo de dinero?
+# Would you like to win some money?
+# 
+# Matías, prefiro que me lo digas ahora.
+# Matías, I prefer you tell it me now.
+# 
+# Espero que haga buen tiempo el domingo.
+# I hope the weather is good on sunday.
+# 
+# Mis padres querían que fuera piloto.
+# My parents wished me to be a pilot.
+# 
+# Me gustaría que me hicieras un favor, Mario.
+# I would like you to do me a favor, Mario.
+# 
+# ¡Que tengáis buen viaje!
+# I wish you have a nice trip!
+# 
+# ¡Que Ángel apruebe!
+# I hope Ángel approves!
+# 
+# ¡Ojalá haga buen tiempo mañana! Estou harto de lluvia.
+# I hope the weather is good tomorrow! I am tired of rain.
+# 
+# ¡Ojalá fuera más joven!
+# I wish I was younger!
+# 
+# Es imposible que ganemos. Jugamos muy mal.
+# It is impossible that we win. We played very badly.
+# 
+# Era poco probable que encontrara trabajo.
+# It was unlikely that he would find work.
+# 
+# Posiblemente llueva. Hay muchas nubes.
+# Probably it will rain. There are a lot of clouds.
+# 
+# Probablemente cambie hoy el tiempo.
+# Probably the weather will change today.
+# 
+# Puede que no salga esta noche. Estoy cansado.
+# Maybe I won't go out tonight. I am tired.
+# 
+# Llama a Ángel. Quizá esté en casa.
+# Call Ángel. Perhaps he is at home.
+# 
+# Talvez haya elecciones pronto.
+# Maybe there will be elections immediately.
+# 
+# Roberto no quiere salir. 
+# Roberto does not want to go out.
+# 
+# Puede que esté cansado. Trabaja mucho.
+# Maybe he is tired. He works a lot.
+# 
+# ¿Sabe dónde está el Sr. Pavon? No está en su oficina.
+# Do you know where Mr Pavon is? He is not in his office.
+# 
+# No sé, quizá en la cafetería.
+# I don't know, maybe in the coffee shop.
+# 
+# Es posible que tengan ustedes razón, pero prefiro asegurarme.
+# It is possible that you are right, but I need to be sure.
+# 
+# No me ha llamado Martina. Posiblemente me llame esta noche.
+# Martina did not call me. Maybe she will call me tonight.
+# 
+# Era poco probable que aprobara. Había estudiado muy poco.
+# It was unlikely that he would pass. He had not studied a lot.
+# 
+# ¿Sabes si Pedro ha hablado con Ricardo?
+# Do you know if Pedro has spoken to Ricardo?
+# 
+# Puede que lo hiciera anoche. Regresó tarde.
+# Maybe he did it last night. He came back late.
+# 
 Están cansados. Quizá se acostaron tarde anoche.
 They are tired. Pehaps they went to bed late last night.
 
@@ -11904,3 +11901,6 @@ The bus is gone. What do we do? We wait. There's no other choice.
 
 ¿Qué hay que hacer? Comprobar que no hay ningún virus el los ordenadores.
 What should we do? Check the computers for viruses.
+
+¿Hacéis algo el sábado? Me gustaría que vinieras a casa.
+Are you doing something on saturday? I would like to come home.

@@ -4291,255 +4291,312 @@
 # Mme Durand est ici.
 # Mrs. Durand is here.
 # 
-# Mme Durand est française.
-# Mrs. Durand is French.
+# # Mme Durand est française.
+# # Mrs. Durand is French.
+# # 
+# # Les enfants sont en retard.
+# # The children are late.
+# # 
+# Je suis en France.
+# I'm in France.
 # 
-# Les enfants sont en retard.
-# The children are late.
+# Je vais au Canada
+# I'm going to Canada
 # 
-Janine est en retard.
-Janine's late.
-
-M. Lelong est en retard.
-Mr. Lelong is late.
-
-M. et Mme Lelong sont en retard.
-Mr. and Mrs. Lelong are late.
-
-Mme Courtois et ma sœur sont en retard.
-Mrs. Courtois and my sister are late.
-
-Les enfants sont pressés.
-The children are in a hurry.
-
-Mon frère et ma sœur sont pressés.
-My brother and sister are in a hurry.
-
-Mon ami est pressé.
-My friend is in a hurry.
-
-Janine est pressée.
-Janine's in a hurry.
-
-Je suis pressé.
-I'm in a hurry.
-
-Nous sommes au café.
-We're at the café.
-
-Nous sommes à Nantes.
-We are in Nantes.
-
-Ils sont bons.
-They're good.
-
-Ils sont en France.
-They are in France.
-
-Ils sont forts.
-They are strong.
-
-Elle est en retard.
-She's late. She's late.
-
-Ma fille est en retard.
-My daughter is late.
-
-Ma femme est en retard.
-My wife is late.
-
-Elles sont en retard.
-They're late. They're late.
-
-Est-ce que vous avez des nouvelles de Janine? Oui, merci. Elle est à Nantes maintenant.
-Have you heard from Janine? Yes, thank you. She's in Nantes now.
-
-Est-ce que vous avez des nouvelles de vos parents? Oui, merci. Ils sont à Nantes maintenant.
-Do you have any news from your parents? Yes, thank you. They're in Nantes now.
-
-Est-ce que vous avez des nouvelles de votre sœur? Oui, merci. Elle est à Nantes maintenant.
-Have you heard from your sister? Yes, thank you. She's in Nantes now.
-
-Est-ce que vous avez des nouvelles de votre frère? Oui, merci. Il est à Nantes maintenant.
-Do you have any news of your brother? Yes, thank you. He's in Nantes now.
-
-Est-ce que vous avez des nouvelles de vos sœurs? Oui, merci. Elles sont à Nantes maintenant.
-Do you have any news of your sisters? Yes, thank you. They're in Nantes now.
-
-Est-ce que vous avez des nouvelles de vos frères? Oui, merci. Ils sont à Nantes maintenant.
-Do you have any news of your brothers? Yes, thank you. They're in Nantes now.
-
-Est-ce que vous avez des nouvelles de votre fille? Oui, merci. Elle est à Nantes maintenant.
-Have you heard from your daughter? Yes, thank you. She's in Nantes now.
-
-Est-ce que vous avez des nouvelles de Mlle Courtois? Oui, merci. Elle est à Nantes maintenant.
-Do you have any news of Miss Courtois? Yes, thank you. She's in Nantes now.
-
-Est-ce que les enfants sont toujours à Lyon? Non, ils sont à Grenoble aujourd'hui.
-Are the children still in Lyon? No, they're in Grenoble today.
-
-Est-ce que vous êtes toujours à Lyon? Non, je suis à Grenoble aujourd'hui.
-Are you still in Lyon? No, I'm in Grenoble today.
-
-Est-ce que Janine est toujours à Lyon? Non, elle est à Grenoble aujourd'hui.
-Is Janine still in Lyon? No, she's in Grenoble today.
-
-Est-ce que vos parents sont toujours avec vous? Non, ils sont à Grenoble aujourd'hui.
-Are your parents still with you? No, they're in Grenoble today.
-
-Est-ce que votre frère est toujours ici? Non, il est à Grenoble aujourd'hui.
-Is your brother still here? No, he's in Grenoble today.
-
-Est-ce que vos filles sont toujours à Lyon? Non, elles sont à Grenoble aujourd'hui.
-Are your daughters still in Lyon? No, they're in Grenoble today.
-
-Est-ce que votre amie est toujours à Lyon? Non, elle est à Grenoble aujourd'hui.
-Is your friend still in Lyon? No, she's in Grenoble today.
-
-Est-ce que vos fils sont toujours à Lyon? Non, ils sont à Grenoble aujourd'hui.
-Are your sons still in Lyon? No, they're in Grenoble today.
-
-À quelle heure est-ce qu'elle va déjeuner? À une heure et elle est en retard.
-What time is she going to lunch? At one o'clock and she's late.
-
-À quelle heure est-ce que votre ami va déjeuner? À une heure et il est en retard.
-What time is your friend going to lunch? At one o'clock and he's late.
-
-À quelle heure est-ce que vous allez déjeuner? À une heure et je suis en retard.
-What time are you going to lunch? At one o'clock and I'm late.
-
-À quelle heure est-ce que Janine va déjeuner? À une heure et elle est en retard.
-What time is Janine going to lunch? At one o'clock and she's late.
-
-À quelle heure est-ce que nous allons déjeuner? À une heure et nous sommes en retard.
-What time are we going to lunch? At one o'clock and we're late.
-
-À quelle heure est-ce que votre amie va déjeuner? À une heure et elle est en retard.
-What time is your friend going to lunch? At one o'clock and she's late.
-
-À quelle heure est-ce que M. Lelong va déjeuner? À une heure et il est en retard.
-What time is Mr. Lelong going to lunch? At one o'clock and he's late.
-
-À quelle heure est-ce que Mlle Courtois va déjeuner? À une heure et elle est en retard.
-What time is Miss Courtois going to lunch? At one o'clock and she's late.
-
-Est-ce qu'ils sont pressés? Oui, ils sont pressés.
-Are they in a hurry? Yes, they're in a hurry.
-
-Est-ce qu'il est heureux? Oui, il est heureux.
-Is he happy? Is he happy? Yes, he's happy.
-
-Est-ce qu'elles sont ici? Oui, elles sont ici.
-Are they here? Yes, they are here.
-
-Est-ce qu'elle est à Bordeaux? Oui, elle est à Bordeaux.
-Is she in Bordeaux? Yes, she's in Bordeaux.
-
-Est-ce que vous êtes pressé? Oui, je suis pressé.
-Are you in a hurry? Yes, I'm in a hurry.
-
-Est-ce que vous êtes ensemble? Oui, nous sommes ensemble.
-Are you two together? Yes, we are together.
-
-Est-ce qu'ils sont heureux? Oui, ils sont heureux.
-Are they happy? Yes, they are happy.
-
-Est-ce qu'ils sont en France? Oui, ils sont en France.
-Are they in France? Yes, they are in France.
-
-Ma sœur est à Nantes. Est-ce qu'elle est en vacances?
-My sister is in Nantes. Is she on vacation?
-
-Mon frère est à Nantes. Est-ce qu'il est en vacances?
-My brother is in Nantes. Is he on vacation?
-
-Mon père et ma mère sont à Nantes. Est-ce qu'ils sont en vacances?
-My father and mother are in Nantes. Are they on vacation?
-
-Janine est à Nantes. Est-ce qu'elle est en vacances?
-Janine is in Nantes. Is she on vacation?
-
-Je suis à Nantes. Est-ce que vous êtes en vacances?
-I'm in Nantes. Are you on vacation?
-
-Mlle Courtois est à Nantes. Est-ce qu'elle est en vacances?
-Miss Courtois is in Nantes. Is she on vacation?
-
-Mon fils et ma fille sont à Nantes. Est-ce qu'ils sont en vacances?
-My son and daughter are in Nantes. Are they on vacation?
-
-Est-ce qu'elle est au restaurant? Oui, elle est au restaurant.
-Is she in the restaurant? Yes, she is in the restaurant.
-
-Est-ce qu'il est au restaurant? Oui, il est au restaurant.
-Is he in the restaurant? Yes, he's in the restaurant.
-
-Est-ce qu'ils sont au restaurant? Oui, ils sont au restaurant.
-Are they at the restaurant? Yes, they are at the restaurant.
-
-Est-ce qu'elle est au restaurant? Oui, elle est au restaurant.
-Is she in the restaurant? Yes, she is in the restaurant.
-
-Est-ce que vous êtes au restaurant? Oui, je suis au restaurant.
-Are you in the restaurant? Yes, I'm in the restaurant.
-
-Est-ce qu'elle est au restaurant? Oui, elle est au restaurant.
-Is she in the restaurant? Yes, she is in the restaurant.
-
-Vous êtes pressé.
-You're in a hurry.
-
-Vous êtes au café.
-You're at the café.
-
-Je suis au café
-I'm at the coffee shop.
-
-Elles sont françaises.
-They are French.
-
-Ils sont ensemble.
-They are together.
-
-Nous sommes pressés.
-We are in a hurry.
-
-Ils sont en retard.
-They're late.
-
-Elle est française.
-She's French.
-
-Elle est en vacances.
-She's on vacation.
-
-Je suis en vacances.
-I'm on vacation.
-
-Je suis anglais.
-I am English.
-
-Ma femme est anglaise.
-My wife is English.
-
-Ma femme est en retard.
-My wife is late.
-
-Vous êtes en retard.
-You're late for work.
-
-Vous êtes ici
-You are here
-
-Nous sommes ici.
-We are here.
-
-Ils sont pressés aujourd'hui.
-They're in a hurry today.
-
-Je suis pressé(e) aujourd'hui.
-I am in a hurry today.
-
+# je suis au Congo.
+# I'm in the Congo.
+# 
+# Je vais au Japon
+# I'm going to Japan
+# 
+# Je vais aux États-Unis.
+# I'm going to the United States.
+# 
+# Je vais en Iran
+# I'm going to Iran
+# 
+# je vais en Éthiopie.
+# I'm going to Ethiopia.
+# 
+# Ça n'allait pas bien
+# It was not going well.
+# 
+# Ça ne s'est pas bien passé
+# It didn't go well.
+# 
+# Je parle un peu mieux
+# I speak a little better
+# 
+# Beaucoup d'argot
+# Lots of slang
+# 
+# Ce n'est pas à cause du français
+# It's not because of the French
+# 
+# Un pont qu'on traverse
+# A bridge we cross
+# 
+# Un pont à traverser
+# A bridge to cross
+# 
+# Ils ne connaissent pas
+# They don't know
+# 
+# Il y a beaucoup d'Argentins, d'uruguayens
+# There are a lot of Argentinians, Uruguayans...
+# 
+# Il s'est marié
+# He got married.
+# 
+# Ils vont dehors
+# They're going outside
+# 
+# Ils font beaucoup de bruit 
+# They're making a lot of noise 
+# 
+# Janine est en retard.
+# Janine's late.
+# 
+# M. Lelong est en retard.
+# Mr. Lelong is late.
+# 
+# M. et Mme Lelong sont en retard.
+# Mr. and Mrs. Lelong are late.
+# 
+# Mme Courtois et ma sœur sont en retard.
+# Mrs. Courtois and my sister are late.
+# 
+# Les enfants sont pressés.
+# The children are in a hurry.
+# 
+# Mon frère et ma sœur sont pressés.
+# My brother and sister are in a hurry.
+# 
+# Mon ami est pressé.
+# My friend is in a hurry.
+# 
+# Janine est pressée.
+# Janine's in a hurry.
+# 
+# Je suis pressé.
+# I'm in a hurry.
+# 
+# Nous sommes au café.
+# We're at the café.
+# 
+# Nous sommes à Nantes.
+# We are in Nantes.
+# 
+# Ils sont bons.
+# They're good.
+# 
+# Ils sont en France.
+# They are in France.
+# 
+# Ils sont forts.
+# They are strong.
+# 
+# Elle est en retard.
+# She's late. She's late.
+# 
+# Ma fille est en retard.
+# My daughter is late.
+# 
+# Ma femme est en retard.
+# My wife is late.
+# 
+# Elles sont en retard.
+# They're late. They're late.
+# 
+# Est-ce que vous avez des nouvelles de Janine? Oui, merci. Elle est à Nantes maintenant.
+# Have you heard from Janine? Yes, thank you. She's in Nantes now.
+# 
+# Est-ce que vous avez des nouvelles de vos parents? Oui, merci. Ils sont à Nantes maintenant.
+# Do you have any news from your parents? Yes, thank you. They're in Nantes now.
+# 
+# Est-ce que vous avez des nouvelles de votre sœur? Oui, merci. Elle est à Nantes maintenant.
+# Have you heard from your sister? Yes, thank you. She's in Nantes now.
+# 
+# Est-ce que vous avez des nouvelles de votre frère? Oui, merci. Il est à Nantes maintenant.
+# Do you have any news of your brother? Yes, thank you. He's in Nantes now.
+# 
+# Est-ce que vous avez des nouvelles de vos sœurs? Oui, merci. Elles sont à Nantes maintenant.
+# Do you have any news of your sisters? Yes, thank you. They're in Nantes now.
+# 
+# Est-ce que vous avez des nouvelles de vos frères? Oui, merci. Ils sont à Nantes maintenant.
+# Do you have any news of your brothers? Yes, thank you. They're in Nantes now.
+# 
+# Est-ce que vous avez des nouvelles de votre fille? Oui, merci. Elle est à Nantes maintenant.
+# Have you heard from your daughter? Yes, thank you. She's in Nantes now.
+# 
+# Est-ce que vous avez des nouvelles de Mlle Courtois? Oui, merci. Elle est à Nantes maintenant.
+# Do you have any news of Miss Courtois? Yes, thank you. She's in Nantes now.
+# 
+# Est-ce que les enfants sont toujours à Lyon? Non, ils sont à Grenoble aujourd'hui.
+# Are the children still in Lyon? No, they're in Grenoble today.
+# 
+# Est-ce que vous êtes toujours à Lyon? Non, je suis à Grenoble aujourd'hui.
+# Are you still in Lyon? No, I'm in Grenoble today.
+# 
+# Est-ce que Janine est toujours à Lyon? Non, elle est à Grenoble aujourd'hui.
+# Is Janine still in Lyon? No, she's in Grenoble today.
+# 
+# Est-ce que vos parents sont toujours avec vous? Non, ils sont à Grenoble aujourd'hui.
+# Are your parents still with you? No, they're in Grenoble today.
+# 
+# Est-ce que votre frère est toujours ici? Non, il est à Grenoble aujourd'hui.
+# Is your brother still here? No, he's in Grenoble today.
+# 
+# Est-ce que vos filles sont toujours à Lyon? Non, elles sont à Grenoble aujourd'hui.
+# Are your daughters still in Lyon? No, they're in Grenoble today.
+# 
+# Est-ce que votre amie est toujours à Lyon? Non, elle est à Grenoble aujourd'hui.
+# Is your friend still in Lyon? No, she's in Grenoble today.
+# 
+# Est-ce que vos fils sont toujours à Lyon? Non, ils sont à Grenoble aujourd'hui.
+# Are your sons still in Lyon? No, they're in Grenoble today.
+# 
+# À quelle heure est-ce qu'elle va déjeuner? À une heure et elle est en retard.
+# What time is she going to lunch? At one o'clock and she's late.
+# 
+# À quelle heure est-ce que votre ami va déjeuner? À une heure et il est en retard.
+# What time is your friend going to lunch? At one o'clock and he's late.
+# 
+# À quelle heure est-ce que vous allez déjeuner? À une heure et je suis en retard.
+# What time are you going to lunch? At one o'clock and I'm late.
+# 
+# À quelle heure est-ce que Janine va déjeuner? À une heure et elle est en retard.
+# What time is Janine going to lunch? At one o'clock and she's late.
+# 
+# À quelle heure est-ce que nous allons déjeuner? À une heure et nous sommes en retard.
+# What time are we going to lunch? At one o'clock and we're late.
+# 
+# À quelle heure est-ce que votre amie va déjeuner? À une heure et elle est en retard.
+# What time is your friend going to lunch? At one o'clock and she's late.
+# 
+# À quelle heure est-ce que M. Lelong va déjeuner? À une heure et il est en retard.
+# What time is Mr. Lelong going to lunch? At one o'clock and he's late.
+# 
+# À quelle heure est-ce que Mlle Courtois va déjeuner? À une heure et elle est en retard.
+# What time is Miss Courtois going to lunch? At one o'clock and she's late.
+# 
+# Est-ce qu'ils sont pressés? Oui, ils sont pressés.
+# Are they in a hurry? Yes, they're in a hurry.
+# 
+# Est-ce qu'il est heureux? Oui, il est heureux.
+# Is he happy? Is he happy? Yes, he's happy.
+# 
+# Est-ce qu'elles sont ici? Oui, elles sont ici.
+# Are they here? Yes, they are here.
+# 
+# Est-ce qu'elle est à Bordeaux? Oui, elle est à Bordeaux.
+# Is she in Bordeaux? Yes, she's in Bordeaux.
+# 
+# Est-ce que vous êtes pressé? Oui, je suis pressé.
+# Are you in a hurry? Yes, I'm in a hurry.
+# 
+# Est-ce que vous êtes ensemble? Oui, nous sommes ensemble.
+# Are you two together? Yes, we are together.
+# 
+# Est-ce qu'ils sont heureux? Oui, ils sont heureux.
+# Are they happy? Yes, they are happy.
+# 
+# Est-ce qu'ils sont en France? Oui, ils sont en France.
+# Are they in France? Yes, they are in France.
+# 
+# Ma sœur est à Nantes. Est-ce qu'elle est en vacances?
+# My sister is in Nantes. Is she on vacation?
+# 
+# Mon frère est à Nantes. Est-ce qu'il est en vacances?
+# My brother is in Nantes. Is he on vacation?
+# 
+# Mon père et ma mère sont à Nantes. Est-ce qu'ils sont en vacances?
+# My father and mother are in Nantes. Are they on vacation?
+# 
+# Janine est à Nantes. Est-ce qu'elle est en vacances?
+# Janine is in Nantes. Is she on vacation?
+# 
+# Je suis à Nantes. Est-ce que vous êtes en vacances?
+# I'm in Nantes. Are you on vacation?
+# 
+# Mlle Courtois est à Nantes. Est-ce qu'elle est en vacances?
+# Miss Courtois is in Nantes. Is she on vacation?
+# 
+# Mon fils et ma fille sont à Nantes. Est-ce qu'ils sont en vacances?
+# My son and daughter are in Nantes. Are they on vacation?
+# 
+# Est-ce qu'elle est au restaurant? Oui, elle est au restaurant.
+# Is she in the restaurant? Yes, she is in the restaurant.
+# 
+# Est-ce qu'il est au restaurant? Oui, il est au restaurant.
+# Is he in the restaurant? Yes, he's in the restaurant.
+# 
+# Est-ce qu'ils sont au restaurant? Oui, ils sont au restaurant.
+# Are they at the restaurant? Yes, they are at the restaurant.
+# 
+# Est-ce qu'elle est au restaurant? Oui, elle est au restaurant.
+# Is she in the restaurant? Yes, she is in the restaurant.
+# 
+# Est-ce que vous êtes au restaurant? Oui, je suis au restaurant.
+# Are you in the restaurant? Yes, I'm in the restaurant.
+# 
+# Est-ce qu'elle est au restaurant? Oui, elle est au restaurant.
+# Is she in the restaurant? Yes, she is in the restaurant.
+# 
+# Vous êtes pressé.
+# You're in a hurry.
+# 
+# Vous êtes au café.
+# You're at the café.
+# 
+# Je suis au café
+# I'm at the coffee shop.
+# 
+# Elles sont françaises.
+# They are French.
+# 
+# Ils sont ensemble.
+# They are together.
+# 
+# Nous sommes pressés.
+# We are in a hurry.
+# 
+# Ils sont en retard.
+# They're late.
+# 
+# Elle est française.
+# She's French.
+# 
+# Elle est en vacances.
+# She's on vacation.
+# 
+# Je suis en vacances.
+# I'm on vacation.
+# 
+# Je suis anglais.
+# I am English.
+# 
+# Ma femme est anglaise.
+# My wife is English.
+# 
+# Ma femme est en retard.
+# My wife is late.
+# 
+# Vous êtes en retard.
+# You're late for work.
+# 
+# Vous êtes ici
+# You are here
+# 
+# Nous sommes ici.
+# We are here.
+# 
+# Ils sont pressés aujourd'hui.
+# They're in a hurry today.
+# 
+# Je suis pressé(e) aujourd'hui.
+# I am in a hurry today.
+# 
 Je suis heureux aujourd'hui.
 I am happy today.
 
