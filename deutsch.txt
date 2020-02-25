@@ -3748,8 +3748,14 @@ Tom was present.
 Alle Schüler sind anwesend.
 All the students are present.
 
-Er wurde hinter Gitter gebracht.        <<<--- leech
+Er wurde hinter Gitter gebracht.       
 He was thrown behind bars.
+
+Alice rutschte die lange Rutsche hinunter.
+Alice slid down the long slide.
+
+Willst du auf der Rutsche rutschen?             <<<--- leech
+Do you want to go down the slide?
 
 Ich wurde verhört.
 I was interrogated.
