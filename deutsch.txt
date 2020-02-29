@@ -3715,7 +3715,7 @@ Our chimney is made of bricks.
 Wir verfahren dem Plan entsprechend.
 We're proceeding according to plan.
 
-Ich verfahre ebenso wie Tom.        <<-- leech
+Ich verfahre ebenso wie Tom.        
 I do that the same way Tom does.
 
 Ihr zufolge, kommt er nicht.
@@ -3754,8 +3754,29 @@ He was thrown behind bars.
 Alice rutschte die lange Rutsche hinunter.
 Alice slid down the long slide.
 
-Willst du auf der Rutsche rutschen?             <<<--- leech
+Willst du auf der Rutsche rutschen?             
 Do you want to go down the slide?
+
+Wir trafen sie zufällig.
+We met her by accident.
+
+Nichts passiert zufällig.
+Nothing happens by chance.
+
+Es geschah zufällig.
+It happened by accident.
+
+Das Problem machte ihn stutzig.
+The problem perplexed him.
+
+Tom will Ergebnisse.
+Tom wants results.
+
+Die Ergebnisse waren negativ.
+The results were negative.
+
+Wir erwarten gute Ergebnisse.           <<<--- leech
+We expect good results.
 
 Ich wurde verhört.
 I was interrogated.
