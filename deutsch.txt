@@ -3775,8 +3775,14 @@ Tom wants results.
 Die Ergebnisse waren negativ.
 The results were negative.
 
-Wir erwarten gute Ergebnisse.           <<<--- leech
+Wir erwarten gute Ergebnisse.          
 We expect good results.
+
+Ich wollte ihr schmeicheln.
+I wanted to flatter her.
+
+Sie wollte mir schmeicheln.         <<<--- leech
+She wanted to flatter me.
 
 Ich wurde verhört.
 I was interrogated.
