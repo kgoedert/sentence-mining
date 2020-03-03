@@ -5722,8 +5722,80 @@ She wants to go abroad.
 Ich möchte euch die Grammatik erklären.
 I would like to explain the grammar to you guys.
 
-Ich möchte eure Fragen beantworten.                 <<<--- jenny
+Ich möchte eure Fragen beantworten.                
 I would like to answer your questions.
+
+Ich habe ein Foto gemacht.
+I have taken a picture.
+
+Ich habe einen Spaziergang gemacht.
+I took a walk.
+
+Sie hat einen Salat gemacht.
+She made a salad.
+
+Jan hat einen Fehler gemacht.
+Jan made a mistake.
+
+Ich habe Überstunden gemacht.
+I did overtime.
+
+Du hast Forschritte gemacht.
+You made progress.
+
+Sabine hat eine Weltreise gemacht.
+Sabine took a trip around the world.
+
+Hast du eine Weltreise gemacht?
+Did you take a trip around the world?
+
+Habt ihr einen Salat gemacht?
+Did you guys made a salad?
+
+Hast du Überstunden gemacht?
+Did you do overtime?
+
+Hat Anna einen Fehler gemacht?
+Did Anna make a mistake?
+
+Was hast du gestern gemacht?
+What did you do yesterday?
+
+Warum hast du Überstunden gemacht?
+Why did you make overtime?
+
+Er hat die ganze Zeit gemacht.
+He laughed the whole time.
+
+Warum hast du gelacht?
+Why did you laugh?
+
+Worüber habt ihr gelacht?
+What did you laugh about?
+
+Wir haben alle gelacht.
+All of us laughed.
+
+Niemand hat gelacht.
+No one laughed.
+
+Ich habe viel gelernt.
+I lerned/studied a lot.
+
+Habt ihr heute gelernt?
+Did you guys study today?
+
+Wo hast du Deutsch gelernt?
+Where did you lern german?
+
+Wie hast Deutsch gelernt?
+How did you lern german?
+
+Ich habe neuen Vokabeln gelernt.
+I learned new vocabulary.
+
+Wir haben zusammen gelernt.                 <<<<--- jenny
+We studied together.
 
 Zisch ab, du Idiot!
 Buzz off, you idiot!
