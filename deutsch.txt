@@ -5794,8 +5794,131 @@ How did you lern german?
 Ich habe neuen Vokabeln gelernt.
 I learned new vocabulary.
 
-Wir haben zusammen gelernt.                 <<<<--- jenny
+Wir haben zusammen gelernt.     
 We studied together.
+
+Ich bin gefahren.
+I drove.
+
+Ich bin nach Berlin gefahren.
+I drove to Berlin.
+
+Ich bin gestern nach Berlin gefahren.
+Yesterday, I drove to Berlin.
+
+Ich bin gestern mit dem Zug nach Berlin gefahren.
+Yesterday, I took the train to Berlin.
+
+Wir sind mit seinem Auto gefahren.
+We drove with his car.
+
+Seid ihr in die Berge gefahren?
+Did you guys drive into the mountains?
+
+Wir sind mit BlablaAuto nach München gefahren.
+We went to Munich by BlablaAuto.
+
+Anna ist mit Josef in die Stadt gefahren.
+Anna drove into the city with Josef.
+
+Er ist nach Hause gegangen.
+He went home.
+
+Er ist alleine nach Hause gegangen.
+He went home alone.
+
+Er ist gestern Abend alleine nach Hause gegangen.
+Yesterday night, he went home alone.
+
+Er ist nach Moskau geflogen.
+He flew to Moscow.
+
+Sie ist noch nie geflogen.
+She's never flown before.
+
+Seid ihr schon mal nach Namibia geflogen?
+Have you guys flown to Namibia before?
+
+Er ist nicht zur Besprechung gekommen.
+He didn't come to the meeting.
+
+Pia ist zu spät gekommen.
+Pia was late.
+
+Warum seid ihr zu spät gekommen?
+Why were you guys late?
+
+Ich bin mit der Bahn gekommen.
+I came by train.
+
+Thomas ist alleine gekommen.
+Thomas came alone.
+
+Er ist letzte Woche nach Thailand gereist.
+He traveled to Thailand last week.
+
+Wir sind sicher gelandet.
+We landed safely.
+
+Er ist über einen Stein gestolpert.
+He tripped over a rock.
+
+Er ist über den Stuhl gefallen.
+He fell over the chair.
+
+Ich bin ins Wasser gefallen.
+I fell into the water.
+
+Ich bin hingefallen.
+I fell down.
+
+Ich bin bis zum Ende geblieben.
+I stayed until the end.
+
+Sie ist zu Hause geblieben.
+She stayed at home.
+
+Wir sind dieses Jahr in Berlin gewesen.
+We were in Berlin this year.
+
+Wir waren in Berlin.
+We were in Berlin.
+
+Ich bin noch nie in Russland gewesen.
+I've never been to Russia before.
+
+Was ist passiert?
+What happened?
+
+Was ist geschehen?
+What happened? (mais formal que passiert)
+
+Ein Unfall ist passiert?
+An accident happened.
+
+Er ist rot geworden.
+He blushed.
+
+Ich bin dick geworden.
+I got fat.
+
+Der Kuchen ist mir gelungen.
+The cake was a success.
+
+Der Kuchen ist mir misslungen.
+I failed at baking the cake.
+
+Ich bin mitten in der Nacht aufgewacht.
+I woke up in the middle of the night.
+
+Ich bin heute um sechs Uhr aufgestanden.
+I got up at 6 am today.
+
+Er ist letztes Jahr gestorben.
+He died last year.
+
+Das Baby ist eingeschlafen.                 <<--- jenny
+The baby fell asleep.
 
 Zisch ab, du Idiot!
 Buzz off, you idiot!
