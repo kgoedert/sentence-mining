@@ -3781,8 +3781,14 @@ We expect good results.
 Ich wollte ihr schmeicheln.
 I wanted to flatter her.
 
-Sie wollte mir schmeicheln.         <<<--- leech
+Sie wollte mir schmeicheln.         
 She wanted to flatter me.
+
+Ich bin entrüstet.
+I'm outraged.
+
+Grace trug einen entrüsteten Blick.         <<<--- leech
+Grace wore an indignant look.
 
 Ich wurde verhört.
 I was interrogated.
