@@ -5917,8 +5917,20 @@ I got up at 6 am today.
 Er ist letztes Jahr gestorben.
 He died last year.
 
-Das Baby ist eingeschlafen.                 <<--- jenny
+Das Baby ist eingeschlafen.                
 The baby fell asleep.
+
+Wir haben meine Mutter besucht.
+We visited my mother.
+
+Wir haben gestern meine Mutter in Dortmund besucht.
+We visited my mother in Dortmund yesterday.
+
+Sie ist nach Berlin gefahren.
+She drove to Berlin.
+
+Sie ist Dienstagmorgen mit Julia nach Berlin gefahren.          <<<-- jenny
+She drove tuesday morning with Julia to Berlin.
 
 Zisch ab, du Idiot!
 Buzz off, you idiot!
