@@ -3787,8 +3787,23 @@ She wanted to flatter me.
 Ich bin entrüstet.
 I'm outraged.
 
-Grace trug einen entrüsteten Blick.         <<<--- leech
+Grace trug einen entrüsteten Blick.      
 Grace wore an indignant look.
+
+Die Gerichtsverhandlung dauerte drei Stunden.
+The court session lasted for three hours.
+
+Der Mann hat nächste Woche eine Gerichtsverhandlung.
+That man is going on trial next week.
+
+Er widersprach meiner Aussage.
+He disputed my statement.
+
+Die Aussage stimmt nicht ganz.
+The statement is not wholly true.
+
+Ich traue Toms Aussage nicht.       <<<-- leech
+I don't believe Tom's statement.
 
 Ich wurde verhört.
 I was interrogated.
