@@ -3802,8 +3802,17 @@ He disputed my statement.
 Die Aussage stimmt nicht ganz.
 The statement is not wholly true.
 
-Ich traue Toms Aussage nicht.       <<<-- leech
+Ich traue Toms Aussage nicht.       
 I don't believe Tom's statement.
+
+Das sind nur Vermutungen.
+Those are just assumptions.
+
+Deine Vermutung liegt komplett daneben.
+Your guess is entirely off the mark.
+
+Die Müllabfuhr kommt dreimal die Woche.                 <<<--- leech
+The garbage collector comes three times a week.
 
 Ich wurde verhört.
 I was interrogated.
