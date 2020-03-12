@@ -3811,8 +3811,17 @@ Those are just assumptions.
 Deine Vermutung liegt komplett daneben.
 Your guess is entirely off the mark.
 
-Die Müllabfuhr kommt dreimal die Woche.                 <<<--- leech
+Die Müllabfuhr kommt dreimal die Woche.                
 The garbage collector comes three times a week.
+
+Er wird Tom bald einholen.
+He'll soon catch up with Tom.
+
+Ich muss die verlorene Zeit einholen.
+I must make up for lost time.
+
+Er wird uns in einer Stunde einholen.           <<<-- leech
+He'll catch up with us in an hour.
 
 Ich wurde verhört.
 I was interrogated.
