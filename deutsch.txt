@@ -3820,8 +3820,26 @@ He'll soon catch up with Tom.
 Ich muss die verlorene Zeit einholen.
 I must make up for lost time.
 
-Er wird uns in einer Stunde einholen.           <<<-- leech
+Er wird uns in einer Stunde einholen.          
 He'll catch up with us in an hour.
+
+Mein Schwager ist Polizist.
+My brother-in-law is a policeman.
+
+Mein Schwager ist Belgier.
+My brother-in-law is Belgian.
+
+Dieses Hotel gehört meinem Schwager.
+This hotel belongs to my brother-in-law.
+
+Schreiben Sie einen kurzen Aufsatz.
+Write a short essay.
+
+Ich musste einen Aufsatz bearbeiten.
+I had to work on an essay.
+
+Ich muss einen Aufsatz schreiben.       <<<-- leech
+I have to write an essay.
 
 Ich wurde verhört.
 I was interrogated.
