@@ -3838,8 +3838,26 @@ Write a short essay.
 Ich musste einen Aufsatz bearbeiten.
 I had to work on an essay.
 
-Ich muss einen Aufsatz schreiben.       <<<-- leech
+Ich muss einen Aufsatz schreiben.     
 I have to write an essay.
+
+Er hat schmale Schultern.
+He has narrow shoulders.
+
+Sie hat schmale Hüften.
+She has narrow hips.
+
+Die Straße ist sehr schmal.
+The street is very narrow.
+
+Wir werden dich begraben.
+We will bury you.
+
+Er wurde lebendig begraben.
+He was buried alive.
+
+Wo ist Tom begraben?            <<<--- leech
+Where is Tom buried?
 
 Ich wurde verhört.
 I was interrogated.
