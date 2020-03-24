@@ -3856,8 +3856,17 @@ We will bury you.
 Er wurde lebendig begraben.
 He was buried alive.
 
-Wo ist Tom begraben?            <<<--- leech
+Wo ist Tom begraben?         
 Where is Tom buried?
+
+Rühr die Suppe um.
+Stir the soup.
+
+Nur über meine Leiche!
+Over my dead body.
+
+Seine Leiche wurde nie gefunden.        <<<--- leech
+His body was never found.
 
 Ich wurde verhört.
 I was interrogated.
