@@ -3865,8 +3865,26 @@ Stir the soup.
 Nur über meine Leiche!
 Over my dead body.
 
-Seine Leiche wurde nie gefunden.        <<<--- leech
+Seine Leiche wurde nie gefunden.      
 His body was never found.
+
+Halte das Seil.
+Hold the rope.
+
+Wo ist das Seil?
+Where's the rope?
+
+Lass das Seil los!            
+Let go of the rope.
+
+Das ist künstlich.
+It's artificial.
+
+Sie trägt künstliche Nägel.
+She's wearing artificial nails.
+
+Wie funktioniert künstliche Intelligenz?        <<-- leech
+How does artificial intelligence work?
 
 Ich wurde verhört.
 I was interrogated.
