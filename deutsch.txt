@@ -3892,8 +3892,14 @@ That tastes terrible.
 Tom riecht scheußlich.
 Tom smells awful.
 
-Diese Frucht schmeckt scheußlich.           <<<--- leech
+Diese Frucht schmeckt scheußlich.        
 This fruit tastes bad.
+
+Die Zukunft sah sehr düster aus.
+The future looked very gloomy.
+
+Es ist ein sehr düsterer Tag.           <<<--- leech
+It's a very gloomy day.
 
 Ich wurde verhört.
 I was interrogated.
