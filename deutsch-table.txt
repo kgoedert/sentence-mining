@@ -10,6 +10,15 @@ Plural  |Die        |Die        |Den    |Keiner
 
 ------------------------------------------------------
 
+        |Nominative |Accusative |Dativ     |Genitiv
+-----------------------------------------------------
+Masc    |dieser     |diesen     |diesem    |dieses
+Fem     |diese      |diese      |dieser    |dieser
+Neuter  |dieses     |dieses     |diesem    |dieses
+Plural  |diese      |diese      |diesen    |dieser
+
+------------------------------------------------------
+
 Masc    |Ein        |Einen      |Einem  |Eines
 Fem     |Eine       |Eine       |Einer  |Einer
 Neuter  |Ein        |Ein        |Einem  |Eines
@@ -51,3 +60,4 @@ Possessive Dativ - OI
 |ihr        |euerem         |eurer          |eurem      |eurer
 |sie        |ihrem          |ihrer          |ihrem      |ihrer
 |Sie        |Ihrem          |Ihrer          |Ihrem      |Ihrer
+

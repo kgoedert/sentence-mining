@@ -3883,8 +3883,17 @@ It's artificial.
 Sie trägt künstliche Nägel.
 She's wearing artificial nails.
 
-Wie funktioniert künstliche Intelligenz?        <<-- leech
+Wie funktioniert künstliche Intelligenz?      
 How does artificial intelligence work?
+
+Das schmeckt scheußlich.
+That tastes terrible.
+
+Tom riecht scheußlich.
+Tom smells awful.
+
+Diese Frucht schmeckt scheußlich.           <<<--- leech
+This fruit tastes bad.
 
 Ich wurde verhört.
 I was interrogated.
