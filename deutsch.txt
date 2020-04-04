@@ -3898,8 +3898,17 @@ This fruit tastes bad.
 Die Zukunft sah sehr düster aus.
 The future looked very gloomy.
 
-Es ist ein sehr düsterer Tag.           <<<--- leech
+Es ist ein sehr düsterer Tag.       
 It's a very gloomy day.
+
+Weit entfernte Dinge sehen verschwommen aus.
+Distant things look blurred.
+
+Ohne ihre Kontaktlinsen sieht sie alles verschwommen.
+Without her contact lenses, she can't see clearly.
+
+Sami blutete am ganzen Leib.            <<<-- leech
+Sami was bleeding everywhere.
 
 Ich wurde verhört.
 I was interrogated.
