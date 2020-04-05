@@ -3907,8 +3907,20 @@ Distant things look blurred.
 Ohne ihre Kontaktlinsen sieht sie alles verschwommen.
 Without her contact lenses, she can't see clearly.
 
-Sami blutete am ganzen Leib.            <<<-- leech
+Sami blutete am ganzen Leib.         
 Sami was bleeding everywhere.
+
+Japan ist von Meer umgeben.
+Japan is surrounded by sea.
+
+Wir sind von Feinden umgeben.
+We're surrounded by enemies.
+
+Florenz war von Mauern umgeben.
+Florence was surrounded by walls.
+
+Er erhob Anspruch auf das Land.         <<-- leech
+He laid claim to the land.
 
 Ich wurde verhört.
 I was interrogated.
