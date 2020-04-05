@@ -4176,328 +4176,328 @@
 # 
 # ¿Sabe dónde está el Sr. Pavon? No está en su oficina.
 # Do you know where Mr Pavon is? He is not in his office.
+# # 
+# # No sé, quizá en la cafetería.
+# # I don't know, maybe in the coffee shop.
+# # 
+# # Es posible que tengan ustedes razón, pero prefiro asegurarme.
+# # It is possible that you are right, but I need to be sure.
+# # 
+# # No me ha llamado Martina. Posiblemente me llame esta noche.
+# # Martina did not call me. Maybe she will call me tonight.
+# # 
+# # Era poco probable que aprobara. Había estudiado muy poco.
+# # It was unlikely that he would pass. He had not studied a lot.
+# # 
+# # ¿Sabes si Pedro ha hablado con Ricardo?
+# # Do you know if Pedro has spoken to Ricardo?
+# # 
+# # Puede que lo hiciera anoche. Regresó tarde.
+# # Maybe he did it last night. He came back late.
+# # 
+# Están cansados. Quizá se acostaron tarde anoche.
+# They are tired. Pehaps they went to bed late last night.
 # 
-# No sé, quizá en la cafetería.
-# I don't know, maybe in the coffee shop.
+# Es imposible dormir en esta casa. Hay demasiado ruido.
+# It is impossible to sleep in this house. There is too much noise.
 # 
-# Es posible que tengan ustedes razón, pero prefiro asegurarme.
-# It is possible that you are right, but I need to be sure.
+# Era imposible engañar a Tomas. Era muy listo.
+# It was impossible to deceive Tomas. He was very smart.
 # 
-# No me ha llamado Martina. Posiblemente me llame esta noche.
-# Martina did not call me. Maybe she will call me tonight.
+# ¿Sabes dónde está Martín? Seguramente está en casa. No sale mucho.
+# Do you know where Martín is? Probably at home. He doesn't go out much.
 # 
-# Era poco probable que aprobara. Había estudiado muy poco.
-# It was unlikely that he would pass. He had not studied a lot.
+# ¿Cuándo vas a enviarle un correo electrónico a Clara? Seguramente lo haré esta noche.
+# When are you going to e-mail Clara? Possibly I will do it tonight.
 # 
-# ¿Sabes si Pedro ha hablado con Ricardo?
-# Do you know if Pedro has spoken to Ricardo?
+# Santi no contesta el teléfono. Seguramente ha salido.
+# Santi doesn't answer the phone. Probably he went out.
 # 
-# Puede que lo hiciera anoche. Regresó tarde.
-# Maybe he did it last night. He came back late.
+# Nos alegramos de estar con vosotros.
+# We are happy to be with you.
 # 
-Están cansados. Quizá se acostaron tarde anoche.
-They are tired. Pehaps they went to bed late last night.
-
-Es imposible dormir en esta casa. Hay demasiado ruido.
-It is impossible to sleep in this house. There is too much noise.
-
-Era imposible engañar a Tomas. Era muy listo.
-It was impossible to deceive Tomas. He was very smart.
-
-¿Sabes dónde está Martín? Seguramente está en casa. No sale mucho.
-Do you know where Martín is? Probably at home. He doesn't go out much.
-
-¿Cuándo vas a enviarle un correo electrónico a Clara? Seguramente lo haré esta noche.
-When are you going to e-mail Clara? Possibly I will do it tonight.
-
-Santi no contesta el teléfono. Seguramente ha salido.
-Santi doesn't answer the phone. Probably he went out.
-
-Nos alegramos de estar con vosotros.
-We are happy to be with you.
-
-Me gusta que me quieran.
-I appreciate that you like me.
-
-Estoy harto que no colabores.
-I am fed up that you don't colaborate.
-
-Me gusta ser puntual. Me desagrada llegar tarde.
-I like being punctual. I don't like to arrive late.
-
-Me alegro de que tengas un buen trabajo. Te lo mereces.
-I am happy that you have a good job. You deserve it.
-
-Me extraña que no vaya Isa al concierto.
-It is odd that Isa is not going to the concert.
-
-Me extrañó que me llamaran tan tarde.
-It was strange that they called me so late.
-
-A mis padres les encantaba que fuéramos a la finca de los abuelos.
-My parents loved to go to the grandparents farm.
-
-Nos encataría que Lidia estudiara Medicina.
-We would love Lidia to study medicine.
-
-Es bueno que no estéis enfadados.
-It is good that you are not upset.
-
-Me parece bien que salgas.
-I think it is good that you go out.
-
-Me parece lógico que Ana esté enfadada.
-It seems natural that Ana is upset.
-
-Es una vergüenza que sean tan maleducados.
-It is a shame that they are so rude.
-
-Es importante que lleguéis pronto.
-It is important that you arrive soon.
-
-Me parece una locura que hagas eso.
-It seems crazy that you do that.
-
-Alba pensaba que era mejor que llamáramos a casa.
-Alba thouhght it was best that we called home.
-
-Sería una lástima que perdieras la beca.
-It would be a shama for you to lose the scholarship.
-
-Es importante decir la verdad.
-It is important to tell the truth.
-
-Me parece una locura levantarse a las cinco.
-It is crazy to get up at five.
-
-Doctor, ¿cree que estoy enfermo?
-Doctor, do you think I am sick?
-
-Me parece que va a nevar.
-It seems to me that it is going to rain.
-
-Recuero que el año pasado visitamos al desierto de Atacama.
-I remember that last year we visited the Atacama desert.
-
-¿No piensas que es un poco tarde?
-Don't you think it is a little bit late?
-
-Pues yo no creo que esté enfermo.
-Well, I don't think you are sick.
-
-A mí no me parece que vaya a nevar.
-It doesn't seem to me that it is going to rain.
-
-No recuerdo que el año pasado visitáramos el desierto de Atacama.
-I don't recall that we visited the Atacama desert last year.
-
-No, no pienso que sea tan tarde.
-No, I don't think it is too late.
-
-¿Es verdad que Ángel es actor?
-Is it true that Ángel is an actor?
-
-Estaba claro que Julián mentia.
-It was obvious that Julián was lying.
-
-Es evidente que Felipe no quiere ayudarmos.
-It is obvious that Felipe doesn't want to help us.
-
-No es verdad que sea actor.
-It is not true that he is an actor.
-
-Para mí no estaba claro que mentiera.
-To me it was not obvious that he was lying.
-
-Es mentira que Felipe no quiera ayudarnos.
-It is a lie that Felipe doesn't want to help us.
-
-Blanca es la persona que cuida a los niños.
-Blanca is the person that takes care of the children.
-
-Costa Rica es el único país de América que no tiene ejército.
-Costa Rica is the only country in America that doesn't hava an army.
-
-Conozco a un chico que toca el oboe.
-I know a boy that plays the oboe.
-
-Necesito una persona que cuide de los niños.
-I need someone that takes care of the children.
-
-¿Hay algún país que no tenga ejército?
-Is there a country that does not have an army?
-
-No conozco a nadie que toque el oboe.
-I don't know anyone that plays the oboe.
-
-Conocía un lugar que era perfecto para acampar.
-I knew a place that was perfect for camping.
-
-Tenemos un nuevo editor que sabe árabe.
-We have a new editor that knows arabic.
-
-No conocía ningún lugar que fuera perfecto para acampar.
-I didn't know any place that was perfect for camping.
-
-Necesitaríamos un editor que supiera árabe.
-We would need an editor that knew arabic.
-
-Soy Martín. No puedo ir. Tengo un poco de fiebre.
-It is Martín. I can't go. I have a little bit of fiever.
-
-Es Martín. Dice que no puede venir, que tiene un poco de fiebre.
-It is Martín. He says he can't come, that he has a little bit of fever.
-
-¿Dónde está Martín?
-Where is Martín?
-
-Llamó esta mañana y dijo que no podía venir, que tenía un poco de fiebre.
-He called this morning and said that he could not come, that he had a little bit of fever.
-
-Soy el pintor. No puedo ir este mes. Dígale a su madre que la llamaré cuando pueda.
-I am the paintor. I can't go this month. Tell your mother that I will call her when I can.
-
-Mamá, es el pintor. Dice que no puede venir este mes, que te llamará cuando pueda.
-Mom, it is the paintor. He said he can't come this month, that he will call you when he can.
-
-El otro día Juan me comentó que había suspendido porque no había podido estudiar.
-The other day Juan said that he had cancelled because he couldn't study.
-
-Estoy muy contenta. Felipe me ha prometido que iremos a Cuba el verano que viene.
-I am very happy. Felipe promised that we will go to Cuba next summer.
-
-Dice que vive en Guadalajara.
-He said he lives in Guadalara.
-
-Ha dicho que está estudiando mucho.
-He said he is studying a lot.
-
-Dijo que vivía en Guadalajara.
-He said he lived in Guadalajara.
-
-Arturo soy Fede. Quiero saber si vas a ir a la sierra el domingo.
-Arturo it is Fede. I want to know if you are going to the ridge on sunday.
-
-Ayer estuve con Blanca. Me preguntó cuándo íbamos a reunirmos.
-Yesterday I was with Blanca. She asked when we are going to get together.
-
-Me preguntó si tenía novio.
-He asked if I had a boyfriend.
-
-Le pregunté cómo se llamaba su hermano.
-I asked him how his brother was called.
-
-Me preguntó dónde vivía.
-He asked me where I lived.
-
-Sara quiere saber si vas a ayudarla.
-Sara wants to know if you are going to help her.
-
-Me gustaría saber qué pasó anoche.
-I would like to know what happened last night.
-
-Quiere saber si hablas español.
-He wants to know if you speak spanish.
-
-Ha preguntado que estás haciendo.
-He asked what are you doing.
-
-Quería saber si hablabas español.
-He wanted to know if you spoke spanish.
-
-Preguntó que estabas haciendo.
-He asked what you were doing.
-
-Quiere saber si he acabado el cuadro.
-He wants to know if I finished the painting.
-
-Ha preguntado adónde fuimos el domingo.
-He asked where we went on sunday.
-
-Quería saber quién era la chica que estaba conmigo el otro día.
-He wanted to know who was the girl that was with me the other day.
-
-Quiere saber cuándo será el examen.
-He wants to know when is the test.
-
-Ha preguntado si vamos a ir a la sierra el domingo.
-He asked if we are going to go to the ridge next sunday.
-
-Quería saber cuándo sería el examen.
-He wanted to know when the test would be.
-
-Preguntó si íbamos a ir a la sierra el domingo.
-He asked if we were going to go to the ridge next sunday.
-
-Quiere saber si sería mejor quedar otro día.
-He wanted to know if it would be better to stay another day.
-
-Preguntó qué haríamos en caso de que hiciera mal tiempo.
-He asked what we would do if the weather was bad.
-
-Dije a Jaime que venga.
-Tell Jaime to come.
-
-Dice papá que vayas.
-Dad told you to go.
-
-Por favor, no coman en la oficina.
-Please, don't eat at the office.
-
-La jefa nos ha pedidoo que no comamos en la oficina.
-The boss has asked us not to eat at the office.
-
-El director dice que vayas ahora.
-The director told you to go now.
-
-Luis me ha pedido que le enseñe a conducir.
-Luis has asked me teach him how to drive.
-
-Luisa dijo que la llamara hoy.
-Luisa said you called her today.
-
-Ramsés me pidió que le ayudara.
-Ramsés asked me to help him.
-
-Alicia me ha dicho que deje de trabajar tanto.
-Alicia has told me to stop working so much.
-
-El policía nos ordenó que nos moviéramos de allí.
-The policeman told us to move away from there.
-
-Mi padre se va a Brasil y me ha pedido que lo lleve ao aeropuerto esta noche.
-My father is going to Brazil and has asked me to take him to the airport tonight.
-
-Esteban me aconsejó que no le dijera a nadie que lo había visto.
-Esteban advised me not to tell anyone that I had seen him.
-
-El jefe nos advirtió que no volviéramos a llegar tarde.
-The boss warned us not to arrive late again.
-
-Rafa dice que apagues la tele, que quiere estudiar.
-Rafa said for you to turn off the tv, that he wants to study.
-
-Rosario me ha pedido que la despierte a las ocho mañana.
-Rosario has asked me to wake her up at eight tomorrow.
-
-Cuando suspendí el año pasado el profesor me sugirió que trabajara más.
-When I failed last year, the professor suggested I work harder.
-
-Voy a despertar Juan. Me pidió que lo despertara a esta hora.
-I am going to wake up Juan. He asked me to wake him up now.
-
-Hablé con Carlos hace una semana y me pidió que le volviera a llamar este lunes.
-I talked to Carlos one week ago and he asked me to call again this monday.
-
-¿Crees que van a ganar?
-Do you think they are going to win?
-
-No sé, es posible. Si ganan este partido, serán campeones.
-I don't know. It is possible. If they win this match, they will be champions.
-
-Si no llueve mañana, iré a la playa.
-If it doesn't rain tomorrow, I am going to the beach.
-
+# Me gusta que me quieran.
+# I appreciate that you like me.
+# 
+# Estoy harto que no colabores.
+# I am fed up that you don't colaborate.
+# 
+# Me gusta ser puntual. Me desagrada llegar tarde.
+# I like being punctual. I don't like to arrive late.
+# 
+# Me alegro de que tengas un buen trabajo. Te lo mereces.
+# I am happy that you have a good job. You deserve it.
+# 
+# Me extraña que no vaya Isa al concierto.
+# It is odd that Isa is not going to the concert.
+# 
+# Me extrañó que me llamaran tan tarde.
+# It was strange that they called me so late.
+# 
+# A mis padres les encantaba que fuéramos a la finca de los abuelos.
+# My parents loved to go to the grandparents farm.
+# 
+# Nos encataría que Lidia estudiara Medicina.
+# We would love Lidia to study medicine.
+# 
+# Es bueno que no estéis enfadados.
+# It is good that you are not upset.
+# 
+# Me parece bien que salgas.
+# I think it is good that you go out.
+# 
+# Me parece lógico que Ana esté enfadada.
+# It seems natural that Ana is upset.
+# 
+# Es una vergüenza que sean tan maleducados.
+# It is a shame that they are so rude.
+# 
+# Es importante que lleguéis pronto.
+# It is important that you arrive soon.
+# 
+# Me parece una locura que hagas eso.
+# It seems crazy that you do that.
+# 
+# Alba pensaba que era mejor que llamáramos a casa.
+# Alba thouhght it was best that we called home.
+# 
+# Sería una lástima que perdieras la beca.
+# It would be a shama for you to lose the scholarship.
+# 
+# Es importante decir la verdad.
+# It is important to tell the truth.
+# 
+# Me parece una locura levantarse a las cinco.
+# It is crazy to get up at five.
+# 
+# Doctor, ¿cree que estoy enfermo?
+# Doctor, do you think I am sick?
+# 
+# Me parece que va a nevar.
+# It seems to me that it is going to rain.
+# 
+# Recuero que el año pasado visitamos al desierto de Atacama.
+# I remember that last year we visited the Atacama desert.
+# 
+# ¿No piensas que es un poco tarde?
+# Don't you think it is a little bit late?
+# 
+# Pues yo no creo que esté enfermo.
+# Well, I don't think you are sick.
+# 
+# A mí no me parece que vaya a nevar.
+# It doesn't seem to me that it is going to rain.
+# 
+# No recuerdo que el año pasado visitáramos el desierto de Atacama.
+# I don't recall that we visited the Atacama desert last year.
+# 
+# No, no pienso que sea tan tarde.
+# No, I don't think it is too late.
+# 
+# ¿Es verdad que Ángel es actor?
+# Is it true that Ángel is an actor?
+# 
+# Estaba claro que Julián mentia.
+# It was obvious that Julián was lying.
+# 
+# Es evidente que Felipe no quiere ayudarmos.
+# It is obvious that Felipe doesn't want to help us.
+# 
+# No es verdad que sea actor.
+# It is not true that he is an actor.
+# 
+# Para mí no estaba claro que mentiera.
+# To me it was not obvious that he was lying.
+# 
+# Es mentira que Felipe no quiera ayudarnos.
+# It is a lie that Felipe doesn't want to help us.
+# 
+# Blanca es la persona que cuida a los niños.
+# Blanca is the person that takes care of the children.
+# 
+# Costa Rica es el único país de América que no tiene ejército.
+# Costa Rica is the only country in America that doesn't hava an army.
+# 
+# Conozco a un chico que toca el oboe.
+# I know a boy that plays the oboe.
+# 
+# Necesito una persona que cuide de los niños.
+# I need someone that takes care of the children.
+# 
+# ¿Hay algún país que no tenga ejército?
+# Is there a country that does not have an army?
+# 
+# No conozco a nadie que toque el oboe.
+# I don't know anyone that plays the oboe.
+# 
+# Conocía un lugar que era perfecto para acampar.
+# I knew a place that was perfect for camping.
+# 
+# Tenemos un nuevo editor que sabe árabe.
+# We have a new editor that knows arabic.
+# 
+# No conocía ningún lugar que fuera perfecto para acampar.
+# I didn't know any place that was perfect for camping.
+# 
+# Necesitaríamos un editor que supiera árabe.
+# We would need an editor that knew arabic.
+# 
+# Soy Martín. No puedo ir. Tengo un poco de fiebre.
+# It is Martín. I can't go. I have a little bit of fiever.
+# 
+# Es Martín. Dice que no puede venir, que tiene un poco de fiebre.
+# It is Martín. He says he can't come, that he has a little bit of fever.
+# 
+# ¿Dónde está Martín?
+# Where is Martín?
+# 
+# Llamó esta mañana y dijo que no podía venir, que tenía un poco de fiebre.
+# He called this morning and said that he could not come, that he had a little bit of fever.
+# 
+# Soy el pintor. No puedo ir este mes. Dígale a su madre que la llamaré cuando pueda.
+# I am the paintor. I can't go this month. Tell your mother that I will call her when I can.
+# 
+# Mamá, es el pintor. Dice que no puede venir este mes, que te llamará cuando pueda.
+# Mom, it is the paintor. He said he can't come this month, that he will call you when he can.
+# 
+# El otro día Juan me comentó que había suspendido porque no había podido estudiar.
+# The other day Juan said that he had cancelled because he couldn't study.
+# 
+# Estoy muy contenta. Felipe me ha prometido que iremos a Cuba el verano que viene.
+# I am very happy. Felipe promised that we will go to Cuba next summer.
+# 
+# Dice que vive en Guadalajara.
+# He said he lives in Guadalara.
+# 
+# Ha dicho que está estudiando mucho.
+# He said he is studying a lot.
+# 
+# Dijo que vivía en Guadalajara.
+# He said he lived in Guadalajara.
+# 
+# Arturo soy Fede. Quiero saber si vas a ir a la sierra el domingo.
+# Arturo it is Fede. I want to know if you are going to the ridge on sunday.
+# 
+# Ayer estuve con Blanca. Me preguntó cuándo íbamos a reunirmos.
+# Yesterday I was with Blanca. She asked when we are going to get together.
+# 
+# Me preguntó si tenía novio.
+# He asked if I had a boyfriend.
+# 
+# Le pregunté cómo se llamaba su hermano.
+# I asked him how his brother was called.
+# 
+# Me preguntó dónde vivía.
+# He asked me where I lived.
+# 
+# Sara quiere saber si vas a ayudarla.
+# Sara wants to know if you are going to help her.
+# 
+# Me gustaría saber qué pasó anoche.
+# I would like to know what happened last night.
+# 
+# Quiere saber si hablas español.
+# He wants to know if you speak spanish.
+# 
+# Ha preguntado que estás haciendo.
+# He asked what are you doing.
+# 
+# Quería saber si hablabas español.
+# He wanted to know if you spoke spanish.
+# 
+# Preguntó que estabas haciendo.
+# He asked what you were doing.
+# 
+# Quiere saber si he acabado el cuadro.
+# He wants to know if I finished the painting.
+# 
+# Ha preguntado adónde fuimos el domingo.
+# He asked where we went on sunday.
+# 
+# Quería saber quién era la chica que estaba conmigo el otro día.
+# He wanted to know who was the girl that was with me the other day.
+# 
+# Quiere saber cuándo será el examen.
+# He wants to know when is the test.
+# 
+# Ha preguntado si vamos a ir a la sierra el domingo.
+# He asked if we are going to go to the ridge next sunday.
+# 
+# Quería saber cuándo sería el examen.
+# He wanted to know when the test would be.
+# 
+# Preguntó si íbamos a ir a la sierra el domingo.
+# He asked if we were going to go to the ridge next sunday.
+# 
+# Quiere saber si sería mejor quedar otro día.
+# He wanted to know if it would be better to stay another day.
+# 
+# Preguntó qué haríamos en caso de que hiciera mal tiempo.
+# He asked what we would do if the weather was bad.
+# 
+# Dije a Jaime que venga.
+# Tell Jaime to come.
+# 
+# Dice papá que vayas.
+# Dad told you to go.
+# 
+# Por favor, no coman en la oficina.
+# Please, don't eat at the office.
+# 
+# La jefa nos ha pedidoo que no comamos en la oficina.
+# The boss has asked us not to eat at the office.
+# 
+# El director dice que vayas ahora.
+# The director told you to go now.
+# 
+# Luis me ha pedido que le enseñe a conducir.
+# Luis has asked me teach him how to drive.
+# 
+# Luisa dijo que la llamara hoy.
+# Luisa said you called her today.
+# 
+# Ramsés me pidió que le ayudara.
+# Ramsés asked me to help him.
+# 
+# Alicia me ha dicho que deje de trabajar tanto.
+# Alicia has told me to stop working so much.
+# 
+# El policía nos ordenó que nos moviéramos de allí.
+# The policeman told us to move away from there.
+# 
+# Mi padre se va a Brasil y me ha pedido que lo lleve ao aeropuerto esta noche.
+# My father is going to Brazil and has asked me to take him to the airport tonight.
+# 
+# Esteban me aconsejó que no le dijera a nadie que lo había visto.
+# Esteban advised me not to tell anyone that I had seen him.
+# 
+# El jefe nos advirtió que no volviéramos a llegar tarde.
+# The boss warned us not to arrive late again.
+# 
+# Rafa dice que apagues la tele, que quiere estudiar.
+# Rafa said for you to turn off the tv, that he wants to study.
+# 
+# Rosario me ha pedido que la despierte a las ocho mañana.
+# Rosario has asked me to wake her up at eight tomorrow.
+# 
+# Cuando suspendí el año pasado el profesor me sugirió que trabajara más.
+# When I failed last year, the professor suggested I work harder.
+# 
+# Voy a despertar Juan. Me pidió que lo despertara a esta hora.
+# I am going to wake up Juan. He asked me to wake him up now.
+# 
+# Hablé con Carlos hace una semana y me pidió que le volviera a llamar este lunes.
+# I talked to Carlos one week ago and he asked me to call again this monday.
+# 
+# ¿Crees que van a ganar?
+# Do you think they are going to win?
+# 
+# No sé, es posible. Si ganan este partido, serán campeones.
+# I don't know. It is possible. If they win this match, they will be champions.
+# 
+# Si no llueve mañana, iré a la playa.
+# If it doesn't rain tomorrow, I am going to the beach.
+# 
 Si tienes hambre come algo.
 If you are hungry, eat something.
 
