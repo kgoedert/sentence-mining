@@ -4588,318 +4588,318 @@
 # Vous êtes ici
 # You are here
 # 
-# Nous sommes ici.
-# We are here.
+# # Nous sommes ici.
+# # We are here.
+# # 
+# # Ils sont pressés aujourd'hui.
+# # They're in a hurry today.
+# # 
+# # Je suis pressé(e) aujourd'hui.
+# # I am in a hurry today.
+# # 
+# Tout m'ennuie.
+# Everything bores me.
 # 
-# Ils sont pressés aujourd'hui.
-# They're in a hurry today.
+# Je comprends tout.
+# I understand everything.
 # 
-# Je suis pressé(e) aujourd'hui.
-# I am in a hurry today.
+# Toute la journée, mon chat dort.
+# All (of the) day/ the whole day long, my cat sleeps.
 # 
-Tout m'ennuie.
-Everything bores me.
-
-Je comprends tout.
-I understand everything.
-
-Toute la journée, mon chat dort.
-All (of the) day/ the whole day long, my cat sleeps.
-
-J'ai mangé tout le gâteau.
-I ate all the cake. / I ate the whole cake.
-
-Toutes mes soeurs sont très énervantes
-All my sisters are really annoying!
-
-Je trouve tous les pays intéressants.
-I find all countries interesting.
-
-Les garçons ont passé leur examen et tous l'ont eu.
-The boys took their exams and all of them passed .
-
-On regardait les lucioles, et soudain toutes ont disparu.
-We were watching the fireflies, and suddenly all of them disappeared.
-
-Mes amis sont venus et tous étaient contents.
-My friends came and all were happy.
-
-Mes amis sont venus et ils étaient tous contents.
-My friends came and they were all happy.
-
-Les garçons ont passé leur examen et ils l'ont tous eu.
-The boys took their exams and they all passed .
-
-Je suis heureux aujourd'hui.
-I am happy today.
-
-Nous sommes heureux aujourd'hui.
-We are happy today.
-
-Nous sommes en retard aujourd'hui.
-We're late today.
-
-Elles sont en retard aujourd'hui.
-They're late today.
-
-Elles sont ensemble aujourd'hui.
-They are together today.
-
-Ils sont ensemble aujourd'hui.
-They are together today.
-
-Ils sont avec eux aujourd'hui.
-They are with them today.
-
-Il est avec eux aujourd'hui.
-He is with them today.
-
-Il est pressé aujourd'hui.
-He's in a hurry today.
-
-Bonjour Monsieur. Comment allez-vous?
-Good morning, sir. How are you doing? How are you?
-
-Avez-vous des nouvelles de vos amis?
-Do you have any news from your friends?
-
-Est-ce que vous êtes heureux d'être ici?
-Are you happy to be here?
-
-Pourquoi est-ce que vous êtes pressé?
-Why are you in a hurry?
-
-Est-ce que le restaurant est bon?
-Is the restaurant good?
-
-Est-ce qu'il est près d'ici?
-Is he near here?
-
-Avec qui est-ce que vous allez déjeuner?
-Who are you having lunch with?
-
-Est-ce que vous êtes en retard?
-Are you late? Are you late?
-
-Pourquoi est-ce que vous êtes en retard?
-Why are you late? Why are you late?
-
-Je ne sais pas.
-I don't know. I don't know.
-
-Je vais déjeuner.
-I'm going to lunch.
-
-Janine et moi allons au restaurant. 
-Janine and I are going to the restaurant. 
-
-Je vais au restaurant avec Janine.
-I'm going to the restaurant with Janine.
-
-Comment est-ce que vous vous appelez?
-What's your name? What's your name?
-
-Le Café de Paris est très bon.
-The Café de Paris is very good.
-
-Où est-ce que vous êtes?
-Where are you guys? Where are you?
-
-Ma sœur est en vacances.
-My sister is on vacation.
-
-Où est-ce qu'elle est?
-Where is she?
-
-Où est-elle?
-Where is she?
-
-Avec qui est-ce qu'elle est?
-Who is she with?
-
-Elle est avec qui?
-Who is she with?
-
-Nous sommes heureux de faire votre connaissance.
-We are happy to meet you.
-
-Il est heureux de faire votre connaissance.
-He is happy to meet you.
-
-Mon frère est heureux de faire votre connaissance.
-My brother is happy to meet you.
-
-Je ne sais pas s'ils sont en vacances.
-I don't know if they're on vacation.
-
-Je ne sais pas s'il est en vacances.
-I don't know if he's on vacation.
-
-Je ne sais pas s'il est en retard.
-I don't know if he's late.
-
-Je ne sais pas s'ils sont au café.
-I don't know if they're at the café.
-
-Je ne sais pas s'il va au restaurant.
-I don't know if he goes to the restaurant.
-
-Je ne sais pas s'il va à Paris.
-I don't know if he's going to Paris.
-
-Je ne sais pas s'ils sont à l'heure.
-I don't know if they're on time.
-
-Je ne sais pas s'ils sont avec eux.
-I don't know if they're with them.
-
-Je ne sais pas si elles sont en vacances.
-I don't know if they're on vacation.
-
-Je ne sais pas si elle est à Paris.
-I don't know if she's in Paris.
-
-Je ne sais pas si elle est au restaurant.
-I don't know if she's at the restaurant.
-
-Je ne sais pas si elle va être en retard.
-I don't know if she's going to be late.
-
-Je ne sais pas si c'est un bon restaurant.
-I don't know if it's a good restaurant.
-
-Je ne sais pas si le café est près d'ici.
-I don't know if the coffee's near here.
-
-Je ne sais pas si elles sont ensemble.
-I don't know if they're together.
-
-Je ne sais pas si elle va déjeuner.
-I don't know if she's going to lunch.
-
-Je ne sais pas si les livres sont ici
-I don't know if the books are here.
-
-C'est bon. Oui, je sais que c'est bon.
-It's okay. It's okay. Yes, I know it's okay.
-
-C'est ici. Oui, je sais que c'est ici.
-It's right here. Yes, I know it's here.
-
-Il va à Paris. Oui, je sais qu'il va à Paris.
-He's going to Paris. Yes, I know he's going to Paris.
-
-Elles sont pressées. Oui, je sais qu'elles sont pressées.
-They're in a hurry. Yes, I know they're in a hurry.
-
-Il est en vacances. Oui, je sais qu'il est en vacances.
-He's on vacation. Yes, I know he's on vacation.
-
-Ils sont anglais. Oui, je sais qu'ils sont anglais.
-They are English. Yes, I know they're English.
-
-C'est près d'ici. Oui, je sais que c'est près d'ici.
-It's close to here. Yes, I know it's close to here.
-
-Elle est pressée. Oui, je sais qu'elle est pressée.
-She's in a hurry. Yes, I know she's in a hurry.
-
-Ils sont en retard. Oui, je sais qu'ils sont en retard.
-They're late. They're late. Yes, I know they're late.
-
-Vous êtes ici.
-You are here.
-
-Il est dans la rue.
-He's on the street.
-
-Elle est dans la classe.
-She's in the classroom.
-
-Ma femme est au restaurant.
-My wife is at the restaurant.
-
-Je vais bien.
-I'm fine. I'm fine.
-
-Est-ce que vous allez bien?
-Are you all right?
-
-Quand est-ce que la classe commence?
-When does the class start?
-
-La classe commence aujourd'hui.
-The class starts today.
-
-Le restaurant est ici.
-The restaurant is here.
-
-Elle est avec eux.
-She's with them.
-
-Ma femme est avec ma fille.
-My wife is with my daughter.
-
-Est-ce que vous êtes français?
-Are you French?
-
-Nous allons déjeuner à une heure.
-We're going to lunch at one o'clock.
-
-Les amies sont ici.
-The friends are here.
-
-Elle sait où il est.
-She knows where he is.
-
-Il sait qu'elle est ici.
-He knows she's here.
-
-Elle est heureuse d'être dans la classe.
-She's happy to be in the classroom.
-
-Je suis heureux d'être au restaurant.
-I'm happy to be in the restaurant.
-
-Je sais qu'elle est heureuse.
-I know she's happy.
-
-Votre fille est au café.
-Your daughter's at the café.
-
-Il ne sait pas où est le restaurant.
-He doesn't know where the restaurant is.
-
-Elle est toujours en vacances.
-She's still on vacation.
-
-Oui, il est pressé.
-Yes, he's in a hurry.
-
-Je suis en vacances maintenant.
-I'm on vacation now.
-
-Est-ce que tu veux répondre à la lettre de tes parents? Oui, je vais y répondre tout de suite.
-Do you wish to respond to the letter from your parents? Yes, I will respond to it at once.
-
-Est-ce que tu vas à Paris? Non, je n'y vais pas.
-Are you going to Paris? No, I am not going there.
-
-Tu entres dans la maison? Non, je n'y entre pas.
-Are you entering (into) the house? No, I am not entering (into) there.
-
-Est-ce qu'il parle de son travail? Non, il n'en parle jamais.
-Is he speaking of his work? No, he never talks about it.
-
-Est-ce que tu viens de Paris? Oui, j'en viens.
-Are you coming from Paris? Yes, I am coming from there.
-
-Je voudrais des pommes. Combien en voulez-vous? J'en voudrais un kilo.
-I would like some apples. How much (of them) would you like? I would like a kilogram (of them).
-
-Et du lait. Combien de bouteilles? Donnes m'en deux.
-And some milk. How many bottles (thereof)? Give me two (of them).
-
+# J'ai mangé tout le gâteau.
+# I ate all the cake. / I ate the whole cake.
+# 
+# Toutes mes soeurs sont très énervantes
+# All my sisters are really annoying!
+# 
+# Je trouve tous les pays intéressants.
+# I find all countries interesting.
+# 
+# Les garçons ont passé leur examen et tous l'ont eu.
+# The boys took their exams and all of them passed .
+# 
+# On regardait les lucioles, et soudain toutes ont disparu.
+# We were watching the fireflies, and suddenly all of them disappeared.
+# 
+# Mes amis sont venus et tous étaient contents.
+# My friends came and all were happy.
+# 
+# Mes amis sont venus et ils étaient tous contents.
+# My friends came and they were all happy.
+# 
+# Les garçons ont passé leur examen et ils l'ont tous eu.
+# The boys took their exams and they all passed .
+# 
+# Je suis heureux aujourd'hui.
+# I am happy today.
+# 
+# Nous sommes heureux aujourd'hui.
+# We are happy today.
+# 
+# Nous sommes en retard aujourd'hui.
+# We're late today.
+# 
+# Elles sont en retard aujourd'hui.
+# They're late today.
+# 
+# Elles sont ensemble aujourd'hui.
+# They are together today.
+# 
+# Ils sont ensemble aujourd'hui.
+# They are together today.
+# 
+# Ils sont avec eux aujourd'hui.
+# They are with them today.
+# 
+# Il est avec eux aujourd'hui.
+# He is with them today.
+# 
+# Il est pressé aujourd'hui.
+# He's in a hurry today.
+# 
+# Bonjour Monsieur. Comment allez-vous?
+# Good morning, sir. How are you doing? How are you?
+# 
+# Avez-vous des nouvelles de vos amis?
+# Do you have any news from your friends?
+# 
+# Est-ce que vous êtes heureux d'être ici?
+# Are you happy to be here?
+# 
+# Pourquoi est-ce que vous êtes pressé?
+# Why are you in a hurry?
+# 
+# Est-ce que le restaurant est bon?
+# Is the restaurant good?
+# 
+# Est-ce qu'il est près d'ici?
+# Is he near here?
+# 
+# Avec qui est-ce que vous allez déjeuner?
+# Who are you having lunch with?
+# 
+# Est-ce que vous êtes en retard?
+# Are you late? Are you late?
+# 
+# Pourquoi est-ce que vous êtes en retard?
+# Why are you late? Why are you late?
+# 
+# Je ne sais pas.
+# I don't know. I don't know.
+# 
+# Je vais déjeuner.
+# I'm going to lunch.
+# 
+# Janine et moi allons au restaurant. 
+# Janine and I are going to the restaurant. 
+# 
+# Je vais au restaurant avec Janine.
+# I'm going to the restaurant with Janine.
+# 
+# Comment est-ce que vous vous appelez?
+# What's your name? What's your name?
+# 
+# Le Café de Paris est très bon.
+# The Café de Paris is very good.
+# 
+# Où est-ce que vous êtes?
+# Where are you guys? Where are you?
+# 
+# Ma sœur est en vacances.
+# My sister is on vacation.
+# 
+# Où est-ce qu'elle est?
+# Where is she?
+# 
+# Où est-elle?
+# Where is she?
+# 
+# Avec qui est-ce qu'elle est?
+# Who is she with?
+# 
+# Elle est avec qui?
+# Who is she with?
+# 
+# Nous sommes heureux de faire votre connaissance.
+# We are happy to meet you.
+# 
+# Il est heureux de faire votre connaissance.
+# He is happy to meet you.
+# 
+# Mon frère est heureux de faire votre connaissance.
+# My brother is happy to meet you.
+# 
+# Je ne sais pas s'ils sont en vacances.
+# I don't know if they're on vacation.
+# 
+# Je ne sais pas s'il est en vacances.
+# I don't know if he's on vacation.
+# 
+# Je ne sais pas s'il est en retard.
+# I don't know if he's late.
+# 
+# Je ne sais pas s'ils sont au café.
+# I don't know if they're at the café.
+# 
+# Je ne sais pas s'il va au restaurant.
+# I don't know if he goes to the restaurant.
+# 
+# Je ne sais pas s'il va à Paris.
+# I don't know if he's going to Paris.
+# 
+# Je ne sais pas s'ils sont à l'heure.
+# I don't know if they're on time.
+# 
+# Je ne sais pas s'ils sont avec eux.
+# I don't know if they're with them.
+# 
+# Je ne sais pas si elles sont en vacances.
+# I don't know if they're on vacation.
+# 
+# Je ne sais pas si elle est à Paris.
+# I don't know if she's in Paris.
+# 
+# Je ne sais pas si elle est au restaurant.
+# I don't know if she's at the restaurant.
+# 
+# Je ne sais pas si elle va être en retard.
+# I don't know if she's going to be late.
+# 
+# Je ne sais pas si c'est un bon restaurant.
+# I don't know if it's a good restaurant.
+# 
+# Je ne sais pas si le café est près d'ici.
+# I don't know if the coffee's near here.
+# 
+# Je ne sais pas si elles sont ensemble.
+# I don't know if they're together.
+# 
+# Je ne sais pas si elle va déjeuner.
+# I don't know if she's going to lunch.
+# 
+# Je ne sais pas si les livres sont ici
+# I don't know if the books are here.
+# 
+# C'est bon. Oui, je sais que c'est bon.
+# It's okay. It's okay. Yes, I know it's okay.
+# 
+# C'est ici. Oui, je sais que c'est ici.
+# It's right here. Yes, I know it's here.
+# 
+# Il va à Paris. Oui, je sais qu'il va à Paris.
+# He's going to Paris. Yes, I know he's going to Paris.
+# 
+# Elles sont pressées. Oui, je sais qu'elles sont pressées.
+# They're in a hurry. Yes, I know they're in a hurry.
+# 
+# Il est en vacances. Oui, je sais qu'il est en vacances.
+# He's on vacation. Yes, I know he's on vacation.
+# 
+# Ils sont anglais. Oui, je sais qu'ils sont anglais.
+# They are English. Yes, I know they're English.
+# 
+# C'est près d'ici. Oui, je sais que c'est près d'ici.
+# It's close to here. Yes, I know it's close to here.
+# 
+# Elle est pressée. Oui, je sais qu'elle est pressée.
+# She's in a hurry. Yes, I know she's in a hurry.
+# 
+# Ils sont en retard. Oui, je sais qu'ils sont en retard.
+# They're late. They're late. Yes, I know they're late.
+# 
+# Vous êtes ici.
+# You are here.
+# 
+# Il est dans la rue.
+# He's on the street.
+# 
+# Elle est dans la classe.
+# She's in the classroom.
+# 
+# Ma femme est au restaurant.
+# My wife is at the restaurant.
+# 
+# Je vais bien.
+# I'm fine. I'm fine.
+# 
+# Est-ce que vous allez bien?
+# Are you all right?
+# 
+# Quand est-ce que la classe commence?
+# When does the class start?
+# 
+# La classe commence aujourd'hui.
+# The class starts today.
+# 
+# Le restaurant est ici.
+# The restaurant is here.
+# 
+# Elle est avec eux.
+# She's with them.
+# 
+# Ma femme est avec ma fille.
+# My wife is with my daughter.
+# 
+# Est-ce que vous êtes français?
+# Are you French?
+# 
+# Nous allons déjeuner à une heure.
+# We're going to lunch at one o'clock.
+# 
+# Les amies sont ici.
+# The friends are here.
+# 
+# Elle sait où il est.
+# She knows where he is.
+# 
+# Il sait qu'elle est ici.
+# He knows she's here.
+# 
+# Elle est heureuse d'être dans la classe.
+# She's happy to be in the classroom.
+# 
+# Je suis heureux d'être au restaurant.
+# I'm happy to be in the restaurant.
+# 
+# Je sais qu'elle est heureuse.
+# I know she's happy.
+# 
+# Votre fille est au café.
+# Your daughter's at the café.
+# 
+# Il ne sait pas où est le restaurant.
+# He doesn't know where the restaurant is.
+# 
+# Elle est toujours en vacances.
+# She's still on vacation.
+# 
+# Oui, il est pressé.
+# Yes, he's in a hurry.
+# 
+# Je suis en vacances maintenant.
+# I'm on vacation now.
+# 
+# Est-ce que tu veux répondre à la lettre de tes parents? Oui, je vais y répondre tout de suite.
+# Do you wish to respond to the letter from your parents? Yes, I will respond to it at once.
+# 
+# Est-ce que tu vas à Paris? Non, je n'y vais pas.
+# Are you going to Paris? No, I am not going there.
+# 
+# Tu entres dans la maison? Non, je n'y entre pas.
+# Are you entering (into) the house? No, I am not entering (into) there.
+# 
+# Est-ce qu'il parle de son travail? Non, il n'en parle jamais.
+# Is he speaking of his work? No, he never talks about it.
+# 
+# Est-ce que tu viens de Paris? Oui, j'en viens.
+# Are you coming from Paris? Yes, I am coming from there.
+# 
+# Je voudrais des pommes. Combien en voulez-vous? J'en voudrais un kilo.
+# I would like some apples. How much (of them) would you like? I would like a kilogram (of them).
+# 
+# Et du lait. Combien de bouteilles? Donnes m'en deux.
+# And some milk. How many bottles (thereof)? Give me two (of them).
+# 
 Où est M. Day? M. Day est dans un petit hôtel.
 Where is Mr. Day? Mr. Day is in a small hotel.
 
