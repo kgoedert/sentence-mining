@@ -3928,8 +3928,35 @@ I don't get it.
 Niemand kann ihn begreifen.
 Nobody can understand him.
 
-Tom versuchte zu begreifen.             <<<--- leech
+Tom versuchte zu begreifen.          
 Tom tried to understand.
+
+Tom wird alles abstreiten.
+Tom will deny everything.
+
+Das kannst du nicht abstreiten.
+You can't deny that.
+
+Das könnt ihr nicht abstreiten.       
+You can't deny that.
+
+Wie überaus sonderbar!
+How very curious!
+
+Sie ist überaus beschäftigt.
+She is very busy.
+
+Das war überaus einfach.
+That was very easy!
+
+Soll ich Ihnen das Bier einschenken?
+Shall I pour some beer for you?
+
+Könntest du mir noch etwas Tee einschenken?
+Would you please give me some more tea?
+
+Kannst du mir bitte noch etwas Wein einschenken?        <<<-- leech
+Can you please pour me some more wine?
 
 Ich wurde verhört.
 I was interrogated.
