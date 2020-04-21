@@ -3955,8 +3955,14 @@ Shall I pour some beer for you?
 Könntest du mir noch etwas Tee einschenken?
 Would you please give me some more tea?
 
-Kannst du mir bitte noch etwas Wein einschenken?        <<<-- leech
+Kannst du mir bitte noch etwas Wein einschenken?     
 Can you please pour me some more wine?
+
+Sie nahm einen tiefen Atemzug.
+She took a deep breath.
+
+Ich las das Buch in einem Atemzug durch.            <<<-- leech
+I've read the book in one go.
 
 Ich wurde verhört.
 I was interrogated.
