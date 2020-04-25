@@ -3961,8 +3961,20 @@ Can you please pour me some more wine?
 Sie nahm einen tiefen Atemzug.
 She took a deep breath.
 
-Ich las das Buch in einem Atemzug durch.            <<<-- leech
+Ich las das Buch in einem Atemzug durch.         
 I've read the book in one go.
+
+Sie versteckte ihr Gesicht hinter einem Schleier.
+She hid her face behind a veil.
+
+Die Jungs bauten ein Floß.
+The boys built a raft.
+
+Tom stieß das Floß ins Wasser.
+Tom pushed the raft into the water.
+
+Der Junge fuhr auf einem Floß den Fluss entlang.        <<-- leech
+The boy went down the river on a raft.
 
 Ich wurde verhört.
 I was interrogated.
