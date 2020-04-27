@@ -3973,8 +3973,23 @@ The boys built a raft.
 Tom stieß das Floß ins Wasser.
 Tom pushed the raft into the water.
 
-Der Junge fuhr auf einem Floß den Fluss entlang.        <<-- leech
+Der Junge fuhr auf einem Floß den Fluss entlang.       
 The boy went down the river on a raft.
+
+Vater, ich will beichten.
+Father, I wish to confess.
+
+Musst du mir etwas beichten?
+Do you have anything to tell me?
+
+Sollte ich ihr meine Vergangenheit beichten?       
+Should I make a confession of my past to her?
+
+Tom machte die Tür sachte zu.
+Tom gently closed the door.
+
+Folter ist Unrecht.     <<<--- leech
+Torture is wrong.
 
 Ich wurde verhört.
 I was interrogated.
