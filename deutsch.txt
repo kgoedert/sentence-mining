@@ -3991,8 +3991,20 @@ Tom gently closed the door.
 Folter ist Unrecht.    
 Torture is wrong.
 
-Die Polizei will Tom vernehmen.         <<--leech
+Die Polizei will Tom vernehmen.      
 The police want to interrogate Tom.
+
+Sie spritzen die Obstbäume.
+They are spraying the fruit trees.
+
+Sie werden bald aus Hongkong eintreffen.
+They are arriving here soon from Hong Kong.
+
+Die Polizei wird bald vor Ort eintreffen.
+The police will soon arrive on the scene.
+
+Der Zug wird in Bälde hier eintreffen.          <<-- leech
+The train will arrive here before long.
 
 Ich wurde verhört.
 I was interrogated.
