@@ -4003,8 +4003,11 @@ They are arriving here soon from Hong Kong.
 Die Polizei wird bald vor Ort eintreffen.
 The police will soon arrive on the scene.
 
-Der Zug wird in Bälde hier eintreffen.          <<-- leech
+Der Zug wird in Bälde hier eintreffen.         
 The train will arrive here before long.
+
+Dir wird schon etwas einfallen.         <<-- leech
+You'll think of something.
 
 Ich wurde verhört.
 I was interrogated.
