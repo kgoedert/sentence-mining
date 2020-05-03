@@ -4006,8 +4006,14 @@ The police will soon arrive on the scene.
 Der Zug wird in Bälde hier eintreffen.         
 The train will arrive here before long.
 
-Dir wird schon etwas einfallen.         <<-- leech
+Dir wird schon etwas einfallen.       
 You'll think of something.
+
+Ich habe ein ernstzunehmendes Hautproblem.
+I have a serious skin problem.
+
+Das ist eine ernstzunehmende Situation.         <<-- leech
+This is a serious situation.
 
 Ich wurde verhört.
 I was interrogated.
