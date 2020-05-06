@@ -4012,8 +4012,11 @@ You'll think of something.
 Ich habe ein ernstzunehmendes Hautproblem.
 I have a serious skin problem.
 
-Das ist eine ernstzunehmende Situation.         <<-- leech
+Das ist eine ernstzunehmende Situation.      <<<--- leech
 This is a serious situation.
+
+Findet ihr die Methode gut?
+Do you guys like the method?
 
 Ich wurde verhört.
 I was interrogated.
