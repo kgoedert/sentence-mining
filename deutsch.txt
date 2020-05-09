@@ -4012,8 +4012,26 @@ You'll think of something.
 Ich habe ein ernstzunehmendes Hautproblem.
 I have a serious skin problem.
 
-Das ist eine ernstzunehmende Situation.      <<<--- leech
+Das ist eine ernstzunehmende Situation.     
 This is a serious situation.
+
+Ich kann ihn nicht erreichen.
+I can't reach him.
+
+So erreichst du nichts.
+You won't achieve anything like that.
+
+Konntest du Tom erreichen?
+Have you been able to contact Tom?
+
+Das ist ein Eiswürfel.
+This is an ice cube.
+
+Diese Eiswürfel werden gleich schmelzen.
+These ice cubes will melt soon.
+
+Hole mir einmal ein paar Eiswürfel!         <<-- leech
+Get me some ice cubes.
 
 Findet ihr die Methode gut?
 Do you guys like the method?
