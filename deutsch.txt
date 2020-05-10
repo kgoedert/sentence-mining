@@ -4030,8 +4030,20 @@ This is an ice cube.
 Diese Eiswürfel werden gleich schmelzen.
 These ice cubes will melt soon.
 
-Hole mir einmal ein paar Eiswürfel!         <<-- leech
+Hole mir einmal ein paar Eiswürfel!        
 Get me some ice cubes.
+
+Tom hat übertrieben.
+Tom exaggerated.
+
+Sie übertrieb ihre Leiden.
+She magnified her sufferings.
+
+Sie ist übertrieben selbstbewusst.
+She's overconfident.
+
+Er wurde im Gedränge bestohlen.             <<-- leech
+He had his pocket picked in the crowd.
 
 Findet ihr die Methode gut?
 Do you guys like the method?
