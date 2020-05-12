@@ -4042,8 +4042,17 @@ She magnified her sufferings.
 Sie ist übertrieben selbstbewusst.
 She's overconfident.
 
-Er wurde im Gedränge bestohlen.             <<-- leech
+Er wurde im Gedränge bestohlen.           
 He had his pocket picked in the crowd.
+
+Es schmerzt ihm der Rücken, er kann sich nicht bücken.
+He has back pain, he can't bend over.
+
+Die Zahlen ergeben 230.
+The figures add up to 230.
+
+Seine Witze ergeben keinen Sinn.        <<-- leech
+His jokes make no sense.
 
 Findet ihr die Methode gut?
 Do you guys like the method?
