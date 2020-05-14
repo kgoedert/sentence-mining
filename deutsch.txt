@@ -4051,8 +4051,11 @@ He has back pain, he can't bend over.
 Die Zahlen ergeben 230.
 The figures add up to 230.
 
-Seine Witze ergeben keinen Sinn.        <<-- leech
+Seine Witze ergeben keinen Sinn.     
 His jokes make no sense.
+
+Werden Sie einen Termin mit Herrn Ito abmachen?     <<-- leech
+Will you make an appointment with Mr Ito?
 
 Findet ihr die Methode gut?
 Do you guys like the method?
