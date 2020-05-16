@@ -4054,8 +4054,11 @@ The figures add up to 230.
 Seine Witze ergeben keinen Sinn.     
 His jokes make no sense.
 
-Werden Sie einen Termin mit Herrn Ito abmachen?     <<-- leech
+Werden Sie einen Termin mit Herrn Ito abmachen?     
 Will you make an appointment with Mr Ito?
+
+Der Dieb zwang sie dazu, das Geld zu überreichen.   <<<-- leech
+The thief forced her to hand over the money.
 
 Findet ihr die Methode gut?
 Do you guys like the method?
