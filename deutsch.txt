@@ -4057,8 +4057,17 @@ His jokes make no sense.
 Werden Sie einen Termin mit Herrn Ito abmachen?     
 Will you make an appointment with Mr Ito?
 
-Der Dieb zwang sie dazu, das Geld zu überreichen.   <<<-- leech
+Der Dieb zwang sie dazu, das Geld zu überreichen. 
 The thief forced her to hand over the money.
+
+Beleidige mich nicht!
+Don't insult me.
+
+Beleidige meine Intelligenz nicht.
+Don't insult my intelligence.
+
+Tom wollte niemanden beleidigen.    <<-- leech
+Tom didn't want to offend anyone.
 
 Findet ihr die Methode gut?
 Do you guys like the method?
